@@ -1,12 +1,17 @@
 <div class="copyright" >
+<p>
   {% assign current = site.time | date: '%Y' %}
   {% assign since = site.since | downcase %}
   &copy; {% if site.since and since != current %} {{ since }} - {% endif %}
   <span itemprop="copyrightYear">{{ current }}</span>
+  <!--
   <span class="with-love">
     <i class="fa fa-{{ site.authoricon }}"></i>
   </span>
+  -->
   <span class="author" itemprop="copyrightHolder">{{ site.author }}</span>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh">Creative Commons BY-NC-ND 3.0</a>
+</p>
 </div>
 
 {% if site.copyright %}
