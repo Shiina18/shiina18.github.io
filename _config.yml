@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Measure Zero
 subtitle:
 description:
-author: John Doe
+author: Shiina
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -17,7 +17,7 @@ repository: Shiina18/shiina18.github.io
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: 'https://shiina18.github.io'
 baseurl:
 permalink: pretty
 
@@ -44,13 +44,16 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 ## 'pygments' is unsupported on GitHub Pages now.
 highlighter: rouge
 highlight:
-  line_number: true
+  line_number: false
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
 markdown: kramdown
 kramdown:
     input: GFM
+
+#kramdown:
+#  parse_block_html: true
 
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
@@ -70,7 +73,7 @@ feed:
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
- - jemoji
+# - jemoji
  - jekyll-sitemap
  - jekyll-feed
 
@@ -90,10 +93,10 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2019
 
 # icon between year and author @Footer
-authoricon: heart
+#authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -121,7 +124,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   #home: /
-  #categories: /categories/
+  categories: /categories/
   #about: /about/
   archives: /archives/
   #tags: /tags/
@@ -226,7 +229,7 @@ font:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
@@ -314,7 +317,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false
+  updated_at: true # how to use it?
   categories: true
 
 # Post wordcount display settings
