@@ -82,7 +82,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/favicon.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
