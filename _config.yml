@@ -232,12 +232,13 @@ social:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: false
+  enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Instagram: instagram
 
 
 # Sidebar Avatar
