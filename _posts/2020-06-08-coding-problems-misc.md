@@ -6,8 +6,6 @@ comments: true
 mathjax: true
 ---
 
-<!-- more -->
-
 ## LeetCode 847. Shortest Path Visiting All Nodes
 
 2020/7/19
@@ -40,6 +38,8 @@ class Solution:
                     queue.append(state) 
         return -1
 ```
+
+<!-- more -->
 
 ## 外卖小哥的保温箱
 

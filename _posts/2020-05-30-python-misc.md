@@ -6,8 +6,6 @@ comments: true
 mathjax: true
 ---
 
-<!-- more -->
-
 ## 字典和列表
 
 2020/7/17
@@ -21,6 +19,8 @@ mathjax: true
 - [How are Python's Built In Dictionaries Implemented?](https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented)
 - [How is Python's List Implemented?](https://stackoverflow.com/questions/3917574/how-is-pythons-list-implemented)
 - [Implementation of Dynamic Array in Python](https://www.tutorialspoint.com/implementation-of-dynamic-array-in-python)
+
+<!-- more -->
 
 ## 多线程和多进程
 
