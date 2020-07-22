@@ -6,8 +6,6 @@ comments: true
 mathjax: true
 ---
 
-[TOC]
-
 <!-- more -->
 
 ## 字典和列表
@@ -519,7 +517,7 @@ del a
 
 参考 
 - [Python Garbage Collection: What It Is and How It Works](https://stackify.com/python-garbage-collection/)
-- [Garbage collection in Python: things you need to know | Artem Golubin](https://rushter.com/blog/python-garbage-collector/)
+- [Garbage collection in Python: things you need to know \| Artem Golubin](https://rushter.com/blog/python-garbage-collector/)
 
 ## Docstring Formats
 

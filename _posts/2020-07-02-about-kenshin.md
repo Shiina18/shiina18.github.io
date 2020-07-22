@@ -3,10 +3,10 @@ title: "关于《浪客剑心》的几句话"
 categories: Anime
 updated: 
 comments: true
-mathjax: falsse
+mathjax: false
 ---
 
-![](https://shiina18.github.io/assets/posts/images/20200702183404860_13186.jpg "")
+![](https://shiina18.github.io/assets/posts/images/20200702183404860_13186.jpg)
 
 <!-- more -->
 

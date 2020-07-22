@@ -61,7 +61,7 @@ The following clauses aim at making the game more difficult. This is calledã€Œç¸
     - Denam must be Warrior. 
 - **Objection Clause**
     - If there are reinforcements,
-        - the boss can only be killed when (1) reinforcements run out and (2) $\text{# of enemies} \le\min\{5, \text{# of allies}\}$ (since killing Knights and Golems might be too time consuming);
+        - the boss can only be killed when (1) reinforcements run out and (2) $\text{# of enemies} \le\min\\{5, \text{# of allies}\\}$ (since killing Knights and Golems might be too time consuming);
     - Else,
         - the boss can only be killed when other enemies are killed.
 - **Grinding Clause**
@@ -186,11 +186,11 @@ The strategy is simple:
 3. Hold the frontline with the knight and other units having rampart aura.
 4. Kill magicians, push the frontline forward and find an opportunity to kill clerics.
 
-![Lucky to kill the first Cleric fast. Note that the front line is well controlled. (The phantom on the right of Denam is ally's.)](images/20200711174411953_31673.jpg)
+![Lucky to kill the first Cleric fast. Note that the front line is well controlled. (The phantom on the right of Denam is ally's.)](https://shiina18.github.io/assets/posts/images/20200711174411953_31673.jpg "Lucky to kill the first Cleric fast. Note that the front line is well controlled. (The phantom on the right of Denam is ally's.)")
 
-![Time to kill the boss. As mentioned previously, Knight, Cleric and Spellblade are the thoughest classes so they usually survive.](images/20200711174553811_30038.jpg)
+![Time to kill the boss. As mentioned previously, Knight, Cleric and Spellblade are the thoughest classes so they usually survive.](https://shiina18.github.io/assets/posts/images/20200711174553811_30038.jpg "Time to kill the boss. As mentioned previously, Knight, Cleric and Spellblade are the thoughest classes so they usually survive.")
 
-![I misplayed a lot and there is a bug on heartbreaker, so the party lost heavily. Those phantoms are really annoying without a Terror Knight.](images/20200711174423471_184.jpg)
+![I misplayed a lot and there is a bug on heartbreaker, so the party lost heavily. Those phantoms are really annoying without a Terror Knight.](https://shiina18.github.io/assets/posts/images/20200711174423471_184.jpg "I misplayed a lot and there is a bug on heartbreaker, so the party lost heavily. Those phantoms are really annoying without a Terror Knight.")
 
 Heal counts: 17
 
