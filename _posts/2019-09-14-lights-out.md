@@ -28,11 +28,13 @@ mathjax: true
 
 事实上,
 
+$$
 \begin{align*}
 x'Ax &= \sum_{i,j} x_i a_{ij} x_j\\\\
 &=\sum_i x_i^2 a_{ii} + \sum_{i<j} (x_i a_{ij} x_j + x_j a_{ji} x_i)\\\\
 &=\sum_i x_i a_{ii}.
 \end{align*}
+$$
 
 即得. $\square$
 

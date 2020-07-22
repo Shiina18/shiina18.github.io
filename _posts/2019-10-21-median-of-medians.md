@@ -48,13 +48,11 @@ def quickselect(nums, k):
 记数组长度为 $n$, 算法时间复杂度为 $T(n)$, 以及 $Y$ 为进行 partition 后右子列的元素个数 (时间 $O(n)$), 则
 
 $$
-$$
 \begin{align*}
 \mathbb E T(n) &\le \mathbb E\left[T\left(\max(Y-1,n-Y)\right) + O(n)\right]\\
 & = \sum_{k=1}^n \frac1n\mathbb E\left[ T\left(\max(k-1,n-k)\right) \right] + O(n)\\
 & \le \frac2n\sum_{k=[n/2]}^{n-1}\mathbb ET(k) + O(n).
 \end{align*}
-$$
 $$
 
 之后易证 (由 substitution method) $\mathbb ET(n) = O(n)$. 不过 worst-case 是 $O(n^2)$.

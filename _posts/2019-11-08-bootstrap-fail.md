@@ -16,21 +16,25 @@ $$
 
 由于 $L$ 关于 $\theta$ 单调递减, 故 $\theta$ 的极大似然估计为 $T := \hat\theta = \max\\{Y_1, \dots, Y_n\\} = Y_{(n)}$. 对一次观测 $\omega$, 观测值为 $y_k = Y_k(\omega)$, 这 $n$ 个观测值决定的经验分布函数记为 $\hat F_n$. 考虑非参数重采样, 即随机变量 $Y_1^\ast, \dots, Y_n^\ast$ 独立同分布, 服从经验分布 $\hat F_n$. 我们想要估计 $Q = n(\theta - T)/\theta$, 其分布为
 
+$$
 \begin{align*}
 \mathbb{P}(Q\le x) 
 &= \mathbb{P}\left( T\ge \theta \left( 1-\frac{x}{n} \right) \right) \\
 &= 1 - 0 \vee \left( 1-\frac{x}{n} \right)^n \wedge 1 \\
 &\to 1 - e^{-x} \wedge 1,
 \end{align*}
+$$
 
 故其极限分布为标准指数分布. 按照一般的非参数重采样方法, 我们取 $Q^\ast = n(t - T^\ast)/t$, 其中 $t = T(\omega)$ 即在这组样本下的估计值, $T^\ast = Y^\ast_{(n)}$ 是 $n$ 个自助法样本的最大值. 然而
 
+$$
 \begin{align*}
 \mathbb{P}_{\hat F_n}(Q^\star = 0) 
 &= \mathbb{P}_{\hat F_n}(T^\star = t) \\
 &= 1 - \left(1-\frac1n \right)^n \\
 &\to 1 - e^{-1}.
 \end{align*}
+$$
 
 因此 $Q^\ast$ 的极限分布不可能是标准指数分布, 从而自助法不适用.
 
