@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on Jun 11, 2020
+Last Updated on 2020-06-11
 
 虽说标题写着 notes, 但其实内容基本没有正儿八经的 notes, 只是一些杂乱物品的堆放. 只有作者自己公开的材料会被列在这里. (2019/9/29)
 
