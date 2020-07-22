@@ -235,10 +235,11 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
+  知乎: quora
+  Instagram: instagram
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  Instagram: instagram
 
 
 # Sidebar Avatar
