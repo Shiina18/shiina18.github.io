@@ -127,7 +127,7 @@ menu:
   about: /about/
   quotes: /quotes/
   notes: /notes/
-  archives: /archives/
+  #archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
