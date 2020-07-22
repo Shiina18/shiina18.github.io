@@ -124,10 +124,9 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   #home: /
-  test_test: /test/
   about: /about/
-  test: /pages/test/
-  categories: /categories/
+  quotes: /quotes/
+  notes: /notes/
   archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
