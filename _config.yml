@@ -126,7 +126,7 @@ menu:
   #home: /
   test_test: /test/
   about: /about/
-  test: /_pages/test/
+  test: /pages/test/
   categories: /categories/
   archives: /archives/
   #tags: /tags/
