@@ -5,8 +5,6 @@ comments: true
 mathjax: false
 ---
 
-不定期更新
-
 **2020/7/10**
 
 The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
