@@ -14,6 +14,8 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20200601145242995_9969.png)
 
+<!-- more -->
+
 具体流程:
 
 1. 用研磨机磨事先烘培好的咖啡豆.
@@ -26,8 +28,6 @@ mathjax: false
 Around 1750, the French came up with the most important advance before espresso: the drip pot, in which hot water was poured onto a bed of grounds and allowed to pass through into a separate chamber. This invention did three things: it kept the temperature of the extracting water below the boil, it limited the contact time between water and ground coffee to a matter of a few minutes, and it produced a sedimentless brew that would keep for a while without getting stronger. **The limits on brewing temperature and time meant a less complete extraction of the coffee.** This reduced the bitterness and astringency, and allowed the other elements of coffee flavor more prominence, the tartness and aroma that were more appealing to European tastes.
 
 用这种方法冲出来的咖啡萃取程度有限, 这一点喝手磨咖啡和机磨咖啡可以很明显地感受出来, 机磨咖啡浓郁苦涩得多.
-
-<!-- more -->
 
 ### 手磨咖啡和机磨咖啡的区别
 
