@@ -29,7 +29,8 @@
 }
 
 .posts-expand .post-body {
-  @include desktop() { text-align: justify; }
+  @include desktop() { // text-align: justify; 
+  text-align: left;}
 
 
   h2, h3, h4, h5, h6 {

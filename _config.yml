@@ -16,7 +16,7 @@ date_format: '%Y-%m-%d'
 repository: Shiina18/shiina18.github.io
 
 # 不知道有没有
-text_align: left  # https://laytonsun.com/learning/2019-07/customizing-my-hexo-site.html
+# text_align: left  # https://laytonsun.com/learning/2019-07/customizing-my-hexo-site.html
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
