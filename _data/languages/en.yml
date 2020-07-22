@@ -31,7 +31,7 @@ sidebar:
 post:
   created: Post created
   #modified: Post modified
-  modified: Modified
+  modified: "~"
   sticky: Sticky
   #posted: Posted on
   posted:
