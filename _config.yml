@@ -130,9 +130,9 @@ menu:
   about: /about/
   quotes: /quotes/
   notes: /notes/
-  sitemap: /sitemap/
   archives: /archives/  # 暂时先放着
-  categories: /categories/
+  sitemap: /sitemap/
+  #categories: /categories/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
