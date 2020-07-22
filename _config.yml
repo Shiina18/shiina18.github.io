@@ -128,6 +128,7 @@ menu:
   quotes: /quotes/
   notes: /notes/
   archives: /archives/  # 暂时先放着
+  categories: /categories/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
