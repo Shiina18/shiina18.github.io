@@ -36,7 +36,7 @@ Multiprocessing allows you to create programs that can run concurrently (bypassi
 
 参考
 - [Multiprocessing vs. Threading in Python: What you need to know.](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
-- [Intro to Threads and Processes in Python | by Brendan Fortuner | Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
+- [Intro to Threads and Processes in Python \| by Brendan Fortuner \| Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 
 ## `+=`
 
