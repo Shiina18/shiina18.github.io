@@ -240,7 +240,7 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+in directory: /assets/images/20150126154659.jpg
 #avatar:
 
 
@@ -446,7 +446,7 @@ gitalk:
   enable: true
   clientID: b72f35eb4f82807b9d0f
   clientSecret: 4914c40cafee0d8b28ccc5831bb4547ec74300d3
-  repo: https://shiina18.github.io/
+  repo: shiina18.github.io
   owner: Shiina18
   admin: Shiina18
 
