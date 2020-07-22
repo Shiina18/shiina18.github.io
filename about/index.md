@@ -11,7 +11,11 @@ Last Updated on 2020-07-22
 
 这是一个休闲向博客. 文章均采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
 
-页面右下角可以展开侧边栏, 展示文章大纲. 页面右上角的 `Search` 可以站内搜索. 
+页面右下角可以展开侧边栏, 展示文章大纲. 
+
+您可以在 [sitemap](https://shiina18.github.io/sitemap/) 页面查看本站目录.
+
+页面右上角的 `Search` 可以站内搜索. 
 
 谢谢您的关注.
 
