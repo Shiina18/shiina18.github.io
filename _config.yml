@@ -252,7 +252,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
@@ -332,7 +332,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false # updated: date. https://github.com/theme-next/hexo-theme-next/issues/893 
+  updated_at: true # updated: date. https://github.com/theme-next/hexo-theme-next/issues/893 
   categories: true
 
 # Post wordcount display settings
