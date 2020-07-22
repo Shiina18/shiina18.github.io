@@ -127,7 +127,7 @@ menu:
   about: /about/
   quotes: /quotes/
   notes: /notes/
-  #archives: /archives/
+  archives: /archives/  # 暂时先放着
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
