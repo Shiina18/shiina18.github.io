@@ -1,6 +1,6 @@
 ---
 title: "一次手磨咖啡体验"
-categories: "Food and Cooking"
+categories: "Food&Cooking"
 updated: 2020-06-24
 comments: true
 mathjax: false
