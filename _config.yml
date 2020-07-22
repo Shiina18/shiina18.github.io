@@ -462,6 +462,7 @@ gitalk:
   repo: shiina18.github.io
   owner: Shiina18
   admin: Shiina18
+  distractionFreeMode: false  # 测试
 
 # Baidu Share
 # Available value:
