@@ -14,6 +14,8 @@ mathjax: false
 - [日本动画中的摄影是一个什么样的岗位？](https://www.zhihu.com/question/24787555/answer/28993271)
 - 动画方面主要推荐两个人, 值得看的内容很多: anitama (各平台, 核心人物是 nbht), zecy (知乎)
 
+<!-- more -->
+
 ## 电影
 
 - 《认识电影》《电影的秘密：形式与意义》
