@@ -30,10 +30,13 @@ sidebar:
 
 post:
   created: Post created
-  modified: Post modified
+  #modified: Post modified
+  modified: Modified
   sticky: Sticky
-  posted: Posted on
-  in: In
+  #posted: Posted on
+  posted:
+  # in: In
+  in: 
   more: more
   read_more: Read more
   untitled: Untitled
