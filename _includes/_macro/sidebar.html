@@ -40,7 +40,7 @@
               <p class="site-description motion-element" itemprop="description">{{ site.description }}</p>
           {% endif %}
         </div>
-		<!--
+		
         <nav class="site-state motion-element">
 		
           {% if site.archive_dir != '/' %}
@@ -51,6 +51,7 @@
               </a>
             </div>
           {% endif %}
+		 
 
           {% if site.categories.size > 0 %}
             {% assign categoriesPageQuery = site.pages | where_exp: 'page', 'page.type == "categories"' %}
@@ -65,7 +66,7 @@
             </div>
           {% endif %}
 
-			
+		<!--	
           {% if site.tags.size > 0 %}
             {% assign tagsPageQuery = site.pages | where_exp: 'page', 'page.type == "tags"' %}
             {% if tagsPageQuery.size > 0 %}
@@ -78,10 +79,10 @@
               {% if hasTagsPage %}</a>{% endif %}
             </div>
           {% endif %}
-		  
+		  -->
 
         </nav>
-		-->
+		
 
         <div class="links-of-author motion-element">
           {% if site.social %}
