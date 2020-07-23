@@ -27,7 +27,7 @@ mathjax: false
 
 ### 其他已经发现的 bug
 
-- 长 code block 在手机端会被截断.
+- 长 code block 在手机端会被截断, 只能显示前 66 行.
 
 ### 其他想修正的点
 
