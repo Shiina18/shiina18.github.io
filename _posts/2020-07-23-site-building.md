@@ -19,7 +19,7 @@ mathjax: false
 - 图片地址需要替换为可用的链接.
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 
-写了一个 [简陋的 Python 脚本](https://shiina18.github.io/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
+写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 
 <!-- more -->
 
