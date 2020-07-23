@@ -15,7 +15,7 @@ mathjax: false
 - 链接 `[discription](url)` 描述中如果有 `|` 的话线上会编译成 table, 需要转义.
 - 线上公式中的 `\{` 需要转义写为 `\\{`.
 - 当前线上的 mathjax display math 必须要用 `$$` 包住, 而不能直接 `\begin`.
-- 线上图片 `![caption](https://shiina18.github.io/assets/posts/url "caption")` 如果需要 caption 的话, `url` 部分需要写为 `url "caption"`, caption 部分不能为空.
+- 线上图片 `[caption](url)` 部分如果需要 caption 的话, `url` 部分需要写为 `url "caption"`, caption 部分不能为空.
 - 图片地址需要替换为可用的链接.
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 
