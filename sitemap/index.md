@@ -14,7 +14,7 @@ mathjax: true
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [MachineLearning](https://shiina18.github.io/category/#/MachineLearning) <font color="lightgrey">(1)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(4)</font>
-- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(1)</font>
+- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(2)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(1)</font>
 
 ## Posts
@@ -63,6 +63,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building)
 - 2019-09-06 [一次阅读马拉松经历](https://shiina18.github.io/miscellanea/2019/09/06/reading-marathon)
 
 ### Statistics
