@@ -19,199 +19,60 @@ mathjax: false
 - 图片地址需要替换为可用的链接.
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 
-写了一个简陋的 Python 脚本自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
+写了一个 [简陋的 Python 脚本](https://shiina18.github.io/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 
 <!-- more -->
 
-```python
-import os
-import re
-import shutil
-import time
-s = time.time()
+另外在修改样式的时候, [Agent Ransack](https://www.mythicsoft.com/agentransack/) 的全文搜索功能非常有帮助.
 
-def solve_escape(string, mode='link'):
-    # https://stackoverflow.com/questions/6116978/how-to-replace-multiple-substrings-of-a-string
-    
-    if mode == 'link':
-        pattern = '(\[.*?\|.*?\])(\(.*?\))'
-        rep = {'|': '\|'}
-        
-    if mode == 'math':
-        pattern = '\$(.*)\$'
-        rep = {'\{': r'\\{', '\}': r'\\}'}
-        
-    new_string = []
-    index = 0
-    rep = dict((re.escape(k), v) for k, v in rep.items()) 
-    sub_pattern = re.compile("|".join(rep.keys()))
-    for match in re.finditer(pattern, string):
-        new_string.append(string[index:match.start(1)])
-        new_string.append(sub_pattern.sub(lambda m: rep[re.escape(m.group(0))], string[match.start(1):match.end(1)]))
-        index = match.end(1)
-    new_string.append(string[index:])
-    return ''.join(new_string)
+### 其他已经发现的 bug
 
-def solve_display_math(string):
-    global flag
-    if '$$' in string or string.startswith('```'):
-        flag = -flag
-        return string
-    if string.startswith(r'\begin{align') and flag>0:
-        return '$$\n' + string
-    if string.startswith(r'\end{align') and flag>0:
-        return string + '$$\n'
-    return string
+- 长 code block 在手机端会被截断.
 
-def solve_img(string, path='https://shiina18.github.io/assets/posts/'):
-    pattern = '!\[(.*?)\]\((.*?)\)'
-    new_string = []
-    index = 0
-    for match in re.finditer(pattern, string):
-        new_string.append(string[index:match.start(2)])
-        tmp = string[match.start(1):match.end(1)]
-        tmp = f' "{tmp}"' if tmp else ''
-        new_string.extend([path,
-                           string[match.start(2):match.end(2)],
-                           tmp])
-        index = match.end(2)
-    new_string.append(string[index:])
-    return ''.join(new_string)
+### 其他想修正的点
 
-# posts   
-                        
-source = r'F:\vnote_notebooks\vnotebook\Blogger\Posts'
-target = r'F:\GitHub\shiina18.github.io\_posts'
+- Modified date 为空时, 去掉对应的图标.
+- 去掉侧边栏的展开动画.
+- layout 为 page 时的 ol, ul, li 的 left margin 缩小.
+- 段落间距修正.
+- header 的上下间距修正.
+- 点开 post 之后标题和正文之间的间距修正.
+- 点击 read more 之后自动跳转到 read more 位置.
 
-for file in os.listdir(source):
-    if file.endswith('.md'):
-        with open(os.path.join(source, file), encoding='utf-8') as f:
-            with open(os.path.join(target, file), encoding='utf-8', mode='w') as g:
-                # solve_display_math
-                flag = 1
-                for line in f:
-                    line = solve_escape(line, 'link')
-                    line = solve_escape(line, 'math')
-                    line = solve_display_math(line)
-                    line = solve_img(line)
-                    g.write(line)
-                        
-# pages
+## 过往博客
 
-source = r'F:\vnote_notebooks\vnotebook\Blogger'
-target = r'F:\GitHub\shiina18.github.io'
+[Wordpress.com](https://shiina1418.wordpress.com/) -> Github Page -> [Blogger](https://randomwalk034.blogspot.com/) -> Github Page
 
-for file in os.listdir(source):
-    if '.' not in file and file not in {'Posts', '_v_attachments', 'images'}:
-        with open(os.path.join(source, file, 'index.md'), encoding='utf-8') as f:
-            with open(os.path.join(target, file, 'index.md'), encoding='utf-8', mode='w') as g:
-                for line in f:
-                    line = solve_escape(line, 'link')
-                    line = solve_escape(line, 'math')
-                    line = solve_display_math(line)
-                    line = solve_img(line)
-                    g.write(line)
+WP 和 blogger 倒是都找到了好看的主题. 
 
-# images
-
-source = r'F:\vnote_notebooks\vnotebook\Blogger\Posts\images'
-target = r'F:\GitHub\shiina18.github.io\assets\posts\images'
-for file in os.listdir(source):
-    if file.endswith('.jpg') or file.endswith('.png'):
-        shutil.copyfile(os.path.join(source, file), os.path.join(target, file))
-
-# sitemap
-
-from collections import defaultdict
-
-class Post():
-    def __init__(self, date=None, title=None, cat=None, updated=None, link=None):
-        self.date = date
-        self.title = title
-        self.cat = cat
-        self.updated = updated
-        self.link = link
-
-source = r'F:\GitHub\shiina18.github.io\_posts'
-cated = defaultdict(list)
-
-for post in os.listdir(source):
-    date = post[:10]
-    link = post[11:-3]
-    cur_post = Post(date=date, link=link)
-    with open(os.path.join(source, post), encoding='utf-8') as p:
-        flag = 0
-        for line in p:
-            if line.startswith('---'):
-                flag += 1
-            if flag == 2:
-                break
-            if flag:
-                if line.startswith('title'):
-                    cur_post.title = line[6:].strip().strip('"')
-                if line.startswith('categories'):
-                    cur_post.cat = line[11:].strip().strip('"')
-                if line.startswith('updated'):
-                    cur_post.updated = line[8:].strip().strip('"')
-        cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link))
-
-site = 'https://shiina18.github.io'           
-target = r'F:\GitHub\shiina18.github.io\sitemap'
-with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
-    g.write('---\n')
-    g.write('title: Sitemap\n')
-    g.write('layout: page\n')
-    g.write('mathjax: true\n')
-    g.write('---\n\n')
-    
-    g.write(f'\n## Categories\n\n')
-    for cat in sorted(cated.keys()):
-        url = '/'.join([site, 'category', '#', cat])
-        g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')
-
-    g.write(f'\n## Posts\n\n')   
-    for cat in sorted(cated.keys()):
-        g.write(f'\n### {cat}\n\n')
-        for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):
-            date, title, updated, link = post
-            y, m, d = date[:4], date[5:7], date[-2:]
-            url = '/'.join([site, cat.lower(), y, m, d, link])
-            if updated:
-                g.write(f'- {date} [{title}]({url}) <font color="lightgrey">({updated} updated)</font>\n')
-            else:
-                g.write(f'- {date} [{title}]({url})\n')
-
-print(time.time() - s)
-time.sleep(2)
-```
-
-## 过去博客
-
-Wordpress.com -> Github Page -> Blogger -> Github Page
+一点小发现是很多网站比如豆瓣 ([豆瓣收藏秀](https://www.douban.com/service/badgemaker)), goodreads ([new widget for your blog](https://www.goodreads.com/blog/show/42-new-widget-for-your-blog)) 等会提供一个 JavaScript widget 作为博客插件, 相关讨论帖大多是十多年前的, 非常有年代感, 也间接反映了博客的没落...
 
 ### 考虑过/使用过的平台
 
 - 简书
     - TeX 太丑了
     - 链接要额外跳转一次
+    - SEO 还行
 - 博客园
-    - 我不写技术博客, 和宗旨不符合
+    - 我不写技术博客, 和博客园宗旨不符合
     - TeX 好看, 代码块不好看
+    - SEO 很好
 - CSDN
     - 看起来就远不如博客园
 - Wordpress.com
     - 免费版有广告, 体验太差
 - Blogger
-    - 搬迁到这里之前使用的, 遗址见 [这里](https://randomwalk034.blogspot.com/)
     - 最主要问题是被墙了
 - Github Page
-    - 最初使用过极简的 [Renge](https://github.com/billyfish152/Renge) 主题, 为了修改 pick up 了一点点 HTML 语法知识. 但是很多地方不合心意就放弃了.
+    - 最初使用过极简的 [Renge](https://github.com/billyfish152/Renge) 主题, 为了修改 pick up 了一点点 HTML 语法知识. 但是很多地方不合心意又修改不来就放弃了.
+    - 最大的好处是只要 commit push 就行了, 其他网站需要手动复制粘贴, 修改起来麻烦.
 
-### 用过的编辑器
+### 使用过的编辑器
 
 - 作业部落
     - TeX 支持很好
     - 文件管理系统不太喜欢
+    - 感到 VNote 预览不方便的时候会用它
 - StackEdit
     - md, TeX 的语法高亮漂亮
     - 不支持 align 环境 (改名为 aligned 环境)
