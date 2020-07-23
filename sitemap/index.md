@@ -5,6 +5,21 @@ mathjax: true
 ---
 
 
+## Categories
+
+- [Algorithms](https://shiina18.github.io/category/#/Algorithms) (4)
+- [Anime](https://shiina18.github.io/category/#/Anime) (3)
+- [FoodAndCooking](https://shiina18.github.io/category/#/FoodAndCooking) (2)
+- [Games](https://shiina18.github.io/category/#/Games) (2)
+- [Language](https://shiina18.github.io/category/#/Language) (4)
+- [MachineLearning](https://shiina18.github.io/category/#/MachineLearning) (1)
+- [Mathematics](https://shiina18.github.io/category/#/Mathematics) (4)
+- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) (1)
+- [Statistics](https://shiina18.github.io/category/#/Statistics) (1)
+
+## Posts
+
+
 ### Algorithms
 
 - 2020-06-08 [编程题杂录](https://shiina18.github.io/algorithms/2020/06/08/coding-problems-misc) (2020-07-19 updated)
