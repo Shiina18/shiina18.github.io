@@ -13,6 +13,7 @@ mathjax: false
 线下使用 [VNote](https://vnote.readthedocs.io/zh_CN/latest/) 写作, 目前发现的和线上 md 的区别:
 
 - 链接 `[discription](url)` 描述中如果有 `|` 的话线上会编译成 table, 需要转义.
+<!-- more -->
 - 线上公式中的 `\{` 需要转义写为 `\\{`.
 - 当前线上的 mathjax display math 必须要用 `$$` 包住, 而不能直接 `\begin`.
 - 线上图片 `[caption](url)` 部分如果需要 caption 的话, `url` 部分需要写为 `url "caption"`, caption 部分不能为空.
@@ -20,8 +21,6 @@ mathjax: false
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
-
-<!-- more -->
 
 另外在修改样式的时候, [Agent Ransack](https://www.mythicsoft.com/agentransack/) 的全文搜索功能非常有帮助.
 

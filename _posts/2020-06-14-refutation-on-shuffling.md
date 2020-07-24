@@ -7,13 +7,13 @@ mathjax: true
 ---
 
 
-Months ago I came across an article on the methods of shuffling cards in TCG tournaments. Given limited time in a match, the author, [hyakkoTCG@hyakko_tcg](https://twitter.com/hyakko_tcg) sought a way to mix a deck thoroughly by shuffling three times. However, at least to me, it is obvious that the methodology proposed is fundamentally flawed. Later I found out in surprise that the article was widely disseminated: it got 2.3k retweets and 3.1k likes on twitter. It also began to spread on Weibo, so I wrote a short refutation in Chinese immediately. Though it was a bit late, I still decided to write another one in English so that I can send it to Hyakko. 
+Months ago I came across an article on the methods of shuffling cards in TCG tournaments. Given limited time in a match, the author, [hyakkoTCG@hyakko_tcg](https://twitter.com/hyakko_tcg) sought a way to mix a deck thoroughly by shuffling three times. However, at least to me, it is obvious that the methodology proposed is fundamentally flawed. Later I found out in surprise that the article was widely disseminated: it got 2.3k retweets and 3.1k likes on twitter. 
+<!-- more -->
+It also began to spread on Weibo, so I wrote a short refutation in Chinese immediately. Though it was a bit late, I still decided to write another one in English so that I can send it to Hyakko. 
 
 I avoided introducing fancy math in the hope that average readers can follow. If you have difficulty reading in English, you may resort to Google translation. Normally when the source language is English, Google should do a good job.
 
 I don't have time to write carefully. It would appreciated if you can tell me any mistake I made. And feel free to drop a comment if you have any question. 
-
-<!-- more -->
 
 ![](https://shiina18.github.io/assets/posts/images/20200614183857235_11892.png)
 

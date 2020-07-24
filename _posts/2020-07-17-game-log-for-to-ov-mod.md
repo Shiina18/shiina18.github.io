@@ -9,7 +9,7 @@ mathjax: true
 ## Review on Tactics Ogre Vanilla
 
 > Tactics Ogre is a hard game for me to talk about. I really wanted to love it, but the gameplay is so rotten at the base level that it undermines the entire game. But first, lets talk about the good stuff (I'm talking about the PSP version btw).
-> 
+> <!-- more -->
 > The world building, story / plot and chracter development is phenomenal. Matsuno, as usual, delivers here. The characters are deep and interesting, the plot mature, with lot's of political backstabing. The world building is probably the best in a game of the genre.
 > 
 > Akihiko Yoshida's art is beautiful and lend itself perfectly to the tone of the game. I wish he worked on Fire Emblem, much better than what we got now.
@@ -17,7 +17,7 @@ mathjax: true
 > Hitoshi Sakamoto's sountrack is also great as usual, with themes that fit perfectly. "Revolt" is so classic that it instantly reminds me of Ogre Battle.
 > 
 > But then we come to the gameplay. It's simply put, a mess. Where to begin?
-> <!-- more -->
+> 
 > First, the stats and calculations system is completely overdesigned and still to this day people don't know how it works exactly. But that's not the worst. Small changes in any stat causes huge variations in damage done and received. This means that if your character is even 1 level above or behind the enemy, you will either stomp or be stomped. There's too much emphasys on stats here to the point of undermining tactical and strategic considerations.
 > 
 > Then you have the skill system. You basically have to grind a lot to unlock skills, and the grinding is per character. The skill system is also completely overdesigned, with many skills just being stronger versions of previous ones. Other don't seem to work at all.
