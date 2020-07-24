@@ -11,7 +11,7 @@ def solve_escape(string, mode='link'):
         pattern = '(\[.*?\|.*?\])(\(.*?\))'
         rep = {'|': '\|'}
         
-    if mode == 'math':
+    elif mode == 'math':
         pattern = '\$(.*)\$'
         rep = {'\{': r'\\{', '\}': r'\\}'}
         
@@ -115,6 +115,7 @@ for post in os.listdir(source):
     cur_post = Post(date=date, link=link)
     with open(os.path.join(source, post), encoding='utf-8') as p:
         flag = 0
+        cat_flag = 0
         for line in p:
             if line.startswith('---'):
                 flag += 1
@@ -123,10 +124,14 @@ for post in os.listdir(source):
             if flag:
                 if line.startswith('title'):
                     cur_post.title = line[6:].strip().strip('"')
-                if line.startswith('categories'):
+                elif line.startswith('categories'):
                     cur_post.cat = line[11:].strip().strip('"')
-                if line.startswith('updated'):
+                    if not cur_post.cat:
+                        cat_flag = 1
+                elif line.startswith('updated'):
                     cur_post.updated = line[8:].strip().strip('"')
+                elif cat_flag and line.startswith('-'):
+                    cur_post.cat = line[2:].strip().strip('"')
         cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link))
 
 site = 'https://shiina18.github.io'           
@@ -140,7 +145,7 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
     
     g.write(f'\n## Categories\n\n')
     for cat in sorted(cated.keys()):
-        url = '/'.join([site, 'category', '#', cat])
+        url = '/'.join([site, 'category', '#', cat.replace(" ", "%20")])
         g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')
 
     g.write(f'\n## Posts\n\n')   
@@ -149,7 +154,7 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
         for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):
             date, title, updated, link = post
             y, m, d = date[:4], date[5:7], date[-2:]
-            url = '/'.join([site, cat.lower(), y, m, d, link])
+            url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])
             if updated:
                 g.write(f'- {date} [{title}]({url}) <font color="lightgrey">({updated} updated)</font>\n')
             else:

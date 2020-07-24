@@ -1,6 +1,7 @@
 ---
 title: "厨艺杂录"
-categories: "FoodAndCooking"
+categories: 
+- Food and Cooking
 updated: 
 comments: true
 mathjax: false

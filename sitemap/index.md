@@ -9,10 +9,10 @@ mathjax: true
 
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(4)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(3)</font>
-- [FoodAndCooking](https://shiina18.github.io/category/#/FoodAndCooking) <font color="lightgrey">(2)</font>
+- [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(2)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
-- [MachineLearning](https://shiina18.github.io/category/#/MachineLearning) <font color="lightgrey">(1)</font>
+- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(1)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(4)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(2)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(1)</font>
@@ -33,10 +33,10 @@ mathjax: true
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu)
 
-### FoodAndCooking
+### Food and Cooking
 
-- 2020-06-08 [厨艺杂录](https://shiina18.github.io/foodandcooking/2020/06/08/cooking-misc)
-- 2019-11-21 [一次手磨咖啡体验](https://shiina18.github.io/foodandcooking/2019/11/21/brew-coffee) <font color="lightgrey">(2020-06-24 updated)</font>
+- 2020-06-08 [厨艺杂录](https://shiina18.github.io/food%20and%20cooking/2020/06/08/cooking-misc)
+- 2019-11-21 [一次手磨咖啡体验](https://shiina18.github.io/food%20and%20cooking/2019/11/21/brew-coffee) <font color="lightgrey">(2020-06-24 updated)</font>
 
 ### Games
 
@@ -50,9 +50,9 @@ mathjax: true
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
 - 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-07-03 updated)</font>
 
-### MachineLearning
+### Machine Learning
 
-- 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machinelearning/2019/12/12/wrong-cv)
+- 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
 
 ### Mathematics
 
