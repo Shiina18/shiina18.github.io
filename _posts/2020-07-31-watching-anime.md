@@ -1,0 +1,51 @@
+---
+title: "动画观赏随记 (多图)"
+categories: Anime
+updated:
+comments: true
+mathjax: false
+---
+
+换了新博客后传图方便了许多, 这是第一个多图 post.
+
+<!-- more -->
+
+## 隐藏距离
+
+2020/7/31
+
+DECA-DENCE (没落要塞) ep. 4, 17:00 开始.
+
+先用镜头掩盖人物之间的真实距离, 然后一下子展示出来, 疏离感扑面而来.
+
+![](https://shiina18.github.io/assets/posts/images/20200731200951696_11670.png)
+
+![](https://shiina18.github.io/assets/posts/images/20200731201029134_20794.png)
+
+![](https://shiina18.github.io/assets/posts/images/20200731201108948_26069.png)
+
+虽然第一张图右下角和中间的背景已经暗示了一定的距离, 但是没有想到右边这些 U 字形栏杆的间隔比背景的更大.
+
+这组镜头让我想起了 DARLING in the FRANXX ep. 10, 20:30 开始.
+
+为了达成这个镜头, 还特意安排 666 小跑坐到沙发上.
+
+![](https://shiina18.github.io/assets/posts/images/20200731212834801_13346.png)
+
+![](https://shiina18.github.io/assets/posts/images/20200731212750671_25091.png)
+
+事实上在 14:10 开始的多处镜头已经可以看出沙发距离窗边有一定距离.
+
+![](https://shiina18.github.io/assets/posts/images/20200731213116289_9794.png)
+
+## 倾斜镜头
+
+2020/5/24
+
+昨日之歌 (イエスタデイをうたって) ep. 8, 20:40 起.
+
+这一段和漫画大不相同. 漫画里是到家门口进行对话, 最后笑嘻嘻地告别了; 而动画换了一个有柱子的场景, 又给了倾斜镜头, 并且这之后晴就不露脸了, 末了自己跑回去, 气氛大变.
+
+![](https://shiina18.github.io/assets/posts/images/20200731214757550_14363.png)
+
+![](https://shiina18.github.io/assets/posts/images/20200731215053353_9427.png)

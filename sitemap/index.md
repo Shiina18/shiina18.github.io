@@ -8,7 +8,7 @@ mathjax: true
 ## Categories
 
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(4)</font>
-- [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(3)</font>
+- [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(4)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(2)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
@@ -29,6 +29,7 @@ mathjax: true
 
 ### Anime
 
+- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime)
 - 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc)
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu)
