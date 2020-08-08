@@ -102,13 +102,13 @@ To make the game further harder, I would only use classes available at the very 
 
 ##### Teambuilding
 
-1. **Warrior (Denam)** Spear with range 2-3
+- **Warrior (Denam)** Spear with range 2-3
 
 **For classes without magic, it is essential to have high attack range so that the unit can have more opportunities to make an impact on the battlefield.** To give some insight, suppose the move range + attack range = $n$, then the attainable area is $2n^2 + 2n + 1$, ignoring terrain. In this case, move range 5 + attack range 3 = 8, attainable area = 145; while if $n=5+1=6$, then attainable area = 85, which is way smaller.
 
 In order to employ class skills, melee weapons are favored. So a spear with range 2-3 is chosen.
 
-2. **Archer (General Female)** 2-H Bow
+- **Archer (General Female)** 2-H Bow
 
 Their main attacking targets are casters and archers. Bows are favored given that Crossbows will often be blocked.
 
@@ -116,13 +116,13 @@ Using Bridle to mute magicians is crucial.
 
 2-H Bows are chosen for higher attack range and atk. Archers will typically be killed by archers and magicians, so better stay in a safe place.
 
-3. **Wizard (General Male)** Dark and Ice Magic
+- **Wizard (General Male)** Dark and Ice Magic
 
 Dark magic provides an arsenal for controlling in early game.
 
 TP controlling is important. Players should avoid being hit by finishing moves. Ice magic Frostbite is handy for that.
 
-4. **Cleric (Donnalto)** Fist; Absorb MP
+- **Cleric (Donnalto)** Fist; Absorb MP
 
 Fists are light and 1-H, and provide some AVD bonus, so are favored.
 
@@ -130,7 +130,7 @@ Cleric wears light armor to lower RT and to attract some attack.
 
 Absorb MP: You can drain alley magician's MP when needed.
 
-5. **Spellblade (Cistina)** Dagger; Air, Water Magic
+- **Spellblade (Cistina)** Dagger; Air, Water Magic
 
 This build is for controlling and supporting purposes.
 
@@ -142,7 +142,7 @@ Grace (melee avd up) will be used in Turn 1, and Fated Circle will be used from 
 
 Spellblade wears heavy armor. With HP Infusion (and Spike Skin), they can be really tough so more DEF is favored.
 
-6. **Knight (Voltare)** Sword
+- **Knight (Voltare)** Sword
 
 There is no adequate reason for swords. Other options also work.
 
@@ -150,23 +150,23 @@ One advantage is that sword has 2-H variant which is counted as 1-H, so Knight m
 
 **Unnessary battles should be avoided for TP controlling purpose so that the enemy can't use finishing moves or critical skills frequently.** Typically, Knights should prioritize restoring status for others rather than attacking. Attacking leads to TP accumulation for the target and a counterhit from him which results in HP reduction for the attacker. With sword, Knight can deal damage accurately when it is needed (the finishing stroke). 
 
-7. **Berserker (General Male)** Axe
+- **Berserker (General Male)** Axe
 
 There is no good reason for axes. I just want to give Axes a shot. Breach + damage boosted finishing move is useful. Axe's rank 6 finishing move (double hit) is attractive. 
 
 Equipment with AGI bonus is favored since Berserker already has fewest attacking opportunities, every hit matters.
 
-8. **Beast Tamer (Sara)** Throwing Weapon
+- **Beast Tamer (Sara)** Throwing Weapon
 
 The reason is the same as Warrior's. And Throwing Weapon deals more damage than other 1-H ranged weapons.
 
 Beast Tamers are much tougher than archers, so they can stand at more dangerous places.
 
-9. **Air Dragon**
+- **Air Dragon**
 
 I caught it so I use it.
 
-10. **Vartan (Canopus)** Throwing Weapon; Lighting magic; Absorb MP
+- **Vartan (Canopus)** Throwing Weapon; Lighting magic; Absorb MP
 
 Vartan is actually squashy. To allow him to attack from a safe place, ranged weapons are preferred and Throwing Weapon has the highest ATK. He can fly and he is not so fragile as archer, so shorter attack range can be tolerated.
 
