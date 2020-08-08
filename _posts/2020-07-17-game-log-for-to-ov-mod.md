@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 
+updated: 2020-08-08
 comments: true
 mathjax: true
 ---
@@ -102,13 +102,13 @@ To make the game further harder, I would only use classes available at the very 
 
 ##### Teambuilding
 
-**Warrior (Denam)** Spear with range 2-3
+1. **Warrior (Denam)** Spear with range 2-3
 
 **For classes without magic, it is essential to have high attack range so that the unit can have more opportunities to make an impact on the battlefield.** To give some insight, suppose the move range + attack range = $n$, then the attainable area is $2n^2 + 2n + 1$, ignoring terrain. In this case, move range 5 + attack range 3 = 8, attainable area = 145; while if $n=5+1=6$, then attainable area = 85, which is way smaller.
 
 In order to employ class skills, melee weapons are favored. So a spear with range 2-3 is chosen.
 
-**Archer (General Female)** 2-H Bow
+2. **Archer (General Female)** 2-H Bow
 
 Their main attacking targets are casters and archers. Bows are favored given that Crossbows will often be blocked.
 
@@ -116,13 +116,13 @@ Using Bridle to mute magicians is crucial.
 
 2-H Bows are chosen for higher attack range and atk. Archers will typically be killed by archers and magicians, so better stay in a safe place.
 
-**Wizard (General Male)** Dark and Ice Magic
+3. **Wizard (General Male)** Dark and Ice Magic
 
 Dark magic provides an arsenal for controlling in early game.
 
 TP controlling is important. Players should avoid being hit by finishing moves. Ice magic Frostbite is handy for that.
 
-**Cleric (Donnalto)** Fist; Absorb MP
+4. **Cleric (Donnalto)** Fist; Absorb MP
 
 Fists are light and 1-H, and provide some AVD bonus, so are favored.
 
@@ -130,7 +130,7 @@ Cleric wears light armor to lower RT and to attract some attack.
 
 Absorb MP: You can drain alley magician's MP when needed.
 
-**Spellblade (Cistina)** Dagger; Air, Water Magic
+5. **Spellblade (Cistina)** Dagger; Air, Water Magic
 
 This build is for controlling and supporting purposes.
 
@@ -142,7 +142,7 @@ Grace (melee avd up) will be used in Turn 1, and Fated Circle will be used from 
 
 Spellblade wears heavy armor. With HP Infusion (and Spike Skin), they can be really tough so more DEF is favored.
 
-**Knight (Voltare)** Sword
+6. **Knight (Voltare)** Sword
 
 There is no adequate reason for swords. Other options also work.
 
@@ -150,23 +150,23 @@ One advantage is that sword has 2-H variant which is counted as 1-H, so Knight m
 
 **Unnessary battles should be avoided for TP controlling purpose so that the enemy can't use finishing moves or critical skills frequently.** Typically, Knights should prioritize restoring status for others rather than attacking. Attacking leads to TP accumulation for the target and a counterhit from him which results in HP reduction for the attacker. With sword, Knight can deal damage accurately when it is needed (the finishing stroke). 
 
-**Berserker (General Male)** Axe
+7. **Berserker (General Male)** Axe
 
 There is no good reason for axes. I just want to give Axes a shot. Breach + damage boosted finishing move is useful. Axe's rank 6 finishing move (double hit) is attractive. 
 
 Equipment with AGI bonus is favored since Berserker already has fewest attacking opportunities, every hit matters.
 
-**Beast Tamer (Sara)** Throwing Weapon
+8. **Beast Tamer (Sara)** Throwing Weapon
 
 The reason is the same as Warrior's. And Throwing Weapon deals more damage than other 1-H ranged weapons.
 
 Beast Tamers are much tougher than archers, so they can stand at more dangerous places.
 
-**Air Dragon**
+9. **Air Dragon**
 
 I caught it so I use it.
 
-**Vartan (Canopus)** Throwing Weapon; Lighting magic; Absorb MP
+10. **Vartan (Canopus)** Throwing Weapon; Lighting magic; Absorb MP
 
 Vartan is actually squashy. To allow him to attack from a safe place, ranged weapons are preferred and Throwing Weapon has the highest ATK. He can fly and he is not so fragile as archer, so shorter attack range can be tolerated.
 
@@ -195,5 +195,52 @@ The strategy is simple:
 Heal counts: 17
 
 Consumable counts: 7
+
+#### Brigantys West Curtain Wall at Chapter 3 Route C
+
+2020/8/8
+
+- Version: 0.963a
+- Target: Vartan
+- Enemy: 13, including 2 Clerics. Level 14.
+- Player: up to 12, but I will only use 10, which will make it much harder. Level 13.
+
+##### Points
+
+There is more to this battle than meets the eye.
+
+- From version 0.963 on, tamer + monster combo has its day. The Octopuses are extremely dangerous. In version 0.963, with Empower Beast, they are able to tear apart my archer, mage and vartan by just one hit (Blue Spiral, which is even a long ranged AOE). In version 0.963a, monsters are nerfed a little, so our squashies won't be struck down by a single knock.
+- 14 is a critical level: new 2-h bows, light armor, mage armor, AOE magic 2 and so on.
+- Due to the Heal Clause, Heal is limited, while the boss vartan will charge to us with archers, mages and clerics left on the bank. According to the Objection Clause, we have to cross the moat and manage to kill them all.
+- The terrain is obnoxious, with a large water area and high difference of height on the opposite bank. The arhcers and mages on the bank hit really hard and, with 2 clerics and nasty terrian, it is not easy work to vanquish them. Additionally, Bow's rank 2 finisher Leaden and Cudgel's rank 2 finisher Shackle make life harder.
+
+##### Teambuilding Updates
+
+Wade is a must, and Jump also helps a lot (jumping up 3 tiles is enough).
+
+In hindsight, Squash should also be useful when we reach the other side of the moat.
+
+- **Spellblade** added Ice magic
+
+This battle might be the perfect showcase for Winter Siege.
+
+Winter Siege has been buffed several times (and renamed since the first modification). For the first time Waterwalk is added which is proposed by me. Imagine that we use some ice spell to freeze the water and then walk on it. For this time version 0.963a, it affects multiple targets, which might result from my complain that Winter Siege is inferior to Hover Flight in most cases.
+
+- **Berserker** double attack
+
+##### Play
+
+- Kill the Octopuses before they can activate any damage skill. Don't attack them offhand in the first round or two, which will only help them accumulate TP.
+- Lure the melee fighters to the middle of the moat and archers to the shore. Then kill them.
+- Vartans can't learn Wade, so they are not able to stay in the water. With that in mind, we can occupy the small island consisiting of 3 tiles in the midst of water and deploy our soliders in the water, so that they won't be approached by the boss.
+- Cross the moat, land and slaughter. Do it as quickly as possible since we have a quota of only 12 heal and 6 consumables.
+
+![Two enemy archers have been killed already. Our melee fighers landed safely, while the archer and the mage were killed later by the boss. (I misplayed here.) The hoplite is just too tough, and we'd better bind him and leave him alone.](https://shiina18.github.io/assets/posts/images/20200808085802835_8829.png "Two enemy archers have been killed already. Our melee fighers landed safely, while the archer and the mage were killed later by the boss. (I misplayed here.) The hoplite is just too tough, and we'd better bind him and leave him alone.")
+
+![Stage Clear](https://shiina18.github.io/assets/posts/images/20200808085825899_31377.png "Stage Clear")
+
+Heal counts: 11
+
+Consumable counts: 4
 
 To be continued...

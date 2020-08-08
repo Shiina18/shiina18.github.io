@@ -41,7 +41,7 @@ mathjax: true
 
 ### Games
 
-- 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod)
+- 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-08-08 updated)</font>
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2020-03-25 updated)</font>
 
 ### Language
