@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated:
+updated: 2020-08-09
 comments: true
 mathjax: false
 ---
@@ -19,6 +19,7 @@ mathjax: false
 - 线上图片 `[caption](url)` 部分如果需要 caption 的话, `url` 部分需要写为 `url "caption"`, caption 部分不能为空.
 - 图片地址需要替换为可用的链接.
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
+- 数学模式中的一对 `|`会被编译成表格, 得写成 `\vert`. (2020/8/9)
 
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 

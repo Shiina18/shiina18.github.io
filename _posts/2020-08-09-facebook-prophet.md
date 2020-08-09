@@ -88,7 +88,7 @@ $$
 
 主要是通过生成式模型来做的. 根据历史估计出变点大小, 采样出变点, 如此 simulate 多个 trends, 最后得到 "置信" 区间. 很 Bayes 的方法.
 
-假设历史数据有 $T$ 个点, 包含 $S$ 个变点. 变点大小的估计可以通过纯 Bayes 的框架, 但这里用的是 MLE $\lambda = (1/S) \sum_j |\delta_j|$.
+假设历史数据有 $T$ 个点, 包含 $S$ 个变点. 变点大小的估计可以通过纯 Bayes 的框架, 但这里用的是 MLE $\lambda = (1/S) \sum_j \vert\delta_j \vert$.
 
 Future changepoints are randomly sampled in such a way that the average frequency of changepoints matches that in the history: 对于任意 $j > T$,
 
