@@ -12,7 +12,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(2)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
-- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(1)</font>
+- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(2)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(4)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(1)</font>
@@ -53,6 +53,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2020-08-09 [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet)
 - 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
 
 ### Mathematics
