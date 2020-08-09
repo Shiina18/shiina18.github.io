@@ -4,7 +4,7 @@ categories:
 - Machine Learning
 updated:
 comments: true
-mathjax: false
+mathjax: true
 ---
 
 主要介绍 Facebook 的 [Prophet: Forecasting at Scale](https://facebook.github.io/prophet/). 包含了翻译, 转述, 和我自己的理解. 
