@@ -155,10 +155,10 @@ $$
 
 Forecasts are made over a certain *horizon*, which we denote $H$. The horizon is the number of days in the future we care about forecasting - this is typically 30, 90, 180, or 365 days in our applications. 这里 horizon 指要预测未来多少天.
 
-选定了 loss function (原文用的是度量函数, 但明显可以不用局限于此) 之后, 我们通过模拟或者直接计算得到 loss 的期望. 记 loss function 为 $d$, 记 $h\in (0, H]$, 令 $\hat y(t|T)$ 表示根据时间 $T$ 及以前的观测值得到的 $t$ 时刻的预测值, 再引入一个记号
+选定了 loss function (原文用的是度量函数, 但明显可以不用局限于此) 之后, 我们通过模拟或者直接计算得到 loss 的期望. 记 loss function 为 $d$, 记 $h\in (0, H]$, 令 $\hat y(t \vert T)$ 表示根据时间 $T$ 及以前的观测值得到的 $t$ 时刻的预测值, 再引入一个记号
 
 $$
-\phi(T, h) = d(\hat y(T+h|T), y(T+h)).
+\phi(T, h) = d(\hat y(T+h \vert T), y(T+h)).
 $$
 
 > Unfortunately these approaches only give correct estimates of error conditional on having specified the correct model for the process - a condition that is unlikely to hold in practice.
