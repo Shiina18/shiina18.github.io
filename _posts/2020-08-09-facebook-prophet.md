@@ -2,7 +2,7 @@
 title: "Intro to Facebook Prophet"
 categories: 
 - Machine Learning
-updated:
+updated: 2020-08-12
 comments: true
 mathjax: true
 ---
@@ -90,7 +90,7 @@ $$
 
 假设历史数据有 $T$ 个点, 包含 $S$ 个变点. 变点大小的估计可以通过纯 Bayes 的框架, 但这里用的是 MLE $\lambda = (1/S) \sum_j \vert\delta_j \vert$.
 
-Future changepoints are randomly sampled in such a way that the average frequency of changepoints matches that in the history: 对于任意 $j > T$,
+Future changepoints are randomly sampled in such a way that the average frequency of changepoints matches that in the history: 对于任意 $t_j > T$,
 
 $$
 \begin{cases}
@@ -99,33 +99,13 @@ $$
 \end{cases}
 $$
 
-Note: 这里原文写的是 $\delta_j$, 符号和之前的重复, 比较迷惑. 按照意思, 应该是第 $j$ 个时间点, 有 $S/T$ 的概率成为变点, 其大小服从 Laplace 分布.
-
-Side Note: 具体实现要看源码中的 `forecaster.py` 的 `sample_predictive_trend` 函数. 源码中变点位置是通过 Poisson 过程采样得到的, 最终结果依然是未来变点出现的频率和历史相似.
-
-```python
-# New changepoints from a Poisson process with rate S on [1, T]
-if T > 1:
-    S = len(self.changepoints_t)
-    n_changes = np.random.poisson(S * (T - 1))
-else:
-    n_changes = 0
-if n_changes > 0:
-    changepoint_ts_new = 1 + np.random.rand(n_changes) * (T - 1)
-    changepoint_ts_new.sort()
-else:
-    changepoint_ts_new = []
-
-# Get the empirical scale of the deltas, plus epsilon to avoid NaNs.
-lambda_ = np.mean(np.abs(deltas)) + 1e-8
-
-# Sample deltas
-deltas_new = np.random.laplace(0, lambda_, n_changes)
-```
-
-we use this generative model to simulate possible future trends and use the simulated trends to compute uncertainty intervals.
+We use this generative model to simulate possible future trends and use the simulated trends to compute uncertainty intervals.
 
 > The assumption that the trend will continue to change with the same frequency and magnitude as it has in the history is fairly strong, so we do not expect the uncertainty intervals to have exact coverage.
+
+Note: 这里原文写的是 $\delta_j$, 符号和之前的重复, 比较迷惑. 按照文字意思, 应该是第 $j$ 个时间点, 有 $S/T$ 的概率成为变点, 其大小服从 Laplace 分布.
+
+Side Note: 源码中变点位置是通过 Poisson 过程采样得到的, 可以参考 [关于 Facebook Prophet 中 future changepoints 的一个脚注](https://zhuanlan.zhihu.com/p/181708348). (2020/8/12)
 
 ### Seasonality
 
