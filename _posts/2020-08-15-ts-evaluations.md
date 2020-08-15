@@ -77,7 +77,7 @@ $$
 
 > In store replenishment, retailers need to consider logistical constraints (pack sizes, best by dates, delivery schedules, minimum or maximum truck loads), balancing a lower service level for one product against a higher service level for another. They need to optimize over complex cost functions (time-varying purchasing and sales prices, rebate brackets that kick in once a certain total order amount has been reached), which in turn require flexibility with regard to lead times: we may want to pull orders forward in time, a so-called "forward buy".
 
-上述理由意味着用点估计并不合适. 一个简单的改进是预测各个分位数, 分位数回归用的是 [pinball loss](https://www.lokad.com/pinball-loss-function-definition). 容易证明, 对应的分位数恰好能使 loss 最小.
+上述理由意味着用点估计并不合适. 一个简单的改进是预测各个分位数, 分位数回归用的是 [pinball loss](https://www.lokad.com/pinball-loss-function-definition). 容易证明, 对应的分位数恰好能使期望 loss 最小 (求导即可, 证明可见 [这里](http://www.econ.uiuc.edu/~roger/courses/LSE/lectures/L1.pdf) pp. 9-12).
 
 M5 用的是其改版 scaled pinball loss. 给定一个 quantile $u$, 分子是 forecasting horizon 中 pinball loss 的均值, 分母是历史数据 random walk 的 MAE (为了保证 SPL scale-independent). 记 $Q_t(u)$ 为时间 $t$ 时 $u$ 分位数的估计.
 

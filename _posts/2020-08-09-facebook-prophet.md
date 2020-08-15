@@ -107,6 +107,8 @@ Note: 这里原文写的是 $\delta_j$, 符号和之前的重复, 比较迷惑. 
 
 Side Note: 源码中变点位置是通过 Poisson 过程采样得到的, 可以参考 [关于 Facebook Prophet 中 future changepoints 的一个脚注](https://zhuanlan.zhihu.com/p/181708348). (2020/8/12)
 
+其中用到的 Poisson 过程性质证明可见 [这里](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-PP.pdf) pp. 18-19. (2020/8/15)
+
 ### Seasonality
 
 商业时间序列通常有多种周期的 seasonality (比如周, 月, 年). 主要通过 Fouries 级数建模, 假设周期为 $P$, 则
