@@ -30,9 +30,9 @@ DECA-DENCE (没落要塞) ep. 4, 17:00 开始.
 
 为了达成这个镜头, 还特意安排 666 小跑坐到沙发上.
 
-![](https://shiina18.github.io/assets/posts/images/20200731212834801_13346.png)
+![](https://shiina18.github.io/assets/posts/images/20200815164055752_25925.png)
 
-![](https://shiina18.github.io/assets/posts/images/20200731212750671_25091.png)
+![](https://shiina18.github.io/assets/posts/images/20200815164150321_12372.png)
 
 事实上在 14:10 开始的多处镜头已经可以看出沙发距离窗边有一定距离.
 
