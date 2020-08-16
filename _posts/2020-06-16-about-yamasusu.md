@@ -24,11 +24,13 @@ mathjax: false
 - 角色性格较为真实, 没有乱七八糟做作的媚宅属性, 行为也符合逻辑, 再加上本身描绘登山也是写实的风格, 我很喜欢. 我就是喜欢在虚拟的作品中寻求真实感. 萌片不能只靠外表萌/卖属性, 这点很重要.
 - 云登山当然不够过瘾, 无奈市内要么根本没山要么只有极矮的山, 一个人体验也不佳, 之后想尝试跟着社团一起登山了.
 - 长度短其实是一个优点. 超强的作画和篇幅的短小可以掩盖故事的薄弱. 若是拉到标准 TV 时长, 反而可能暴露短板, 让观众感到无聊.
-- 我特别喜欢第二季的 OP1 夏色プレゼント, 特别好看. 是的, 好看, 音画配合完美, 事后发现是出自石浜真史之手.
+- 我特别喜欢第二季的 OP1 [夏色プレゼント](https://www.bilibili.com/video/BV1Bs411B7hJ?p=16), 特别好看. 是的, 好看, 音画配合完美, 事后发现是出自石浜真史之手.
 
 > 由他创作的 OP 动画带有极强的个人风格, 充满艺术感. 因此石浜真史也有 "OP 职人" 的美誉. [source](https://www.zhihu.com/question/64273257/answer/432663049)
 
-<iframe src="//player.bilibili.com/player.html?aid=4664192&bvid=BV1Bs411B7hJ&cid=7566915&page=16" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<p align="center">
+<iframe src="//player.bilibili.com/player.html?aid=4664192&bvid=BV1Bs411B7hJ&cid=7566915&page=16" width="100%" height="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>
 
 - 最后一点, 把片名「ヤマノススメ」翻译成向山进发是因为「すすめ」可以理解为「進め」, 但根据语法此处更应该是「薦め」推荐, 或者「勧め」鼓励/劝诱, 正如日向对葵做的一样. 片名下面的英语就写着 encouragement of climb, 英语 wiki 把「すすめ」翻译成了 recommendation. 中文直译可以叫 "劝君登山", 不过我还挺喜欢向山进发这个翻译的.
 - 总结: 向山进发真是太好看了. ~~向山进发天下第一.~~
