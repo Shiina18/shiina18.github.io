@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2020-08-16
+Last Updated on 2020-06-11
 
 虽说标题写着 notes, 但其实内容基本没有正儿八经的 notes, 只是一些杂乱物品的堆放. 只有作者自己公开的材料会被列在这里. (2019/9/29)
 
@@ -15,10 +15,6 @@ Last Updated on 2020-08-16
 Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Problems%20in%20Time%20Series%20Analysis.pdf)
 
 This document contains solutions to selected problems in Brockwell, P. J., Davis, R. A., and Fienberg, S. E. (1991). *Time series: theory and methods*. Springer Science & Business Media.
-
-- [CS224n: Natural Language Processing with Deep Learning @Stanford](http://web.stanford.edu/class/cs224n/)
-
-很著名的课了. 大概是 19 年的时候看的, 回顾一下发现还是这里的 notes 写得好. 尤其是开头几个 notes (w2v 等), 其他网上的 notes 要么跳过细节, 要么语焉不详. (2020/8/16)
 
 - [Author and Reviewer Tutorials](https://www.springer.com/cn/authors-editors/authorandreviewertutorials)
 
