@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated: 2020-08-09
+updated: 2020-08-17
 comments: true
 mathjax: false
 ---
@@ -24,6 +24,10 @@ mathjax: false
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 
 另外在修改样式的时候, [Agent Ransack](https://www.mythicsoft.com/agentransack/) 的全文搜索功能非常有帮助.
+
+### 一些 HTML 用法
+
+- 嵌入视频. B 站嵌入视频上下有约 120 px 的填充物, 宽高比大约 1.8, 宽度似乎要接近 500px 才会有进度条, 宽 500 高 400 刚好. 我不知道怎么让嵌入视频自动适应移动端大小, 只能暂时献祭移动端了. (2020/8/17)
 
 ### 其他已经发现的 bug
 
