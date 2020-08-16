@@ -29,7 +29,7 @@ mathjax: false
 > 由他创作的 OP 动画带有极强的个人风格, 充满艺术感. 因此石浜真史也有 "OP 职人" 的美誉. [source](https://www.zhihu.com/question/64273257/answer/432663049)
 
 <p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=4664192&bvid=BV1Bs411B7hJ&cid=7566915&page=16" width="700" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=4664192&bvid=BV1Bs411B7hJ&cid=7566915&page=16" width="100%" height="300%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 - 最后一点, 把片名「ヤマノススメ」翻译成向山进发是因为「すすめ」可以理解为「進め」, 但根据语法此处更应该是「薦め」推荐, 或者「勧め」鼓励/劝诱, 正如日向对葵做的一样. 片名下面的英语就写着 encouragement of climb, 英语 wiki 把「すすめ」翻译成了 recommendation. 中文直译可以叫 "劝君登山", 不过我还挺喜欢向山进发这个翻译的.
