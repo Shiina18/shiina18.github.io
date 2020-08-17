@@ -2,7 +2,7 @@
 title: "Intro to Facebook Prophet"
 categories: 
 - Machine Learning
-updated: 2020-08-12
+updated: 2020-08-17
 comments: true
 mathjax: true
 ---
@@ -38,7 +38,7 @@ $$
 Prophet 放弃了 ARIMA 这类生成式模型的良好 inference 性质, 换来的是以下优势
 
 - 灵活性: 可以轻易地建模多个周期的 seasonality, 并且对 trends 做出不同的假设.
-- Unlike with ARIMA models, the measurements do not need to be regularly spaced, and we do not need to interpolate missing values e.g. from removing outliers. (暂时不知道为什么可以这样.)
+- Unlike with ARIMA models, the measurements do not need to be regularly spaced, and we do not need to interpolate missing values e.g. from removing outliers. 参考 [这里](https://stats.stackexchange.com/questions/393402/how-does-facebook-prophet-handle-missing-data) 和 [这里](https://github.com/facebook/prophet/issues/854). 另外, Prophet 文档建议的处理异常值方式就是直接把它们去掉. (2020/8/17)
 - 拟合速度快.
 - 参数含义直观.
 
