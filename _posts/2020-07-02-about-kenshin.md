@@ -20,10 +20,10 @@ mathjax: false
 <iframe src="//player.bilibili.com/player.html?aid=49349589&bvid=BV1Xb411L7T9&cid=86414195&page=1" width="500" height="400" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-对比真人版 4:13 开始.
+对比真人版 (BGM 应该是 UP 自己加的).
 
 <p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=82368429&bvid=BV1zJ411V7Gm&cid=140926532&page=1" width="500" height="400" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=371412411&bvid=BV1SZ4y1u7ch&cid=214530055&page=1" width="500" height="400" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
 - 当然, 浪客剑心最出名的是追忆篇. 追忆篇可以单独观看, 并不依赖 TV 动画, 并且很明显与 TV 和其他剧场版不是同一个档次的. 整体氛围严肃写实, 与 TV 大相径庭. 它在任何评分网站都会名列前茅, 被誉为可以载入动画史册的 OVA.  我观影水平不足, 讲不好它到底厉害在哪里, 就不多说了.

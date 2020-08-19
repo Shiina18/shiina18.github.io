@@ -27,7 +27,11 @@ mathjax: false
 
 ### 一些 HTML 用法
 
-- 嵌入视频. B 站嵌入视频上下有约 120 px 的填充物, 宽高比大约 1.8, 宽度似乎要接近 500px 才会有进度条, 宽 500 高 400 刚好. 我不知道怎么让嵌入视频自动适应移动端大小, 只能暂时献祭移动端了. (2020/8/17)
+2020/8/17
+
+- 嵌入视频. B 站嵌入视频上下有约 120 px 的填充物, 宽高比大约 1.8, 宽度似乎要接近 500px 才会有进度条, 宽 500 高 400 刚好. 我不知道怎么让嵌入视频自动适应移动端大小, 只能暂时献祭移动端了. 
+- 嵌入音乐. 网易云有提供外链生成 iframe 插件. 
+- 嵌入其他网页. 推特, ins 都有提供插件. 
 
 ### 其他已经发现的 bug
 
@@ -48,6 +52,10 @@ mathjax: false
 [Wordpress.com](https://shiina1418.wordpress.com/) -> Github Page -> [Blogger](https://randomwalk034.blogspot.com/) -> Github Page
 
 WP 和 blogger 倒是都找到了好看的主题. 
+
+![WordPress](https://shiina18.github.io/assets/posts/images/20200817232911683_26586.png "WordPress")
+
+![Blogger](https://shiina18.github.io/assets/posts/images/20200817232813332_31551.png "Blogger")
 
 一点小发现是很多网站比如豆瓣 ([豆瓣收藏秀](https://www.douban.com/service/badgemaker)), goodreads ([new widget for your blog](https://www.goodreads.com/blog/show/42-new-widget-for-your-blog)) 等会提供一个 JavaScript widget 作为博客插件, 相关讨论帖大多是十多年前的, 非常有年代感, 也间接反映了博客的没落...
 
