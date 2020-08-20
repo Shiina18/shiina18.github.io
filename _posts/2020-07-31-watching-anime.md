@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated:
+updated: 2020-08-20
 comments: true
 mathjax: false
 ---
@@ -9,6 +9,16 @@ mathjax: false
 换了新博客后传图方便了许多, 这是第一个多图 post.
 
 <!-- more -->
+
+## 制造分隔
+
+2020/8/20
+
+DECA-DENCE (没落要塞) ep. 7, 14:35 开始.
+
+隔阂以及走向背光. 之后接了两个倾斜镜头. 顺便关了门.
+
+![](https://shiina18.github.io/assets/posts/images/20200820194955162_2622.png)
 
 ## 隐藏距离
 

@@ -29,7 +29,7 @@ mathjax: true
 
 ### Anime
 
-- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime)
+- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-08-20 updated)</font>
 - 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc)
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu)

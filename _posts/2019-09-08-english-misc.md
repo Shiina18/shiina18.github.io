@@ -15,6 +15,7 @@ mathjax: false
 - iirc: if I remember correctly
 - idk: I don't know. 
 - imo: in my opinion. 大概比 imho 频繁百倍 (以我有的数据而言).
+- tbh: to be honest
 
 <!-- more -->
 
