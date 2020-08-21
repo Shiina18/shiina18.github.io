@@ -23,7 +23,7 @@ mathjax: true
 - 基于百分误差, 即 $e_t / Y_t$, 的指标. 比如 Mean Absolute Percentage Error (MAPE) = $\text{mean}(\vert e_t / Y_t\vert)$.
     - 当 $Y_t$ 为零或者接近零时会出问题. 这导致当时间序列经常出现零时, 不适合用这类指标. 也就不适合零售数据.
     - MAPE 对正误差的惩罚比对负误差小. Hyndman and Koehler 这一句说得有很迷惑并且方向反了, Makridakis (1993) 原文的意思其实是这样: 在 $t$ 时刻若真实值为 $a$, 预测值为 $b$, 误差 $e=a-b>0$; 而若真实值为 $b$, 预测值为 $a$, 则误差的绝对值相同, 但是 $e/a < e/b$, 前者的 MAPE 更小. 解决办法就是改造为 $e_t / (Y_t + \hat Y_t)$, 不过当 $Y_t$ 接近零时, 点估计往往也接近零, 两个接近零的数相除依然会有问题. 
-- 误差和 benchmark 的误差 $e_t^*$ 相除, 即基于相对误差 $e_t / e_t^*$ 的指标. 但是依然会有问题, 比如当分子分母都是正态分布 (且独立) 时, 得到的是 Cauchy 分布, 不存在二阶矩.
+- 误差和 benchmark 的误差 $e_t^\ast$ 相除, 即基于相对误差 $e_t / e_t^\ast$ 的指标. 但是依然会有问题, 比如当分子分母都是正态分布 (且独立) 时, 得到的是 Cauchy 分布, 不存在二阶矩.
 - 相对指标, 比如 $\text{MAE}/\text{MAE}_b$, 带角标 $b$ 表示 baseline 模型的 MAE. 缺陷是我们需要若干个模型预测, 然后才能用这个比较.
 
 比如 Facebook Prophet 的内置评估用的就是这些.

@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-08-08
+updated: 2020-08-21
 comments: true
 mathjax: true
 ---
@@ -242,5 +242,77 @@ Winter Siege has been buffed several times (and renamed since the first modifica
 Heal counts: 11
 
 Consumable counts: 4
+
+#### Phidoch South Curtain Wall at Chapter 3 Route C
+
+2020/8/21
+
+- Version: 0.963b beta (not released formally, with some archer and mage set modification)
+- Target: Mage
+- Enemy: 13 + 10, including 2 Clerics (and possibly more Clerics from reinforcement). Level 16.
+- Player: 12. Level 15.
+
+##### Teambuilding Updates
+
+This time we have fresh blood in our crew. 
+
+- **Blade Knight (Hobyrim)**
+
+First time to use blade knight. I will talk more about it in the future.
+
+- **Warlock (Cerya)** Dagger variant (Spellstrike), and equipment that maximizes MND.
+
+Magic: 
+
+- Air: AOE bind
+- Water: AOE heal; Leaden + Slow + RT delay, very useful to some bosses (e.g. twelve heavenly)
+- Fire/Earth/Ice: shutdown. I use Fire this time since it fits Cerya and turn-based status (shackle and petrify) is easier to track than RT-based (stop) so I can know when it will expire.
+- Lightning: Useful to some bosses, their turn will not come forever.
+- Dark: Almost the same with Terror Knight. Drain MP, very useful to mage bosses. Charm, useful to units full of TP.
+- Light: Never used.
+
+Carries Water, Fire and Dark this time.
+
+Warlock is one of the best classes in the game. Shutdown status is all OP imo. This build is dedicated to inflicting shutdown status. What's more, **warlock in this build doesn't need any ranked skills**.
+
+Spellstrike is used in Turn 1. And with the help of Instill Mind, she can shut down enemies with nearly 100% acc every turn consistently.
+
+The regular 10 will remain the same and these 2 will only be used when a party of 12 members is called for.
+
+- **Archer**
+
+Has rank 4 bow finisher (sleep) now, which is OP (and this is one of the reasons I prefer bows than crossbows).
+
+Has access to stun-bringer.
+
+- **Knight**
+
+Now uses a shield that inflicts stun.
+
+In hindsight, my spellblade should bring Fire magic to counter Weaken...
+
+##### Points
+
+Though there are 23 enemies in total, but it's quite easy to vanquish them all, since (1) we have more useful tools and (2) we have one of the best classes in our team now.
+
+- Lv 16 is a critical level for new weapons and shields.
+- There are no terror knights, so Phalanx is very effective.
+
+##### Play
+
+- Spam stun, and trap and delay enemies so that there are fewer active foes in the battlefield and they take fewer effective turns.
+- In the first few turns, warlock is tasked with shackling appropriate units (considering there are 2 knights, shutdown isn't very reliable).
+- Find an opportunity to drain up boss' MP and then keeps her MP bar clean.
+- Kill clerics via applying silence or absorbing their MP.
+
+![Warlock has a chance to drain up boss' MP. Enemy knights are trapped. The wingedman cleric is sleeping thanks to bow's finisher.](https://shiina18.github.io/assets/posts/images/20200822004148188_4927.png "Warlock has a chance to drain up boss' MP. Enemy knights are trapped. The wingedman cleric is sleeping thanks to bow's finisher.")
+
+![Keep cleric's mp empty or silence him. I misplayed so Hob is incap in an early stage.](https://shiina18.github.io/assets/posts/images/20200822004314043_28679.png "Keep cleric's mp empty or silence him. I misplayed so Hob is incap in an early stage.")
+
+![There are 4 clerics (2 wingedmen) in enemy side in the same time! And one of them has been killed, and the one pointed by the cursor gets trapped. The phantom protects our casters from being attacked by the dragoon in the right hand side. In the left hand side, the warrior can't move anywhere and the dragoon is bound by our spellblade.](https://shiina18.github.io/assets/posts/images/20200822004451249_19571.png "There are 4 clerics (2 wingedmen) in enemy side in the same time! And one of them has been killed, and the one pointed by the cursor gets trapped. The phantom protects our casters from being attacked by the dragoon in the right hand side. In the left hand side, the warrior can't move anywhere and the dragoon is bound by our spellblade.")
+
+Heal counts: 20
+
+Consumable counts: 6
 
 To be continued...
