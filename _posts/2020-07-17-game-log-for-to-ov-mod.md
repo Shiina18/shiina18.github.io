@@ -261,15 +261,12 @@ This time we have fresh blood in our crew.
 First time to use blade knight. I will talk more about it in the future.
 
 - **Warlock (Cerya)** Dagger variant (Spellstrike), and equipment that maximizes MND.
-
-Magic: 
-
-- Air: AOE bind
-- Water: AOE heal; Leaden + Slow + RT delay, very useful to some bosses (e.g. twelve heavenly)
-- Fire/Earth/Ice: shutdown. I use Fire this time since it fits Cerya and turn-based status (shackle and petrify) is easier to track than RT-based (stop) so I can know when it will expire.
-- Lightning: Useful to some bosses, their turn will not come forever.
-- Dark: Almost the same with Terror Knight. Drain MP, very useful to mage bosses. Charm, useful to units full of TP.
-- Light: Never used.
+    - Air: AOE bind
+    - Water: AOE heal; Leaden + Slow + RT delay, very useful to some bosses (e.g. twelve heavenly)
+    - Fire/Earth/Ice: shutdown. I use Fire this time since it fits Cerya and turn-based status (shackle and petrify) is easier to track than RT-based (stop) so I can know when it will expire.
+    - Lightning: Useful to some bosses, their turn will not come forever.
+    - Dark: Similar with Terror Knight. Drain MP, very useful to mage bosses. Charm, useful to units full of TP.
+    - Light: Never used.
 
 Carries Water, Fire and Dark this time.
 
@@ -293,7 +290,7 @@ In hindsight, my spellblade should bring Fire magic to counter Weaken...
 
 ##### Points
 
-Though there are 23 enemies in total, but it's quite easy to vanquish them all, since (1) we have more useful tools and (2) we have one of the best classes in our team now.
+Though there are 23 enemies in total, it's quite easy to vanquish them all, since (1) we have more useful tools and (2) we have one of the best classes in our team now.
 
 - Lv 16 is a critical level for new weapons and shields.
 - There are no terror knights, so Phalanx is very effective.
