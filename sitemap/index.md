@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(4)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(4)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(2)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(3)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(3)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(4)</font>
@@ -42,6 +42,7 @@ mathjax: true
 ### Games
 
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-08-21 updated)</font>
+- 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-08-23 updated)</font>
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2020-03-25 updated)</font>
 
 ### Language
