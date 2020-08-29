@@ -51,7 +51,7 @@ The information for OV mod can be found [here](https://www.moddb.com/mods/one-vi
 
 2020/8/29
 
-I tested and concluded the following results months ago. I'd appreciate it if you can point out any mistake I made.
+I tested and concluded the following results months ago and recently. I'd appreciate it if you can point out any mistake I made.
 
 ### TP and MP
 
@@ -59,6 +59,7 @@ I tested and concluded the following results months ago. I'd appreciate it if yo
 - MP generation speed is about 1.1x TP generation speed.
 - TP gained by phisical attack = 0.25 * damage dealt + 0.4 * damage received
 - Clarity 1 = 1.2x speed, Clarity 2 = 1.44x speed, Clarity 3 = 1.2^3x speed and so on. Tactician is also 1.2 and 1.44, respectively.
+- Max TP doesn't boost TP generation speed, so does higher MP.
 
 ### Status and Interaction
 
@@ -66,7 +67,7 @@ I tested and concluded the following results months ago. I'd appreciate it if yo
 - When a unit is quicken, his RT is decreased by 25% instantly. Then his total RT becomes 75% of the original until quicken expires.
 - Instill element bonus = 0.25 * total damage. It doesn't interact with ele aug.
 - Curse suppresses Couterhit.
-- Leaden invalidates Waterwalk
+- Leaden invalidates Waterwalk.
 
 ```
 Version: 0.963
@@ -391,6 +392,6 @@ Consumable counts: 6
 
 Enemies have higher tier gears, level and projective spell 3. Additonally, all skill ranks of enemies are raised to rank 4 by myself.
 
-See the video [here](https://www.acfun.cn/v/ac17664467).
+Watch the video [here](https://www.acfun.cn/v/ac17664467).
 
 To be continued...
