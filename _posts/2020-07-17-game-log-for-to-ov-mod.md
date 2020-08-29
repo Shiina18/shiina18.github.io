@@ -53,6 +53,8 @@ The information for OV mod can be found [here](https://www.moddb.com/mods/one-vi
 
 I tested and concluded the following results months ago and recently. The conclusions might be wrong since no systematic experiments were conducted. I'd appreciate it if you can point out any mistake I made.
 
+You may also want to read [Buffs and Debuffs, and Interactions](https://nichegamescom.wordpress.com/2019/05/22/tactics-ogre-ov-debuffs-statuses-and-interactions-guide/) on Coffee Potato's blog. I learned a lot from his post, but also found that there are many mistakes, especially when it comes to some percentage calculation. In fact, many buffs and debuffs have been included in raics' damage calculation sheet, so I recommend reading it in the meantime.
+
 ### TP and MP
 
 - TP generation speed is about 2 TP per 20 RT. They increase two by two, rather than one by one.
@@ -61,7 +63,7 @@ I tested and concluded the following results months ago and recently. The conclu
 - Clarity 1 = 1.2x speed, Clarity 2 = 1.44x speed, Clarity 3 = 1.2^3x speed and so on. Tactician is also 1.2 and 1.44, respectively.
 - Max TP doesn't boost TP generation speed, so does higher MP.
 
-### Status and Interaction
+### Buffs, Debuffs, and Interactions
 
 - When a unit is inflicted Slow, his RT is increased by 25% instantly. Then his total RT becomes 125% of the original until slow expires.
 - When a unit is quicken, his RT is decreased by 25% instantly. Then his total RT becomes 75% of the original until quicken expires.
