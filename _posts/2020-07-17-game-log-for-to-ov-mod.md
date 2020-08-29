@@ -60,9 +60,13 @@ I tested and concluded the following results months ago. I'd appreciate it if yo
 - TP gained by phisical attack = 0.25 * damage dealt + 0.4 * damage received
 - Clarity 1 = 1.2x speed, Clarity 2 = 1.44x speed, Clarity 3 = 1.2^3x speed and so on. Tactician is also 1.2 and 1.44, respectively.
 
-### Misc
+### Status and Interaction
 
+- When a unit is inflicted Slow, his RT is increased by 25% instantly. Then his total RT becomes 125% of the original until slow expires.
+- When a unit is quicken, his RT is decreased by 25% instantly. Then his total RT becomes 75% of the original until quicken expires.
 - Instill element bonus = 0.25 * total damage. It doesn't interact with ele aug.
+- Curse suppresses Couterhit.
+- Leaden invalidates Waterwalk
 
 ```
 Version: 0.963
@@ -86,9 +90,6 @@ when unit is incap, his rt cost is doubled
 poisson (corrosion): 10 damage per around ? rt 9-10 (?) times in total
 regenerate: about 10 times in total
 ```
-
-- Curse suppresses Couterhit.
-- Leaden invalidates Waterwalk
 
 ### Cheatcode generator
 
