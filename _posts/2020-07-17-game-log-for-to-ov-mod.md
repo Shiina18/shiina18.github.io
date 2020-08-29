@@ -51,7 +51,7 @@ The information for OV mod can be found [here](https://www.moddb.com/mods/one-vi
 
 2020/8/29
 
-I tested and concluded the following results months ago and recently. I'd appreciate it if you can point out any mistake I made.
+I tested and concluded the following results months ago and recently. The conclusions might be wrong since no systematic experiments were conducted. I'd appreciate it if you can point out any mistake I made.
 
 ### TP and MP
 
