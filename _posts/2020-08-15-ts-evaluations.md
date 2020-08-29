@@ -101,7 +101,7 @@ $$
 
 分布估计的评估指标推荐阅读 Czado, C., Gneiting, T., & Held, L. (2009). Predictive model assessment for count data. *Biometrics*, *65*(4), 1254-1261.
 
-提供量化供应链管理服务的 [Lokad](https://www.lokad.com/supply-chain-management-(scm)-knowledge-base) 网站上有很多的话题, 见其 learn 菜单下, knowledge base 栏的 Forecasting, 以及 technology 栏他们自己模型的 [发展历史](https://www.lokad.com/forecasting-technology): 从点估计, 到分布估计, 再到深度学习. 传达出的信息大概是: 传统的, 教科书上的方法实际效果差, 深度学习大法好.
+提供量化供应链管理服务的 [Lokad](https://www.lokad.com/supply-chain-management-(scm)-knowledge-base) 网站上有很多有意思的话题, 见其 learn 菜单下, knowledge base 栏的 Forecasting, 以及 technology 栏他们自己模型的 [发展历史](https://www.lokad.com/forecasting-technology): 从点估计, 到分布估计, 再到深度学习. 传达出的信息大概是: 传统的, 教科书上的方法实际效果差, 深度学习大法好.
 
 > Overdispersion in retail sales can result from shoppers independently buying more than one unit of a given product (Ehrenberg, 1959), while zero inflation could well result from items being out-of-stock.
 

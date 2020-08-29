@@ -1,10 +1,21 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2020-07-17
+updated: 2020-08-28
 comments: true
 mathjax: true
 ---
+
+## classmethod and staticmethod
+
+2020/8/28
+
+作用是在类实例化前提供 method 用以交互. 在下面的参考链接中给出的用例是用 staticmethod 检验输入, 用 classmethod 对不同类型的输入进行初始化.
+
+参考
+[Python's @classmethod and @staticmethod Explained](https://stackabuse.com/pythons-classmethod-and-staticmethod-explained/)
+
+<!-- more -->
 
 ## 字典和列表
 
@@ -19,8 +30,6 @@ mathjax: true
 - [How are Python's Built In Dictionaries Implemented?](https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented)
 - [How is Python's List Implemented?](https://stackoverflow.com/questions/3917574/how-is-pythons-list-implemented)
 - [Implementation of Dynamic Array in Python](https://www.tutorialspoint.com/implementation-of-dynamic-array-in-python)
-
-<!-- more -->
 
 ## 多线程和多进程
 

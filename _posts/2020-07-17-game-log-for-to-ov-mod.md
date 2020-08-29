@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-08-21
+updated: 2020-08-29
 comments: true
 mathjax: true
 ---
@@ -46,6 +46,78 @@ A detailed review can be found on [タクティクスオウガ 運命の輪 - �
 I came across this mod one year ago when I wanted to figure out how the damage is calculated on earth, since it is really mysterious and confused me for many years. I searched in Japanese at first but failed to find any useful information. Then I tried in English and reached the calculation breakdown sheet. I noticed that the author had a mod called OV. I played with it and liked it very much. It fullfils my imagination when I first played this game years ago. So I began to propagate it in Chinese community. Now there are several people having played with this mod in China. While most are just scared away for being unable to read English.
 
 The information for OV mod can be found [here](https://www.moddb.com/mods/one-vision1).
+
+## Useful Utils
+
+2020/8/29
+
+I tested and concluded the following results months ago. I'd appreciate it if you can point out any mistake I made.
+
+### TP and MP
+
+- TP generation speed is about 2 TP per 20 RT. They increase two by two, rather than one by one.
+- MP generation speed is about 1.1x TP generation speed.
+- TP gained by phisical attack = 0.25 * damage dealt + 0.4 * damage received
+- Clarity 1 = 1.2x speed, Clarity 2 = 1.44x speed, Clarity 3 = 1.2^3x speed and so on. Tactician is also 1.2 and 1.44, respectively.
+
+### Misc
+
+- Instill element bonus = 0.25 * total damage. It doesn't interact with ele aug.
+
+```
+Version: 0.963
+
+shackle (fire) lasts 3 turn
+petrify (earth) 3 turn
+sleep (light) 3 turn
+stop (ice) 350 rt
+
+find that if it is a turn based status, 
+then the focus will be redirected temporaily to the target when his turn comes
+
+slow (water) 350 (?) rt
+quicken 350 (?) rt
+shackle (dark) 2 turn
+stop (dark) 250 (?) rt
+
+Note: raics said slow lasts 450 RT.
+
+when unit is incap, his rt cost is doubled
+poisson (corrosion): 10 damage per around ? rt 9-10 (?) times in total
+regenerate: about 10 times in total
+```
+
+- Curse suppresses Couterhit.
+- Leaden invalidates Waterwalk
+
+### Cheatcode generator
+
+I wrote several simple Python scripts to strengthen enemies. Below is one of them.
+
+```python
+def skill_rank(left, right, rank=8):
+    '''
+    example: skill_rank(11, 11+12, 6)
+    
+    then all the skill ranks of the 11th - 23rd units
+    will be set rank 6
+
+    you may use it, say, when you have a party of 10 units,
+    and there are 12 enemies. then all the enemy
+    skill ranks will be set 6
+
+    note that guest has a different order. e.g. when you have
+    a party of 10 units and a guest, the guest may not be
+    the 11th unit
+    '''
+    for i in range(left-1, right-1):
+        for j in range(10):
+            loc = hex(0x005401D8 + 0x520*i + 0x6*j)
+            loc = loc[:2] + '00' + loc[2:]
+            print(f'_L {loc} 0x0000000{rank}')
+
+skill_rank(11, 11+12, 5)
+```
 
 ## Playing Log
 
@@ -311,5 +383,13 @@ Though there are 23 enemies in total, it's quite easy to vanquish them all, sinc
 Heal counts: 20
 
 Consumable counts: 6
+
+#### Bahanna Highlands at Chapter 4 Route C
+
+2020/8/29
+
+Enemies have higher tier gears, level and projective spell 3. Additonally, all skill ranks of enemies are raised to rank 4 by myself.
+
+See the video [here](https://www.acfun.cn/v/ac17664467).
 
 To be continued...
