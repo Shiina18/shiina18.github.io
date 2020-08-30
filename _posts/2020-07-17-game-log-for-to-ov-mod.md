@@ -70,6 +70,7 @@ You may also want to read [Buffs and Debuffs, and Interactions](https://nichegam
 - Instill element bonus = 0.25 * total damage. It doesn't interact with ele aug.
 - Curse suppresses Couterhit.
 - Leaden invalidates Waterwalk.
+- Leaden prevents units from being knocked back since its icon seems quite heavy. Watch the video [here](https://www.acfun.cn/v/ac17664467_2) at around 29:20. (2020/8/30)
 
 ```
 Version: 0.963
