@@ -1,10 +1,24 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-07-03
+updated: 2020-08-30
 comments: true
 mathjax: false
 ---
+
+## Unisex refers to both sexes
+
+2020/8/30
+
+聊天时遇到了 unisex, 挺反直觉的.
+
+> The combining form **uni-** does normally mean 'one, having or consisting of one': it comes from Latin *unus* 'one'. It forms words such as **unicycle**, a term for a cycle with just one wheel, and **unicellular**, meaning 'consisting of a single cell'. And in fact the 20-volume historical *Oxford English Dictionary* contains entries for the words **unisexual**, meaning 'of one sex or relating to one sex' and **unisexuality**, meaning 'the state of being unisexual'. Both these words date back to the early 19th century.
+> 
+> **Unisex** is a much newer word: it was coined in the 1960s and originally used in relatively informal contexts. Its formation seems to have been influenced by words such as **union**, **united**, and **universal**, from which it took the sense of something that was shared. So **unisex** can be understood as referring to one thing (such as a clothing style or hairstyle) that is shared by both sexes.
+
+See [Why does unisex refer to both sexes? \| Lexico](https://www.lexico.com/explore/why-does-unisex-refer-to-both-sexes)
+
+<!-- more -->
 
 ## 一些聊天常用缩写
 
@@ -16,8 +30,6 @@ mathjax: false
 - idk: I don't know. 
 - imo: in my opinion. 大概比 imho 频繁百倍 (以我有的数据而言).
 - tbh: to be honest
-
-<!-- more -->
 
 ## Accord and Accordance
 

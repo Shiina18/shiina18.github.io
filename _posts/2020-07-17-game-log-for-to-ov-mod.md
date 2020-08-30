@@ -94,6 +94,11 @@ poisson (corrosion): 10 damage per around ? rt 9-10 (?) times in total
 regenerate: about 10 times in total
 ```
 
+### Misc
+
+- When an enemy is bound and he uses an item to recover, then this turn he won't move.
+- Enmies don't know if a unit has steadfast or not, so they always try to push back units (typically using a shield) standing near the pit. We can leverage this and deploy units with steadfast near the pit so that AI tends to use shields to hit them.
+
 ### Cheatcode generator
 
 I wrote several simple Python scripts to strengthen enemies. Below is one of them.

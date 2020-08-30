@@ -50,7 +50,7 @@ mathjax: true
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2020-08-28 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2020-07-02 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
-- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-07-03 updated)</font>
+- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-08-30 updated)</font>
 
 ### Machine Learning
 
