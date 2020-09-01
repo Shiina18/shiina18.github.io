@@ -484,5 +484,11 @@ Some strategies I came up with beforehand. Sadly the enemy is so weak that I eve
 
 In fact, the point is, to lure two dragons throwing, which costs very high RT penalty, then reset their RT forever. So in fact, the match is over when my warlock takes his second turn at around 5:00 of the video.
 
+```
+due to [lanchester laws](https://en.wikipedia.org/wiki/Lanchester%27s_laws) which can be applied in this game, shutting down a unit for 2 or 3 turns is invaluable
+even if the status is restored immediately later, you can choose the target deliberately to pass at least one of his turn
+then you make one move to pass two moves of enemies
+that's invaluable in turn-based games
+```
 
 To be continued...
