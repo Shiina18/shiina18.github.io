@@ -116,9 +116,10 @@ def skill_rank(left, right, rank=8):
     '''
     example: skill_rank(11, 11+12, 6)
     
-    then all the skill ranks of the 11th - 23rd units
-    will be set rank 6
-
+    then all the skill ranks of the 11th - 22nd units (12 in total)
+    on the field will be set rank 6,
+    and effect will remain after the battle for your own characters
+ 
     you may use it, say, when you have a party of 10 units,
     and there are 12 enemies. then all the enemy
     skill ranks will be set 6
@@ -132,9 +133,46 @@ def skill_rank(left, right, rank=8):
             loc = hex(0x005401D8 + 0x520*i + 0x6*j)
             loc = loc[:2] + '00' + loc[2:]
             print(f'_L {loc} 0x0000000{rank}')
-
-skill_rank(11, 11+12, 5)
+            
+skill_rank(11, 11+12, 6)
 ```
+
+```python
+def cur_hp(left, right, hp=1):
+    '''
+    example: cur_hp(11, 11+12, 1)
+    
+    then all the current of the 11th - 22nd units (12 in total)
+    will be set 1, and will be killed by one hit
+
+    you may use it, say, when you have a party of 10 units,
+    and there are 12 enemies. then you can sweeping them out easily.
+    used to skip some boring and repetitive maps
+
+    note that if boss is set 1 hp, then he won't be killed forever
+    while if others are set 0 hp, then they won't die forever even
+    though they have 0 hp
+    '''
+    for i in range(left-1, right-1):
+        loc = hex(0x10540140 + 0x520*i)
+        print(f'_L {loc} 0x0000000{hp}')
+
+cur_hp(11, 11+12, 1)
+```
+
+You can use `cur_hp` together with the following code to skip battles.
+
+```
+_C0 Action Infinite
+_L 0x00E3132C 0x00000000
+_L 0x00E3134C 0x00000000
+_L 0x00E3136C 0x00000000
+```
+
+Other useful codes.
+
+- [unlearn spell](https://www.tapatalk.com/groups/tactics_ogre_forums/unlearn-spell-codes-t936.html)
+- [in-battle modification](https://www.tapatalk.com/groups/tactics_ogre_forums/cwcheats-database-t964-s120.html#p31653)
 
 ## Playing Log
 
