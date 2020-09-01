@@ -1,12 +1,25 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2020-08-28
+updated: 2020-08-31
 comments: true
 mathjax: true
 ---
 
-## classmethod and staticmethod
+## @property
+
+2020/8/31
+
+> If you want private attributes and methods you can implement the **class** using *setters, getters* methods otherwise you will implement using the normal way.
+
+参考
+
+- [Python @property: How to Use it and Why? - Programiz](https://www.programiz.com/python-programming/property)
+- [Property vs. Getters and Setters in Python - DataCamp](https://www.datacamp.com/community/tutorials/property-getters-setters)
+
+<!-- more -->
+
+## @classmethod and @staticmethod
 
 2020/8/28
 
@@ -14,8 +27,6 @@ mathjax: true
 
 参考
 [Python's @classmethod and @staticmethod Explained](https://stackabuse.com/pythons-classmethod-and-staticmethod-explained/)
-
-<!-- more -->
 
 ## 字典和列表
 

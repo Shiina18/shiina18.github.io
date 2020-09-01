@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-08-30
+updated: 2020-09-01
 comments: true
 mathjax: true
 ---
@@ -69,9 +69,10 @@ You may also want to read [Buffs and Debuffs, and Interactions](https://nichegam
 - When a unit is quicken, his RT is decreased by 25% instantly. Then his total RT becomes 75% of the original until quicken expires.
 - Instill element bonus = 0.25 * total damage. It doesn't interact with ele aug.
 - Curse suppresses Couterhit.
+- Shackle doesn't suppress Counterhit.
 - Leaden invalidates Waterwalk.
 - Leaden prevents units from being knocked back since its icon seems quite heavy. Watch the video [here](https://www.acfun.cn/v/ac17664467_2) at around 29:20. (2020/8/30)
-- Leaden reduces (physical) evasion by 30% (absolute value). (2020/8/30)
+- Leaden reduces (physical) evasion by 30% (absolute value). (2020/8/30) raics: About leaden, it reduces melee evasion by 30% and ranged evasion by 40%
 
 ```
 Version: 0.963
@@ -100,6 +101,11 @@ regenerate: about 10 times in total
 
 - When an enemy is bound and he uses an item to recover, then this turn he won't move.
 - Enmies don't know if a unit has steadfast or not, so they always try to push back units (typically using a shield) standing near the pit. We can leverage this and deploy units with steadfast near the pit so that AI tends to use shields to hit them.
+- Faces
+
+![Provided by raics](https://shiina18.github.io/assets/posts/images/20200830162245957_10041.png "Provided by raics")
+
+- XX Ward / Absorb MP can be used to deal with Decoy. (2020/8/30)
 
 ### Cheatcode generator
 
@@ -402,5 +408,43 @@ Consumable counts: 6
 Enemies have higher tier gears, level and projective spell 3. Additonally, all skill ranks of enemies are raised to rank 4 by myself.
 
 Watch the video [here](https://www.acfun.cn/v/ac17664467).
+
+#### Challenge: Knight General in the Forest
+
+2020/9/1
+
+Thank severusia for sharing the save. 
+
+I build a team with her characters and vanquish the knight general (lv. 33) in the forest with a team of lv. 24-27 at the first attempt.
+
+Watch the video [here](https://www.acfun.cn/v/ac17706243).
+
+Tbh, this battle is way too easy partly because it hasn't been reworked yet. That's the reason why I have to impose many restrictions as written previously to make game worth playing.
+
+> Team
+> 
+> - defensive core: cleric, knight, white knight (can be replaced with knight), lord (can be replaced)
+> - offensive core: berserker, terror knight, blade knight (can be replaced with swordmaster), vartan
+> - controling core: warlock (rt reset), spellblade (sleeping fan + guaranteed hit), rogue (sleeping blowgun + guaranteed hit)
+> - burden: dragoon (sadly useless in this battle) 
+> 
+> classes can be replaced arbitrarily except cleric, knight and warlock, which are the best classes.
+
+Some strategies I came up with beforehand. Sadly the enemy is so weak that I even didn't have a chance to apply them. The strategy is very general and can be applied using generic classes and generic characters without grinding skill ranks and gears. 
+
+- They don't have shadwobreak/squash, Phanlanx is god.
+- High rank rampart aura is god.
+- Use silence and MP drain to dispose of healers. In high level, MP drain works very well since maximum MP is much higher.
+- Use dragoon to deal with dragons.
+- Status might be not effective since they have many healers.
+- We have level disadvantage, so the base damage overhead is typically zero. So we 'd better to choose strategies relied on extra damage rahter than base damage. 
+- Since they have tons of healers, we should rely on burst damage to finish them one by one. TK's preserved fearful impact +shadowbreak is something I used to use frequently.
+- Inflict Stun (hammer +guaranteed hit) to Full Ward enemies, then silence/slow/leaden.
+- Prevent enemies from using finishers. (ice magic, art of war, drain power, and some finishers to deal with TP)
+- Use flight (air magic) or winter siege (ice magic) to deal with rampart aura.
+- ...
+
+In fact, the point is, to lure two dragons throwing, which costs very high RT penalty, then reset their RT forever.
+
 
 To be continued...
