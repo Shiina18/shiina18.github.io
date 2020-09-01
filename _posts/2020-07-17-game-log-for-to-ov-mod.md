@@ -444,7 +444,7 @@ Some strategies I came up with beforehand. Sadly the enemy is so weak that I eve
 - Use flight (air magic) or winter siege (ice magic) to deal with rampart aura.
 - ...
 
-In fact, the point is, to lure two dragons throwing, which costs very high RT penalty, then reset their RT forever.
+In fact, the point is, to lure two dragons throwing, which costs very high RT penalty, then reset their RT forever. So in fact, the match is over when my warlock takes his second turn at around 5:00 of the video.
 
 
 To be continued...
