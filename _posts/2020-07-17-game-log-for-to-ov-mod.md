@@ -455,9 +455,9 @@ Thank severusia for sharing the save.
 
 I build a team with her characters and vanquish the knight general (lv. 33) in the forest with a team of lv. 24-27 at the first attempt.
 
-Watch the video [here](https://www.acfun.cn/v/ac17706243).
+Watch the video [here](https://www.acfun.cn/v/ac17706243). The video partly shows the reason why I have to impose so many restrictions as written previously to make game worth playing.
 
-Tbh, this battle is way too easy partly because it hasn't been reworked yet. That's the reason why I have to impose many restrictions as written previously to make game worth playing.
+Tbh, this battle is way too easy partly because it hasn't been reworked yet. 
 
 > Team
 > 
