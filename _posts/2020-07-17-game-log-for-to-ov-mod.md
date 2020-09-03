@@ -208,9 +208,13 @@ _L 0x20025C34 0x34060000
     - For example, if an enemy team consists of 11 units including 2 clerics then $N = (1+2) \times [11/3] = 3\times 3 = 9$. 
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), HP Infusion (Spellblade TP to HP), Time of Need (White Knight AOE TP to HP), Instill HP (Warlock), Kirin Blowgun, etc. 
     - Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
+    - Necros are counted as "Cleric" and N = (1 + # of enemy clerics) $\times$ [(# of initial units + 1/2 # of summoned units) / 3]. (2020/9/2)
 
 - **Consumeble Clause** - The number of times of using consumebles $\le [N/2]$.
 - **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
+- **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. (2020/9/2)
+    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
+    - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 
 ### For This Run
 
