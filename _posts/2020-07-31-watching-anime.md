@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-08-20
+updated: 2020-09-04
 comments: true
 mathjax: false
 ---
@@ -14,7 +14,7 @@ mathjax: false
 
 2020/9/4
 
-测试博客的 GIF 支持.
+一些当时看了令我印象深刻的片段. 第一次在博客使用 gif. 
 
 放浪男孩 ep. 1, 1:50 开始.
 
