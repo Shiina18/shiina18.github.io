@@ -10,6 +10,16 @@ mathjax: false
 
 <!-- more -->
 
+## 作画
+
+2020/9/4
+
+测试博客的 GIF 支持.
+
+放浪男孩 ep. 1, 1:50 开始.
+
+![](https://shiina18.github.io/assets/posts/images/20200904211203938_7446.gif)
+
 ## 制造分隔
 
 2020/8/20
