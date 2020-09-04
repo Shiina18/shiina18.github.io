@@ -91,7 +91,7 @@ for file in os.listdir(source):
 source = r'F:\vnote_notebooks\vnotebook\Blogger\Posts\images'
 target = r'F:\GitHub\shiina18.github.io\assets\posts\images'
 for file in os.listdir(source):
-    if file.endswith('.jpg') or file.endswith('.png'):
+    if file.endswith('.jpg') or file.endswith('.png') or file.endswith('.gif'):
         shutil.copyfile(os.path.join(source, file), os.path.join(target, file))
 
 # sitemap
