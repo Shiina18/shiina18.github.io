@@ -20,6 +20,10 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20200904211203938_7446.gif)
 
+破晓之翼 ep. 4, 5:10 开始.
+
+![](https://shiina18.github.io/assets/posts/images/20200904212925435_475.gif)
+
 ## 制造分隔
 
 2020/8/20
