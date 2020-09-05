@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated:
+updated: 2020-09-05
 comments: true
 mathjax: false
 ---
@@ -29,6 +29,7 @@ mathjax: false
 - [动画中的角色塑造是否需要演技？](https://www.zhihu.com/question/24637961)中 zecy 的回答
 - 演出分析日语博客: [boogyman's memo](https://boogyman.hateblo.jp/)
 - [《昨日之歌》第二话演出分析————Anitama迷你解第35期](https://www.bilibili.com/video/BV1PK4y1k7Zz)
+- 今敏讲座: [【花絮】Perfect Blue 讲座 三夜完整版【自制中字】](https://www.bilibili.com/video/BV1T4411X7AN) (2020/9/5)
 
 ## 作画
 
