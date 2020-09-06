@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-09-04
+updated: 2020-09-05
 comments: true
 mathjax: false
 ---
@@ -16,9 +16,17 @@ mathjax: false
 
 一些当时看了令我印象深刻的片段. 第一次在博客使用 gif. 
 
-放浪男孩 ep. 1, 1:50 开始.
+放浪男孩 ep. 1, 1:50 开始. 
 
 ![](https://shiina18.github.io/assets/posts/images/20200904211203938_7446.gif)
+
+作画, 演出, 声优阵容, ED 都很棒.
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=639976&auto=0&height=32"></iframe>
+
+资料留存[《放浪息子》演出分析+对动画结局的一些见解](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1124135&ordertype=2) (2020/9/5)
+
+2020/8/23
 
 破晓之翼 ep. 4, 5:10 开始.
 
