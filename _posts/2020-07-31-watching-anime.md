@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-09-05
+updated: 2020-09-06
 comments: true
 mathjax: false
 ---
@@ -9,6 +9,21 @@ mathjax: false
 换了新博客后传图方便了许多, 这是第一个多图 post.
 
 <!-- more -->
+
+## 镜面反射
+
+2020/9/6
+
+放浪男孩 ep. 9, 4:55. 用镜子把两人的 3/4 脸都表现出来了, 很有意思.
+
+![](https://shiina18.github.io/assets/posts/images/20200906192743983_26343.png)
+
+放浪男孩 ep. 1, 15:30 开始, 这一段的安排特别妙, 可以参考[《放浪息子》演出分析+对动画结局的一些见解](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1124135&ordertype=2).
+
+![](https://shiina18.github.io/assets/posts/images/20200906192629940_28275.png)
+
+资料留存: [为什么女孩子夏天可以穿超短裤，而男孩子穿短裤却被认为是没教养的行为？](https://www.zhihu.com/question/42005107/answer/93451621)
+
 
 ## 作画
 
@@ -23,8 +38,6 @@ mathjax: false
 作画, 演出, 声优阵容, ED 都很棒.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=639976&auto=0&height=32"></iframe>
-
-资料留存[《放浪息子》演出分析+对动画结局的一些见解](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1124135&ordertype=2) (2020/9/5)
 
 2020/8/23
 
