@@ -447,9 +447,15 @@ Consumable counts: 6
 
 2020/8/29
 
+0.963c
+
 Enemies have higher tier gears, level and projective spell 3. Additonally, all skill ranks of enemies are raised to rank 4 by myself.
 
-Watch the video [here](https://www.acfun.cn/v/ac17664467).
+Watch the video [here](https://www.acfun.cn/v/ac17664467). Many misplays due to the fact that I forgot to check out the action orders multiple times.
+
+#### Hagia Banhamuba at Chapter 4 Route C
+
+Watch the video [here](https://www.acfun.cn/v/ac17664467_2). It's a slightly different team, and I play better this time. You may see how carefully the dragoons are being treated and I pass my turns doing nothing sometimes just because I can't do anything that is able to bring advantages that turn.
 
 #### Challenge: Knight General in the Forest
 
