@@ -22,7 +22,10 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20200906192629940_28275.png)
 
-资料留存: [为什么女孩子夏天可以穿超短裤，而男孩子穿短裤却被认为是没教养的行为？](https://www.zhihu.com/question/42005107/answer/93451621)
+资料留存: 
+
+- [为什么女孩子夏天可以穿超短裤，而男孩子穿短裤却被认为是没教养的行为？](https://www.zhihu.com/question/42005107/answer/93451621)
+- [【SP】「放浪息子」的幕后 【生肉】](https://www.bilibili.com/video/BV12s41197j9?from=search&seid=7889258492001650423)
 
 
 ## 作画
@@ -37,7 +40,7 @@ mathjax: false
 
 作画, 演出, 声优阵容, ED 都很棒.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=639976&auto=0&height=32"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=4923752&auto=0&height=32"></iframe>
 
 2020/8/23
 
