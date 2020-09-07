@@ -8,7 +8,7 @@ mathjax: true
 ## Categories
 
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(4)</font>
-- [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(5)</font>
+- [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(3)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
@@ -29,7 +29,8 @@ mathjax: true
 
 ### Anime
 
-- 2020-09-05 [向山进发 S03E10](https://shiina18.github.io/anime/2020/09/05/yamasusu-se03ep10)
+- 2020-09-07 [放浪男孩 第 5 话 对话演出分析](https://shiina18.github.io/anime/2020/09/07/houmu-e05)
+- 2020-09-05 [向山进发 第 3 季 第 10 话](https://shiina18.github.io/anime/2020/09/05/yamasusu-se03ep10)
 - 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-09-06 updated)</font>
 - 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2020-09-05 updated)</font>
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)

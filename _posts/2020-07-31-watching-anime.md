@@ -18,7 +18,7 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20200906192743983_26343.png)
 
-放浪男孩 ep. 1, 15:30 开始, 这一段的安排特别妙, 可以参考[《放浪息子》演出分析+对动画结局的一些见解](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1124135&ordertype=2).
+放浪男孩 ep. 1, 15:00 开始, 这一段的安排特别妙, 可以参考[《放浪息子》演出分析+对动画结局的一些见解](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1124135&ordertype=2).
 
 ![](https://shiina18.github.io/assets/posts/images/20200906192629940_28275.png)
 
