@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2020-09-08
+updated: 2020-09-10
 comments: true
 mathjax: false
 ---
@@ -53,4 +53,5 @@ mathjax: false
 - 动画考据: [叶佳桐](https://space.bilibili.com/25195981/)
 - 动画公司历史: [JK低手鱼太](https://space.bilibili.com/904827/) 动画公司图鉴系列
 - [没什么卵用的术语——日本动画常用术语翻译](https://zhuanlan.zhihu.com/p/20331802)
-- 知乎专栏: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
+- (非日本动画的) 动画史: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
+- 作品分析翻译 (包含视频和文章, sakugabooru 的文章): [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
