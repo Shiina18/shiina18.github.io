@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-09-06
+updated: 2020-09-10
 comments: true
 mathjax: false
 ---
@@ -9,6 +9,14 @@ mathjax: false
 换了新博客后传图方便了许多, 这是第一个多图 post.
 
 <!-- more -->
+
+## 光与暗
+
+2020/9/10
+
+放浪男孩 ep. 12 末尾. 人物先停在暗处, 然后猛地抬头, 镜头切换到脚步特写, 迈一步走向光明, 并步, 驻足, 双脚皆暴露在灯光下, 象征意义不言而喻. 动画在此处戛然而止, 恰到好处.
+
+![](https://shiina18.github.io/assets/posts/images/20200910092235319_29722.png)
 
 ## 镜面反射
 
@@ -26,6 +34,8 @@ mathjax: false
 
 - [为什么女孩子夏天可以穿超短裤，而男孩子穿短裤却被认为是没教养的行为？](https://www.zhihu.com/question/42005107/answer/93451621)
 - [【SP】「放浪息子」的幕后 【生肉】](https://www.bilibili.com/video/BV12s41197j9?from=search&seid=7889258492001650423)
+- 第一话末尾台词出处: [What Are Little Boys Made Of](https://en.wikipedia.org/wiki/What_Are_Little_Boys_Made_Of%3F) (2020/9/10)
+- 第一话 BGM 分析: [放浪息子与爱](https://www.bilibili.com/video/BV1NE411c7iF?from=search&seid=636180212045910543) (2020/9/10)
 
 
 ## 作画
@@ -54,7 +64,7 @@ mathjax: false
 
 DECA-DENCE (没落要塞) ep. 7, 14:35 开始.
 
-隔阂以及走向背光. 之后接了两个倾斜镜头. 顺便关了门.
+隔阂以及走向背光. 之后接了两个倾斜镜头. 顺便关了门. 这里机位非常规, 意图明显.
 
 ![](https://shiina18.github.io/assets/posts/images/20200820194955162_2622.png)
 
