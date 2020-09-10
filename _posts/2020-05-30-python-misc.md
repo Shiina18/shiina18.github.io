@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2020-08-31
+updated: 2020-09-09
 comments: true
 mathjax: true
 ---
@@ -82,9 +82,41 @@ Multiprocessing allows you to create programs that can run concurrently (bypassi
 
 对于 list 而言, `+=` 几乎等价于 `extend`, 只是后者是一次函数调用.
 
+一个 corner case (2020/9/9)
+
+```python
+>>> t = (0, [1, 2])
+>>> t[1] += [3]
+'''
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    t[1] += [3]
+TypeError: 'tuple' object does not support item assignment
+'''
+>>> t
+(0, [1, 2, 3])
+>>> dis.dis('t[1] += [3]')
+'''
+  1           0 LOAD_NAME                0 (t)
+              2 LOAD_CONST               0 (1)
+              4 DUP_TOP_TWO
+              6 BINARY_SUBSCR
+              8 LOAD_CONST               1 (3)
+             10 BUILD_LIST               1
+             12 INPLACE_ADD
+             14 ROT_THREE
+             16 STORE_SUBSCR
+             18 LOAD_CONST               2 (None)
+             20 RETURN_VALUE
+'''
+```
+
+关键在于这并不是一个原子操作, 先对列表原地做完扩充后, 还有一个赋值动作 `STORE_SUBSCR`, 此处报错. 如果换成 extend 就没有这个赋值动作, 不会报错.
+
 参考
 - [python - Different behaviour for `list.__iadd__` and `list.__add__` - Stack Overflow](https://stackoverflow.com/questions/9766387/different-behaviour-for-list-iadd-and-list-add)
 - [python - Concatenating two lists - difference between '+=' and extend() - Stack Overflow](https://stackoverflow.com/questions/3653298/concatenating-two-lists-difference-between-and-extend)
+- Ramalho, L. (2015). *Fluent python: Clear, concise, and effective programming*. " O'Reilly Media, Inc.". pp. 40-42.
 
 ## UnboundLocalError
 
