@@ -56,7 +56,7 @@ Multiprocessing allows you to create programs that can run concurrently (bypassi
 - [Multiprocessing vs. Threading in Python: What you need to know.](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 - [Intro to Threads and Processes in Python \| by Brendan Fortuner \| Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 
-## `+=`
+## `+=` and `extend`
 
 2020/6/9
 
@@ -111,7 +111,7 @@ TypeError: 'tuple' object does not support item assignment
 '''
 ```
 
-关键在于这并不是一个原子操作, 先对列表原地做完扩充后, 还有一个赋值动作 `STORE_SUBSCR`, 此处报错. 如果换成 extend 就没有这个赋值动作, 不会报错.
+关键在于这并不是一个原子操作, 先对列表原地做完扩充后, 还有一个赋值动作 `STORE_SUBSCR`, 此处报错. 如果换成 `extend` 就没有这个赋值动作, 不会报错.
 
 参考
 - [python - Different behaviour for `list.__iadd__` and `list.__add__` - Stack Overflow](https://stackoverflow.com/questions/9766387/different-behaviour-for-list-iadd-and-list-add)
