@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-09-01
+updated: 2020-09-14
 comments: true
 mathjax: true
 ---
@@ -292,6 +292,8 @@ Equipment with AGI bonus is favored since Berserker already has fewest attacking
 The reason is the same as Warrior's. And Throwing Weapon deals more damage than other 1-H ranged weapons.
 
 Beast Tamers are much tougher than archers, so they can stand at more dangerous places.
+
+Another import reason for using throwing weapons is that, ideally tamers should use one skill every turn, and using a ranged weapon allows them to find a better position for both attacking and utilizing skills in one turn. (2020/9/14)
 
 - **Air Dragon**
 

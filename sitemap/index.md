@@ -31,7 +31,7 @@ mathjax: true
 
 - 2020-09-07 [放浪男孩 第 5 话 对话演出分析](https://shiina18.github.io/anime/2020/09/07/houmu-e05)
 - 2020-09-05 [向山进发 第 3 季 第 10 话](https://shiina18.github.io/anime/2020/09/05/yamasusu-se03ep10)
-- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-09-10 updated)</font>
+- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-09-13 updated)</font>
 - 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2020-09-10 updated)</font>
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu)
@@ -43,8 +43,8 @@ mathjax: true
 
 ### Games
 
-- 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-09-01 updated)</font>
-- 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-09-08 updated)</font>
+- 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-09-14 updated)</font>
+- 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-09-14 updated)</font>
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2020-03-25 updated)</font>
 
 ### Language

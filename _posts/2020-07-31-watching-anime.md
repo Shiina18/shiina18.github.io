@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-09-10
+updated: 2020-09-13
 comments: true
 mathjax: false
 ---
@@ -9,6 +9,22 @@ mathjax: false
 换了新博客后传图方便了许多, 这是第一个多图 post.
 
 <!-- more -->
+
+## 杂项
+
+2020/9/13
+
+KILL la KILL (斩服少女) ep. 5, 15:00 开始, 女性四天王乃音初战时用古典乐衬托暴力场景, 让人不由想到了《发条橙》. 
+
+2020/9/12
+
+一个发现.
+
+- 看过的上世纪动画中, staff 都是脚本/分镜/演出之类的职位打头.
+- 10 年左右的动画有部分是声优打头.
+- 今年的新番应该都是清一色 cast 打头.
+
+这大概就是声优偶像化的结果之一吧.
 
 ## 光与暗
 
@@ -63,6 +79,14 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/20200904212925435_475.gif)
 
 ## 制造分隔
+
+2020/9/13
+
+KILL la KILL (斩服少女) ep. 7, 11:05 开始.
+
+吊灯分割了人物, 并且将流子封闭了起来.
+
+![](https://shiina18.github.io/assets/posts/images/20200913104757372_13595.png)
 
 2020/8/20
 
