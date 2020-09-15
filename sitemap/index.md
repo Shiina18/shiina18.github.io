@@ -13,7 +13,7 @@ mathjax: true
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(3)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(4)</font>
-- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(4)</font>
+- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(1)</font>
 
@@ -67,6 +67,7 @@ mathjax: true
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
 - 2019-09-14 [Lights-Out](https://shiina18.github.io/mathematics/2019/09/14/lights-out)
 - 2019-09-13 [Super Egg Drop](https://shiina18.github.io/mathematics/2019/09/13/super-egg-drop)
+- 2019-03-07 [用 SVD 进行图像压缩](https://shiina18.github.io/mathematics/2019/03/07/svd) <font color="lightgrey">(2020-09-15 updated)</font>
 
 ### Miscellanea
 
