@@ -31,7 +31,7 @@ $$
 由于
 
 $$
-Z_i = \sigma_{k=1}^p v_{ik}X_k.
+Z_i = \sum_{k=1}^p v_{ik}X_k.
 $$
 
 若 $\sigma_i$ 小, 意味着 $Z_i$ 接近零, 那么 $X_k$ 近似线性相关. (事实上, 这导致 $X'X$ 的逆 ill-conditioned.)
