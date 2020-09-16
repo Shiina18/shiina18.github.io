@@ -15,7 +15,7 @@ mathjax: true
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(4)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
-- [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(1)</font>
+- [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(2)</font>
 
 ## Posts
 
@@ -77,4 +77,5 @@ mathjax: true
 
 ### Statistics
 
+- 2020-09-16 [多重共线性](https://shiina18.github.io/statistics/2020/09/16/multicollinearity)
 - 2019-11-08 [Bootstrap 失效的一个例子](https://shiina18.github.io/statistics/2019/11/08/bootstrap-fail)
