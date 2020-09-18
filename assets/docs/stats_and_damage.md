@@ -3,7 +3,7 @@
 Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.pdf and raics' damage calculator
 
 - **[STR] Strength**
-  - 0.9 BASE ATTACK (OFFENSE) with str-based weapons per point (0.7 for equipment bonuses) the italic part is omitted below
+  - 0.9 BASE ATTACK (OFFENSE) with str-based weapons *per point* (0.7 *for equipment bonuses*) the italic part is omitted below
   - 0.7 BASE ATTACK with dex-based weapons (0.5) 
   - 0.7 BASE DEFENSE (TOUGHNESS) (0.5)
 - **[VIT] Vitality**
@@ -19,7 +19,7 @@ Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.
   - 1.2% EVADE (1%)  
   - 1.2% EVADE MAGIC (1%)  
 - **[INT] Intelligence**  
-  - 1 MAGIC ATTACK (same)  
+  - 1 MAGIC ATTACK (1)  
   - 1.2% SPELL ACCURACY (0.8)  
 - **[MND] Mind**  
   - 0.9 MAGIC ATTACK (0.6)  
@@ -27,7 +27,7 @@ Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.
   - 1.2% SPELL ACCURACY (1%)  
   - 0.8% EVADE MAGIC (0.5%)  
 - **[RES] Resistance**  
-  - 1 MAGIC DEFENSE (same) 
+  - 1 MAGIC DEFENSE (1) 
 
 A simplified version for damage calculation
 
