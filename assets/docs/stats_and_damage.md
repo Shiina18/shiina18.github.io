@@ -20,11 +20,11 @@ Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.
   - 1.2% EVADE MAGIC (1%)  
 - **[INT] Intelligence**  
   - 1 MAGIC ATTACK (1)  
-  - 1.2% SPELL ACCURACY (0.8)  
+  - 1.2% MAGIC ACCURACY (0.8%)  
 - **[MND] Mind**  
   - 0.9 MAGIC ATTACK (0.6)  
   - 0.8 MAGIC DEFENSE (0.6)  
-  - 1.2% SPELL ACCURACY (1%)  
+  - 1.2% MAGIC ACCURACY (1%)  
   - 0.8% EVADE MAGIC (0.5%)  
 - **[RES] Resistance**  
   - 1 MAGIC DEFENSE (1) 
