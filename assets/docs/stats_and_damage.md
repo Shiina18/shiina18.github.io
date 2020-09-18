@@ -2,7 +2,7 @@
 
 Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.pdf and raics' damage calculator
 
-- **[STR] Strength **
+- **[STR] Strength**
   - 0.9 BASE ATTACK (OFFENSE) with str-based weapons per point (0.7 for equipment bonuses) the italic part is omitted below
   - 0.7 BASE ATTACK with dex-based weapons (0.5) 
   - 0.7 BASE DEFENSE (TOUGHNESS) (0.5)
