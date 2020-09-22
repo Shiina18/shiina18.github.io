@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-09-14
+updated: 2020-09-18
 comments: true
 mathjax: true
 ---
@@ -73,6 +73,7 @@ You may also want to read [Buffs and Debuffs, and Interactions](https://nichegam
 - Leaden invalidates Waterwalk.
 - Leaden prevents units from being knocked back since its icon seems quite heavy. Watch the video [here](https://www.acfun.cn/v/ac17664467_2) at around 29:20. (2020/8/30)
 - Leaden reduces (physical) evasion by 30% (absolute value). (2020/8/30) raics: About leaden, it reduces melee evasion by 30% and ranged evasion by 40%
+- Stun also reduces evasion, read more on [小ネタ・裏技 - タクティクスオウガ 運命の輪 攻略Wiki](http://masterwiki.net/tacticsogre/?%BE%AE%A5%CD%A5%BF%A1%A6%CE%A2%B5%BB#l4ad1fd8) (2020/9/14)
 
 ```
 Version: 0.963
@@ -106,6 +107,7 @@ regenerate: about 10 times in total
 ![Provided by raics](https://shiina18.github.io/assets/posts/images/20200830162245957_10041.png "Provided by raics")
 
 - XX Ward / Absorb MP can be used to deal with Decoy. (2020/8/30)
+- [Damage calculation manual](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/docs/stats_and_damage.md) (2020/9/18)
 
 ### Cheatcode generator
 

@@ -12,7 +12,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(3)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
-- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(4)</font>
+- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(5)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(2)</font>
@@ -43,7 +43,7 @@ mathjax: true
 
 ### Games
 
-- 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-09-14 updated)</font>
+- 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-09-18 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-09-14 updated)</font>
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2020-03-25 updated)</font>
 
@@ -60,6 +60,7 @@ mathjax: true
 - 2020-08-15 [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
 - 2020-08-09 [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
 - 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
+- 2019-06-15 [从提升树到 XGBoost, 原理简介](https://shiina18.github.io/machine%20learning/2019/06/15/xgb) <font color="lightgrey">(2020-09-22 updated)</font>
 
 ### Mathematics
 
