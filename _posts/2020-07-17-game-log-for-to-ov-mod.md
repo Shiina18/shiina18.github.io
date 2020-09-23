@@ -1,9 +1,9 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-09-18
+updated: 2020-09-23
 comments: true
-mathjax: true
+mathjax: false
 ---
 
 ## Review on Tactics Ogre Vanilla
@@ -185,19 +185,36 @@ The following clauses aim at making the game more difficult. This is called「�
 > 様々な要素からゲームを今クリアするだけなら難易度が低いゲームに対し、自主的な制限をつけることで敢えて難易度を引き上げ、やりごたえのあるゲームを自ら作り上げる、と言うのが縛りプレイの主な趣旨である。Source: [ニコニコ大百科](https://dic.nicovideo.jp/a/%E7%B8%9B%E3%82%8A%E3%83%97%E3%83%AC%E3%82%A4)
 
 - **Class Clause**
-    - The player cannot have two units with the same class on a team.
-    - A team cannot have more than three units with special classes. Any wingedman is counted as special no matter what class he is.
-    - Denam must be Warrior. 
+    - The player cannot have two units with the same class on a team. 
+        - All kinds of dragons are counted as one class.
+    - A team cannot have more than three units with special (unique) classes. Any wingedman and monster is counted as special no matter what class he is.
+    - Denam must be Warrior.
+- **Weapon Clause**
+    - The player cannot have "same" types of weapons on a team unless dual wielding. 
+        - Sidegrades are counted as a different types.
+        - Blowguns and Throwing Weapons are counted as different types.
+        - For example, if one unit uses a fist, then others can't use fists (however, a fist sidegrade can still be used).
 - **Objection Clause**
     - If there are reinforcements,
-        - the boss can only be killed when (1) reinforcements run out and (2) $\text{# of enemies} \le\min\\{5, \text{# of allies}\\}$ (since killing Knights and Golems might be too time consuming);
+        - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
     - Else,
         - the boss can only be killed when other enemies are killed.
+- **Incap Clause** - Incapacitated units must be teleported out before three countdowns run out.
+- **Heal Clause** - The number of times of using healing magic, skills and weapons <= (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [n] is the integer part of n.
+    - For example, if an enemy team consists of 11 units including 2 clerics then N = (1+2) x [11/3] = 3 x 3 = 9. 
+    - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), HP Infusion (Spellblade TP to HP), Time of Need (White Knight AOE TP to HP), Instill HP (Warlock), Kirin Blowgun, etc. 
+    - Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Feral Remedy (human HP to monster HP) is also not included. Drain Heart (Dark) and magic like that which drains HP from others are not included. 
+    - Necros are counted as "Cleric" and N = (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
+- **Consumable Clause** - The number of times of using consumebles <= [N/2].
+- **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
+- **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
+    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
+    - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 - **Grinding Clause**
     - Grinding for experience is not allowed.
-    - Highest level in player's party $\le$ lowest level in enemies.
+    - Highest level in player's party <= lowest level in enemies.
 - **Tarot Clause**
-    - No Chariot Tarot for retracing steps. 
+    - No Chariot Tarot. 
     - No Tarot card stat bonus.
 
 ```
@@ -206,17 +223,7 @@ _L 0x20025C28 0x34060000
 _L 0x20025C34 0x34060000
 ```
 
-- **Heal Clause** - The number of times of using healing magic, skills and weapons $\le$ (1 + # of enemy clerics) $\times$ [# of total enemy units / 3]. And this upper bound is denoted as $N$. 
-    - For example, if an enemy team consists of 11 units including 2 clerics then $N = (1+2) \times [11/3] = 3\times 3 = 9$. 
-    - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), HP Infusion (Spellblade TP to HP), Time of Need (White Knight AOE TP to HP), Instill HP (Warlock), Kirin Blowgun, etc. 
-    - Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
-    - Necros are counted as "Cleric" and N = (1 + # of enemy clerics) $\times$ [(# of initial units + 1/2 # of summoned units) / 3]. (2020/9/2)
-
-- **Consumeble Clause** - The number of times of using consumebles $\le [N/2]$.
-- **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
-- **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. (2020/9/2)
-    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
-    - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
+If you are interested, you may download some saves [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges) to do some challenges. (2020/9/23)
 
 ### For This Run
 
@@ -237,7 +244,7 @@ To make the game further harder, I would only use classes available at the very 
 
 - **Warrior (Denam)** Spear with range 2-3
 
-**For classes without magic, it is essential to have high attack range so that the unit can have more opportunities to make an impact on the battlefield.** To give some insight, suppose the move range + attack range = $n$, then the attainable area is $2n^2 + 2n + 1$, ignoring terrain. In this case, move range 5 + attack range 3 = 8, attainable area = 145; while if $n=5+1=6$, then attainable area = 85, which is way smaller.
+**For classes without magic, it is essential to have high attack range so that the unit can have more opportunities to make an impact on the battlefield.** To give some insight, suppose the move range + attack range = n, then the attainable area is 2n^2 + 2n + 1, ignoring terrain. In this case, move range 5 + attack range 3 = 8, attainable area = 145; while if n=5+1=6, then attainable area = 85, which is way smaller.
 
 In order to employ class skills, melee weapons are favored. So a spear with range 2-3 is chosen.
 
