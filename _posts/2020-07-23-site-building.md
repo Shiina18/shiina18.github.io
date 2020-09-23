@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated: 2020-08-17
+updated: 2020-09-23
 comments: true
 mathjax: false
 ---
@@ -36,6 +36,7 @@ mathjax: false
 ### 其他已经发现的 bug
 
 - 长 code block 在手机端会被截断, 只能显示前 66 行.
+- 一行中有多个 inline math, 里面有 `_` 的场合, 依然会被编译成斜体, 在 `_` 两边加空格可以解决. (2020/9/23)
 
 ### 其他想修正的点
 
