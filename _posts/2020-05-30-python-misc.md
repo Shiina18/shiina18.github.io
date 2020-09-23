@@ -1,10 +1,21 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2020-09-09
+updated: 2020-09-22
 comments: true
 mathjax: true
 ---
+
+## 'import module' vs. 'from module import function'
+
+2020/9/22
+
+> Importing the module doesn't waste *anything*; the module is always *fully* imported (into the `sys.modules` mapping), so wether you use `import sys` or `from sys import argv` makes no odds.
+>
+>In a *large* module, I'd certainly use `import sys`; code documentation matters, and using `sys.argv` somewhere in a large module makes it much clearer what you are referring to than just `argv` ever would.
+
+参考
+[python - 'import module' vs. 'from module import function' - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/187403/import-module-vs-from-module-import-function)
 
 ## @property
 
