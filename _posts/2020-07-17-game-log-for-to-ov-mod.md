@@ -130,12 +130,13 @@ def skill_rank(left, right, rank=8):
     a party of 10 units and a guest, the guest may not be
     the 11th unit
     '''
+    print(f'_C0 No.{left}-{right-1} units on field all skills rank {rank}')
     for i in range(left-1, right-1):
         for j in range(10):
             loc = hex(0x005401D8 + 0x520*i + 0x6*j)
             loc = loc[:2] + '00' + loc[2:]
             print(f'_L {loc} 0x0000000{rank}')
-            
+
 skill_rank(11, 11+12, 6)
 ```
 
