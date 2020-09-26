@@ -175,6 +175,29 @@ _L 0x00E3134C 0x00000000
 _L 0x00E3136C 0x00000000
 ```
 
+```python
+def max_hp(units, hp=999):
+    '''
+    example: max_hp([1, 13, 15], hp=777)
+
+    Then the 1st, 13th and 15th units on the battle field have 777HP.
+    Can be used to buff enemies to make game harder.
+
+    This one is trickier to use.
+    You must turn on it first, then quick save,
+    turn it off, finally load quick save.
+    Better follow the tutorial.
+    '''
+    print(f'_C0 No.{units} units on field HP {hp}')
+    hp = hex(hp)[2:]
+    hp = '0'*(3-len(hp)) + hp
+    for u in units:
+        print(f'_L {hex(0x10540140+0x520*(u-1))} 0x00000{hp}')
+        print(f'_L {hex(0x10540146+0x520*(u-1))} 0x00000{hp}')
+
+max_hp([14, 15, 16, 17, 18], 999)
+```
+
 Other useful codes.
 
 - [unlearn spell](https://www.tapatalk.com/groups/tactics_ogre_forums/unlearn-spell-codes-t936.html)
