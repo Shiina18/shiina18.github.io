@@ -113,6 +113,8 @@ regenerate: about 10 times in total
 
 I wrote several simple Python scripts to strengthen enemies. Below is one of them.
 
+[Tutorial](https://www.youtube.com/watch?v=JczBuTaADOI&list=PLe9SLfIN-tRglEfG7RnN7vex68fE2asdD)
+
 ```python
 def skill_rank(left, right, rank=8):
     '''
@@ -156,6 +158,7 @@ def cur_hp(left, right, hp=1):
     while if others are set 0 hp, then they won't die forever even
     though they have 0 hp
     '''
+    print(f'_C0 No.{left}-{right-1} units on field HP {hp}')
     for i in range(left-1, right-1):
         loc = hex(0x10540140 + 0x520*i)
         print(f'_L {loc} 0x0000000{hp}')
