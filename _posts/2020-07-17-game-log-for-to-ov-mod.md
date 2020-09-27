@@ -230,11 +230,11 @@ Check [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges)
         - the boss can only be killed when other enemies are killed.
 - **Incap Clause** - Incapacitated units must be teleported out before three countdowns run out.
 - **Heal Clause** - The number of times of using consumebles, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [n] is the integer part of n.
-    - For example, if an enemy team consists of 11 units including 2 clerics then N = (1+2) x [11/3] = 3 x 3 = 9. 
+    - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5. 
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
     - Half a heal. Actions that use TP and are not AOE are counted as half a heal, e.g. Feral Remedy. Kirin Blowgun is also counted as half.  (2020/9/27)
-    - Necros are counted as "Cleric" and N = (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
+    - Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - ~~**Consumable Clause** - The number of times of using consumebles <= [N/2].~~ (2020/9/27: Heal and consumable quotas are combined.)
 - **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
