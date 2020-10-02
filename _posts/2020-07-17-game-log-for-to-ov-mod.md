@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-09-27
+updated: 2020-09-30
 comments: true
 mathjax: false
 ---
@@ -108,6 +108,13 @@ regenerate: about 10 times in total
 
 - XX Ward / Absorb MP can be used to deal with Decoy. (2020/8/30)
 - [Damage calculation manual](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/docs/stats_and_damage.md) (2020/9/18)
+
+2020/9/30
+- [小ネタ・裏技 - タクティクスオウガ 運命の輪 攻略Wiki](http://masterwiki.net/tacticsogre/?%BE%AE%A5ͥ%BF%A1%A6΢%B5%BB#l4ad1fd8)
+- Stun reduces evasion by 20%, both melee and ranged.
+- Bad weather also affects melee acc.
+- Monsters' heights are 3 and can serve stepping stones for allies, so jump skill is essential to make use of this.
+- Monsters can attack 3 height higher units, rather than 2 height higher as normal units.
 
 ### Cheatcode generator
 
