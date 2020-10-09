@@ -115,6 +115,7 @@ regenerate: about 10 times in total
 - Bad weather also affects melee acc.
 - Monsters' heights are 3 and can serve stepping stones for allies, so jump skill is essential to make use of this.
 - Monsters can attack 3 height higher units, rather than 2 height higher as normal units.
+- Rampart aura is active on tiles with elve difference <= 3.
 
 ### Cheatcode generator
 

@@ -11,7 +11,7 @@ mathjax: false
 
 — 从一到无穷大, 刘兵 (代序)
 
-**/2020/7/10**
+**2020/7/10**
 
 The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
 
