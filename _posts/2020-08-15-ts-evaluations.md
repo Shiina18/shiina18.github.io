@@ -2,6 +2,8 @@
 title: "Some Evaluations for Time Series Forecasting"
 categories: 
 - Machine Learning
+tags:
+- Time Series
 updated:
 comments: true
 mathjax: true

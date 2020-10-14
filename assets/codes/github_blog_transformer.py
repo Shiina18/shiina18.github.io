@@ -131,7 +131,8 @@ for post in os.listdir(source):
                 elif line.startswith('updated'):
                     cur_post.updated = line[8:].strip().strip('"')
                 elif cat_flag and line.startswith('-'):
-                    cur_post.cat = line[2:].strip().strip('"')
+                    cur_post.cat = line[2:].strip().strip('"')  # only single category is supported
+                    cat_flag = 0
         cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link))
 
 site = 'https://shiina18.github.io'           

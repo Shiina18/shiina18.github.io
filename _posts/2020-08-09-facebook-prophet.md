@@ -2,6 +2,8 @@
 title: "Intro to Facebook Prophet"
 categories: 
 - Machine Learning
+tags:
+- Time Series
 updated: 2020-08-17
 comments: true
 mathjax: true
