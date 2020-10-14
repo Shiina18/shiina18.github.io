@@ -60,7 +60,7 @@ mathjax: true
 - 2020-08-15 [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
 - 2020-08-09 [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
 - 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
-- 2019-06-15 [从提升树到 XGBoost, 原理简介](https://shiina18.github.io/machine%20learning/2019/06/15/xgb) <font color="lightgrey">(2020-09-22 updated)</font>
+- 2019-06-15 [从提升树到 XGBoost, 原理简介](https://shiina18.github.io/machine%20learning/2019/06/15/xgb) <font color="lightgrey">(2020-10-14 updated)</font>
 
 ### Mathematics
 
