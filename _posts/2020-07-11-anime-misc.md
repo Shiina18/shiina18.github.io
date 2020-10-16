@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2020-09-10
+updated: 2020-10-16
 comments: true
 mathjax: false
 ---
@@ -42,6 +42,7 @@ mathjax: false
 - 博客: [未知的深蓝色](http://blog.sina.cn/dpool/blog/aoimishi#type=-1). 包含 GAINAX 动画讲义译文.
 - 作画分析英语博客: [Sakuga Blog – The Art of Japanese Animation](https://blog.sakugabooru.com/). 就是那个有名的 SAKUGABOORU 的博客.
 - [artist_unknown: Collective blog by members of the sakuga community](https://artistunknown.info/)
+- [京都动画作画手册](https://shiina18.github.io/assets/docs/京都动画作画手册.pdf) (2020/10/16)
 
 ## 其他
 

@@ -5,11 +5,13 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2020-08-17
+Last Updated on 2020-10-14
 
 休闲向博客. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
 
-您可以在 [sitemap](https://shiina18.github.io/sitemap/) 页面查看本站目录. 页面右上角的 `Search` 可以站内搜索. 
+您可以在 [sitemap](https://shiina18.github.io/sitemap/) 页面查看本站目录. 每篇文章只有一个 category, 部分文章有 tags 作为专题标识, 您可以在 [tags](https://shiina18.github.io/tags/) 页面查看现有的专题.
+
+页面右上角的 `Search` 可以站内搜索. 
 
 建站记录见 [这里](https://shiina18.github.io/miscellanea/2020/07/23/site-building/).
 

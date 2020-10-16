@@ -1,7 +1,7 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-09-30
+updated: 2020-10-16
 comments: true
 mathjax: false
 ---
@@ -558,3 +558,5 @@ that's invaluable in turn-based games
 ```
 
 To be continued...
+
+See [Tactics Ogre One Vision Mod Challenges](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges) for further updates. (2020/10/16)
