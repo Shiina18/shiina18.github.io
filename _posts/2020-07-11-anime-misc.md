@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2020-10-16
+updated: 2020-10-17
 comments: true
 mathjax: false
 ---
@@ -13,6 +13,7 @@ mathjax: false
 - [制作一部动画需要多少种分工？](https://www.zhihu.com/question/22028700/answer/20120365)
 - [日本动画中的摄影是一个什么样的岗位？](https://www.zhihu.com/question/24787555/answer/28993271)
 - 动画方面主要推荐两个人, 值得看的内容很多: anitama (各平台, 核心人物是 nbht), zecy (知乎)
+- [京都动画作画手册](https://shiina18.github.io/assets/docs/京都动画作画手册.pdf) (2020/10/16)
 
 <!-- more -->
 
@@ -42,7 +43,6 @@ mathjax: false
 - 博客: [未知的深蓝色](http://blog.sina.cn/dpool/blog/aoimishi#type=-1). 包含 GAINAX 动画讲义译文.
 - 作画分析英语博客: [Sakuga Blog – The Art of Japanese Animation](https://blog.sakugabooru.com/). 就是那个有名的 SAKUGABOORU 的博客.
 - [artist_unknown: Collective blog by members of the sakuga community](https://artistunknown.info/)
-- [京都动画作画手册](https://shiina18.github.io/assets/docs/京都动画作画手册.pdf) (2020/10/16)
 
 ## 其他
 
@@ -55,4 +55,5 @@ mathjax: false
 - 动画公司历史: [JK低手鱼太](https://space.bilibili.com/904827/) 动画公司图鉴系列
 - [没什么卵用的术语——日本动画常用术语翻译](https://zhuanlan.zhihu.com/p/20331802)
 - (非日本动画的) 动画史: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
-- 作品分析翻译 (包含视频和文章, sakugabooru 的文章): [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
+- 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
+- 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
