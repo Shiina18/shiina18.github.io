@@ -1,10 +1,22 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-08-30
+updated: 2020-10-20
 comments: true
 mathjax: false
 ---
+
+## 杂项
+
+2020/10/20
+
+> If you introduce someone to something, you cause them to learn about it or experience it for the first time. 使初次接触
+
+一开始读到愣了一愣, 因为直觉上应该是 introduce sth to sb.
+
+2020/9/27
+
+游戏中的脆皮叫 squishy, 而不是 squashy. 这两个词字典意思上并没有什么区别, 但是游戏俚语中就是用前者.
 
 ## Unisex refers to both sexes
 
@@ -105,5 +117,5 @@ People are more likely to say:
 翻了一下手头的 OALD 第 6 版 (零几年出版的), shall 词条和第 9 版是一样的. 但我记得我中学的时候确实有学过区分 shall 和 will, 不然也不会出现开头的迟疑... (2019/9/9)
 
 参考
-- [English Dictionary, Thesaurus, & Grammar Help \| Lexico.com](https://www.lexico.com)
+- [Lexico](https://www.lexico.com)
 - Hornby, A.S. (2015). *Oxford Advanced Learner's Dictionary* (9th edition).  Oxford: Oxford University Press.

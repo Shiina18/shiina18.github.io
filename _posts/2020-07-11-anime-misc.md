@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2020-10-17
+updated: 2020-10-19
 comments: true
 mathjax: false
 ---
@@ -57,3 +57,11 @@ mathjax: false
 - (非日本动画的) 动画史: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
 - 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
+- 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
+
+## 漫画
+
+2020/10/19
+
+- 《重版出来》
+- [漫画分镜基础解说系列](https://zhuanlan.zhihu.com/p/166424437)
