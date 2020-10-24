@@ -52,7 +52,7 @@ Magic damage is similar
 
 - MAGIC ATTACK = BASE ATTACK
 - MAGIC DEFENSE = BASE DEF
-- SPELL INATE ATTACK = WEAPON ATTACK
+- **EXTRA DAMAGE = SPELL INATE ATTACK** (different from the physical formula)
 - EXTRA DEF is the same with the physical
 
 etc.

@@ -18,6 +18,8 @@ mathjax: false
 
 游戏中的脆皮叫 squishy, 而不是 squashy. 这两个词字典意思上并没有什么区别, 但是游戏俚语中就是用前者.
 
+<!-- more -->
+
 ## Unisex refers to both sexes
 
 2020/8/30
@@ -29,8 +31,6 @@ mathjax: false
 > **Unisex** is a much newer word: it was coined in the 1960s and originally used in relatively informal contexts. Its formation seems to have been influenced by words such as **union**, **united**, and **universal**, from which it took the sense of something that was shared. So **unisex** can be understood as referring to one thing (such as a clothing style or hairstyle) that is shared by both sexes.
 
 See [Why does unisex refer to both sexes? \| Lexico](https://www.lexico.com/explore/why-does-unisex-refer-to-both-sexes)
-
-<!-- more -->
 
 ## 一些聊天常用缩写
 

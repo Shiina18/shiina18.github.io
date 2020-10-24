@@ -113,7 +113,7 @@ regenerate: about 10 times in total
 - [小ネタ・裏技 - タクティクスオウガ 運命の輪 攻略Wiki](http://masterwiki.net/tacticsogre/?%BE%AE%A5ͥ%BF%A1%A6΢%B5%BB#l4ad1fd8)
 - Stun reduces evasion by 20%, both melee and ranged.
 - Bad weather also affects melee acc.
-- Monsters' heights are 3 and can serve stepping stones for allies, so jump skill is essential to make use of this.
+- Monsters' heights are 3 and can serve as stepping stones (ladder) for allies, so jump skill is essential to make use of this.
 - Monsters can attack 3 height higher units, rather than 2 height higher as normal units.
 - Rampart aura is active on tiles with elve difference <= 3.
 

@@ -1,10 +1,20 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2020-09-22
+updated: 2020-10-23
 comments: true
 mathjax: true
 ---
+
+## Codetags
+
+2020/10/23
+
+> Programmers widely use ad-hoc code comment markup conventions to serve as reminders of sections of code that need closer inspection or review. Examples of markup include `FIXME`, `TODO`, `XXX`, `BUG`, but there many more in wide use in existing software.
+
+参考 [PEP 350 -- Codetags \| Python.org](https://www.python.org/dev/peps/pep-0350/#references)
+
+<!-- more -->
 
 ## 'import module' vs. 'from module import function'
 
@@ -27,8 +37,6 @@ mathjax: true
 
 - [Python @property: How to Use it and Why? - Programiz](https://www.programiz.com/python-programming/property)
 - [Property vs. Getters and Setters in Python - DataCamp](https://www.datacamp.com/community/tutorials/property-getters-setters)
-
-<!-- more -->
 
 ## @classmethod and @staticmethod
 
