@@ -33,7 +33,7 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20201025111044976_27380.png)
 
-白的防守方向大原则也是往开阔的地方防 (另有一个格言说是往黑活三的方向防).
+白的防守方向大原则也是往开阔的地方防 (从而另有一个格言说是往黑活三的方向防).
 
 ### 习题
 
@@ -45,7 +45,47 @@ mathjax: false
 
 ## 初级讲座第三回「黑的胜法 (1)」
 
-### 上回答案
+做四三的方法.
+
+### 攻击一: 从「トビ三」开始连攻
+
+「トビ三」是作者自己随便取的术语, 不知道咋翻译.
+
+![](https://shiina18.github.io/assets/posts/images/20201025115031809_25323.png)
+
+局面只有一个活二, 下一手如何活三? 这个形状还挺实用的.
+
+![](https://shiina18.github.io/assets/posts/images/20201025115100982_27824.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025115113865_5223.png)
+
+做活三 + 活二是基本操作.jpg. 黑 15 下在 17 的位置双杀也行.
+
+![](https://shiina18.github.io/assets/posts/images/20201025115541733_18785.png)
+
+白 12 防在上面, 后面可以用冲四 (白 16) 挡下四三. 不过黑转变方向依然可以取胜.
+
+### 攻击二: 限定防点的活三
+
+![](https://shiina18.github.io/assets/posts/images/20201025115859506_29824.png)
+
+黑如何连攻?
+
+![](https://shiina18.github.io/assets/posts/images/20201025120114475_27053.png)
+
+这个黑 11 下面有四三杀, 逼迫白防下, 之后便可以 VCT.
+
+![](https://shiina18.github.io/assets/posts/images/20201025120228088_26750.png)
+
+如果如图活三, 那么白 14 形成了トビ三 (活三 + 活二?), 黑棋形势严峻.
+
+### 习题
+
+![](https://shiina18.github.io/assets/posts/images/20201025120734149_25365.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025120744428_3317.png)
+
+### 上回习题解答
 
 ![](https://shiina18.github.io/assets/posts/images/20201025111642610_27721.png)
 
