@@ -19,7 +19,7 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20201025110118061_1752.png)
 
-图 A, B 恰好也是「恒星」定式. 花月浦月必胜的最大原因就是很容易做出山行.
+图 A, B 恰好也是「恒星」定式. 花月浦月必胜的最大原因就是很容易做出山形.
 
 **一旦有机会就做山形**.
 
@@ -54,18 +54,8 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/20201025111653579_27200.png)
 
 - A 只有一个活二, 不行. 
-- B 山形 + 一个眠二. 白如果用反三防守活二的话, 下一手黑总是可以在 C 点挡住反三并继续做连接.
+- B 山形 + 一个眠二. 白如果用反三防守活二的话, 下一手黑总是可以在 C 点挡住反三并继续做连接. (B 点大概是可以杀的.)
 - C 两个活二, 被白占住 B 感觉有点难受?
-
-B 点的一些变化.
-
-![](https://shiina18.github.io/assets/posts/images/20201025135616470_27738.png)
-
-![](https://shiina18.github.io/assets/posts/images/20201025135927267_25451.png)
-
-![](https://shiina18.github.io/assets/posts/images/20201025140354491_15276.png)
-
-![](https://shiina18.github.io/assets/posts/images/20201025141310835_9081.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201025111608957_29622.png)
 
@@ -135,10 +125,4 @@ A 逼迫白防下
 
 ![](https://shiina18.github.io/assets/posts/images/20201025133709355_28546.png)
 
-![](https://shiina18.github.io/assets/posts/images/20201025134250960_25131.png)
-
-B 好像也能杀
-
-![](https://shiina18.github.io/assets/posts/images/20201025133920225_23600.png)
-
-![](https://shiina18.github.io/assets/posts/images/20201025134122003_5698.png)
+如果白 16 防右的话, I8 双杀. 另外, 选 B 大概也能杀.

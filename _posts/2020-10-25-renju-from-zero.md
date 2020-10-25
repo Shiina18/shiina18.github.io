@@ -18,6 +18,10 @@ mathjax: false
 
 三手胜的题目构造真的很巧妙.
 
+- Nosovsky, A. & Sokolsky, A. (1999). [Renju for beginners (new revised edition)](https://renju.se/rif/nosovsky/renjuforbeginners.pdf).
+
+没读过, 作为英语资料留存
+
 ## 软件
 
 - 线上博弈平台: 五林大会
@@ -36,7 +40,10 @@ mathjax: false
 
 - 开局 - 珠型 (しゅけい)
 - 跳三 - トビ三
-- 活四 - 達四 (たつし)
+- 活四 - 達四 (たつし) - open four
+- fork: 包括四四 (double four / 4x4 Fork), 三三, 四三
+- 长连 - overline
+- 禁手 - forbidden/disallowed moves
 - 平局 - 満局 (まんきょく)
 - 定式 - 定石 (じょうせき)
 - 做杀 - ミセ手 (て)
@@ -58,3 +65,4 @@ mathjax: false
 
 - [連珠とは](http://tokai-renjukai.pya.jp/info/Renju.html). *東海連珠会*.
 - [連珠基本ルール](http://matsurenju.game.coocan.jp/kihon_rule.htm)
+- [What is Renju?](https://www.renju.net/study/rules.php). *RenjuNet*.
