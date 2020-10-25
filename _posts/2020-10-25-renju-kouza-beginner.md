@@ -21,7 +21,7 @@ mathjax: false
 
 **一旦有机会就做山行**.
 
-### 活三的方向和档法
+### 活三的方向和挡法
 
 大原则是 **向开阔的方向活三**. 
 
@@ -52,8 +52,18 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/20201025111653579_27200.png)
 
 - A 只有一个活二, 不行. 
-- B 两个活二 + 一个眠二. 白如果用反三防守活二的话, 下一手黑总是可以在 C 点挡住反三并继续做连接.
+- B 山行 + 一个眠二. 白如果用反三防守活二的话, 下一手黑总是可以在 C 点挡住反三并继续做连接.
 - C 两个活二, 被白占住 B 感觉有点难受?
+
+B 点的一些变化.
+
+![](https://shiina18.github.io/assets/posts/images/20201025135616470_27738.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025135927267_25451.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025140354491_15276.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025141310835_9081.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201025111608957_29622.png)
 
