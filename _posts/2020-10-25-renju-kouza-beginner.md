@@ -43,13 +43,29 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20201025111323576_2876.png)
 
+### 习题解答
+
+![](https://shiina18.github.io/assets/posts/images/20201025111642610_27721.png)
+
+顺便, 这个 A 之后下一手可以做活三 + 活二, 显然好.
+
+![](https://shiina18.github.io/assets/posts/images/20201025111653579_27200.png)
+
+- A 只有一个活二, 不行. 
+- B 两个活二 + 一个眠二. 白如果用反三防守活二的话, 下一手黑总是可以在 C 点挡住反三并继续做连接.
+- C 两个活二, 被白占住 B 感觉有点难受?
+
+![](https://shiina18.github.io/assets/posts/images/20201025111608957_29622.png)
+
+防在 A 的话, 黑在 B 下面一格跳冲四, 然后在 B 右边活三, 再和 13 往右下活三, 最后用 9 7 1 达成四三.
+
 ## 初级讲座第三回「黑的胜法 (1)」
 
 做四三的方法.
 
-### 攻击一: 从「トビ三」开始连攻
+### 攻击一: 从跳三开始连攻
 
-「トビ三」是作者自己随便取的术语, 不知道咋翻译.
+这个标题是作者随便取的.
 
 ![](https://shiina18.github.io/assets/posts/images/20201025115031809_25323.png)
 
@@ -77,7 +93,7 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20201025120228088_26750.png)
 
-如果如图活三, 那么白 14 形成了トビ三 (活三 + 活二?), 黑棋形势严峻.
+如果如图活三, 那么白 14 形成了跳活三 + 活二, 黑棋形势严峻.
 
 ### 习题
 
@@ -85,18 +101,32 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20201025120744428_3317.png)
 
-### 上回习题解答
+### 习题解答
 
-![](https://shiina18.github.io/assets/posts/images/20201025111642610_27721.png)
+![](https://shiina18.github.io/assets/posts/images/20201025130851798_12905.png)
 
-顺便, 这个 A 之后下一手可以做活三 + 活二, 显然好.
+没什么好说的, 一子通三路.
 
-![](https://shiina18.github.io/assets/posts/images/20201025111653579_27200.png)
+![](https://shiina18.github.io/assets/posts/images/20201025130922714_1947.png)
 
-- A 只有一个活二, 不行. 
-- B 两个活二 + 一个眠二. 白如果用反三防守活二的话, 下一手黑总是可以在 C 点挡住反三并继续做连接.
-- C 两个活二, 被白占住 B 感觉有点难受?
+CD 看起来就很菜. 下 A 的话白往 B 一挡就可以阻止连攻.
 
-![](https://shiina18.github.io/assets/posts/images/20201025111608957_29622.png)
+最后考察 B 点. 注意这里 3 上面冲四是可以确保拿到那个点的, 所以 B 实际上带了一个隐藏的活二.
 
-防在 A 的话, 黑在 B 下面一格冲四, 然后在 B 右边活三, 再和 13 往右下活三, 最后用 9 7 1 达成四三.
+其中一个变化, H11 和 K10 双杀. 其他防点应该差不多.
+
+![](https://shiina18.github.io/assets/posts/images/20201025132948622_19560.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025133409240_22600.png)
+
+A 逼迫白防下
+
+![](https://shiina18.github.io/assets/posts/images/20201025133709355_28546.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025134250960_25131.png)
+
+B 好像也能杀
+
+![](https://shiina18.github.io/assets/posts/images/20201025133920225_23600.png)
+
+![](https://shiina18.github.io/assets/posts/images/20201025134122003_5698.png)

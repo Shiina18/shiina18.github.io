@@ -35,6 +35,7 @@ mathjax: false
 未完待续
 
 - 开局 - 珠型 (しゅけい)
+- 跳三 - トビ三
 - 活四 - 達四 (たつし)
 - 平局 - 満局 (まんきょく)
 - 定式 - 定石 (じょうせき)
@@ -56,3 +57,4 @@ mathjax: false
 ## 参考文献
 
 - [連珠とは](http://tokai-renjukai.pya.jp/info/Renju.html). *東海連珠会*.
+- [連珠基本ルール](http://matsurenju.game.coocan.jp/kihon_rule.htm)
