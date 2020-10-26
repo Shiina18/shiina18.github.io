@@ -117,12 +117,12 @@ CD 看起来就很菜. 下 A 的话白往 B 一挡就可以阻止连攻.
 
 其中一个变化, H11 和 K10 双杀. 其他防点应该差不多.
 
-![](https://shiina18.github.io/assets/posts/images/20201025132948622_19560.png)
+![](https://shiina18.github.io/assets/posts/images/20201026215245503_3477.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201025133409240_22600.png)
 
 A 逼迫白防下
 
-![](https://shiina18.github.io/assets/posts/images/20201025133709355_28546.png)
+![](https://shiina18.github.io/assets/posts/images/20201026215924852_29849.png)
 
 如果白 16 防右的话, I8 双杀. 另外, 选 B 大概也能杀.

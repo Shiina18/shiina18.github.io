@@ -25,13 +25,16 @@ mathjax: false
 ## 软件
 
 - 线上博弈平台: 五林大会
-- 打谱: renlib
+- 打谱
+    - renlib: 国外软件, 很容易找.
+    - 乐赛五子棋打谱软件: 国人温向东开发, UI 漂亮, 功能强大. 收费软件. 作者是 Temple 大学的数学博士, 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的.
 
 ## 网上资源
 
 - B 站 up 主:
     - [卖丶菜](https://space.bilibili.com/28742590). 几个最强开局的定式讲解.
     - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 现实中有优异成绩的职业棋手.
+    - [乐赛丶](https://space.bilibili.com/291338278/). 年轻的职业棋手讲解比赛.
 - [河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html). *京都連珠会*.
 
 ## 术语对应表
