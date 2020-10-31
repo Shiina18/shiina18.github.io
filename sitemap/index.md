@@ -7,7 +7,7 @@ mathjax: true
 
 ## Categories
 
-- [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(4)</font>
+- [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(7)</font>
@@ -22,6 +22,7 @@ mathjax: true
 
 ### Algorithms
 
+- 2020-10-03 [Bellman-Ford Algorithm](https://shiina18.github.io/algorithms/2020/10/03/bellman-ford)
 - 2020-06-08 [编程题杂录](https://shiina18.github.io/algorithms/2020/06/08/coding-problems-misc) <font color="lightgrey">(2020-07-19 updated)</font>
 - 2020-06-03 [快速幂](https://shiina18.github.io/algorithms/2020/06/03/fast-power)
 - 2020-01-15 [主定理的证明](https://shiina18.github.io/algorithms/2020/01/15/master-theorem)
