@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(4)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(5)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(7)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(5)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
@@ -43,7 +43,9 @@ mathjax: true
 
 ### Games
 
-- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero)
+- 2020-10-30 [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
+- 2020-10-27 [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
+- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-10-31 updated)</font>
 - 2020-10-25 [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-10-16 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-10-21 updated)</font>
@@ -54,7 +56,7 @@ mathjax: true
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2020-10-23 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2020-07-02 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
-- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-10-20 updated)</font>
+- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-10-31 updated)</font>
 
 ### Machine Learning
 

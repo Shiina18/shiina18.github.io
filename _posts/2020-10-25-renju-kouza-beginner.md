@@ -117,7 +117,7 @@ CD 看起来就很菜. 下 A 的话白往 B 一挡就可以阻止连攻.
 
 其中一个变化, H11 和 K10 双杀. 其他防点应该差不多.
 
-![](https://shiina18.github.io/assets/posts/images/20201026215245503_3477.png)
+![](https://shiina18.github.io/assets/posts/images/20201027120919304_19220.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201025133409240_22600.png)
 

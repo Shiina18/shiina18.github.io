@@ -1,4 +1,6 @@
-# stats_and_damage
+# Stats and damage calculation manual for Tactics Ogre
+
+Author: shiina
 
 Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.pdf and raics' damage calculator
 
@@ -32,21 +34,21 @@ Adapted from https://nichegamescom.files.wordpress.com/2018/10/stats_and_damage.
 A simplified version for damage calculation
 
 1. BASE DAMAGE = max{0, (BASE ATTACK - BASE DEFENSE)}					
-2. TOTAL DAMAGE = BASE DAMAGE x BASE MULTIPLIER + EXTRA DAMAGE - DEFENSE
+2. **TOTAL DAMAGE = BASE DAMAGE x BASE MULTIPLIER + EXTRA DAMAGE - DEFENSE**
 	- BASE MULTIPLIER = 1 + DAMAGE BONUS - RESISTANCE. Truncated so that it lies between 0 and 2.5.
 3. FINAL DAMAGE = max{1, (TOTAL DAMAGE x DAMAGE MULTIPLIER)}	
 
-Note that if EXTRA DAMAGE - DEFENSE < 0, if will affect the total damage.
+Note that if EXTRA DAMAGE - DEFENSE < 0, it will affect the total damage.
 
 where
 
-- Attacker's BASE ATTACK from his core stats is pitted against defender's BASE DEFENSE, applicable weapon skills and elemental augments add 4 damage or 3 defense per rank; racial skills add 5 damage per rank.
-- DAMAGE BONUS (a percent number, 1 point for 1%) = weapon damage type bonus (e.g. slash 15 for 15%) + weapon racial bonus + weapon elemental bonus + resistence on jewelry
+- Attacker's BASE ATTACK from his core stats is pitted against defender's BASE DEFENSE, applicable weapon skills and elemental augments add 4 damage or 3 defense per rank; racial skills add 5 damage per rank or 4 defense per rank.
+- DAMAGE BONUS (a percent number, 1 point for 1%) = weapon damage type bonus (e.g. slash 15 for 15%) + weapon racial bonus + weapon elemental bonus + **resistence on jewelry**
 - RESISTANCE (a percent number) = damage type, racial and elemental resistance from armor, shield and jewelry
-  - Many status will affect DAMAGE BONUS and RESISTANCE part, e.g. Strengthen, Breach.
+  - Many status will affect DAMAGE BONUS and RESISTANCE part, e.g. Strengthen and Breach.
 - EXTRA DAMAGE = WEAPON ATTACK x 1.2 + JEWELRY ATTACK + CLASS ATTACK
 - DEFENSE = ARMOR DEFENSE + SHIELD DEFENSE x 0.9 + JEWELRY DEFENSE + CLASS DEFENSE
-- DAMAGE MULTIPLIER: for example, Mighty Impact = 1.5.
+- DAMAGE MULTIPLIER: for example, Mighty Impact = 1.5, Instill element = 1.25.
 
 Magic damage is similar
 

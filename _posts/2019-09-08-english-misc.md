@@ -1,10 +1,22 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-10-20
+updated: 2020-10-31
 comments: true
 mathjax: false
 ---
+
+## Detail: countable or uncountable
+
+2020/10/31
+
+两种词性都有, 意思上不太好区分. 作为不可数名词时有一些固定搭配.
+
+- This issue will be discussed **in** more **detail** in the next chapter.
+- The research has been carried out with scrupulous **attention to detail**.
+- He had **an eye for detail** (= noticed and remembered small details).
+
+<!-- more -->
 
 ## 杂项
 
@@ -17,8 +29,6 @@ mathjax: false
 2020/9/27
 
 游戏中的脆皮叫 squishy, 而不是 squashy. 这两个词字典意思上并没有什么区别, 但是游戏俚语中就是用前者.
-
-<!-- more -->
 
 ## Unisex refers to both sexes
 
@@ -43,7 +53,7 @@ See [Why does unisex refer to both sexes? \| Lexico](https://www.lexico.com/expl
 - imo: in my opinion. 大概比 imho 频繁百倍 (以我有的数据而言).
 - tbh: to be honest
 
-## Accord and Accordance
+## Accord and accordance
 
 2020/2/10
 
@@ -54,7 +64,7 @@ See [Why does unisex refer to both sexes? \| Lexico](https://www.lexico.com/expl
 
 See [How to Use Accord vs. accordance Correctly – Grammarist](https://grammarist.com/usage/accord-accordance/).
 
-## more than (is) necessary
+## More than (is) necessary
 
 2020/1/31
 
@@ -79,7 +89,7 @@ See
 
 TeX 中有个指令是 `\pmb`, poor man's bold: typesetting the same letter multiple times a bit shifted to the left and the right makes it look bold. But it isn't. It is just a hackish way to get ugly bold letters for people not able to afford a real bold font. That's what poor mans bold is (让人不由地想起了抖音的 icon). From [How do you reliably bold math](https://latex.org/forum/viewtopic.php?t=26738).
 
-## Difference and Differences 
+## Difference and differences 
 
 2019/12/15
 
@@ -88,7 +98,7 @@ TeX 中有个指令是 `\pmb`, poor man's bold: typesetting the same letter mult
 - There are no significant differences between the education systems of the two countries.
 - There's no difference in the results.
 
-## Shall and Will
+## Shall and will
 
 2019/9/8
 
