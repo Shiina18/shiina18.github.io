@@ -15,6 +15,7 @@ mathjax: true
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(5)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
+- [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(1)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(2)</font>
 
 ## Posts
@@ -80,6 +81,10 @@ mathjax: true
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
 - 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2020-09-23 updated)</font>
 - 2019-09-06 [一次阅读马拉松经历](https://shiina18.github.io/miscellanea/2019/09/06/reading-marathon)
+
+### Reading
+
+- 2020-11-01 [Notes on how to think straight about psychology](https://shiina18.github.io/reading/2020/11/01/notes-on-psychology)
 
 ### Statistics
 
