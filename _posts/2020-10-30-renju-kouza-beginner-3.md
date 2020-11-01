@@ -96,9 +96,11 @@ C 之后如果被占四三点, 在右边做个山形, 差不多杀了. 其他点
 
 ![](https://shiina18.github.io/assets/posts/images/20201030200734882_11597.png)
 
-只有 A 在做 V. 后续参考 [【五子棋】强大的的浦月开局，是如何必胜的？看完了就能虐其他小伙伴啦！](https://www.bilibili.com/video/BV15b411B7gL) 7:30 开始. 后续也很精彩.
+只有 A 在做 V. 
 
-还可以参考 [【五子棋】做V是什么？带你了解活三级别的攻击手段](https://www.bilibili.com/video/BV1hf4y1S7Y7) 9:55 开始.
+后续参考 卖丶菜. (2019, Mar 2).[【五子棋】强大的的浦月开局，是如何必胜的？看完了就能虐其他小伙伴啦！](https://www.bilibili.com/video/BV15b411B7gL). *bilibili*. 7:30 开始. 后续也很精彩.
+
+还可以参考 卖丶菜. (2020, Apr 30).[【五子棋】做V是什么？带你了解活三级别的攻击手段](https://www.bilibili.com/video/BV1hf4y1S7Y7). *bilibili*. 9:55 开始.
 
 ![](https://shiina18.github.io/assets/posts/images/20201030201052663_11544.png)
 
