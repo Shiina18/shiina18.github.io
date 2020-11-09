@@ -20,31 +20,29 @@ The goal of this book is to present a short introduction to the critical thinkin
 
 ### Why Freud's methods are unrepresentative of modern psychology
 
-大街上随便拉一个人大概都听说过 Freud (弗洛伊德). 但是 Freud 的理论只是这个学科的微小一隅, 他的方法论不科学, 会误导普通群众. 比如说, 
+大家都听说过 Freud (弗洛伊德). 但是他的理论只是这个学科的沧海一粟, 方法论不科学, 会误导普通群众. 比如说, 
 
 - 他没有采用控制实验. 见 ch. 6.
 - 他认为只靠 case studies 就可以判定理论正确与否. 见 ch. 4.
-- 最严重的的问题, 理论和行为数据 (behavioral data) 的关系不满足最低要求. 见 ch. 2.
+- 最严重的的问题, 不可证伪. 见 ch. 2.
 
-精神分析法有理论有假设, 但是缺少了实证观测的方法. 他专注于建立复杂的理论结构, 但是却没有保证他们可以复现.
+精神分析法有理论有假设, 但是缺少了实证观测的方法. 他专注于建立复杂的理论结构, 却没有保证他们可以复现.
 
 - 刘大可. (2018, Jun 25).[【混乱博物馆】快把弗洛伊德的书扔掉！](https://www.bilibili.com/video/BV1zs411L7vq?from=search&seid=3350082909893823957). *bilibili*.
 
-### Implications of diversity in the field of psychology
-
-心理学并不存在大一统的理论, 它是由很多不同方向的理论构成的, 并且只能解释非常有限的行为. 如果你因此而批评它, 那么其实许多其他科学同样也缺乏统一的理论 (比如 20 世纪初的物理化学), 心理学不背这个锅. 心理学的统一性应该着眼于 (科学的) **方法论**, 而不是具体内容.
-
 ### Differences between psychology and other disciplines that deal with human behavior
 
-**只有** 两个不同.
+心理学与其他处理人类行为的学科 **只有** 两个不同: 
 
-- Psychology studies the full range of human and nonhuman behavior with the techniques of science. 其得出的关于行为的结论都有科学依据.
-- The applications that derive from this knowledge are *scientifically* based. 实际应用都由科学方法得出和检验.
+- Psychology studies the full range of human and nonhuman behavior with the techniques of science.
+- The applications that derive from this knowledge are *scientifically* based.
 
-有很多人认为心理学不是科学, 这种现象的原因可能是
+很多人认为心理学不是科学, 这种现象的原因可能是
 
 - 传播伪科学的产业出于既得利益的考虑, 总是想让大众相信, 无论什么都能纳入心理学的范畴, 而且心理学的主张不能以理性标准来衡量. 
 - The tendency to oppose the expansion of science into areas where unquestioned authorities and "common sense" have long reigned. 一些历史例子, 比如用哲学猜测, 神谕, 民间智慧来解释自然世界, 而拒绝科学.
+
+心理学并不存在大一统的理论, 它是由很多不同方向的理论构成的, 并且只能解释非常有限的行为. 如果你因此而批评它, 那么其实许多其他科学同样也缺乏统一的理论 (比如 20 世纪初的物理化学), 心理学不背这个锅. 心理学的统一性应该着眼于 (科学的) **方法论**, 而不是具体内容.
 
 ### Three features that define science
 
@@ -65,9 +63,7 @@ The goal of this book is to present a short introduction to the critical thinkin
         - 同行评审是将客观性和 public criticism 制度化的一种方法. 它绝非完美, 却是唯一的防线
 - Empirically solvable problems
     - 处理的问题都是可能被现有的 empirical techniques 解决的. 因此这个划分不是绝对的, 会根据科学的进展而变动.
-    - 理论 -> 预测 -> 检验 -> 修改理论. 因此 "可解的问题" 必须是 "可检验的理论". 
-        - Empirically testable = 对自然世界的可观测事件有特定的关系.
-        - 可检验的标准是可证伪性, 见 ch. 2.
+    - 理论 -> 预测 -> 检验 -> 修改理论. 因此 "可解的问题" 必须是 "可检验的理论", 也就是可证伪, 见 ch. 2.
 
 ### Folk wisdom is nonsense
 
@@ -101,12 +97,35 @@ The goal of this book is to present a short introduction to the critical thinkin
 - Waterhouse, L. (2006). [Multiple intelligences, the Mozart effect, and emotional intelligence: A critical review](https://brainmass.com/psychology/abnormal-psychology/multiple-intelligences-453252). *Educational Psychologist*, *41*(4), 207-225. (552 citations till 2020/11/1)
 - Rayner, K., Schotter, E. R., Masson, M. E., Potter, M. C., & Treiman, R. (2016). [So much to read, so little time: How do we read, and can speed reading help?](https://journals.sagepub.com/doi/pdf/10.1177/1529100615623267). *Psychological Science in the Public Interest*, *17*(1), 4-34. (160 citations till 2020/11/1)
 
-<!--
+<!-- 
 
 ## Ch. 2 Falsifiability
 
 ### The importance of falsifiability to scientific theory
 
+一个例子是放血疗法: 成功了就归功于治疗方法, 失败了就说本来就没救了. 这种评估方式使得这个疗法永远不可能被证明是无效的, 即不可证伪.
+
+> Scientific theories must always be stated in such a way that the predictions derived from them could potentially be shown to be false (Koepsell, 2015).
+
+一个有用的理论必须能够做出明确的预测, 同时告诉我们什么应该发生, 什么不会发生. 如果后者发生了, 那么就证伪了理论.
+
+外行可能会说 "Oh, it's only a theory", 他们以为理论是 an unverified hypothesis, a mere guess, a hunch. 但 **理论** 这个词在科学中可不是这么用的. 在科学范畴中讨论的理论都是已经在一定程度上证实的, 能够做出与实证观测不矛盾的预测.
+
+Freud 的理论是在事后解释人类的行为, 而非事先预测. 他可以解释任何事情, 但是由于他并不能做出预测, 这套理论在科学意义上毫无用处. 他的危害之处见 p. 21.
+
+编造一个不可证伪的概念: 脑中的绿色小人. 宣称我脑中有一个绿色小人. 他们很机灵, 当有人试图观测时, 他们就消失 (变得不可见). 于是脑中小人永远不可能被证伪. 类似地, 很多宣称有超能力的人和这个弱智的例子差不多, 无法复现或者不可证伪.
+
+
+- [如何评价「可证伪性作为科学与否的判断依据已经可以退休了」这种观点？](https://www.zhihu.com/question/320802500). *知乎*.
+
+没有可证伪性也不一定就不是科学. 能量守恒就是一个很好的例子.
+
+- 贾明子. (2020, Mar 4). [以「不可证伪」批判中医的人，为什么没有以此批判数学？](https://www.zhihu.com/question/372206668/answer/1055401118). *知乎*.
+
 ### How, when a science advances, the errors made increase in specificity
+
+### References
+
+- Koepsell, D. R. (2015, Jul 29). [From N-rays to EM-drives: when does science become pseudoscience?](https://centerforinquiry.org/blog/from_n-rays_to_em-drives_when_does_science_become_pseudoscience/). *Center for inquiry*.
 
 -->
