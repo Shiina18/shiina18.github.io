@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2020-10-31
+updated: 2020-11-09
 comments: true
 mathjax: false
 ---
@@ -17,7 +17,7 @@ mathjax: false
 2. 其他开局定式
 3. 平衡开局和其他现代规则
 
-作为业余随便玩玩的, 能完成第一步我就满足了.
+作为业余随便玩玩的, 能完成第一步我就满足了. 花浦定式其实还是挺不容易的.
 
 五子棋总体来说是一个小众且入门门槛不低的棋类, 相比其他棋类用时短, 攻防激烈.
 
@@ -47,14 +47,16 @@ mathjax: false
 
 - B 站 up 主:
     - [卖丶菜](https://space.bilibili.com/28742590). 几个最强开局的定式讲解.
-    - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 现实中有优异成绩的职业棋手.
-    - [乐赛丶](https://space.bilibili.com/291338278/). 年轻的职业棋手讲解比赛.
+    - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 职业六段, 国手.
+    - [乐赛丶](https://space.bilibili.com/291338278/). 职业三段, 年轻的职业棋手讲解比赛.
 - 河村典彦九段. [河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html). *京都連珠会*.
 - 五子剑. (2009, Jun 29). [五子剑系列讲座](http://www.wuzi8.com/xiti/HTML/1752.html). *中国五子棋网*.
 - 温顺的瓜皮猫. (2020, Jun 3). [五子棋中, 先手下棋到底有多大的优势?](https://www.zhihu.com/question/267273167/answer/323472412). *知乎*. 主要是提到了一些弈心的资料.
 - 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.
 - 松浦浩七段. [連珠苦楽部](http://matsurenju.game.coocan.jp/). 包括用习题的方式讲解定式.
 - 那智暴虐のれんじゅいし. (2018, Aug 10). [【連珠】入門、初心者の方が最初に覚える形について自分なりに考察した【五目並べ】](https://www.youtube.com/watch?v=J1kmzW9A95U). *YouTube*.
+- [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. (2020/11/9)
+- [无禁必胜网页版](https://www.bytedance.ai/gomoku.html). (2020/11/9)
 
 ## 术语对应表
 
@@ -80,7 +82,7 @@ mathjax: false
 
 ## 杂项
 
-- 传奇人物: [中村茂](https://www.zhihu.com/question/26880463/answer/34450158). 当时是无意间查了日本名人战的记录, 结果被他的成绩震惊了, 中学生名人, 霸榜了过半的名人战.
+- 传奇人物: [中村茂](https://www.zhihu.com/question/26880463/answer/34450158). 当时是无意间查了日本名人战的记录, 结果被他的成绩震惊了, 中学生名人, 霸榜了过半的名人战. 2020 年名人战卫冕成功.
 - 开局名称来源 
     - [珠型名の由来](http://renju.jp/db/dictionary/syukei/). *東京連珠会*.
     - 第40期名人・山口釉水. [珠型名の由来・平成版](http://table28.renju.info/PageVisitor/Essay/NicknameOfOpenings.php).
