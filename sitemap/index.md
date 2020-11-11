@@ -46,7 +46,7 @@ mathjax: true
 ### Games
 
 - 2020-11-10 [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)
-- 2020-11-09 [五子棋自战棋评](https://shiina18.github.io/games/2020/11/09/renju-review)
+- 2020-11-09 [五子棋自战棋评](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-11-10 updated)</font>
 - 2020-10-30 [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
 - 2020-10-27 [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
 - 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-11-09 updated)</font>
