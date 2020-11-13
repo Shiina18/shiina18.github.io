@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(10)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(11)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(5)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
@@ -45,6 +45,7 @@ mathjax: true
 
 ### Games
 
+- 2020-11-13 [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
 - 2020-11-12 [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5)
 - 2020-11-10 [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)
 - 2020-11-09 [五子棋自战棋评](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-11-10 updated)</font>
