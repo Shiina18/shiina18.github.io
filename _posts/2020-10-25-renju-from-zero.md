@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2020-11-09
+updated: 2020-11-14
 comments: true
 mathjax: false
 ---
@@ -40,7 +40,7 @@ mathjax: false
 
 - 线上博弈平台: 五林大会 (自带人机模式)
 - 打谱. 通用操作: delete 键删除当前分枝. Ctrl+鼠标左键在棋盘上标注文字.
-    - renlib: 国外软件, 很容易找.
+    - renlib: 国外软件, 很容易找, 解题引擎用的就是 renju solver.
     - 乐赛五子棋打谱软件: 国人温向东开发, UI 漂亮, 功能强大. 收费软件. 作者是 Temple 大学的数学博士, 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的.
 
 ## 网上资源
@@ -57,6 +57,8 @@ mathjax: false
 - 那智暴虐のれんじゅいし. (2018, Aug 10). [【連珠】入門、初心者の方が最初に覚える形について自分なりに考察した【五目並べ】](https://www.youtube.com/watch?v=J1kmzW9A95U). *YouTube*.
 - [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. (2020/11/9)
 - [无禁必胜网页版](https://www.bytedance.ai/gomoku.html). (2020/11/9)
+- [日本連珠社](https://www.renjusha.net/). 有许多河村九段的研究资料. (2020/11/14)
+- [中国连珠网](http://www.rifchina.com/). 有比赛棋谱. (2020/11/14)
 
 ## 术语对应表
 

@@ -74,7 +74,7 @@ The goal of this book is to present a short introduction to the critical thinkin
 几个例子
 
 - 社会上依然盛行 "学习好或读书多的孩子都不擅长社交和体育" 这一偏见, 事实上恰恰相反 (Singh et al., 2012).
-- "做多项选择题时如果不确定, 就不要改变最初的答案". 不对 (Kruger et al., 2005; Lilienfeld et al. 2010).
+- "做多项选择题时如果不确定, 就不要改变最初的答案". 不对 (Kruger et al., 2005; Lilienfeld et al., 2010).
 - "我们只用了大脑 10% 的功能" 毫无依据 (Ferguson et al., 2018; Lilienfeld et al. 2010). 另外, 虽然大脑不同区域有分工, 但是左右脑这种词汇无疑是胡说八道, 尤其是当我们知道大脑是以整体工作的时候 (Lilienfeld et al. 2010; Radford, 2011).
     - "Right-brained people tend to be artistic, intuitive, and in touch with their feminine side; left-brained people are more logical, analytical, and in touch with their masculine side." In fact, the two halves of the brain differ in *how* they process tasks rather than *what* they process. The two hemispheres communicate extensively and continually. There is no direct evidence that differential hemispheric utilization can be trained.
 - "We are each intelligent in our own way", 不 (Deary, 2013; Ferguson et al., 2018; Waterhouse, 2006).

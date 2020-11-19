@@ -16,7 +16,7 @@ mathjax: true
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(1)</font>
-- [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(2)</font>
+- [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
 
 ## Posts
 
@@ -51,7 +51,7 @@ mathjax: true
 - 2020-11-09 [五子棋自战棋评](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-11-10 updated)</font>
 - 2020-10-30 [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
 - 2020-10-27 [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
-- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-11-09 updated)</font>
+- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-11-14 updated)</font>
 - 2020-10-25 [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-11-01 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-10-21 updated)</font>
@@ -92,5 +92,6 @@ mathjax: true
 
 ### Statistics
 
+- 2020-11-19 [Notes on statistics done wrong](https://shiina18.github.io/statistics/2020/11/19/notes-on-statistics-done-wrong)
 - 2020-09-16 [多重共线性](https://shiina18.github.io/statistics/2020/09/16/multicollinearity)
 - 2019-11-08 [Bootstrap 失效的一个例子](https://shiina18.github.io/statistics/2019/11/08/bootstrap-fail)
