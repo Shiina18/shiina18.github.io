@@ -14,6 +14,8 @@ mathjax: true
 > 
 > Many of our Quants have read and strongly recommend "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin, "Statistics Done Wrong: The Woefully Complete Guide" by Alex Reinhart, and "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Ipython" by Wes McKinney.
 
+<!-- more -->
+
 ## Ch. 1 statistical significance
 
 - $p$-value is a measure of surprise. It's not a measure of the size of the effect. It's not the false positive rate.
