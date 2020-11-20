@@ -92,6 +92,6 @@ mathjax: true
 
 ### Statistics
 
-- 2020-11-19 [Notes on statistics done wrong](https://shiina18.github.io/statistics/2020/11/19/notes-on-statistics-done-wrong)
+- 2020-11-19 [Notes on statistics done wrong](https://shiina18.github.io/statistics/2020/11/19/wrong-stats)
 - 2020-09-16 [多重共线性](https://shiina18.github.io/statistics/2020/09/16/multicollinearity)
 - 2019-11-08 [Bootstrap 失效的一个例子](https://shiina18.github.io/statistics/2019/11/08/bootstrap-fail)
