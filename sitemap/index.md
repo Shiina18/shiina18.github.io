@@ -33,7 +33,7 @@ mathjax: true
 
 - 2020-09-07 [放浪男孩 第 5 话 对话演出分析](https://shiina18.github.io/anime/2020/09/07/houmu-e05)
 - 2020-09-05 [向山进发 第 3 季 第 10 话](https://shiina18.github.io/anime/2020/09/05/yamasusu-se03ep10)
-- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-09-13 updated)</font>
+- 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-12-01 updated)</font>
 - 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2020-10-19 updated)</font>
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu)
@@ -51,7 +51,7 @@ mathjax: true
 - 2020-11-09 [五子棋自战棋评](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-11-10 updated)</font>
 - 2020-10-30 [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
 - 2020-10-27 [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
-- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-11-14 updated)</font>
+- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-11-23 updated)</font>
 - 2020-10-25 [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-11-01 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-10-21 updated)</font>

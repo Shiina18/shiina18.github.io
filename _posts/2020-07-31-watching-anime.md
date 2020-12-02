@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-09-13
+updated: 2020-12-01
 comments: true
 mathjax: false
 ---
@@ -9,6 +9,18 @@ mathjax: false
 换了新博客后传图方便了许多, 这是第一个多图 post.
 
 <!-- more -->
+
+## 平躺起身
+
+2020/12/1
+
+成神之日 ep. 07 17:40 开始.
+
+![](https://shiina18.github.io/assets/posts/images/20201202152319422_13426.gif)
+
+想到了向山进发 se. 02 ep. 17, 2:05 开始. 本话是单人原画回.
+
+![](https://shiina18.github.io/assets/posts/images/20201202151942195_12441.gif)
 
 ## 杂项
 

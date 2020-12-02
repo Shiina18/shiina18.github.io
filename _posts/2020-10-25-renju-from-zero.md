@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2020-11-14
+updated: 2020-11-23
 comments: true
 mathjax: false
 ---
@@ -40,8 +40,9 @@ mathjax: false
 
 - 线上博弈平台: 五林大会 (自带人机模式)
 - 打谱. 通用操作: delete 键删除当前分枝. Ctrl+鼠标左键在棋盘上标注文字.
-    - renlib: 国外软件, 很容易找, 解题引擎用的就是 renju solver.
-    - 乐赛五子棋打谱软件: 国人温向东开发, UI 漂亮, 功能强大. 收费软件. 作者是 Temple 大学的数学博士, 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的.
+    - [renlib](https://www.renju.se/renlib/): 国外软件, 很容易找, 解题引擎用的就是 renju solver.
+    - 乐赛五子棋打谱软件: 国人温向东开发, UI 漂亮, 功能强大. 收费软件. 作者是 Temple 大学的数学博士, 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的. 作者本人其实只是初学者水平.
+    - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋四段, 清华姚班, CS PhD. (2020/11/23)
 
 ## 网上资源
 
@@ -55,6 +56,10 @@ mathjax: false
 - 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.
 - 松浦浩七段. [連珠苦楽部](http://matsurenju.game.coocan.jp/). 包括用习题的方式讲解定式.
 - 那智暴虐のれんじゅいし. (2018, Aug 10). [【連珠】入門、初心者の方が最初に覚える形について自分なりに考察した【五目並べ】](https://www.youtube.com/watch?v=J1kmzW9A95U). *YouTube*.
+    - 容易取胜的形状: 不推荐初学者花浦, 推荐溪峡. 形状互通, 黑八卦不容易输.
+    - 想记住手筋: 云雨. 互通, 手筋型的进攻多, 但是很难, 有背诵价值.
+    - 想打持久战: 疏流.
+    - 各种规则都适用 (?): 丘斜.
 - [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. (2020/11/9)
 - [无禁必胜网页版](https://www.bytedance.ai/gomoku.html). (2020/11/9)
 - [日本連珠社](https://www.renjusha.net/). 有许多河村九段的研究资料. (2020/11/14)
@@ -87,7 +92,8 @@ mathjax: false
 - 传奇人物: [中村茂](https://www.zhihu.com/question/26880463/answer/34450158). 当时是无意间查了日本名人战的记录, 结果被他的成绩震惊了, 中学生名人, 霸榜了过半的名人战. 2020 年名人战卫冕成功.
 - 开局名称来源 
     - [珠型名の由来](http://renju.jp/db/dictionary/syukei/). *東京連珠会*.
-    - 第40期名人・山口釉水. [珠型名の由来・平成版](http://table28.renju.info/PageVisitor/Essay/NicknameOfOpenings.php).
+    - 第40期名人・山口釉水. (2007, Sep 27). [珠型名の由来・平成版](http://table28.renju.info/PageVisitor/Essay/NicknameOfOpenings.php).
+    - [七桂, 七间, 七连](http://www.ljrenju.com/croom/history/7g7j7l.htm). *励精连珠教室*. 倒是可以帮助记忆, 只有七间是星, 其他都是月. (2020/11/23)
 
 ## 参考文献
 
