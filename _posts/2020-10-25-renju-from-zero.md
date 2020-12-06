@@ -86,6 +86,8 @@ mathjax: false
 - 连攻取胜 / 追胜 - 追詰 (おいづめ) / 追勝ち (おいがち)
 - ? - ノリ手: 追い手となる防ぎ手、または相手の四追い中に四ができる防ぎ手。也就是之后可以用来反先手牵制的棋.
 - ? (大概意思是做连接, 拓展棋型的着) - 呼手 (こしゅ): 追い手でない攻めの手。
+- [Game dictionary](http://www.vcpr.cz/en/help-and-rules/game-dictionary/). *VCPR*.
+- 需要注意的是 VCF 包括四三杀; VCT 的 T 代表 threats, 进攻手段, 即活三, 冲四, 做 V.
 
 ## 杂项
 

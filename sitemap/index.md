@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(11)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(12)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(5)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
@@ -41,10 +41,11 @@ mathjax: true
 ### Food and Cooking
 
 - 2020-06-08 [厨艺杂录](https://shiina18.github.io/food%20and%20cooking/2020/06/08/cooking-misc)
-- 2019-11-21 [一次手磨咖啡体验](https://shiina18.github.io/food%20and%20cooking/2019/11/21/brew-coffee) <font color="lightgrey">(2020-06-24 updated)</font>
+- 2019-11-21 [一次手磨咖啡体验](https://shiina18.github.io/food%20and%20cooking/2019/11/21/brew-coffee) <font color="lightgrey">(2020-12-03 updated)</font>
 
 ### Games
 
+- 2020-12-08 [欢乐五子棋残局闯关题解](https://shiina18.github.io/games/2020/12/08/renju-solutions) <font color="lightgrey">(2020-12-06 updated)</font>
 - 2020-11-13 [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
 - 2020-11-12 [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5)
 - 2020-11-10 [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)

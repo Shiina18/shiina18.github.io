@@ -2,7 +2,7 @@
 title: "一次手磨咖啡体验"
 categories: 
 - Food and Cooking
-updated: 2020-06-24
+updated: 2020-12-03
 comments: true
 mathjax: false
 ---
@@ -130,3 +130,7 @@ Coffee has one of the most complex flavors of all our foods. At its base is a mo
 **参考**
 
 McGee, H. (2004). *On food and cooking: the science and lore of the kitchen*. Simon and Schuster. pp. 26-27, 441-448.
+
+**Further Reading**
+
+回形针PaperClip. (2020, Dec 3). [速溶咖啡为什么这么难喝?](https://www.bilibili.com/video/BV1Bz4y1k73v). *bilibili*.
