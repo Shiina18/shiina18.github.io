@@ -2,7 +2,7 @@
 title: "欢乐五子棋残局闯关题解"
 categories: Games
 tags: Renju
-updated: 2020-12-06
+updated: 
 comments: true
 mathjax: false
 ---

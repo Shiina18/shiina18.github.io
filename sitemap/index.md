@@ -45,7 +45,7 @@ mathjax: true
 
 ### Games
 
-- 2020-12-08 [欢乐五子棋残局闯关题解](https://shiina18.github.io/games/2020/12/08/renju-solutions) <font color="lightgrey">(2020-12-06 updated)</font>
+- 2020-12-06 [欢乐五子棋残局闯关题解](https://shiina18.github.io/games/2020/12/06/renju-solutions)
 - 2020-11-13 [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
 - 2020-11-12 [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5)
 - 2020-11-10 [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)
