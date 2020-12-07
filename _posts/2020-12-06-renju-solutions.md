@@ -9,15 +9,17 @@ mathjax: false
 
 欢乐五子棋腾讯版. 按照  **有禁手** 规则解. 目前看来不少题目需要 4 手及以上杀, 可以作为三手胜习题的补充, 有些题目还是值得一做的.
 
-不定期更新. 不保证正确.
-
-随便查一下就有一个习题解, 但好像少了几题.
-
-该用户名被屏蔽. (2016). [【大型攻略】《欢乐五子棋》120题闯关全解](https://tieba.baidu.com/p/4868354211). *百度贴吧*.
+不定期更新. 不保证正确. 
 
 <!-- more -->
 
-## 第 2-5 关
+随便查一下就有一个习题解, 但漏了几题.
+
+该用户名被屏蔽. (2016). [【大型攻略】《欢乐五子棋》120题闯关全解](https://tieba.baidu.com/p/4868354211). *百度贴吧*.
+
+## 第 1-10 关
+
+**2**
 
 ![](https://shiina18.github.io/assets/posts/images/20201206181310571_13131.png)
 
@@ -25,9 +27,13 @@ mathjax: false
 
 黑 1 双杀, 白 2 跳冲造黑 1 上面四四, 但是黑上方又多了一套新的四三杀.
 
+**3**
+
 ![](https://shiina18.github.io/assets/posts/images/20201206182039249_4921.png)
 
 黑 3 和 7 的作用是挡住白 6 的斜反四.
+
+**4**
 
 ![](https://shiina18.github.io/assets/posts/images/20201206183233867_9149.png)
 
@@ -45,11 +51,13 @@ mathjax: false
 
 黑 1 之后白冲四的变化, 不再列出其他变化. (本题参考了贴吧答案)
 
+**5**
+
 ![](https://shiina18.github.io/assets/posts/images/20201206183833382_29879.png)
 
 黑 1 双杀, 之后简单杀. 最优解法是黑 1-2, 3-1.
 
-## 第 6-? 关
+**6**
 
 ![](https://shiina18.github.io/assets/posts/images/20201206184549320_32743.png)
 
@@ -58,3 +66,19 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/20201206190245429_28498.png)
 
 正解. 黑 1 下面两步杀, 白只能防上. 黑 3, 白即使冲四盖眠三, 上面依旧是两步 VCF, 白 4 只能防上.
+
+**8**
+
+![](https://shiina18.github.io/assets/posts/images/20201207095350035_29895.png)
+
+白 2 只能防左. 若白 4 防上, 按 AB 双杀. 若白 4 防下, 则按 CD 双杀.
+
+## 第 11-20 关
+
+**12**
+
+![](https://shiina18.github.io/assets/posts/images/20201207102120921_6014.png)
+
+黑 1 做杀, 白只能冲四.
+
+![](https://shiina18.github.io/assets/posts/images/20201207102214022_24074.png)
