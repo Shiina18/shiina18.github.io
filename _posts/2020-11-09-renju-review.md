@@ -100,3 +100,11 @@ mathjax: false
 白先胜. 白 6 这个防点谱上没有, 经典楔形对攻. 白 8 好防, 牵制黑左边的竖线跳活二, 黑在下面跳活三白也可以连攻取胜.
 
 ![](https://shiina18.github.io/assets/posts/images/20201208122324201_5960.png)
+
+白先胜. 观战, 疏星开局, 之前的次序不记得了.
+
+![](https://shiina18.github.io/assets/posts/images/20201208172526318_20098.png)
+
+黑先胜. 结果白没杀掉, 演变成了这个局面. 最终黑杀错了, 和棋.
+
+![](https://shiina18.github.io/assets/posts/images/20201208172042411_4395.png)
