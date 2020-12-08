@@ -7,7 +7,7 @@ comments: true
 mathjax: false
 ---
 
-一个习惯的叫法是, 无禁手的称为 "五子棋/五目" (gomoku), 有禁手的称为 "连珠" (renju). 比如一手交换, swap 2 这种都属于 gomoku.
+一个习惯的叫法是, 无禁手的称为 "五目" (gomoku), 有禁手的称为 "连珠" (renju). 比如一手交换, swap 2 这种都属于 gomoku.
 
 <!-- more -->
 
