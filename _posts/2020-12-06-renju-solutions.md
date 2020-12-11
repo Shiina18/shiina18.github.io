@@ -2,7 +2,7 @@
 title: "欢乐五子棋残局闯关题解"
 categories: Games
 tags: Renju
-updated: 
+updated: 2020-12-12
 comments: true
 mathjax: false
 ---
@@ -106,3 +106,17 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/20201207114033137_9428.png)
 
 依然可以 VCF.
+
+**25**
+
+![](https://shiina18.github.io/assets/posts/images/20201212002134846_11299.png)
+
+失败图. 黑 1 逼迫白防下, 之后黑 3 双杀, 白似乎无法防守. 但其实白可以抓禁.
+
+![](https://shiina18.github.io/assets/posts/images/20201212002732008_28048.png)
+
+白 8 的目的是阻止黑左下方的 VCF, 抓四四取胜.
+
+![](https://shiina18.github.io/assets/posts/images/20201212004032279_17272.png)
+
+最强防变化, 如果白下面不冲四, 黑两步 VCF. 如图白 8 挡左也是两步 VCF.

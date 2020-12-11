@@ -73,7 +73,7 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/20201208094717564_1916.png)
 
-执黑, 浦月开局, 11 手开始脱离定式. 黑 11 定式是 5 右边活三, 之后在下面团角. 实战的 11, 13 在有禁规则下感觉会有长连的问题.
+执黑, 浦月开局, 11 手开始脱离定式. 黑 11 定式是 5 右边活三, 之后在下面团角. 
 
 实战白 12 是必败的, 黑 13 必胜, 但杀不出来, 最后和棋了. 弈心的 13 选点是 11 右边活三. 右边有简单两步杀, 所以白只能防右.
 
@@ -89,7 +89,18 @@ mathjax: false
 
 ## 连攻习题
 
-题目出自实战. 初学阶段目算长步数的杀还是很难的.
+其他资源
+
+- 高飞五子棋 VCT 习题: 没找到现成的资源. 高飞是艾显平, 六段棋手. 习题都出自定式, 很有做的价值.
+    - 百度文库, 豆丁文库可以搜到, 有标注难度, 有些复杂 VCT 还是难的.
+        - [浦月 1](https://wenku.baidu.com/view/ef1c7d46767f5acfa1c7cd16.html), [浦月 2](https://wenku.baidu.com/view/b0752cc7a1c7aa00b52acb16.html)
+        - [花月 1](https://wenku.baidu.com/view/4abf63e7ba0d4a7302763a65.html), [花月 2](https://wenku.baidu.com/view/003b17cd80eb6294dd886c42.html)
+        - [寒星 1](https://www.docin.com/p-582705712.html), [寒星 2](https://www.docin.com/p-1970021595.html)
+        - [恒星 1](https://wenku.baidu.com/view/0402e0f7856a561252d36f46.html), [恒星 2](https://www.docin.com/p-794217390.html)
+    - [高飞习题](http://game.onegreen.net/wzq/List/List_1585.html). *棋谱收藏站*. 只收录了花浦和一些寒星的题, 没有序号标注.
+    - [高飞五子棋 VCT 习题恒星篇](http://www.wuzi8.com/gaofei/xiti/201203/3206.html). *中国五子棋网*.
+
+下面的题目出自实战. 初学阶段目算长步数的杀还是很难的.
 
 2020/12/8
 
@@ -100,6 +111,10 @@ mathjax: false
 白先胜. 白 6 这个防点谱上没有, 经典楔形对攻. 白 8 好防, 牵制黑左边的竖线跳活二, 黑在下面跳活三白也可以连攻取胜.
 
 ![](https://shiina18.github.io/assets/posts/images/20201208122324201_5960.png)
+
+白先胜. 浦月经典黑 5 必败, 但是白这边杀错了, 黑 11 防右必败, 白 12 必胜.
+
+![](https://shiina18.github.io/assets/posts/images/20201209121304335_29452.png)
 
 白先胜. 观战, 疏星开局, 之前的次序不记得了.
 
