@@ -1,10 +1,16 @@
 ---
 title: "日语杂录"
 categories: Language
-updated: 2020-07-02
+updated: 2020-12-10
 comments: true
 mathjax: false
 ---
+
+## 普通
+
+2020/12/10
+
+秋山燿平. (2020, Nov 20). [【日语的“普通”≠中文的“普通”？？】](https://zhuanlan.zhihu.com/p/303012525). *知乎*.
 
 ## 「ただ」と「たった」
 
