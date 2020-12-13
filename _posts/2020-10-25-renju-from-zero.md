@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2020-12-07
+updated: 2020-12-12
 comments: true
 mathjax: false
 ---
@@ -28,13 +28,14 @@ mathjax: false
 
 三手胜的题目构造真的很巧妙.
 
+### 准备阅读
+
+- 真野芳久五段. (2015, Jun). [連珠の基礎](http://tokai-renjukai.pya.jp/siryo/RenjuKiso/RenjuKiso-1-2.pdf). *東海連珠会*. 另附 [超链接版](http://tokai-renjukai.pya.jp/siryo/RenjuSiryo.html). (2020/12/12)
+
+### 资料留存
+
 - Nosovsky, A. & Sokolsky, A. (1999). [Renju for beginners (new revised edition)](https://renju.se/rif/nosovsky/renjuforbeginners.pdf).
-
-没读过, 作为英语资料留存
-
 - [連珠の本の案内](http://www15.plala.or.jp/ssiio/renjubook.htm)
-
-资料留存, 没看过.
 
 ## 软件
 
@@ -47,11 +48,19 @@ mathjax: false
 
 ## 网上资源
 
+### 特别推荐
+
 - B 站 up 主:
     - [卖丶菜](https://space.bilibili.com/28742590). 几个最强开局的定式讲解.
-    - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 职业六段, 国手.
-    - [乐赛丶](https://space.bilibili.com/291338278/). 职业三段, 年轻的职业棋手讲解比赛.
-- 河村典彦九段. [河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html). *京都連珠会*.
+- 河村典彦九段. [河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html). *京都連珠会*. 初心者向.
+- [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. 目前我都是在这里查定式的, 虽然可能资料有点老. (2020/11/9)
+- [587 连珠](http://587.renju.org.tw/). 一个很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. (2020/12/7)
+
+### 其他资源
+
+- B 站 up 主:
+    - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 专业六段.
+    - [乐赛丶](https://space.bilibili.com/291338278/). 专业三段, 年轻的比赛讲解员.
 - 五子剑. (2009, Jun 29). [五子剑系列讲座](http://www.wuzi8.com/xiti/HTML/1752.html). *中国五子棋网*.
 - 温顺的瓜皮猫. (2020, Jun 3). [五子棋中, 先手下棋到底有多大的优势?](https://www.zhihu.com/question/267273167/answer/323472412). *知乎*. 主要是提到了一些弈心的资料.
 - 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.
@@ -61,12 +70,11 @@ mathjax: false
     - 想记住手筋: 云雨. 互通, 手筋型的进攻多, 但是很难, 有背诵价值.
     - 想打持久战: 疏流.
     - 各种规则都适用 (?): 丘斜.
-- [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. (2020/11/9)
 - [无禁必胜网页版](https://www.bytedance.ai/gomoku.html). (2020/11/9)
 - [日本連珠社](https://www.renjusha.net/). 有许多河村九段的研究资料. (2020/11/14)
 - [中国连珠网](http://www.rifchina.com/). 有比赛棋谱. (2020/11/14)
-- [587 连珠](http://587.renju.org.tw/). 一个很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. (2020/12/7)
 - [RenjuNews](http://renjunews.com/). 有一些棋评. (2020/12/7)
+- [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章. (2020/12/12)
 
 ## 术语对应表
 
@@ -77,7 +85,7 @@ mathjax: false
 - 跳三 - トビ三
 - 眠三 - 剣先
 - 活四 - 達四 (たつし) - open four
-- fork: 包括四四 (double four / 4x4 Fork), 三三, 四三
+- fork: 组合棋型, 包括四四 (double four / 4x4 Fork), 三三, 四三等
 - 长连 - overline
 - 禁手 - forbidden/disallowed moves
 - 平局 - 満局 (まんきょく)
@@ -85,10 +93,10 @@ mathjax: false
 - 做杀 - ミセ手 (て)
 - 连续冲四 - 四追い
 - 做 V (下一手 VCF) - フクミ手. 最後の黒の防ぎ手が禁手になる白のフクミ手を、特に **ネライ手** と呼ぶことがあります。連珠では黒に禁手を打たざるを得ない状況にする (**ハメル** と言います) のも白の立派な作戦です。
-- 进攻 (?) - 追い手: 三を作る (**ヒク**) 手・四を作る (**ノビル**) 手・ミセ手・フクミ手の総称。
+- 进攻 (活三及以上级别的攻击) - 追い手: 三を作る (**ヒク**) 手・四を作る (**ノビル**) 手・ミセ手・フクミ手の総称。
 - 连攻取胜 / 追胜 - 追詰 (おいづめ) / 追勝ち (おいがち)
-- 牵制手 (?) - ノリ手: 追い手となる防ぎ手、または相手の四追い中に四ができる防ぎ手。可以反先的防守, 以及面对 VCF 可以反四的防点.
-- ? (大概意思是做连接, 拓展棋型的着) - 呼手 (こしゅ): 追い手でない攻めの手。
+- 牵制手 - ノリ手: 追い手となる防ぎ手、または相手の四追い中に四ができる防ぎ手。可以反先的防守, 以及面对 VCF 可以反四的防点.
+- 做棋 (大概意思是做连接, 拓展棋型的着) - 呼手 (こしゅ): 追い手でない攻めの手。
 - [Game dictionary](http://www.vcpr.cz/en/help-and-rules/game-dictionary/). *VCPR*.
 - 需要注意的是 VCF 包括四三杀; VCT 的 T 代表 threats, 进攻手段, 即活三, 冲四, 做 V.
 - [VC2](http://587.renju.org.tw/teach/teach023.htm). (2020/12/7)
