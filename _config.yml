@@ -241,8 +241,8 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  知乎: zhihu  # new icon 
-  豆瓣: book-reader
+  知乎: quora
+  豆瓣: bookmark
   bangumi: tv
   Instagram: instagram
   GitHub: github
