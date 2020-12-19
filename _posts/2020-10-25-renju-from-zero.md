@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2020-12-12
+updated: 2020-12-16
 comments: true
 mathjax: false
 ---
@@ -14,8 +14,8 @@ mathjax: false
 ## 预想路线
 
 1. 三手胜, 花浦定式
-2. 其他开局定式
-3. 平衡开局和其他现代规则
+2. 瑞星, 疏星的初步知识
+3. 其他开局定式
 
 作为业余随便玩玩的, 能完成第一步我就满足了. 花浦定式其实还是挺不容易的.
 
@@ -25,11 +25,7 @@ mathjax: false
 
 - 曾杨锋. (2013). [五子棋零基础自学一本通 (第三版)](https://shiina18.github.io/assets/docs/五子棋零基础自学一本通.pdf). *百度五子棋贴吧*.
 - 坂田吾朗. (2000). 三手胜五子棋题解. 人民体育出版社.
-
-三手胜的题目构造真的很巧妙.
-
-### 准备阅读
-
+- 新井华石九段. (1997). 五子连珠必胜法 (译, 张书). 人民体育出版社.
 - 真野芳久五段. (2015, Jun). [連珠の基礎](http://tokai-renjukai.pya.jp/siryo/RenjuKiso/RenjuKiso-1-2.pdf). *東海連珠会*. 另附 [超链接版](http://tokai-renjukai.pya.jp/siryo/RenjuSiryo.html). (2020/12/12)
 
 ### 资料留存
@@ -39,11 +35,12 @@ mathjax: false
 
 ## 软件
 
-- 线上博弈平台. 五林大会: 自带人机模式, 专业, 主创团队为高段选手.
+- 线上博弈平台. 五林大会: 专业, 自带人机模式, 主创刘超四段, 霍九旭六段为夫妇, [介绍页](http://www.5ldh.net/team.php).
 - 打谱. 通用操作: delete 键删除当前分枝. Ctrl+鼠标左键在棋盘上标注文字.
-    - [renlib](https://www.renju.se/renlib/): 国外软件, 很容易找, 解题引擎用的就是 renju solver.
+    - [renlib](https://www.renju.se/renlib/): 国外软件, 很容易找, 解题引擎用的就是 renju solver. 
+        - 一个重大问题是 renlib 打开棋谱占用的内存很大, 乐赛就没有这个问题. (2020/12/16)
     - 乐赛五子棋打谱软件: 国人温向东开发, UI 漂亮, 功能强大. 收费软件. 作者是 Temple 大学的数学 PhD, 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的. 作者本人其实只是初学者水平.
-    - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋四段, 清华姚班, CS PhD. (2020/11/23)
+    - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋专业四段, 清华姚班, CS PhD. (2020/11/23)
     - [弈心](https://www.aiexp.info/pages/yixin.html): 作者孙锴, 上交 CS 本, Cornell CS PhD. 在 katago 和 embryo 出现前是无敌的 AI, 支持各种规则. (2020/12/7)
 
 ## 网上资源
@@ -60,7 +57,7 @@ mathjax: false
 
 - B 站 up 主:
     - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 专业六段.
-    - [乐赛丶](https://space.bilibili.com/291338278/). 专业三段, 年轻的比赛讲解员.
+    - [乐赛丶](https://space.bilibili.com/291338278/). 金洪利, 专业三段, 比赛官方解说员. 在虎牙直播.
 - 五子剑. (2009, Jun 29). [五子剑系列讲座](http://www.wuzi8.com/xiti/HTML/1752.html). *中国五子棋网*.
 - 温顺的瓜皮猫. (2020, Jun 3). [五子棋中, 先手下棋到底有多大的优势?](https://www.zhihu.com/question/267273167/answer/323472412). *知乎*. 主要是提到了一些弈心的资料.
 - 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.

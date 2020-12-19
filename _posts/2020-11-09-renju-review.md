@@ -1,5 +1,5 @@
 ---
-title: "五子棋复盘 (初心者)"
+title: "五子棋复盘: 无禁初心者"
 categories: Games
 tags: Renju
 updated: 2020-12-08

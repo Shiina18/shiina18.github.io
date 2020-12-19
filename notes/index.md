@@ -16,6 +16,10 @@ Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Pro
 
 This document contains solutions to selected problems in Brockwell, P. J., Davis, R. A., and Fienberg, S. E. (1991). *Time series: theory and methods*. Springer Science & Business Media.
 
+- [概率论 reading lists](https://www.zhihu.com/question/60288185/answer/1634006267)
+
+~~虽然我也什么都还没入门就跑路了~~. (2020/12/19)
+
 - [CS224n: Natural Language Processing with Deep Learning @Stanford](http://web.stanford.edu/class/cs224n/)
 
 很著名的课了. 大概是 19 年的时候看的, 回顾一下发现还是这里的 notes 写得好. 尤其是开头几个 notes (w2v 等), 其他网上的 notes 要么跳过细节, 要么语焉不详. (2020/8/16)

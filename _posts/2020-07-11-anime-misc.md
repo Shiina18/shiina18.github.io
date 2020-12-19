@@ -54,6 +54,7 @@ mathjax: false
 - 动画考据: [叶佳桐](https://space.bilibili.com/25195981/)
 - 动画公司历史: [JK低手鱼太](https://space.bilibili.com/904827/) 动画公司图鉴系列
 - [没什么卵用的术语——日本动画常用术语翻译](https://zhuanlan.zhihu.com/p/20331802)
+- [动画里的卷心菜演变史](https://zhuanlan.zhihu.com/p/149854476). "再崩不能崩卷心菜".
 - (非日本动画的) 动画史: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
 - 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
