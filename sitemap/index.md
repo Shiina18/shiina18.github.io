@@ -45,15 +45,15 @@ mathjax: true
 
 ### Games
 
-- 2020-12-06 [欢乐五子棋残局闯关题解](https://shiina18.github.io/games/2020/12/06/renju-solutions) `Renju` <font color="lightgrey">(2020-12-12 updated)</font>
-- 2020-11-13 [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate) `Renju`
-- 2020-11-12 [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5) `Renju`
-- 2020-11-10 [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4) `Renju`
-- 2020-11-09 [五子棋复盘: 无禁初心者](https://shiina18.github.io/games/2020/11/09/renju-review) `Renju` <font color="lightgrey">(2020-12-08 updated)</font>
-- 2020-10-30 [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3) `Renju`
-- 2020-10-27 [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2) `Renju`
-- 2020-10-25 [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) `Renju` <font color="lightgrey">(2020-12-16 updated)</font>
-- 2020-10-25 [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner) `Renju`
+- 2020-12-06 `Renju` [欢乐五子棋残局闯关题解](https://shiina18.github.io/games/2020/12/06/renju-solutions) <font color="lightgrey">(2020-12-12 updated)</font>
+- 2020-11-13 `Renju` [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
+- 2020-11-12 `Renju` [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5)
+- 2020-11-10 `Renju` [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)
+- 2020-11-09 `Renju` [五子棋复盘: 无禁初心者](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-12-08 updated)</font>
+- 2020-10-30 `Renju` [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
+- 2020-10-27 `Renju` [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
+- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2020-12-16 updated)</font>
+- 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2020-11-01 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外 OV 改版 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2020-10-21 updated)</font>
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2020-03-25 updated)</font>
@@ -67,9 +67,9 @@ mathjax: true
 
 ### Machine Learning
 
-- 2020-09-03 [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts) `Time Series`
-- 2020-08-15 [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations) `Time Series`
-- 2020-08-09 [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) `Time Series` <font color="lightgrey">(2020-08-17 updated)</font>
+- 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
+- 2020-08-15 `Time Series` [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
+- 2020-08-09 `Time Series` [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
 - 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
 - 2019-06-15 [从提升树到 XGBoost, 原理简介](https://shiina18.github.io/machine%20learning/2019/06/15/xgb) <font color="lightgrey">(2020-10-14 updated)</font>
 

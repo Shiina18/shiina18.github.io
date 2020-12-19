@@ -164,10 +164,11 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
         for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):
             date, title, updated, link, tag = post
             y, m, d = date[:4], date[5:7], date[-2:]
-            url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])
-            line = f'- {date} [{title}]({url})'
+            url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])  
             if tag:
-                line += f' `{tag}`'
+                line = f'- {date} `{tag}` [{title}]({url})'
+            else:
+                line = f'- {date} [{title}]({url})'
             if updated:
                 line += f' <font color="lightgrey">({updated} updated)</font>'
             line += '\n'
