@@ -242,7 +242,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   知乎: quora
-  豆瓣: bookmark
+  豆瓣: bookmark-o
   bangumi: tv
   Instagram: instagram
   GitHub: github
