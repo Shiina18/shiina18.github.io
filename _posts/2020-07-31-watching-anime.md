@@ -14,7 +14,7 @@ mathjax: false
 
 2020/12/1
 
-成神之日 ep. 07, 17:40 开始.
+成神之日 ep. 07, 17:40 开始. 注意抬腿的细节.
 
 ![](https://shiina18.github.io/assets/posts/images/20201202152319422_13426.gif)
 
