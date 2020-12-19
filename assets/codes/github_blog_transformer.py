@@ -99,12 +99,13 @@ for file in os.listdir(source):
 from collections import defaultdict
 
 class Post():
-    def __init__(self, date=None, title=None, cat=None, updated=None, link=None):
+    def __init__(self, date=None, title=None, cat=None, updated=None, link=None, tag=None):
         self.date = date
         self.title = title
         self.cat = cat
         self.updated = updated
         self.link = link
+        self.tag = tag
 
 source = r'F:\GitHub\shiina18.github.io\_posts'
 cated = defaultdict(list)
@@ -116,6 +117,7 @@ for post in os.listdir(source):
     with open(os.path.join(source, post), encoding='utf-8') as p:
         flag = 0
         cat_flag = 0
+        tag_flag = 0
         for line in p:
             if line.startswith('---'):
                 flag += 1
@@ -128,12 +130,19 @@ for post in os.listdir(source):
                     cur_post.cat = line[11:].strip().strip('"')
                     if not cur_post.cat:
                         cat_flag = 1
+                elif line.startswith('tags'):
+                    cur_post.tag = line[5:].strip().strip('"')
+                    if not cur_post.tag:
+                        tag_flag = 1
                 elif line.startswith('updated'):
                     cur_post.updated = line[8:].strip().strip('"')
                 elif cat_flag and line.startswith('-'):
                     cur_post.cat = line[2:].strip().strip('"')  # only single category is supported
                     cat_flag = 0
-        cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link))
+                elif tag_flag and line.startswith('-'):
+                    cur_post.tag = line[2:].strip().strip('"')  # only single tag is supported
+                    tag_flag = 0
+        cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link, cur_post.tag))
 
 site = 'https://shiina18.github.io'           
 target = r'F:\GitHub\shiina18.github.io\sitemap'
@@ -153,13 +162,16 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
     for cat in sorted(cated.keys()):
         g.write(f'\n### {cat}\n\n')
         for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):
-            date, title, updated, link = post
+            date, title, updated, link, tag = post
             y, m, d = date[:4], date[5:7], date[-2:]
             url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])
+            line = f'- {date} [{title}]({url})'
+            if tag:
+                line += f' `{tag}`'
             if updated:
-                g.write(f'- {date} [{title}]({url}) <font color="lightgrey">({updated} updated)</font>\n')
-            else:
-                g.write(f'- {date} [{title}]({url})\n')
+                line += f' <font color="lightgrey">({updated} updated)</font>'
+            line += '\n'
+            g.write(line)
 
 print(time.time() - s)
 time.sleep(2)
