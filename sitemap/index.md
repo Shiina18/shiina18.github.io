@@ -45,7 +45,7 @@ mathjax: true
 
 ### Games
 
-- 2020-12-06 `Renju` [欢乐五子棋残局闯关题解](https://shiina18.github.io/games/2020/12/06/renju-solutions) <font color="lightgrey">(2020-12-12 updated)</font>
+- 2020-12-06 `Renju` [欢乐五子棋残局闯关题解 (有禁手)](https://shiina18.github.io/games/2020/12/06/renju-solutions) <font color="lightgrey">(2020-12-12 updated)</font>
 - 2020-11-13 `Renju` [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
 - 2020-11-12 `Renju` [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5)
 - 2020-11-10 `Renju` [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)
@@ -84,7 +84,7 @@ mathjax: true
 ### Miscellanea
 
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
-- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2020-09-23 updated)</font>
+- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2020-12-19 updated)</font>
 - 2019-09-06 [一次阅读马拉松经历](https://shiina18.github.io/miscellanea/2019/09/06/reading-marathon)
 
 ### Reading

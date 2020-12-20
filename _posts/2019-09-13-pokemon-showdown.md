@@ -68,4 +68,5 @@ HP, 特攻, 特防, 速度种族值分别为 55, 175, 105, 150.
 - Pachirisu 名场面
     - 三千院凪. (2019, Mar 15). [宝可梦对战史番外篇-复盘白色恶魔的奇迹](https://zhuanlan.zhihu.com/p/59312357). *知乎*.
     - 没吃药的Alan. (2017, Oct 18). [Pokemon WCS2014 白色恶魔封神战](https://www.bilibili.com/video/BV1Mx411M7pT). *bilibili*.
+    
 ![source: https://www.pixiv.net/artworks/45464932](https://shiina18.github.io/assets/posts/images/20201219193935474_14482.png "source: https://www.pixiv.net/artworks/45464932")

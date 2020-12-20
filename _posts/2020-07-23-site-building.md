@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated: 2020-09-23
+updated: 2020-12-19
 comments: true
 mathjax: false
 ---
@@ -20,6 +20,7 @@ mathjax: false
 - 图片地址需要替换为可用的链接.
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 - 数学模式中的一对 `|`会被编译成表格, 得写成 `\vert`. (2020/8/9)
+- 关于暴露 client_secret 的问题, 参考这个 [issue](https://github.com/gitalk/gitalk/issues/150), 没有问题. (2020/12/19)
 
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 
@@ -46,7 +47,7 @@ mathjax: false
 - 段落间距修正.
 - header 的上下间距修正.
 - 点开 post 之后标题和正文之间的间距修正.
-- 点击 read more 之后自动跳转到 read more 位置.
+- 点击 read more 之后自动跳转到 read more 位置. (后来发现内置就有这个功能, 但不知道为什么不起作用, 可能是因为关闭了动画?)
 
 ## 过往博客
 

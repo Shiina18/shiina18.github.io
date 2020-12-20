@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2020-08-16
+Last Updated on 2020-12-19
 
 虽说标题写着 notes, 但其实内容基本没有正儿八经的 notes, 只是一些杂乱物品的堆放. 只有作者自己公开的材料会被列在这里. (2019/9/29)
 
@@ -16,7 +16,7 @@ Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Pro
 
 This document contains solutions to selected problems in Brockwell, P. J., Davis, R. A., and Fienberg, S. E. (1991). *Time series: theory and methods*. Springer Science & Business Media.
 
-- [概率论 reading lists](https://www.zhihu.com/question/60288185/answer/1634006267)
+- [Reading lists on probability](https://www.zhihu.com/question/60288185/answer/1634006267)
 
 ~~虽然我也什么都还没入门就跑路了~~. (2020/12/19)
 
