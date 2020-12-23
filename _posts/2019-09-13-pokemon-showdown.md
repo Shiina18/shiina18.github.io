@@ -14,7 +14,7 @@ mathjax: true
 - 66 单打
     - [66 对战基础教程](https://yiqixie.com/d/home/fcABLqhwPAERgUsMg00zSXVNz)
     - [66 单打进阶](https://zhuanlan.zhihu.com/p/34888897) (需要一定基础)
-    - [66 单打教学 replay 分析](https://www.bilibili.com/video/av20160557?from=search&seid=11234462878193610589) (需要一定基础, 这个系列一共 3 个视频), [G8 一则 replay 分析](https://www.bilibili.com/video/av80472994) (2019/12/24)
+    - [66 单打教学 replay 分析](https://www.bilibili.com/video/av20160557) (需要一定基础, 这个系列一共 3 个视频), [G8 一则 replay 分析](https://www.bilibili.com/video/av80472994) (2019/12/24)
     - 构筑范例: 超爆破队 ([译文](https://tieba.baidu.com/p/5492625848?red_tag=3467346667)/[原文](https://www.smogon.com/forums/threads/usum-psyspam-offense-peaked-1-by-btb-ayevon-2100-elo.3623157/))
 <!-- more -->
 - Blogs

@@ -9,7 +9,7 @@ mathjax: false
 ## 制作流程
 
 - 《白箱》. 除了科普, 本身素质就可圈可点. 了解一些知识之后再看体验更佳. A 站可以免费观看, 并且字幕组翻译得很好, 注释也非常良心. 付 [zecy 的白箱解说](https://zhuanlan.zhihu.com/p/19982613). 
-- [一个视频让你彻底了解动画是怎么做出来的——Anitama解新番特别篇第一期](https://www.bilibili.com/video/BV1jb411e75F?from=search&seid=17722625797271584450). 
+- [一个视频让你彻底了解动画是怎么做出来的——Anitama解新番特别篇第一期](https://www.bilibili.com/video/BV1jb411e75F). 
 - [制作一部动画需要多少种分工？](https://www.zhihu.com/question/22028700/answer/20120365)
 - [日本动画中的摄影是一个什么样的岗位？](https://www.zhihu.com/question/24787555/answer/28993271)
 - 动画方面主要推荐两个人, 值得看的内容很多: anitama (各平台, 核心人物是 nbht), zecy (知乎)

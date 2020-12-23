@@ -28,7 +28,7 @@ The goal of this book is to present a short introduction to the critical thinkin
 
 精神分析法有理论有假设, 但是缺少了实证观测的方法. 他专注于建立复杂的理论结构, 却没有保证他们可以复现.
 
-- 刘大可. (2018, Jun 25).[【混乱博物馆】快把弗洛伊德的书扔掉！](https://www.bilibili.com/video/BV1zs411L7vq?from=search&seid=3350082909893823957). *bilibili*.
+- 刘大可. (2018, Jun 25).[【混乱博物馆】快把弗洛伊德的书扔掉！](https://www.bilibili.com/video/BV1zs411L7vq). *bilibili*.
 
 ### Differences between psychology and other disciplines that deal with human behavior
 
