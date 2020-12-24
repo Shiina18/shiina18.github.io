@@ -18,7 +18,7 @@ mathjax: false
 
 刚知道成神这段和未确认进行时那段都是出自一个人, 参考 [萌系演技作画启蒙者, 新一代中最有影响力的原画师——原画师野中正幸作画MAD【大师级原画师MAD补完计划】](https://www.bilibili.com/video/BV18V411b7v7). (2020/12/23)
 
-![](https://shiina18.github.io/assets/posts/images/20201202152319422_13426.gif)
+![](https://shiina18.github.io/assets/posts/images/20201224224225657_18104.gif)
 
 想到了向山进发 se. 02 ep. 17, 2:05 开始. 本话是单人原画回.
 
