@@ -20,10 +20,6 @@ This document contains solutions to selected problems in Brockwell, P. J., Davis
 
 ~~虽然我也什么都还没入门就跑路了~~. (2020/12/19)
 
-- [CS224n: Natural Language Processing with Deep Learning @Stanford](http://web.stanford.edu/class/cs224n/)
-
-很著名的课了. 大概是 19 年的时候看的, 回顾一下发现还是这里的 notes 写得好. 尤其是开头几个 notes (w2v 等), 其他网上的 notes 要么跳过细节, 要么语焉不详. (2020/8/16)
-
 - [Author and Reviewer Tutorials](https://www.springer.com/cn/authors-editors/authorandreviewertutorials)
 
 Springer 上的作者和审稿人教程, 非常棒. 有中文版. ~~施普林格, 永远的神.~~ (2020/6/11)
@@ -60,17 +56,9 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 
 ## Books
 
-- [神经网络与深度学习](https://nndl.github.io/)
-
-邱锡鹏老师的书. 数学推导写得清楚, 这点好评. 
-
 - [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/)
 
 非常有名的 Durrett 的 PTE, 展示了很多有趣的例子, 鞅只讲了离散鞅, 有时候我要翻倒向鞅的结论时会翻这本. 另外 Durrett 的主页给我印象最深的是, 专门有个 "my smiling face" 的链接. 世图引进的白色封面的第 3 版比较常见, 习题答案也可以找到.
-
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-The well-known ESL. 确实不太容易读.
 
 ## Recreation
 
