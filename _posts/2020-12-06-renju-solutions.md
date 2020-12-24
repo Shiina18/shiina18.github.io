@@ -13,6 +13,8 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 不定期更新. 不保证正确. 简单三手胜以下的题略.
 
+进度: 30 / 120
+
 <!-- more -->
 
 随便查一下就有一个习题解, 但漏了几题 (被吞楼了), 尤其是部分好题.
@@ -27,9 +29,9 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 这个贴吧 id 是李一, 在 19 年 10 月升为六段后, 不幸于 12 月逝世, 年仅 30 岁.
 
-## 第 1-20 关
-
 **2**
+
+![](https://shiina18.github.io/assets/posts/images/20201224182823314_6580.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201206181310571_13131.png)
 
@@ -39,11 +41,15 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 **3**
 
+![](https://shiina18.github.io/assets/posts/images/20201224182850963_19908.png)
+
 ![](https://shiina18.github.io/assets/posts/images/20201206182039249_4921.png)
 
 黑 3 和 7 的作用是挡住白 6 的斜反四.
 
 **4**
+
+![](https://shiina18.github.io/assets/posts/images/20201224182859807_1709.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201206183233867_9149.png)
 
@@ -63,6 +69,8 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 **6**
 
+![](https://shiina18.github.io/assets/posts/images/20201224182911376_152.png)
+
 ![](https://shiina18.github.io/assets/posts/images/20201206184549320_32743.png)
 
 错解. 黑 1 往上活的话, 白直接过来防这个活三, 白不论防上还是防下, 黑都杀不掉.
@@ -73,11 +81,15 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 **8**
 
+![](https://shiina18.github.io/assets/posts/images/20201224182923554_30994.png)
+
 ![](https://shiina18.github.io/assets/posts/images/20201207095350035_29895.png)
 
 白 2 只能防左. 若白 4 防上, 按 AB 双杀. 若白 4 防下, 则按 CD 双杀.
 
 **12**
+
+![](https://shiina18.github.io/assets/posts/images/20201224182937731_8293.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201207102120921_6014.png)
 
@@ -87,6 +99,8 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 **14**
 
+![](https://shiina18.github.io/assets/posts/images/20201224182948930_28118.png)
+
 ![](https://shiina18.github.io/assets/posts/images/20201207110245026_3266.png)
 
 错解是被抓四四. 黑 1 防左边会被简单四四杀.
@@ -95,9 +109,9 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 白 4 只能防中间或者右边.
 
-## 第 20-? 关
-
 **23**
+
+![](https://shiina18.github.io/assets/posts/images/20201224183006365_6708.png)
 
 ![](https://shiina18.github.io/assets/posts/images/20201207113158856_25360.png)
 
@@ -113,6 +127,8 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 
 **25**
 
+![](https://shiina18.github.io/assets/posts/images/20201224183015611_31293.png)
+
 ![](https://shiina18.github.io/assets/posts/images/20201212002134846_11299.png)
 
 失败图. 黑 1 逼迫白防下, 之后黑 3 双杀, 白似乎无法防守. 但其实白可以抓禁.
@@ -124,3 +140,5 @@ VCT 习题的基本要求: 目算, 讨论所有防点. 小程序内置 AI 形同
 ![](https://shiina18.github.io/assets/posts/images/20201212004032279_17272.png)
 
 最强防变化, 如果白下面不冲四, 黑两步 VCF. 如图白 8 挡左也是两步 VCF.
+
+**31**
