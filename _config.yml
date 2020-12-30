@@ -114,7 +114,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true  # default: false 2020/12/30
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -144,16 +144,18 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: false
+  enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
-  home: home
+  #home: home
   about: user
-  categories: th
-  schedule: calendar
-  tags: tags
+  #categories: th
+  quotes: quote-left
+  notes: book
+  #schedule: calendar
+  #tags: tags
   archives: archive
   sitemap: sitemap
-  commonweal: heartbeat
+  #commonweal: heartbeat
 
 
 
