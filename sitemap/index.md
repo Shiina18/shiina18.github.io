@@ -17,6 +17,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(1)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
+- [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(1)</font>
 
 ## Posts
 
@@ -98,3 +99,7 @@ mathjax: true
 - 2020-11-19 [Notes on statistics done wrong](https://shiina18.github.io/statistics/2020/11/19/wrong-stats)
 - 2020-09-16 [多重共线性](https://shiina18.github.io/statistics/2020/09/16/multicollinearity)
 - 2019-11-08 [Bootstrap 失效的一个例子](https://shiina18.github.io/statistics/2019/11/08/bootstrap-fail)
+
+### Tech
+
+- 2020-12-31 [计算机网络简要](https://shiina18.github.io/tech/2020/12/31/computer-networks)

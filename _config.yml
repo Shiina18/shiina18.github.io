@@ -472,7 +472,7 @@ gitalk:
   repo: shiina18.github.io
   owner: Shiina18
   admin: Shiina18
-  distractionFreeMode: true  # 测试
+  distractionFreeMode: false  # 测试, true doesn't work
 
 # Baidu Share
 # Available value:
