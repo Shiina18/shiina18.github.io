@@ -51,6 +51,7 @@ mathjax: false
     - [卖丶菜](https://space.bilibili.com/28742590). 几个最强开局的定式讲解.
 - 河村典彦九段. [河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html). *京都連珠会*. 初心者向.
 - [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. 目前我都是在这里查定式的, 虽然可能资料有点老. (2020/11/9)
+    - 虽然推荐, 励精还是有恶心人的地方, 比如 [连珠兵法战术](http://www.ljrenju.com/croom/kjjj/r4.htm) 一文大量直接翻译自 [河村九段初级讲座第二回「连攻」](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner/), 却没有给出任何 credit (只提到了一句 "河村典彦先生首推山形为进攻做二的最佳结构"). 类似地, 定式大概也是翻译自日语 (有些甚至还留着原文), 但是没有给出任何 references; 定式的年代也不清楚, 因为定式会翻新, 不知道是老定式还是新定式不利于初学者获得正确的知识. 最讽刺的是, 他在页脚写道 "励精付出精力, 请勿转载翻版", 自己却一点也没有这样的意识, 这种行为对信息传播非常不利.
 - [587 连珠](http://587.renju.org.tw/). 一个很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. 后来才知道作者是台湾顶尖棋手林書玄. (2020/12/7)
 
 ### 其他资源
@@ -101,6 +102,7 @@ mathjax: false
 ## 杂项
 
 - 传奇人物: [中村茂](https://www.zhihu.com/question/26880463/answer/34450158). 当时是无意间查了日本名人战的记录, 结果被他的成绩震惊了, 中学生名人, 霸榜了过半的名人战. 2020 年名人战卫冕成功.
+- 无禁无交换规则下 11 路棋盘的必胜 1 不在天元, 见 [人类对棋牌类游戏的拆解到了什么地步?](https://www.zhihu.com/question/36972545/answer/69816408), 棋谱演示见 [这里](https://www.bilibili.com/video/BV1xJ41187Mh).
 - 开局名称来源 
     - [珠型名の由来](http://renju.jp/db/dictionary/syukei/). *東京連珠会*.
     - 第40期名人・山口釉水. (2007, Sep 27). [珠型名の由来・平成版](http://table28.renju.info/PageVisitor/Essay/NicknameOfOpenings.php).

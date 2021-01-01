@@ -21,7 +21,7 @@ mathjax: false
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 - 数学模式中的一对 `|`会被编译成表格, 得写成 `\vert`. (2020/8/9)
 - 关于暴露 client_secret 的问题, 参考这个 [issue](https://github.com/gitalk/gitalk/issues/150), 没有问题. (2020/12/19)
-- 关于网站 size limit, 参考 [这里](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages). 限制是 1GB, 带宽每月 100GB. 目前看来几年之内还不需要太节约空间, 另外如果把现在用的图片压缩一遍 (比如 [这里](https://compressor.io/) 和 [这里](https://kraken.io/web-interface)), 大概可以扩容一倍. (2020/12/24)
+- 关于网站 size limit, 参考 [这里](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages). 限制是 1GB, 带宽每月 100GB. 目前看来几年之内还不需要太节约空间, 另外如果把现在用的图片压缩一遍 (比如有每日限额的 [这里](https://compressor.io/) 和每日无限的 [这里](https://kraken.io/web-interface)), 大概可以扩容一倍; 另外另开一个 repo 专门存图也可以. (2020/12/24)
 
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 

@@ -92,7 +92,7 @@ mathjax: true
 
 ### Reading
 
-- 2020-11-01 [Notes on how to think straight about psychology](https://shiina18.github.io/reading/2020/11/01/notes-on-psychology)
+- 2020-11-01 [Notes on how to think straight about psychology](https://shiina18.github.io/reading/2020/11/01/notes-on-psychology) <font color="lightgrey">(2021-01-01 updated)</font>
 
 ### Statistics
 
