@@ -2,7 +2,7 @@
 title: "厨艺杂录"
 categories: 
 - Food and Cooking
-updated: 
+updated: 2021-01-01
 comments: true
 mathjax: false
 ---
@@ -62,6 +62,10 @@ mathjax: false
 
 - Gisslen, W. (2006). 专业烹饪 (第 4 版). 大连: 大连理工大学出版社.
 - Ruhlma, M. (2017). 厨艺的常识 (潘昱均, 译). 南昌: 江西人民出版社.
+
+## 其他文章
+
+- 2021/1/1 [黄焖是什么意思?](https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw) 关键词: 黄焖/红焖, 上色/着色, 糖色, 焦糖, 酱油/老抽, 红烧.
 
 ## 基础中的基础
 
@@ -132,8 +136,12 @@ Baseline 参考下厨房中做过人数最多的 [番茄炒蛋菜谱](http://www
 - 需要先热锅再油热之后再下料吗? 可以参考 Billy.Li 的 [回答](https://www.zhihu.com/question/48700795). 感觉问题不是很大, 番茄水多, 下油锅会溅起来, 害怕的话还是冷油下锅吧.
 - 开大火还是小火? (待续)
 
+<!-- 
+
 番茄水果蔬菜
 
 蛋白质质量
 
 (待续) [少油的番茄炒蛋](https://zhuanlan.zhihu.com/p/30438318)
+
+ -->
