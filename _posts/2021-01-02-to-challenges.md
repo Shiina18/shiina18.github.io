@@ -137,7 +137,7 @@ Tamer extremely needs TP to use class skills every turn
     -> Sidearm. Tamer is tough, so shorter range can be tolerated.
 -> high acc
     -> AGI/DEX gears + Trajectory
-Tactician helps to reach the TP threshold earlier, also makes Turn 2 Trajectory possible.
+Tactician helps to reach the TP threshold earlier, and also makes Turn 2 Trajectory possible.
 ```
 
 **Team Options**

@@ -1,12 +1,14 @@
 ---
 title: "Game Log for Tactics Ogre LUCT One Vision Mod"
 categories: Games
-updated: 2020-11-01
+updated: 2021-01-02
 comments: true
 mathjax: false
 ---
 
 I have moved some contents (including cheatcode generators) to [wiki](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki) to reduce clutter. (2020/11/1)
+
+[Here](https://shiina18.github.io/games/2021/01/02/to-challenges/) is the new post. (2021/1/2)
 
 <!-- more -->
 
