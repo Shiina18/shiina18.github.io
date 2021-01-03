@@ -142,4 +142,22 @@ and also makes Turn 2 Trajectory possible.
 
 ### Bahamut (light dragon)
 
+haven't tested it yet
+
+**Support, Disabler, Nuker**
+
+- Ringer of Vigor or Def Ring, No boulder
+- Divine Magic
+- Sacred Breath
+- Disembowel
+- haven't decided the left 2 slots yet
+
+The sleep of Sacred Breath will be guaranteed with Dragonheart, so he can be called a disabler. Holy War might not be handy to use due to Shutdown Clause. 
+
+place holder
+
+**Team Options**
+
+- Light Averse. e.g Dark mages.
+
 place holder
