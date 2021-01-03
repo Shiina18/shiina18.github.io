@@ -1,7 +1,7 @@
 ---
 title: "Tactics Ogre One Vision Mod Challenges"
 categories: Games
-updated: 
+updated: 2021-01-03
 comments: true
 mathjax: false
 ---
@@ -146,7 +146,7 @@ haven't tested it yet
 
 **Support, Disabler, Nuker**
 
-- Ringer of Vigor or Def Ring, No boulder
+- Vit/Def Ring, No boulder
 - Divine Magic
 - Sacred Breath
 - Disembowel
@@ -161,3 +161,49 @@ place holder
 - Light Averse. e.g Dark mages.
 
 place holder
+
+### Hoplite
+
+haven't tested it yet
+
+**Tank, Frontline Ranged Attacker**
+
+- Sidearm, AGI + DEF gears
+- Sidearm
+- Check
+- Rampart Aura
+- 2 from Trajectory / Phanlanx / Tactician / Intersession
+
+With Knight-like classes banned, the only tanks left are Hoplite and Golem.
+
+Hoplite can't deal much damage and won't take much damage either, so TP generation is quite slow. 20 TP for Trajectory may be expensive for him, so AGI gears are needed.
+
+With a sidearm, he can get a better position to stall enemies, attack and use a skill.
+
+Rampart Aura (with or without Phanlanx) is a very powerful tool and there are a few tricks. I might talk about it in detail after finishing writing other parts.
+
+Haven't used Intersession and Apostate much. Need some time to test.
+
+**Team Options**
+
+- Trueflight
+  
+### Warlock
+
+haven't tested it yet
+
+**Utility Support**
+
+- MND/AVD gears
+- Distill Mind
+- Tactician
+- Clarity
+- 2 from Element Magic and Draconic Magic
+
+The defining feature is Distill Mind, which makes Warlock the best Disabler / Support ever. Warlock can do anything well except dealing great damage. 
+
+Clarity is always better than Efficacy if only one skill may be equipped. Tactician is here for Distill Mind. With these three skills, Warlock is never short of MP and can even charge MP to teammates.
+
+If a disabler build is wanted, then my classic build can be applied: Dagger sidegrade + MND gears. With Class Clause Plus, the only shutdown option left for Warlock is a light spell, Oblivion. However, light magic sucks in general and can't coexist with dark magic where there are many debuffs available...
+
+Build example: Lightning Magic + Draconic Magic. Use Draconic Magic to buff in Turn 2, and then tap Electrify to charge TP every turn.
