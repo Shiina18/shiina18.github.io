@@ -192,7 +192,7 @@ Haven't used Intersession and Apostate much. Need some time to test.
 
 haven't tested it yet
 
-**Utility Support**
+**Utility Support / Annoyer / Disabler**
 
 - MND/AVD gears
 - Distill Mind
