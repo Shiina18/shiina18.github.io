@@ -184,9 +184,9 @@ I don't find it rewarding to use melee builds considering how squishy Rogue is a
 
 Booby Trap is a very interesting skill if it's used by enemies. However, it requires consumables so are not very attractive under Heal Clause which restircts consumable uses.
 
-Speedstar might be useful for a bow build, but not this one. In a disabler build, it is hard to generate enough TP to make Quick useful, and we need to tap Bullseye every time.
+Speedstar might be useful for a bow build, but not this one. In a disabler build, it is hard to generate enough TP to make Quick useful, and we want to tap Bullseye every time.
 
-Counterhit shouldn't be equipped if a shutdown blowgun is used. Since by Shutdown Clause, it might lead to an immediate loss.
+Counterhit shouldn't be equipped if a shutdown blowgun is used. Since by Shutdown Clause, it might lead to a sudden loss.
 
 Non-shutdown blowguns (e.g. fear) are also useful and will be not restricted by Shutdown Clause.
 
