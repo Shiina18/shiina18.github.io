@@ -14,7 +14,7 @@ This time I am going to following the refined common rules and [optional rules](
 
 ## Meta
 
-Recall that Lord, Knight, White Knight, Paladin, Terror Knight, Knight Commander, Angel Knight, Cleric and Priest are banned by Class Clause Plus.
+Recall that Lord, Knight, White Knight, Paladin, Terror Knight, Knight Commander, Angel Knight, Undead, Cleric and Priest are banned by Class Clause Plus.
 
 Since I'm still in the middle of path C before new game plus, I don't have legal access to some unique classes, and I won't use them. I also don't have Hydra and Warden.
 
@@ -32,15 +32,15 @@ Swordmaster: Swordmaster, Blade Knight
 
 - Heal: Familiar, Princess
 - ~~Allheal: Paragon~~
-- Purify: Warlock-like, Spellblade, Princess, ~~Bard~~
-- Resolve (aow): Swordmaster, ~~Bard~~
-- Kirin Blowgun: Archer, Ninja, Rogue, Tamer, Patriarch, Familiar, Ranger, Vartan, ~~Headhunter~~
+- Purify (20%): Warlock-like, Spellblade, Princess, ~~Bard~~
+- Harvest Dance (20%): Swordmaster, ~~Bard~~
+- Kirin Blowgun (33%): Archer, Ninja, Rogue, Tamer, Patriarch, Familiar, Ranger, Vartan, ~~Headhunter~~
 - Field Alchemy 2: Spellblade, Rogue, Familiar, Warlock-like, Princess, ~~Bard, Commando, Headhunter~~
 - Niche
     - HP Infusion: Spellblade
     - Distill HP: Warlock
     - Feral Remedy: Tamer
-    - Selfless Kiss: Familiar
+    - Selfless Kiss (25%) and Virtuous Dance (20%): Familiar
     - ~~Blooming: Bard~~
     - Discord (finisher): **Blade Knight**
 
@@ -59,6 +59,7 @@ Swordmaster: Swordmaster, Blade Knight
 - ~~Ease: Paragon~~
 - Cleansing (aow): Swordmaster, ~~Bard~~
 - Distill Remedy: Warlock
+- Lingering Kiss: Familiar
 
 ### Shutdown
 
@@ -74,6 +75,7 @@ Recall that some common options are banned in Class Clause Plus.
     - Torinoko: Ninja
     - Fusilier's TP 50 finisher
     - Infernal Kiss: Trickster
+    - Coquettish Kiss and Virtuous Dance: Familiar
     - Iron Maiden: Heretic
     - Witch's Smile: Sage
     - Primer (aow): Geomancer
@@ -114,35 +116,115 @@ Description for the build
 - ...
 ```
 
-### Bahamut (light dragon)
+Usually, **Spear sidegrade and ranged weapons are the best options for physical classes without magic.** See arguments [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/#teambuilding).
 
-place holder
+- Attacker: can deal decent damage to most units.
+- Wallbreaker: can deal decent damage to tanks (included in Attacker).
+- Nuker: can eliminate units using high damage options (with the help of some combo).
+- Support: can focus more on using their abilities to gain an advantage for the team. (typically can buff teammates or clean debuffs.)
+- Annoyer: can inflict debuffs on enemies.
+- Disabler: can inflict shutdown status on units with (nearly) 100% acc.
+- Healer
+- Tank
+
+### Warrior
+
+**Midline Wallbreaker, Nuker**
+
+- 2H Spear sidegrade, AVD gears
+- Spears
+- Vigorous Attack
+- Mighty Strike
+- Double Strike
+- Wade / Jump / Squash / Lead Ward / Rampart Aura
+
+As a physical unit using melee weapons without magic, attack range and mobility matter. The 5th skill is decided by the map. Wade and Jump is for mobility. Sqaush removes clones made by Knight.
+
+With a spear sidegrade, Counterhit is not needed. With Double Strike (so Bash is unwanted) and a 2h weapon, he can deal burst damage in one turn.
+
+Considering that the spear provides some AVD, we may maximize AVD to make Warrior highly evasive. 
+
+With an AVD build, Lead Ward will further raise Warrior's survivability and gives him an option to support teammates. As is often the case, Leaden will be inflicted by bow's rank 2 finisher or dark spell Wormhole.
+
+Vigorous Attack may clear Stagger which is deadly to evasive units. With acc buff, AGI gears are not necessary for Warrior. Also, it is essential to tap Vigorous Attack beforehand to make sure Double Strike lands with (nearly) 100% acc. Due to Vigorous Attack, it is not very suitable for Warrior to use ranged weapons since Truestrike and Trueflight overwrite each other.
+
+**Team Options**
+
+- Melee fighters.
+- Truestrike. Warrior may have some trouble generating the first 40 or 60 TP without AGI gears.
+- Spike Skin. AI is foolish and will attack a unit with Spike Skin. This idea is provided by Vital who watched me use Spike Skin on some unit in a dangerous situation.
+
+**Frontline or Midline Attacker**
+
+- 1H Spear sidegrade, AVD gears or DEF gears
+- Spears
+- Vigorous Attack
+- Mighty Strike
+- 2 from Wade / Jump / Squash / Lead Ward / Rampart Aura / Field Alchemy
+
+This build is much more defensive. With an 1h weapon, Warrior cannot deal much damage to tanks and instead focuses on hitting squishy units and supporting melee teammates with Vigorous Attack.
+
+Mirror Aspis (Lv. 24 shield, 40 RES, 20% elem resist) is great to cover the hole of low magic def of Warrior.
+
+**Other Options**
+
+Of course, to make use of Mighty Strike, one might want to equip weapons possessing debuffs on hit. 
+
+### Rogue
+
+**Disabler / Annoyer**
+
+- Blowgun, AVD gears
+- Bullseye
+- Other 4 skills don't matter and are optional, XX Ward / Sidearms / Tactician / Jump / Heron etc.
+
+Bullseye is god. We need it for a guaranteed disable. 
+
+I don't find it rewarding to use melee builds considering how squishy Rogue is and that he doesn't have magic. Sneak Attack is really useless.
+
+Booby Trap is a very interesting skill if it's used by enemies. However, it requires consumables so are not very attractive under Heal Clause which restircts consumable uses.
+
+Speedstar might be useful for a bow build, but not this one. In a disabler build, it is hard to generate enough TP to make Quick useful, and we need to tap Bullseye every time.
+
+Counterhit shouldn't be equipped if a shutdown blowgun is used. Since by Shutdown Clause, it might lead to an immediate loss.
+
+Non-shutdown blowguns (e.g. fear) are also useful and will be not restricted by Shutdown Clause.
+
+**Team Options**
+
+- Sidearm users (guaranteed Slow, Hobbled with the help of Bullseye).
 
 ### Tamer
 
-Monster Supporter and Midfield Attacker
+**Frontline or Midline Ranged Attacker**
 
 - Sidearm, AVD/DEF+AGI/DEX gears
 - Sidearm
 - Empower Monster
-- 3 from Trajectory / Feral Remedy / Monsterheart / Tactician
-
-Usually, **Spear sidegrade and ranged weapons are the best options for physical classes without magic.** See arguments [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/#teambuilding).
+- Feral Remedy
+- 2 from Trajectory / Monsterheart / Tactician
 
 Ideally, Tamer should tap one skill every turn, and using a ranged weapon allows him to find a better position for both attacking and utilizing a skill in one turn.
 
 ```
-Tamer extremely needs TP to use class skills every turn
+Tamer extremely needs TP 
+to use class skills every turn
 -> high atk
-    -> Sidearm. Tamer is tough, so shorter range can be tolerated.
+    -> Sidearm. Tamer is tough, 
+    so shorter range can be tolerated.
 -> high acc
     -> AGI/DEX gears + Trajectory
-Tactician helps to reach the TP threshold earlier, and also makes Turn 2 Trajectory possible.
+Tactician helps to reach the TP threshold earlier, 
+and also makes Turn 2 Trajectory possible.
 ```
 
 **Team Options**
 
-- Classes that can charge TP.
-- Classes that can grant Trueflight, e.g. Archer and classes having Ballistics (draconic).
-- Classes that can grant Strengthen. Remember that the output of DEX weapons will get more bonuses by the base damage part in calculation.
-- Classes that can inflict Leaden.
+- Charge TP.
+- Trueflight, e.g. Archer and classes having Ballistics (draconic).
+- Strengthen. Remember that the output of DEX weapons will get more bonuses by the base damage part in calculation.
+- Leaden.
+
+### Bahamut (light dragon)
+
+place holder
