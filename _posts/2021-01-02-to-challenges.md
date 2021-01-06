@@ -87,7 +87,7 @@ Of course, to make use of Mighty Strike, one might want to equip weapons possess
 
 ### Rogue
 
-**Disabler / Annoyer**
+**Flank or Frontline Disabler / Annoyer**
 
 - Blowgun, AVD gears
 - Bullseye
@@ -192,7 +192,7 @@ Haven't used Intersession and Apostate much. Need some time to test.
 
 haven't tested it yet
 
-**Utility Support / Annoyer / Disabler**
+**Backline Utility Support / Annoyer / Disabler**
 
 - MND/AVD gears
 - Distill Mind

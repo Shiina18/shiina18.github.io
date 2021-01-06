@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2020-10-19
+updated: 2021-01-05
 comments: true
 mathjax: false
 ---
@@ -59,6 +59,7 @@ mathjax: false
 - 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
 - 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
+- [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) (2021/1/5)
 
 ## 漫画
 
