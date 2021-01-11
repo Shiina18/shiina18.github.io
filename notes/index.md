@@ -94,6 +94,10 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 
 便携. (2020/2/1)
 
+- [腾讯新闻发文痛批中学语文 "四大论证方法": 逻辑狗屁不通](https://www.kechuang.org/t/83337)
+
+老生常谈.
+
 - [暨南大学公开课: 民法与生活](https://open.163.com/newview/movie/free?pid=MEFDHUS6H&mid=MEFDJIAH0)
 
 一点通识知识. 每个视频都很短, 带有案例讲解, 很方便观看. 不过中间缺了几个视频, 有些遗憾. (2019/12/25)
