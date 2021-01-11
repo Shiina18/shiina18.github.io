@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(15)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(16)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(6)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
@@ -46,6 +46,7 @@ mathjax: true
 
 ### Games
 
+- 2021-01-11 `Renju` [河村九段的中级连珠讲座 (2)](https://shiina18.github.io/games/2021/01/11/renju-kouza-intermediate-2)
 - 2021-01-06 `Renju` [花月定式: 最强 4](https://shiina18.github.io/games/2021/01/06/kagetsu-1)
 - 2021-01-02 [Tactics Ogre One Vision Mod Challenges](https://shiina18.github.io/games/2021/01/02/to-challenges) <font color="lightgrey">(2021-01-03 updated)</font>
 - 2020-12-18 `Renju` [浦月一打定式: 最强 4](https://shiina18.github.io/games/2020/12/18/hogetsu-1)
