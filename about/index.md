@@ -19,17 +19,13 @@ Last Updated on 2020-11-18
 
 ## 社交账号
 
-文章均不会搬运于本博客.
+各平台文章均不重复, 不会搬运于本博客.
 
-- 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39). 
+- 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
+- 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
 - 豆瓣: [Rick](https://www.douban.com/people/171432596/)
 - bangumi: [Dr. Boom](https://bgm.tv/user/388505)
 - Instagram: [shiina_1418](https://www.instagram.com/shiina_1418/)
-- 公众号年久失修, 以游戏王为主, 多为日语文章翻译, 时效性已过, 无考古价值. 下面列举保质期无限的文章. 
-    - 2020/3/5 [洗牌的一点数学](https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw). 一天写完, 不太满意, 有机会的话打算重写.
-    - 2020/2/9 [Challonge 的瑞士轮算分与匹配机制](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
-    - 2018/9/5 [随笔｜名推理期望问题大结局](https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA)
-    - 2018/8/2 [Tracker 与 KTS 的瑞士轮算分机制](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
 
 ## Blogroll
 

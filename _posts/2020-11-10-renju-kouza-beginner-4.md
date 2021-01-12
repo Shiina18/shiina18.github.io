@@ -6,7 +6,7 @@ comments: true
 mathjax: false
 ---
 
-初级讲座第七回「黑的胜法 (5)」, 第八回「白的下法」
+[河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html) 初级讲座第七回「黑的胜法 (5)」, 第八回「白的下法」
 
 <!-- more -->
 

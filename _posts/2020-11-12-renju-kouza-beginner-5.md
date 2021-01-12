@@ -6,7 +6,7 @@ comments: true
 mathjax: false
 ---
 
-初级讲座第九回「白的胜法」(最终回)
+[河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html) 初级讲座第九回「白的胜法」(最终回)
 
 <!-- more -->
 

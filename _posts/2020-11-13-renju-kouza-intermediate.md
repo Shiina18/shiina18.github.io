@@ -1,12 +1,12 @@
 ---
-title: "河村九段的中级连珠讲座 (1)"
+title: "河村九段的中级连珠讲座 (1): 牵制手"
 categories: Games
 tags: Renju
 comments: true
 mathjax: false
 ---
 
-中级讲座第一回「牵制手」
+[河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html) 中级讲座第一回「牵制手」
 
 <!-- more -->
 

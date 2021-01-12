@@ -52,7 +52,7 @@ mathjax: true
 - 2021-01-02 [Tactics Ogre One Vision Mod Challenges](https://shiina18.github.io/games/2021/01/02/to-challenges) <font color="lightgrey">(2021-01-03 updated)</font>
 - 2020-12-18 `Renju` [浦月一打定式: 最强 4](https://shiina18.github.io/games/2020/12/18/hogetsu-1) <font color="lightgrey">(2021-01-11 updated)</font>
 - 2020-12-06 `Renju` [欢乐五子棋残局闯关题解 (有禁手)](https://shiina18.github.io/games/2020/12/06/renju-solutions) <font color="lightgrey">(2020-12-12 updated)</font>
-- 2020-11-13 `Renju` [河村九段的中级连珠讲座 (1)](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
+- 2020-11-13 `Renju` [河村九段的中级连珠讲座 (1): 牵制手](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
 - 2020-11-12 `Renju` [河村九段的初级连珠讲座 (5)](https://shiina18.github.io/games/2020/11/12/renju-kouza-beginner-5)
 - 2020-11-10 `Renju` [河村九段的初级连珠讲座 (4)](https://shiina18.github.io/games/2020/11/10/renju-kouza-beginner-4)
 - 2020-11-09 `Renju` [五子棋复盘: 无禁初心者](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-12-08 updated)</font>

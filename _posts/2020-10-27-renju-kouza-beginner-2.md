@@ -6,7 +6,7 @@ comments: true
 mathjax: false
 ---
 
-初级讲座第四回「黑的胜法 (2)」
+[河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html) 初级讲座第四回「黑的胜法 (2)」
 
 <!-- more -->
 
