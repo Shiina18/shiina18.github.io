@@ -1,14 +1,14 @@
 ---
 title: "Tactics Ogre One Vision Mod Challenges"
 categories: Games
-updated: 2021-01-03
+updated: 2021-01-21
 comments: true
 mathjax: false
 ---
 
 See [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/) for the old post, and [this repo](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges) for the rules and saves I used.
 
-This time I am going to following the refined common rules and [optional rules](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges#optional-rules).
+This time I am going to following the refined common rules and [optional rules](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges#optional-rules), e.g. 5 skill 2 spell rule.
 
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
 
@@ -31,7 +31,7 @@ Description for the build
 - ...
 ```
 
-Usually, **Spear sidegrade and ranged weapons are the best options for physical classes without magic.** See arguments [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/#teambuilding).
+Usually, **Spear sidegrade, Whip and ranged weapons are the best options for physical classes without magic.** See arguments [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/#teambuilding).
 
 - Attacker: can deal decent damage to most units.
 - Wallbreaker: can deal decent damage to tanks (included in Attacker).
@@ -152,7 +152,9 @@ haven't tested it yet
 - Disembowel
 - haven't decided the left 2 slots yet
 
-The sleep of Sacred Breath will be guaranteed with Dragonheart, so he can be called a disabler. Holy War might not be handy to use due to Shutdown Clause. 
+The sleep of Sacred Breath will be guaranteed with Dragonheart, so he can be called a disabler. ~~Holy War might not be handy to use due to Shutdown Clause~~ (shutdown clause is modified on 2021/1/21). 
+
+Boulder might only be useful in high level or when the monster is empowered.
 
 place holder
 
@@ -190,7 +192,7 @@ Haven't used Intersession and Apostate much. Need some time to test.
   
 ### Warlock
 
-haven't tested it yet
+This build is deprecated since Distill Mind is banned on 2021/1/20.
 
 **Backline Utility Support / Annoyer / Disabler**
 
@@ -207,3 +209,15 @@ Clarity is always better than Efficacy if only one skill may be equipped. Tactic
 If a disabler build is wanted, then my classic build can be applied: Dagger sidegrade + MND gears. With Class Clause Plus, the only shutdown option left for Warlock is a light spell, Oblivion. However, light magic sucks in general and can't coexist with dark magic where there are many debuffs available...
 
 Build example: Lightning Magic + Draconic Magic. Use Draconic Magic to buff in Turn 2, and then tap Electrify to charge TP every turn.
+
+### Berserker
+
+**Dual Wielding Nuker**
+
+- AGI/AVD gears
+- Weapon skill
+- Double Attack
+- Last Resort
+- 2 from Counterhit / Parry / Deflect / XX Ward / Jump
+
+Self-explanatory build.

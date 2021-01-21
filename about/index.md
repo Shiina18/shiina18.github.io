@@ -7,13 +7,10 @@ mathjax: false
 
 Last Updated on 2020-11-18
 
-休闲向博客. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
+休闲向博客, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
 
-您可以在 [sitemap](https://shiina18.github.io/sitemap/) 页面查看本站目录. 每篇文章只有一个 category, 部分文章有 tags 作为专题标识, 您可以在 [tags](https://shiina18.github.io/tags/) 页面查看现有的专题.
-
-页面右上角的 `Search` 可以站内搜索. 
-
-建站记录见 [这里](https://shiina18.github.io/miscellanea/2020/07/23/site-building/).
+- [网站目录](https://shiina18.github.io/sitemap/)
+- [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building/)
 
 感谢您的来访.
 
@@ -42,13 +39,13 @@ Last Updated on 2020-11-18
 
 ### 不再更新 (至少断更一年)
 
-- [考据癖](http://localhost-8080.com/)
-- [刘未鹏 \| Mind Hacks](http://mindhacks.cn/): 思维改变生活. `杂谈`
-- [木遥的窗子](http://blog.farmostwood.net/). `随笔` `数学`
-- [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
-- [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学`
-- [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
-- [No Arbitrage](http://www.sweet-layla.com/): It's Layla's labyrinth. `周记`
+- 2016-04-01 [考据癖](http://localhost-8080.com/)
+- 2017-10-17 [刘未鹏 \| Mind Hacks](http://mindhacks.cn/): 思维改变生活. `杂谈`
+- 2018-06-07 [木遥的窗子](http://blog.farmostwood.net/). `随笔` `数学`
+- 2019-05-15 [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
+- 2016-10-18 [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学`
+- 2013-03-27 [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
+- 2016-03-07 [No Arbitrage](http://www.sweet-layla.com/): It's Layla's labyrinth. `周记`
 
 ## Random Links
 
