@@ -58,6 +58,7 @@ mathjax: false
 
 - B 站 up 主:
     - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 专业六段.
+    - [摆棋老李](https://space.bilibili.com/400842144). 李洪斌, 专业六段.
     - [乐赛丶](https://space.bilibili.com/291338278/). 金洪利, 专业三段, 比赛官方解说员. 在虎牙直播.
 - 五子剑. (2009, Jun 29). [五子剑系列讲座](http://www.wuzi8.com/xiti/HTML/1752.html). *中国五子棋网*.
 - 温顺的瓜皮猫. (2020, Jun 3). [五子棋中, 先手下棋到底有多大的优势?](https://www.zhihu.com/question/267273167/answer/323472412). *知乎*. 主要是提到了一些弈心的资料.
