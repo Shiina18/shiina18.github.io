@@ -40,7 +40,7 @@ mathjax: false
     - [renlib](https://www.renju.se/renlib/): 国外软件, 很容易找, 解题引擎用的就是 renju solver. 
         - 一个重大问题是 renlib 打开棋谱占用的内存很大, 乐赛就没有这个问题. (2020/12/16)
     - 乐赛五子棋打谱软件: 国人温向东开发, UI 漂亮, 功能强大. 收费软件. 作者是 Temple 大学的数学 PhD, 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的. 作者本人其实只是初学者水平.
-    - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋专业四段, 清华姚班, CS PhD. (2020/11/23)
+    - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋专业四段, 清华姚班, CS PhD. 实际用下来, 选点比弈心菜了不少, 但思路仍然值得初学者学习. (2020/11/23)
     - [弈心](https://www.aiexp.info/pages/yixin.html): 作者孙锴, 上交 CS 本, Cornell CS PhD. 在 katago 和 embryo 出现前是无敌的 AI, 支持各种规则. (2020/12/7)
 
 ## 网上资源
