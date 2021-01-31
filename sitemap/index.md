@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(6)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(19)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(20)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(6)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
@@ -46,6 +46,7 @@ mathjax: true
 
 ### Games
 
+- 2021-01-31 `Renju` [第 3 届道馆杯五子棋争霸赛战报](https://shiina18.github.io/games/2021/01/31/renju-contest)
 - 2021-01-29 `Renju` [连珠的各种手筋](https://shiina18.github.io/games/2021/01/29/renju-tesuji)
 - 2021-01-14 `Renju` [花月定式: 次强 4](https://shiina18.github.io/games/2021/01/14/kagetsu-2)
 - 2021-01-12 `Renju` [浦月斜三长蛇必败](https://shiina18.github.io/games/2021/01/12/hogetsu-sureloss)
