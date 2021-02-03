@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2020-12-16
+updated: 2021-02-02
 comments: true
 mathjax: false
 ---
@@ -74,6 +74,8 @@ mathjax: false
 - [中国连珠网](http://www.rifchina.com/). 有比赛棋谱. (2020/11/14)
 - [RenjuNews](http://renjunews.com/). 有一些棋评. (2020/12/7)
 - [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章. (2020/12/12)
+- [xsir31 分享的若干资源](https://github.com/xsir317/ku10/tree/master/resources). 包括一些日语和英语的资源. (2021/1/31)
+- [VCF 习题 24 道](https://kdocs.cn/l/cqe9vsPGEdUs). 李洪彬分享的习题. (2021/2/2)
 
 ## 术语对应表
 
