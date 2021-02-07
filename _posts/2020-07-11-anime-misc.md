@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2021-01-05
+updated: 2021-02-07
 comments: true
 mathjax: false
 ---
@@ -28,9 +28,9 @@ mathjax: false
 - [如何理解动画中的「演出」概念？](https://www.zhihu.com/question/298055921)中 zecy 和 nbht 的回答
 - [动画的“演出”是什么？——新人也能看懂的典型演出案例总结](https://zhuanlan.zhihu.com/p/55160395)
 - [动画中的角色塑造是否需要演技？](https://www.zhihu.com/question/24637961)中 zecy 的回答
-- 演出分析日语博客: [boogyman's memo](https://boogyman.hateblo.jp/)
 - [《昨日之歌》第二话演出分析————Anitama迷你解第35期](https://www.bilibili.com/video/BV1PK4y1k7Zz)
 - 今敏讲座: [【花絮】Perfect Blue 讲座 三夜完整版【自制中字】](https://www.bilibili.com/video/BV1T4411X7AN) (2020/9/5)
+- [浪客剑心追忆篇和全职猎人部分演出分析](https://bbs.saraba1st.com/2b/thread-1905904-1-1.html) (2021/2/7)
 
 ## 作画
 
@@ -50,6 +50,7 @@ mathjax: false
 - [什么样的动画才能叫作有深度？](https://www.zhihu.com/answer/539681485)
 - [【声优翻车集锦】整天说人家棒读！所以棒读到底是个啥？！](https://www.bilibili.com/video/BV1Hx411p7Wz)
 - 一些博客: [アニメの作画・演出について批評しているサイトを教えて下さい。](https://q.hatena.ne.jp/1331159464)
+- 另一些博客, 注意看评论区: [有哪些评论动画作画和演出的质量较高的个人博客?](https://www.zhihu.com/question/358762370)
 - [为什么日本深夜动画绝大多数是12、13集，或者24-26集？](https://www.zhihu.com/question/265029429/answer/288374351)
 - 动画考据: [叶佳桐](https://space.bilibili.com/25195981/)
 - 动画公司历史: [JK低手鱼太](https://space.bilibili.com/904827/) 动画公司图鉴系列
