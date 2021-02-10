@@ -49,17 +49,20 @@ mathjax: false
 
 - B 站 up 主:
     - [卖丶菜](https://space.bilibili.com/28742590). 几个最强开局的定式讲解.
+    - [摆棋老李](https://space.bilibili.com/400842144). 李洪斌, 专业六段. 基础定式讲解, 名局讲解. 特效做得好.
+    - [乐赛丶](https://space.bilibili.com/291338278/). 金洪利, 专业三段, 比赛官方解说员. 在虎牙直播. 比赛讲解.
+    - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 专业六段. 定式介绍, 比赛讲解.
 - 河村典彦九段. [河村九段の連珠講座](http://www.kyogo.org/contents/kouza.html). *京都連珠会*. 初心者向.
 - [励精连珠教室](http://www.ljrenju.com/index.htm). 国内很多网站都十分老旧, 这是难得的更新勤快的网站, 有用的资料也很多. 目前我都是在这里查定式的, 虽然可能资料有点老. (2020/11/9)
     - 虽然推荐, 励精还是有恶心人的地方, 比如 [连珠兵法战术](http://www.ljrenju.com/croom/kjjj/r4.htm) 一文大量直接翻译自 [河村九段初级讲座第二回「连攻」](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner/), 却没有给出任何 credit (只提到了一句 "河村典彦先生首推山形为进攻做二的最佳结构"). 类似地, 定式大概也是翻译自日语 (有些甚至还留着原文), 但是没有给出任何 references; 定式的年代也不清楚, 因为定式会翻新, 不知道是老定式还是新定式不利于初学者获得正确的知识. 最讽刺的是, 他在页脚写道 "励精付出精力, 请勿转载翻版", 自己却一点也没有这样的意识, 这种行为对信息传播非常不利.
 - [587 连珠](http://587.renju.org.tw/). 一个很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. 后来才知道作者是台湾顶尖棋手林書玄. (2020/12/7)
+- 五子棋 QQ 群: 可以获得大量免费资料, 以及比赛信息.
+    - B 站五子棋 up 主粉丝交流群: 906038065
+    - 五子棋道馆: 861589961
+    - 华夏大讲堂五子棋初⑳: 737972308
 
 ### 其他资源
 
-- B 站 up 主:
-    - [连珠之魂](https://space.bilibili.com/135341585/). 兰志仁, 专业六段.
-    - [摆棋老李](https://space.bilibili.com/400842144). 李洪斌, 专业六段.
-    - [乐赛丶](https://space.bilibili.com/291338278/). 金洪利, 专业三段, 比赛官方解说员. 在虎牙直播.
 - 五子剑. (2009, Jun 29). [五子剑系列讲座](http://www.wuzi8.com/xiti/HTML/1752.html). *中国五子棋网*.
 - 温顺的瓜皮猫. (2020, Jun 3). [五子棋中, 先手下棋到底有多大的优势?](https://www.zhihu.com/question/267273167/answer/323472412). *知乎*. 主要是提到了一些弈心的资料.
 - 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.
@@ -75,7 +78,7 @@ mathjax: false
 - [RenjuNews](http://renjunews.com/). 有一些棋评. (2020/12/7)
 - [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章. (2020/12/12)
 - [xsir31 分享的若干资源](https://github.com/xsir317/ku10/tree/master/resources). 包括一些日语和英语的资源. (2021/1/31)
-- [VCF 习题 24 道](https://kdocs.cn/l/cqe9vsPGEdUs). 李洪彬分享的习题. (2021/2/2)
+- [VCF 习题 24 道](https://kdocs.cn/l/cqe9vsPGEdUs). 李洪斌分享的习题. (2021/2/2)
 
 ## 术语对应表
 
