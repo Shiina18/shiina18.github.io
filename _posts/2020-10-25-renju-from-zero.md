@@ -32,6 +32,9 @@ mathjax: false
 
 - Nosovsky, A. & Sokolsky, A. (1999). [Renju for beginners (new revised edition)](https://renju.se/rif/nosovsky/renjuforbeginners.pdf).
 - [連珠の本の案内](http://www15.plala.or.jp/ssiio/renjubook.htm)
+- 膳书堂文化. (2009). 五子棋入门与提高. 中国画报.
+
+《五子棋入门与提高》是高中时读的第一本五子棋书, 回过头来看, 写的真的还可以.
 
 ## 软件
 

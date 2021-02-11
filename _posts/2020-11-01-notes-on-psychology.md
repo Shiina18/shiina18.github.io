@@ -1,7 +1,7 @@
 ---
 title: "Notes on how to think straight about psychology"
 categories: Reading
-updated: 2021-01-01
+updated: 2021-02-11
 comments: true
 mathjax: false
 ---
@@ -12,9 +12,7 @@ The goal of this book is to present a short introduction to the critical thinkin
 
 > Few people are aware that the majority of the books they see in the psychology sections of many bookstores are written by individuals with absolutely no standing in the psychological community. (p. xiv)
 
-大多内容至少对理科生而言都是常识, 但是依然有新的东西, 再系统地回顾一遍也是有好处的. 另外可以知道大众会犯哪些错误.
-
-进度 3/12
+大多内容, 尤其是后半本书 (因此笔记主要针对前几章), 至少对理科生而言都是常识, 但是依然有新的东西, 再系统地回顾一遍也是有好处的. 另外可以知道大众会犯哪些错误.
 
 <!-- more -->
 
@@ -159,7 +157,7 @@ Operational definition 需要信度 (reliability) 和 效度 (validity). 信度�
 
 - Medawar, P. (1984). *The limits of science*. Oxford Univ. Press. (527 citations till 2020/12/31)
 
-<!--
+
 
 ## Ch. 4 Testimonials and case study evidence
 
@@ -193,9 +191,14 @@ A case study is an investigation that looks intensely and in detail at a single 
 
 在世界范围, 每天死于车祸的人大约抵得上 2011 日本海啸的量 (Lewis, 2017, p. 346). 但我们对此漠然置之, 因为没有像 "能坐满一架飞机的人死了" 这种信息通过媒体以鲜活的形式传达给我们. 事实上, 与生活中几乎其他所有的活动相比, 开车都是一种极端危险的行为, 比坐飞机高多了 (Galovski et al., 2006; National Safety Council, 2016). 比如你驾车送朋友去机场, 分别的时候说 "一路平安", 但其实你危险得多 (Sivak & Flannagan, 2003; Smith, 2013). 因此联邦航空管理局 (FAA, federal aviation administration) 景观推荐婴儿和儿童坐在自己的座位上 (have their own seat), 但并不强制要求 (Associated Press, 2010). 因为他们害怕父母为了节省小孩的票钱, 会因此选择驾车, 这可比坐飞机危险多了. 对儿童来说, 车里是最危险的地方了.
 
-p. 53
+当遇到有人陷入鲜活性问题不能自拔时, 可以考虑用魔法打败魔法. Fight vividness with vividness.
+
+鲜活事例可以用来 *illustrate* a point but not to *prove* it. 
 
 ### How to identify pseudoscientific claims
+
+一个特点是, 伪科学 offer an outcome that allows one to escape well-established trade-offs. 比如高收益通常对应高风险.
+
 
 ###  References
 
@@ -213,4 +216,8 @@ p. 53
 - Smith, P. (2013). *Cockpit confidential: Everything you need to know about air travel: Questions, answers, and reflections*. Sourcebooks, Inc.. (10 citations till 2021/1/1)
 - Associated Press. (2010, Sep 7). [Safety board renews call for young to fly in own seats](https://www.nytimes.com/2010/09/07/us/07laps.html).
 
- -->
+## Ch. 8 Converging evidence
+
+简单地说, 如果结论正确, 那么各方证据应该都能支持这个.
+
+科学是缓慢地积累, 逐步发展的, 几乎没有大跃进. 每次发展通常都是之前结果的延拓, 称为 connectivity (与先前的理论有联系). 而这个性质在艺术领域几乎是缺失的. 艺术史是艺术家的历史.

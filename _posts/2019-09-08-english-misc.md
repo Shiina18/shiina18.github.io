@@ -1,10 +1,22 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-10-31
+updated: 2020-02-11
 comments: true
 mathjax: false
 ---
+
+## Double negatives
+
+2021/2/11
+
+读到一句话是 "I don't get no respect", 但意思却是我得不到尊重. 在现代标准英语中, 这个用法是错误的, 双重否定应该表示肯定. 但历史上有用双重否定表示单重否定的用法, 在某些方言, 歌词, 未受教育人群中依然有使用.
+
+- [What does "I Can't Get No Satisfaction" mean?](https://english.stackexchange.com/questions/983/what-does-i-cant-get-no-satisfaction-mean). *Stack Exchange*.
+- [Examples of Double Negatives: From Sentences to Lyrics](https://examples.yourdictionary.com/examples-of-double-negatives.html). *your dictionary*.
+- [英语中的「双重否定」为什么显得奇怪, 让人感觉有错误?](https://www.zhihu.com/question/20767261). *知乎*.
+
+<!-- more -->
 
 ## Detail: countable or uncountable
 
@@ -15,8 +27,6 @@ mathjax: false
 - This issue will be discussed **in** more **detail** in the next chapter.
 - The research has been carried out with scrupulous **attention to detail**.
 - He had **an eye for detail** (= noticed and remembered small details).
-
-<!-- more -->
 
 ## 杂项
 
