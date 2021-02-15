@@ -1,10 +1,19 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-02-11
+updated: 2020-02-12
 comments: true
 mathjax: false
 ---
+
+## Mens and womens
+
+2021/2/12
+
+在鞋店里看到用 mens 来表示 men's, 这种用法并不正规, 但是确实有用的.
+
+- [Is "mens" a valid word?](https://english.stackexchange.com/questions/112420/is-mens-a-valid-word). *StackExchange*.
+- [Is there a term for the opposite of the greengrocer's apostrophe?](https://english.stackexchange.com/questions/59425/is-there-a-term-for-the-opposite-of-the-greengrocer-s-apostrophe). *StackExchange*.
 
 ## Double negatives
 

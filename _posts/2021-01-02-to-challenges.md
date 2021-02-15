@@ -1,7 +1,7 @@
 ---
 title: "Tactics Ogre One Vision Mod Challenges"
 categories: Games
-updated: 2021-01-21
+updated: 2021-02-15
 comments: true
 mathjax: false
 ---
@@ -221,3 +221,80 @@ Build example: Lightning Magic + Draconic Magic. Use Draconic Magic to buff in T
 - 2 from Counterhit / Parry / Deflect / XX Ward / Jump
 
 Self-explanatory build.
+
+## Cressida challenge
+
+2021/2/15
+
+See the rules [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Battlewise-challenges#cressida-challenge)
+
+I will follow the reverse mirror match rules.
+
+Classes available.
+
+```
+- ARCHER
+- FUSILIER	
+- BEAST TAMER
+- ROGUE
+	
+- SWORDMASTER (status restoration)
+- DRAGOON	
+
+- WIZARD
+- SPELLBLADE
+- LICH	
+
+- JUGGERNAUT
+- PATRIARCH
+- FAMILIAR (status restoration)
+- TRICKSTER 
+
+- MONSTERS
+```
+
+Some candidates for the only one special class slot.
+
+```
+Wicce
+
+- Necromancy
+- Devour
+
+Necromancy for Banish, Devour for MP control. 
+Devour can also be used to deal with Ninja's Nullify.
+
+Note that Devour also restores HP. 
+A combo: Charge (MP) the enemy and then Devour him. 
+The MP pool can be kept high 
+and the process can be repeated again and again.
+
+An option is to equip Empower Golem.
+
+Draconic can take care of most minor status in one slot.
+```
+
+```
+White Knight
+
+- Palladium
+- Fervor
+- Santuary
+
+Palladium + Santuary is possible to block enemies even in Obstacle Clause.
+```
+
+```
+Commando
+
+- Gambit
+
+Since Divine Magic is banned, Gambit is the most convenient debuff removing tool.
+```
+
+Some thoughts for lv. 18 version
+
+- Since some enemies have anatomy, better use demihumans as many as possible.
+- Status: Silence, Stun, Bind, Shackle, Curse, Fear (TK and Night Crow in the reinforcement), Leaden, Bewitch
+- Nybeth is fearsome, hitting 200+ damage with projectile 3. Drain Mind and spell def up might be needed for safety.
+- Battering Ram, Flight, Squash, Absorb MP might be needed to take down the two necros. Waterwalk, xbows, guns might be needed to finish off Nybeth.
