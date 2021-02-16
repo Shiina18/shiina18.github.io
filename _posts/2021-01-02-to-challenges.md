@@ -255,7 +255,6 @@ Classes available.
 
 Some candidates for the only one special class slot.
 
-```
 Wicce lv. 18
 
 Exorcism, MP/TP control, Support
@@ -273,12 +272,14 @@ Due to the rules, there are only 2 consistent undead removal tools left:
 Banish from Necromancy and Fervor from White Knight.
 As for Banish, there are only few classes left under the rules: 
 Lich, Heretic, Wicce.
+
 Besides Banish, Necromancy also provides important tools 
 to remove MP (Brainrot) and TP (Curse).
 Wicce already has a really high accuracy 
-(0.6 to Nebyth, 0.8 to Necros, 0.75 to Blue TK, 0.6 to Blue Hoplite)
+(0.6 to Nebyth, 0.8 to Necros, 0.75 to Blue TK, 0.6~0.7 to Blue Hoplite)
 with max def build (VIT ring), 
 spellcraft from Dagger sidegrade can guarantee 100%.
+
 Using a MND ring or replacing Parry with Magic Time are also sound choices,
 depending on builds of teammates.
 
@@ -301,7 +302,6 @@ The MP pool can be kept high
 and the process can be repeated again and again.
 
 An option is to equip Empower Golem.
-```
 
 ```
 White Knight
