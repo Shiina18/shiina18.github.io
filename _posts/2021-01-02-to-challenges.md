@@ -256,13 +256,38 @@ Classes available.
 Some candidates for the only one special class slot.
 
 ```
-Wicce
+Wicce lv. 18
 
+Exorcism, MP/TP control, Support
+
+- Dagger sidegrade, DEF/VIT/AVD gears
+- Parry
+- Draconic Magic
 - Necromancy
 - Devour
+- Clarity
 
-Necromancy for Banish, Devour for MP control. 
+Necromancy and Devour are indispensable.
+
+Due to the rules, there are only 2 consistent undead removal tools left: 
+Banish from Necromancy and Fervor from White Knight.
+As for Banish, there are only few classes left under the rules: 
+Lich, Heretic, Wicce.
+Besides Banish, Necromancy also provides important tools 
+to remove MP (Brainrot) and TP (Curse).
+
+Devour is for long ranged and reliable MP control. 
 Devour can also be used to deal with Ninja's Nullify.
+
+Draconic can take care of most minor status in one slot,
+and offer damage and various support choices.
+It can inflict any kind of elemental averse, 
+which has synergy with damage scaling finishers from teammates.
+
+Parry is a free slot. Since it's expected to be a very long battle, 
+more survivability is favored.
+
+Other options
 
 Note that Devour also restores HP. 
 A combo: Charge (MP) the enemy and then Devour him. 
@@ -270,8 +295,6 @@ The MP pool can be kept high
 and the process can be repeated again and again.
 
 An option is to equip Empower Golem.
-
-Draconic can take care of most minor status in one slot.
 ```
 
 ```
