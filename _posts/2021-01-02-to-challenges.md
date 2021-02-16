@@ -275,11 +275,10 @@ Lich, Heretic, Wicce.
 
 Besides Banish, Necromancy also provides important tools 
 to remove MP (Brainrot) and TP (Curse).
-Wicce already has a really high accuracy 
-(0.6 to Nebyth, 0.8 to Necros, 0.75 to Blue TK, 0.6~0.7 to Blue Hoplite)
+Wicce has a not-too-bad accuracy 
+(0.6 to Nebyth, 0.8 to Necro, 0.6 to Blue Witch, 0.75 to Blue TK, 0.6~0.7 to Blue Hoplite)
 with max def build (VIT ring), 
 spellcraft from Dagger sidegrade can guarantee 100%.
-
 Using a MND ring or replacing Parry with Magic Time are also sound choices,
 depending on builds of teammates.
 
