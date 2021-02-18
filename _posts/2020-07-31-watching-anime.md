@@ -8,32 +8,30 @@ mathjax: false
 
 换了新博客后传图方便了许多, 这是第一个多图 post.
 
+拼接图片的简单工具: [filesmerge](https://www.filesmerge.com/merge-images)
+
 <!-- more -->
 
-## 框, 空间
+## 拘束空间
 
 2021/2/17
 
-奇蛋物语 ep. 06, 11:00 开始.
+奇蛋物语 ep. 6, 11:00 开始.
 
-老师登场后两人同时出现的镜头, 双方被束缚在门框中, 老师占据了空间主导, 显现爱的紧绷感. 饭桌上听到消息后, 又是体现压抑感的构图. 
+老师登场后两人同时出现的镜头, 双方被束缚在门框中 (左边的饮水机应该是为了不让画面太空), 老师占据了空间主导, 显现爱的紧绷感. 饭桌上听到消息后, 又是体现压抑感的构图. 
 直到末尾雨后天晴, すっきりした ​​.
 
-![](https://shiina18.github.io/assets/posts/images/20210217165457510_10873.png)
-
-![](https://shiina18.github.io/assets/posts/images/20210217165503963_1003.png)
-
-![](https://shiina18.github.io/assets/posts/images/20210217165521040_6057.png)
+![](https://shiina18.github.io/assets/posts/images/20210218142620160_19959.jpg)
 
 ## 平躺起身
 
 2020/12/1
 
-成神之日 ep. 07, 17:40 开始. 注意抬腿的细节.
+成神之日 ep. 7, 17:40 开始. 注意抬腿的细节.
 
 刚知道成神这段和未确认进行时那段都是出自一个人, 参考 [萌系演技作画启蒙者, 新一代中最有影响力的原画师——原画师野中正幸作画MAD【大师级原画师MAD补完计划】](https://www.bilibili.com/video/BV18V411b7v7). (2020/12/23)
 
-想到了向山进发 se. 02 ep. 17, 2:05 开始. 本话是单人原画回.
+想到了向山进发 se. 2 ep. 17, 2:05 开始. 本话是单人原画回.
 
 ## 杂项
 
@@ -91,8 +89,6 @@ KILL la KILL (斩服少女) ep. 5, 15:00 开始, 女性四天王乃音初战时�
 
 作画, 演出, 声优阵容, ED 都很棒.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=4923752&auto=0&height=32"></iframe>
-
 2020/8/23
 
 破晓之翼 ep. 4, 5:10 开始.
@@ -123,25 +119,16 @@ DECA-DENCE (没落要塞) ep. 4, 17:00 开始.
 
 先用镜头掩盖人物之间的真实距离, 然后一下子展示出来, 疏离感扑面而来.
 
-![](https://shiina18.github.io/assets/posts/images/20200731200951696_11670.png)
-
-![](https://shiina18.github.io/assets/posts/images/20200731201029134_20794.png)
-
-![](https://shiina18.github.io/assets/posts/images/20200731201108948_26069.png)
+![](https://shiina18.github.io/assets/posts/images/20210218141829950_29638.jpg)
 
 虽然第一张图右下角和中间的背景已经暗示了一定的距离, 但是没有想到右边这些 U 字形栏杆的间隔比背景的更大. 前面的镜头实际上也是建立光源的位置, 好让全景中的两人都处于背光的位置.
 
-这组镜头让我想起了 DARLING in the FRANXX ep. 10, 20:30 开始.
+这组镜头让我想起了 DARLING in the FRANXX ep. 10, 20:30 开始. 还特地用了电影版的宽屏体现距离感.
 
-为了达成这个镜头, 还特意安排 666 小跑坐到沙发上.
+为了达成这个镜头, 还特意安排 666 小跑坐到沙发上. 事实上在 14:10 开始的多处镜头已经可以看出沙发距离窗边有一定距离 (最右边的图).
 
-![](https://shiina18.github.io/assets/posts/images/20200815164055752_25925.png)
+![](https://shiina18.github.io/assets/posts/images/20210218142314218_18870.jpg)
 
-![](https://shiina18.github.io/assets/posts/images/20200815164150321_12372.png)
-
-事实上在 14:10 开始的多处镜头已经可以看出沙发距离窗边有一定距离.
-
-![](https://shiina18.github.io/assets/posts/images/20200731213116289_9794.png)
 
 ## 倾斜镜头
 
@@ -151,6 +138,4 @@ DECA-DENCE (没落要塞) ep. 4, 17:00 开始.
 
 这一段和漫画大不相同. 漫画里是到家门口进行对话, 最后笑嘻嘻地告别了; 而动画换了一个有柱子的场景暗示隔阂, 又给了倾斜镜头表示不安, 并且这之后晴就不露脸了, 末了自己跑回去, 气氛大变.
 
-![](https://shiina18.github.io/assets/posts/images/20200731214757550_14363.png)
-
-![](https://shiina18.github.io/assets/posts/images/20200731215053353_9427.png)
+![](https://shiina18.github.io/assets/posts/images/20210218142122325_14668.jpg)

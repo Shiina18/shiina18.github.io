@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2021-02-07
+updated: 2021-02-18
 comments: true
 mathjax: false
 ---
@@ -31,6 +31,7 @@ mathjax: false
 - [《昨日之歌》第二话演出分析————Anitama迷你解第35期](https://www.bilibili.com/video/BV1PK4y1k7Zz)
 - 今敏讲座: [【花絮】Perfect Blue 讲座 三夜完整版【自制中字】](https://www.bilibili.com/video/BV1T4411X7AN) (2020/9/5)
 - [浪客剑心追忆篇和全职猎人部分演出分析](https://bbs.saraba1st.com/2b/thread-1905904-1-1.html) (2021/2/7)
+- [若林信演出笔记——写在「奇蛋物语」第一话播出后](https://zhuanlan.zhihu.com/p/344980907) (2021/2/18)
 
 ## 作画
 
@@ -61,6 +62,7 @@ mathjax: false
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
 - 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) (2021/1/5)
+- 一些账号: [东川Production](https://www.zhihu.com/people/dong-chuan-production), [八代譲葉](https://space.bilibili.com/23320274) (2021/2/18)
 
 ## 漫画
 

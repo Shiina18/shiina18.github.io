@@ -1,7 +1,7 @@
 ---
 title: "关于《向山进发》的几句话"
 categories: Anime
-updated: 
+updated: 2021-02-18
 comments: true
 mathjax: false
 ---
@@ -36,5 +36,6 @@ mathjax: false
 
 - 最后一点, 把片名「ヤマノススメ」翻译成向山进发是因为「すすめ」可以理解为「進め」, 但根据语法此处更应该是「薦め」推荐, 或者「勧め」鼓励/劝诱, 正如日向对葵做的一样. 片名下面的英语就写着 encouragement of climb, 英语 wiki 把「すすめ」翻译成了 recommendation. 中文直译可以叫 "劝君登山", 不过我还挺喜欢向山进发这个翻译的.
 - 总结: 向山进发真是太好看了. ~~向山进发天下第一.~~
+- 东川 Production. (2021, Jan 24).[「色違いの翼」填词鉴赏: 结翼成双, 比翼翱翔](https://zhuanlan.zhihu.com/p/346594318). *知乎*.
 
 ![](https://shiina18.github.io/assets/posts/images/20200616151206014_30302.jpg)
