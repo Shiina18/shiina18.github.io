@@ -18,8 +18,7 @@
         id: '{{ page.url }}',
         labels: ['gitalk'],
         perPage: 50,
-        distractionFreeMode: '{{ site.gitalk.distractionFreeMode }}',
-		proxy: '{{ site.gitalk.proxy }}'
+        distractionFreeMode: true
       });
       gitalk.render('gitalk-container');
 </script>

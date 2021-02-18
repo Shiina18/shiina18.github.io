@@ -473,6 +473,8 @@ gitalk:
   owner: Shiina18
   admin: Shiina18
   distractionFreeMode: false  # 测试, true doesn't work
+  proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
+
 
 # Baidu Share
 # Available value:
