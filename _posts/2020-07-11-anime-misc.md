@@ -28,10 +28,8 @@ mathjax: false
 - [如何理解动画中的「演出」概念？](https://www.zhihu.com/question/298055921)中 zecy 和 nbht 的回答
 - [动画的“演出”是什么？——新人也能看懂的典型演出案例总结](https://zhuanlan.zhihu.com/p/55160395)
 - [动画中的角色塑造是否需要演技？](https://www.zhihu.com/question/24637961)中 zecy 的回答
-- [《昨日之歌》第二话演出分析————Anitama迷你解第35期](https://www.bilibili.com/video/BV1PK4y1k7Zz)
 - 今敏讲座: [【花絮】Perfect Blue 讲座 三夜完整版【自制中字】](https://www.bilibili.com/video/BV1T4411X7AN) (2020/9/5)
 - [浪客剑心追忆篇和全职猎人部分演出分析](https://bbs.saraba1st.com/2b/thread-1905904-1-1.html) (2021/2/7)
-- [若林信演出笔记——写在「奇蛋物语」第一话播出后](https://zhuanlan.zhihu.com/p/344980907) (2021/2/18)
 
 ## 作画
 
@@ -51,7 +49,7 @@ mathjax: false
 - [什么样的动画才能叫作有深度？](https://www.zhihu.com/answer/539681485)
 - [【声优翻车集锦】整天说人家棒读！所以棒读到底是个啥？！](https://www.bilibili.com/video/BV1Hx411p7Wz)
 - 一些博客: [アニメの作画・演出について批評しているサイトを教えて下さい。](https://q.hatena.ne.jp/1331159464)
-- 另一些博客, 注意看评论区: [有哪些评论动画作画和演出的质量较高的个人博客?](https://www.zhihu.com/question/358762370)
+- 另一些博客 (提到的博客中友链也值得一翻), 注意看评论区: [有哪些评论动画作画和演出的质量较高的个人博客?](https://www.zhihu.com/question/358762370)
 - [为什么日本深夜动画绝大多数是12、13集，或者24-26集？](https://www.zhihu.com/question/265029429/answer/288374351)
 - 动画考据: [叶佳桐](https://space.bilibili.com/25195981/)
 - 动画公司历史: [JK低手鱼太](https://space.bilibili.com/904827/) 动画公司图鉴系列
@@ -62,7 +60,7 @@ mathjax: false
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
 - 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) (2021/1/5)
-- 一些账号: [东川Production](https://www.zhihu.com/people/dong-chuan-production), [八代譲葉](https://space.bilibili.com/23320274) (2021/2/18)
+- [有哪些动漫方面研究资料值得推荐?](https://www.zhihu.com/question/21484184/answer/18427606) (2021/2/18)
 
 ## 漫画
 
