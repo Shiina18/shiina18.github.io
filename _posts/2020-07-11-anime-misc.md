@@ -42,6 +42,7 @@ mathjax: false
 - 博客: [未知的深蓝色](http://blog.sina.cn/dpool/blog/aoimishi#type=-1). 包含 GAINAX 动画讲义译文.
 - 作画分析英语博客: [Sakuga Blog – The Art of Japanese Animation](https://blog.sakugabooru.com/). 就是那个有名的 SAKUGABOORU 的博客.
 - [artist_unknown: Collective blog by members of the sakuga community](https://artistunknown.info/)
+- [作画爱好者 (作豚) 的自我修养 v2.99 (beta)](https://zhuanlan.zhihu.com/p/20584724) (2021/2/18)
 
 ## 其他
 
