@@ -62,6 +62,7 @@ mathjax: false
 - 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) (2021/1/5)
 - [有哪些动漫方面研究资料值得推荐?](https://www.zhihu.com/question/21484184/answer/18427606) (2021/2/18)
+- [如何看待没有把动画看完就发表评价的行为?](https://www.zhihu.com/question/438351571/answer/1730986887)
 
 ## 漫画
 
