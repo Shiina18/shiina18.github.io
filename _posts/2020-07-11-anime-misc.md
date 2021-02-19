@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2021-02-18
+updated: 2021-02-19
 comments: true
 mathjax: false
 ---
@@ -30,6 +30,7 @@ mathjax: false
 - [动画中的角色塑造是否需要演技？](https://www.zhihu.com/question/24637961)中 zecy 的回答
 - 今敏讲座: [【花絮】Perfect Blue 讲座 三夜完整版【自制中字】](https://www.bilibili.com/video/BV1T4411X7AN) (2020/9/5)
 - [浪客剑心追忆篇和全职猎人部分演出分析](https://bbs.saraba1st.com/2b/thread-1905904-1-1.html) (2021/2/7)
+- [动画分镜入门: 28张动图领略 "镜头语言" 的魅力](https://zhuanlan.zhihu.com/p/84415633) (2021/2/19)
 
 ## 作画
 
@@ -57,12 +58,13 @@ mathjax: false
 - [没什么卵用的术语——日本动画常用术语翻译](https://zhuanlan.zhihu.com/p/20331802)
 - [动画里的卷心菜演变史](https://zhuanlan.zhihu.com/p/149854476). "再崩不能崩卷心菜".
 - (非日本动画的) 动画史: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
-- 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article) (2020/9/10)
+- 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article)
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
 - 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) (2021/1/5)
 - [有哪些动漫方面研究资料值得推荐?](https://www.zhihu.com/question/21484184/answer/18427606) (2021/2/18)
 - [如何看待没有把动画看完就发表评价的行为?](https://www.zhihu.com/question/438351571/answer/1730986887)
+- ["张力" 到底什么意思? 观众挂在嘴边, 我却一头雾水](https://zhuanlan.zhihu.com/p/96850338)
 
 ## 漫画
 
