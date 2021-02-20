@@ -12,17 +12,23 @@ mathjax: false
 
 <!-- more -->
 
+## 蒙太奇
+
+2021/2/18
+
+奇蛋物语 ep. 1 开头, 埋葬金甲虫. 看定义好像不是跳接, 大概算连续性蒙太奇?
+
+![](https://shiina18.github.io/assets/posts/images/20210219121725322_31708.jpg)
+
 ## 跳接
 
 2021/2/18
 
 > 如果摄影师从这个镜头中移除几帧画面, 动作会中断, 画面也会产生明显的视觉跳跃感. 这就是跳接 (jump cut). 动作的跳跃缩短了银幕时间, 令叙事的推进速度要快于普通连续性剪辑所能达到的效果. (《电影的秘密》第 6 版 p. 176)
 
+要求机位差别不大, 景别相似.
+
 - 井上苔藓. (2020, Feb 22). [【拉片】跳切是什么?](https://www.bilibili.com/video/BV137411c7gT). *bilibili*.
-
-奇蛋物语 ep. 1 开头, 埋葬金甲虫.
-
-![](https://shiina18.github.io/assets/posts/images/20210219121725322_31708.jpg)
 
 SSSS.古立特 (SSSS.GRIDMAN) ep. 1 3:20 开始的对话.
 

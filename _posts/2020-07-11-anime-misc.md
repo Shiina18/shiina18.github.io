@@ -22,6 +22,9 @@ mathjax: false
 - 《认识电影》《电影的秘密：形式与意义》
 - [从樱子小姐和全部成为F来看写实系动画（上）](https://www.bilibili.com/video/BV1js411d7bs). 我记得宫崎骏是反对写实系的, 他主张动画要做出现实做不到的事情.
 - [【木鱼动画教室@第四期】怎么拍对话【龙与虎】](https://www.bilibili.com/video/BV1rs411f7VJ)
+- [【妃雪阁物语】动画知识科普与动画科普的正确姿势](https://www.bilibili.com/video/BV1Cs411r7Kb)
+- [【动画和电影鉴赏入门】镜头语言与分镜艺术](https://www.bilibili.com/video/BV1Es41147jq)
+- [如何评价 NBHT 和潇湘公子寻的纠纷?](https://www.zhihu.com/question/292822553)
 
 ## 演出
 
@@ -31,6 +34,7 @@ mathjax: false
 - 今敏讲座: [【花絮】Perfect Blue 讲座 三夜完整版【自制中字】](https://www.bilibili.com/video/BV1T4411X7AN) (2020/9/5)
 - [浪客剑心追忆篇和全职猎人部分演出分析](https://bbs.saraba1st.com/2b/thread-1905904-1-1.html) (2021/2/7)
 - [动画分镜入门: 28张动图领略 "镜头语言" 的魅力](https://zhuanlan.zhihu.com/p/84415633) (2021/2/19)
+- [普通观众如何判断一部动画的layout水平?](https://www.zhihu.com/question/390389117/answer/1191988135)
 
 ## 作画
 
@@ -60,11 +64,15 @@ mathjax: false
 - (非日本动画的) 动画史: [Ani马先生](https://zhuanlan.zhihu.com/anima33) (2020/9/8)
 - 作品分析译文: [屋顶现视研](https://space.bilibili.com/355943807/article)
 - 作品分析: [果壳里的墨墨](https://space.bilibili.com/227074644/article) (2020/10/17)
-- 动画评论例文: [凝视与幻影:《未麻的房间》影片文本细读](https://www.zhihu.com/question/21422909) (2020/10/19)
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) (2021/1/5)
 - [有哪些动漫方面研究资料值得推荐?](https://www.zhihu.com/question/21484184/answer/18427606) (2021/2/18)
 - [如何看待没有把动画看完就发表评价的行为?](https://www.zhihu.com/question/438351571/answer/1730986887)
+- [一篇优秀的漫评应该包括什么?](https://www.zhihu.com/question/265188720/answer/290602113)
+- [写漫评该注意哪些方面?](https://www.zhihu.com/question/68373525)
+- [写动画评论如何入门?](https://www.zhihu.com/question/21422909)
+- [想要进行动画和漫画的评论, 应该如何下手?](https://www.zhihu.com/question/23479925)
 - ["张力" 到底什么意思? 观众挂在嘴边, 我却一头雾水](https://zhuanlan.zhihu.com/p/96850338)
+- [所谓媚宅到底指什么呢? 它到底有什么坏处?](https://www.zhihu.com/question/263944167/answer/281518456)
 
 ## 漫画
 
