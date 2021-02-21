@@ -43,6 +43,9 @@ mathjax: false
 - [当我们讨论漫画分镜有电影感的时候, 我们在讨论什么?](https://www.zhihu.com/question/50087643/answer/1601695822)
 - [动画分镜入门: 28 张动图领略 "镜头语言" 的魅力](https://zhuanlan.zhihu.com/p/84415633)
 - [如何评价 2020 年 10 月开播的动画《寒蝉鸣泣之时》?](https://www.zhihu.com/question/423143915/answer/1503098051)
+- [【翻译】《Layout 的历史》讲义（一）：简介与发展史](https://www.bilibili.com/read/cv7872015)
+- [【翻译】《Layout 的历史》讲义（五）：第五次讲座的提问集](https://www.bilibili.com/read/cv8467201)
+- [动画与现实, 或高畑勋的现实主义坐标](https://www.bilibili.com/read/cv8255716)
 
 相反, 长焦无法对近景或远景同时聚焦. 长焦镜头会放大远方的被摄物, 让其看上去比实际更近, 可以参考 [这个视频](https://www.bilibili.com/video/BV1mK4y1b7k2).
 
