@@ -72,6 +72,7 @@ mathjax: false
 - shirooo105. (2018, Sep 5).[『ヤマノススメ サードシーズン』10 話の演出について](https://shirooo305.hatenablog.com/entry/2018/09/05/151307). *Paradism*.
     - 在该博客下搜索「ヤマノススメ」, 可以找到很多 mentions.
 - 折田key太郎. (2018, Sep 7). [コーヒーをめぐる成長とか,ちな氏の演出とか. (『ヤマノススメ サードシーズン』第 10 話)](https://orita-ani.net/coffee-makes-you-grow-up/). *おりあに劇場*.
+- [「話数単位で選ぶ、2018 年TVアニメ 10 選」投票集計](http://shinmai.seesaa.net/article/463460588.html) S3E10 为第二名.
 - 其他
     - 东川Production. (2021, Jan 24).[「色違いの翼」填词鉴赏: 结翼成双, 比翼翱翔](https://zhuanlan.zhihu.com/p/346594318). *知乎*.
     - 折田key太郎. (2018, Jul 18).[『ヤマノススメ サードシーズン』EDのリップシンクとオフビート](https://orita-ani.net/yamano-susume-3rd-ed-good/). *おりあに劇場*.

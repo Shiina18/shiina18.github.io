@@ -56,6 +56,8 @@ mathjax: false
 - [【声优翻车集锦】整天说人家棒读！所以棒读到底是个啥？！](https://www.bilibili.com/video/BV1Hx411p7Wz)
 - 一些博客: [アニメの作画・演出について批評しているサイトを教えて下さい。](https://q.hatena.ne.jp/1331159464), [OTACTURE](https://ukkah.hatenadiary.org/)
 - 另一些博客 (提到的博客中友链也值得一翻), 注意看评论区: [有哪些评论动画作画和演出的质量较高的个人博客?](https://www.zhihu.com/question/358762370)
+    - [「話数単位で選ぶ、XX年TVアニメ10選」](http://shinmai.seesaa.net/category/9432020-1.html)
+    - [boogyman's memo](https://boogyman.hateblo.jp/)
 - [为什么日本深夜动画绝大多数是12、13集，或者24-26集？](https://www.zhihu.com/question/265029429/answer/288374351)
 - 动画考据: [叶佳桐](https://space.bilibili.com/25195981/)
 - 动画公司历史: [JK低手鱼太](https://space.bilibili.com/904827/) 动画公司图鉴系列
