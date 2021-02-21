@@ -47,13 +47,17 @@ mathjax: false
 - HB (动画魂). (2018, Apr 9). [小川太一演出技法小析:《紫罗兰永恒花园》第十集演出分析](https://zhuanlan.zhihu.com/p/35446134). *知乎*.
 - shirooo105. (2019, Sep, 5). [『ヴァイオレット・エヴァーガーデン』10 話の演出について](https://shirooo305.hatenablog.com/entry/2019/09/05/023950). *Paradism*.
 - 六出绯花. (2020, Jan 11). [紫罗兰永恒花园外传的一些演出技巧和意图](https://www.bilibili.com/read/cv4331257). *bilibili*.
+
+## 莉兹与青鸟 (2018)
+
+- Komiku. (2018, Dec 19). [序「wind, glass, bluebird」(00:00:00-00:07:37)](https://zhuanlan.zhihu.com/p/51698728). *知乎*.
+- 炽叶木染. (2019, Mar 4). [对《利兹与青鸟》分镜头笔记 (其一)](https://www.bilibili.com/read/cv2188854/). *bilibili*.
   
 ## 吹响! 悠风号 (2015)
 
 - mjn (动画魂). (2015, Sep 8). [京都动画演出的厉害之处——《吹响! 悠风号》第 12 集演出分析](https://zhuanlan.zhihu.com/p/20195839). *知乎*.
 - Komiku. (2017, Nov 30). [请问哪些动画片运用了平行蒙太奇?](https://www.zhihu.com/question/68784087/answer/268104434). *知乎*.
 - 井上苔藓. (2018, Apr 11). [【拉片】吹响上低音号第 10 集拉片](https://www.bilibili.com/video/BV1mW411K7ed). *bilibili*.
-- 炽叶木染. (2019, Mar 4). [对《利兹与青鸟》分镜头笔记 (其一)](https://www.bilibili.com/read/cv2188854/). *bilibili*.
 
 特别多, 待添加
 
@@ -63,7 +67,14 @@ mathjax: false
 - HB (动画魂). (2018, May 8). [站着说话不腰疼, 看可爱少女爬山——《向山进发》的作画奥秘](https://zhuanlan.zhihu.com/p/36560576). *知乎*.
 - III (动画魂). (2018, Sep 18). [小动作蕴含丰富演技, 22 岁原画师分享业界经验](https://zhuanlan.zhihu.com/p/44805205). *知乎*.
 - kViN. (2018, Oct 11). [YAMA NO SUSUME SEASON 3 – PRODUCTION NOTES 7-13](https://blog.sakugabooru.com/2018/10/11/yama-no-susume-season-3-production-notes-7-13/). *SAKUGABLOG*.
+    - 另外还有若干期讲向山进发的文章.
 - FAR. (2019, Aug 6). [Yama no Susume Third Season #10: China's warm emotional theater](https://artistunknown.info/2019/08/06/yama-no-susume-third-season-10-chinas-warm-emotional-theater/). *artist_unknown*.
+- shirooo105. (2018, Sep 5).[『ヤマノススメ サードシーズン』10 話の演出について](https://shirooo305.hatenablog.com/entry/2018/09/05/151307). *Paradism*.
+    - 在该博客下搜索「ヤマノススメ」, 可以找到很多 mentions.
+- 折田key太郎. (2018, Sep 7). [コーヒーをめぐる成長とか,ちな氏の演出とか. (『ヤマノススメ サードシーズン』第 10 話)](https://orita-ani.net/coffee-makes-you-grow-up/). *おりあに劇場*.
+- 其他
+    - 东川Production. (2021, Jan 24).[「色違いの翼」填词鉴赏: 结翼成双, 比翼翱翔](https://zhuanlan.zhihu.com/p/346594318). *知乎*.
+    - 折田key太郎. (2018, Jul 18).[『ヤマノススメ サードシーズン』EDのリップシンクとオフビート](https://orita-ani.net/yamano-susume-3rd-ed-good/). *おりあに劇場*.
 
 ## 冰果 (2012)
 
