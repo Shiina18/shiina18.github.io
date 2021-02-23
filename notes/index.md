@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2020-12-19
+Last updated on 2021-02-02
 
 虽说标题写着 notes, 但其实基本没有正儿八经的 notes, 只是杂乱物品的堆放. 通常是博客其他文章没有用到的材料. (2019/9/29)
 
@@ -15,6 +15,10 @@ Last Updated on 2020-12-19
 Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Problems%20in%20Time%20Series%20Analysis.pdf)
 
 This document contains solutions to selected problems in Brockwell, P. J., Davis, R. A., and Fienberg, S. E. (1991). *Time series: theory and methods*. Springer Science & Business Media.
+
+- [Yale Statistics 251/551](https://www.zhihu.com/question/435887518/answer/1710254485)
+
+随机过程. "这个 notes 比大多数标准教材有趣得多." (2021/2/22)
 
 - [Reading lists on probability](https://www.zhihu.com/question/60288185/answer/1634006267)
 

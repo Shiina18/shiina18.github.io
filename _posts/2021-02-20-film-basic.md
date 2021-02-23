@@ -53,6 +53,8 @@ mathjax: false
 
 - 变焦镜头 (zoom lens), 是一种有不同焦距的透镜, 可以连续地从广角变为远摄. 这种转变形似摄影机运动, 好像摄影机在逐渐靠近或远离被摄物. 然而实际上, 变焦时摄影机是保持静止的. 摄影机运动时, 画面的透视关系会发生变化. 也就是说, 摄影机和周围物体的空间关系会因为摄影机在三维空间中的移动而改变, 称为运动视差 (motion parallax) 或运动透视 (motion perspective). 变焦镜头摄影机静止, 所捕捉画面的透视关系不会变化. 比如希区柯克变焦? 
 
+- [The Cinematic Power of Hitchcock's Dolly Zoom Technique](https://www.premiumbeat.com/blog/hitchcocks-dolly-zoom-filmmaking-technique/)
+
 有一种手法是变换同一镜头内的聚焦平面 (这一手法称为转移焦点, rack focus), 也叫变焦. "长焦距的镜头在拍摄时可以调整, 以指导观众的视线".
 
 **运动**

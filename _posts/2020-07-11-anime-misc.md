@@ -45,6 +45,7 @@ mathjax: false
 - [外行从动画《白箱》中对日本动画制作感到疑惑的地方？](https://www.zhihu.com/question/25912399/answer/31809373)
 - [作画爱好者 (作豚) 的自我修养 v2.99 (beta)](https://zhuanlan.zhihu.com/p/20584724)
 - [如何了解日本作画圈?](https://www.zhihu.com/question/59406732)
+- [文献翻译 \| The Joy of Sakuga： 作画厨修炼手册](https://zhuanlan.zhihu.com/p/45912501)
 - [日式作画基础解说 完整版](https://www.bilibili.com/video/av2251266/)
 - [什么叫做无影动画？](https://www.zhihu.com/question/35917001/answer/245448686)
 - [吉成曜的作画有什么特点以及作画爱好者如何入门与提高?](https://www.zhihu.com/question/35991414/answer/250981347)

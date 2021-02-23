@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-02-18
+updated: 2020-02-23
 comments: true
 mathjax: false
 ---
@@ -11,6 +11,32 @@ mathjax: false
 拼接图片的简单工具: [filesmerge](https://www.filesmerge.com/merge-images)
 
 <!-- more -->
+
+## 仰视和俯视
+
+2021/2/23
+
+Unnatural ep. 1 末尾一个比较刻意的设计. 左边院长从站着到低头坐下, 接着右边所长站起俯视.
+
+![](https://shiina18.github.io/assets/posts/images/20210223141125046_20228.jpg)
+
+## 越轴
+
+Unnatural ep. 1 末尾. 这里是木鱼水心在他的 [视频](https://www.bilibili.com/video/BV1VW411V7at) 里提到的. 用越轴表现了距离感.
+
+![](https://shiina18.github.io/assets/posts/images/20210223141749814_18846.jpg)
+
+## 希区柯克变焦
+
+各影视作品中还挺常见的, 尤其是每次出现时弹幕都会提醒.
+
+举几个 Unnatural 的例子, ep. 2 的 1 分钟后, 两次; ep. 5 的 10: 15 之后; ep 6 的 11:00.
+
+## 交叉剪辑
+
+Unnatural ep. 4 末尾, 名场面.
+
+![](https://shiina18.github.io/assets/posts/images/20210223142343392_16543.jpg)
 
 ## 蒙太奇
 
@@ -29,6 +55,8 @@ mathjax: false
 要求机位差别不大, 景别相似.
 
 - 井上苔藓. (2020, Feb 22). [【拉片】跳切是什么?](https://www.bilibili.com/video/BV137411c7gT). *bilibili*.
+
+Unnatural ep. 6 18:00. 表现了新教授每次揭破时都要感受一遍宇宙的磨叽.
 
 SSSS.古立特 (SSSS.GRIDMAN) ep. 1 3:20 开始的对话.
 
