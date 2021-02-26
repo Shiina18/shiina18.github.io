@@ -17,7 +17,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(1)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
-- [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(1)</font>
+- [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(2)</font>
 
 ## Posts
 
@@ -111,4 +111,5 @@ mathjax: true
 
 ### Tech
 
+- 2021-02-25 [密码技术简要](https://shiina18.github.io/tech/2021/02/25/cryptology)
 - 2020-12-31 [计算机网络简要](https://shiina18.github.io/tech/2020/12/31/computer-networks)
