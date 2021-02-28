@@ -14,7 +14,7 @@ mathjax: true
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(6)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
-- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(3)</font>
+- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(4)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(1)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(2)</font>
@@ -95,6 +95,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
 - 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2021-02-21 updated)</font>
 - 2019-09-06 [一次阅读马拉松经历](https://shiina18.github.io/miscellanea/2019/09/06/reading-marathon)
