@@ -1,10 +1,37 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-02-12
+updated: 2020-03-01
 comments: true
 mathjax: false
 ---
+
+## Lucky star
+
+2021/3/1
+
+玩游戏的时候突然想到, 为什么 luck 通常是用星星 (star) 来表示的. 英语中有一个词组就是 thank your luck stars, 意思是
+
+> If you say that someone should thank their lucky stars that something is the case, you mean that they should be very grateful that it is the case, because otherwise their situation would be a lot worse.
+>
+> 例句: Thank your lucky stars you're out of London.
+
+同时《幸运星》也是京阿尼做过的著名动画. 说起星星, 不由地让人想起星象学 (完全胡诌的古代学说), 一个很有名的例子是 disaster.
+
+> Disaster has its roots in the belief that the positions of stars influence the fate of humans, often in destructive ways; its original meaning in English was "an unfavorable aspect of a planet or star." The word comes to us through Middle French and the Old Italian word disastro, from the Latin prefix dis- and Latin astro, meaning "star." Another unfortunate word that comes to us from astrological beliefs is "ill-starred." Now generally used in the sense of "unlucky" or "having or destined to a hapless fate," "ill-starred" was originally used literally to describe someone born under or guided by an evil star. We also have star-crossed, meaning "not favored by the stars" or "ill-fated."
+
+所以幸运星应该和这个逻辑差不多.
+
+- [to thank your lucky stars](https://www.collinsdictionary.com/english/to-thank-your-lucky-stars). *Collins English Dictionary*.
+- [disaster](https://www.merriam-webster.com/dictionary/disaster). *Merriam-Webster*.
+
+其他相关问题
+
+- 羊倌. (2015, Dec 22). [星星为什么总是画成五角星形状呢?](https://www.zhihu.com/question/30295250/answer/69901264). *知乎*.
+- 刘大可. (2014). [星星为什么总是画成五角星形状呢?](https://www.zhihu.com/question/30295250/answer/70304694)
+- 混乱博物馆. (2017, Dec 25). [【混乱博物馆】为什么圣诞树顶有五角星?](https://www.bilibili.com/video/BV1aW411t7io). *bilibili*.
+
+<!-- more -->
 
 ## Mens and womens
 
@@ -12,8 +39,8 @@ mathjax: false
 
 在鞋店里看到用 mens 来表示 men's, 这种用法并不正规, 但是确实有用的.
 
-- [Is "mens" a valid word?](https://english.stackexchange.com/questions/112420/is-mens-a-valid-word). *StackExchange*.
-- [Is there a term for the opposite of the greengrocer's apostrophe?](https://english.stackexchange.com/questions/59425/is-there-a-term-for-the-opposite-of-the-greengrocer-s-apostrophe). *StackExchange*.
+- [Is "mens" a valid word?](https://english.stackexchange.com/questions/112420/is-mens-a-valid-word). *Stack Exchange*.
+- [Is there a term for the opposite of the greengrocer's apostrophe?](https://english.stackexchange.com/questions/59425/is-there-a-term-for-the-opposite-of-the-greengrocer-s-apostrophe). *Stack Exchange*.
 
 ## Double negatives
 
@@ -24,8 +51,6 @@ mathjax: false
 - [What does "I Can't Get No Satisfaction" mean?](https://english.stackexchange.com/questions/983/what-does-i-cant-get-no-satisfaction-mean). *Stack Exchange*.
 - [Examples of Double Negatives: From Sentences to Lyrics](https://examples.yourdictionary.com/examples-of-double-negatives.html). *your dictionary*.
 - [英语中的「双重否定」为什么显得奇怪, 让人感觉有错误?](https://www.zhihu.com/question/20767261). *知乎*.
-
-<!-- more -->
 
 ## Detail: countable or uncountable
 

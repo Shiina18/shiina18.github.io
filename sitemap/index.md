@@ -37,7 +37,7 @@ mathjax: true
 - 2020-09-07 [放浪男孩 第 5 话 对话演出分析](https://shiina18.github.io/anime/2020/09/07/houmu-e05)
 - 2020-09-05 [向山进发 第 3 季 第 10 话](https://shiina18.github.io/anime/2020/09/05/yamasusu-se03ep10)
 - 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-02-23 updated)</font>
-- 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2021-02-19 updated)</font>
+- 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2021-03-01 updated)</font>
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu) <font color="lightgrey">(2021-02-18 updated)</font>
 
@@ -75,7 +75,7 @@ mathjax: true
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2020-10-23 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2021-02-10 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
-- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-02-12 updated)</font>
+- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-03-01 updated)</font>
 
 ### Machine Learning
 
