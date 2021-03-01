@@ -1,0 +1,51 @@
+---
+title: "关于若干手游的几句话"
+categories: Games
+tags: 
+updated: 
+comments: true
+mathjax: false
+---
+
+玩过的手游很少, 一并记在本帖.
+
+<!-- more -->
+
+## Dice Hunter: Quest of the Dicemancer
+
+[链接](https://play.google.com/store/apps/details?id=company.greenergrass.dicemancer&hl=en&gl=US). 玩的时候是 5.0 version.
+
+毫无剧情, 美术尚可, 机制还算有趣. 最致命的问题是游戏内容过于单调, 缺乏深度; 另外还有烦人的广告. 基本上玩一两天就会厌倦.
+
+一些教程中没有明说的机制
+
+- 每一点盾牌提供的防御是 power 的 1/3, 而总血量是 power 的 10/3. 另外, 关卡推荐 power 和怪物的攻击力挂钩, 比如最弱一血近战杂鱼 BONES 的攻击恰好是推荐 power 下一个盾牌的数值. [Dice Hunter Fandom Wiki](https://dice-hunter.fandom.com/wiki/Dice_Hunter_Wiki) 中有详细的公式. 
+- 击杀一个单位后, 会自动瞄准其右边相邻的生物. 如果右边没有生物, 那么优先自动瞄准能动的生物, (如果没有能动的, 则自动瞄准最左边的生物?).
+- 四个及以上相同骰面可以回血.
+
+战术极其单一, 根本没有修改队伍的动力, 除非抽到了上位互换或者有元素限制或者偶尔要根据怪物特性调整骰面分布, 但依然换汤不换药. 
+
+主要想法是控制伤害. 最理想的状态是每回合解掉第一排生物, 导致后方生物下落晕眩 (stun). 但一般而言是做不到的, 那么就要控制对方的输出. 
+
+- 第一轮生物多, 有很多后排威胁, 一下子不能处理第一排的时候, 有一个三星 stun 技能免费打出来很有帮助.
+- 利用自动瞄准的机制, 卡住两格宽的生物, 或者利用门卡半边. 后面这一点有时可以通过调整队伍中 magic (闪电) 和 luck (星星) 的分布来实现.
+- 用伤害技能打击后排, 以便之后连续地清理第一排生物; 类似的, 利用生物的弱点先削减后排血量. 尤其是当后排生物攻击力高的时候, 换到前排不能及时处理的话就会亏血. 清理的时候一般避免一轮清掉两排, 这样不会浪费输出, 可以最大限度地延迟后面的生物 (多 stun 几轮, 多嫖几个充能). 
+- 遇到进攻性能很差的场面, 就可以减少输出多充能了 (比如锁盾牌). 盯着软柿子捏, 很像宝可梦单打中对着无威胁的生物点强化技.
+
+<!-- UAdD-KLNc-0q49-12HL -->
+
+## Florence
+
+[链接](https://play.google.com/store/apps/details?id=com.mountains.feathertop&hl=en&gl=US)
+
+其实涉及到一个有趣的问题: 婚前同居.
+
+占位符.
+
+## ねこあつめ
+
+[链接](https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume)
+
+类似地, 同一家公司之后还有一款在中国爆红的 [旅かえる](https://play.google.com/store/apps/details?id=jp.co.hit_point.tabikaeru). 「かえる」经常被拿来玩同音梗.
+
+占位符.
