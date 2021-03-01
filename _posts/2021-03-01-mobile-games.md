@@ -38,7 +38,7 @@ mathjax: false
 
 [链接](https://play.google.com/store/apps/details?id=com.mountains.feathertop&hl=en&gl=US)
 
-其实涉及到一个有趣的问题: 婚前同居.
+其实涉及到一个有趣的问题: 未婚同居.
 
 占位符.
 
