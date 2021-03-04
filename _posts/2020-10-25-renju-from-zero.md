@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2021-02-02
+updated: 2021-03-04
 comments: true
 mathjax: false
 ---
@@ -71,6 +71,7 @@ mathjax: false
 - 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.
 - 松浦浩七段. [連珠苦楽部](http://matsurenju.game.coocan.jp/). 包括用习题的方式讲解定式.
 - 那智暴虐のれんじゅいし. (2018, Aug 10). [【連珠】入門、初心者の方が最初に覚える形について自分なりに考察した【五目並べ】](https://www.youtube.com/watch?v=J1kmzW9A95U). *YouTube*.
+    - 这是中山智晴, 日本 top 棋手, 有博客 [那智暴虐の連珠石](https://note.com/nachiblack). (2021/3/4)
     - 容易取胜的形状: 不推荐初学者花浦, 推荐溪峡. 形状互通, 黑八卦不容易输.
     - 想记住手筋: 云雨. 互通, 手筋型的进攻多, 但是很难, 有背诵价值.
     - 想打持久战: 疏流.

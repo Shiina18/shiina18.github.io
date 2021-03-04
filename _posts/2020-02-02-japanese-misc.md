@@ -1,10 +1,23 @@
 ---
 title: "日语杂录"
 categories: Language
-updated: 2021-02-10
+updated: 2021-03-02
 comments: true
 mathjax: false
 ---
+
+## 形容詞「き」「しき」
+
+2021/3/2
+
+比如经典 BGM《熱き決闘者たち》, 其中形容词为文语连体形. 古语的形容词有两种变化「ク活用」「シク活用」, 在现代日语中就相当于把词尾「い」替换成「き」.
+
+另外一个特别的形容动词「同じ」也是古语残留.
+
+- [形容詞](https://ja.wikipedia.org/wiki/形容詞). *Wikipedia*.
+- 明王道教研.洛洛 (明王道日语). (2017, Jun 7). [3秒抢答！【同じ】是什么词性？](https://zhuanlan.zhihu.com/p/27282069). *知乎*.
+
+<!-- more -->
 
 ## 「かったです」と「でした」
 
@@ -30,8 +43,6 @@ mathjax: false
 - 上野玄. (2020, May 17). [为什么形容词可以直接加「です」而不可以加「だ」? 明明不可以直接加「だ」却又为何可以直接加「だろう」?](https://www.zhihu.com/question/391225650/answer/1188023073). *知乎*.
 - 欧雷. (2014, Aug 5). [「ないです」和「ありません」有何区别?](https://www.zhihu.com/question/24737213/answer/28807717). *知乎*.
 - 程序猎人. (2014, Feb 16). [如何避免二重敬语「ませんでした」?](https://www.zhihu.com/question/22729617/answer/22423120). *知乎*.
-
-<!-- more -->
 
 ## 普通
 

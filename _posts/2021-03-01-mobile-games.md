@@ -19,8 +19,8 @@ mathjax: false
 
 一些教程中没有明说的机制
 
-- 每一点盾牌提供的防御是 power 的 1/3, 而总血量是 power 的 10/3. 另外, 关卡推荐 power 和怪物的攻击力挂钩, 比如最弱一血近战杂鱼 BONES 的攻击恰好是推荐 power 下一个盾牌的数值. [Dice Hunter Fandom Wiki](https://dice-hunter.fandom.com/wiki/Dice_Hunter_Wiki) 中有详细的公式. 
-- 击杀一个单位后, 会自动瞄准其右边相邻的生物. 如果右边没有生物, 那么优先自动瞄准能动的生物, (如果没有能动的, 则自动瞄准最左边的生物?).
+- 每一点盾牌提供的防御是 power 的 1/3, 而总血量是 power 的 10/3, [Dice Hunter Fandom Wiki](https://dice-hunter.fandom.com/wiki/Dice_Hunter_Wiki) 中有详细的公式. 另外 wiki 里没写的, 关卡推荐 power 和怪物的攻击力挂钩, 比如最弱一血近战杂鱼 BONES 的攻击恰好是推荐 power 下一个盾牌的数值.
+- 击杀一个单位后, 会自动瞄准其右边相邻的生物. 如果右边没有生物, 那么优先自动瞄准能动的生物 (如果没有能动的, 则自动瞄准最左边的生物?).
 - 四个及以上相同骰面可以回血.
 
 战术极其单一, 根本没有修改队伍的动力, 除非抽到了上位互换或者有元素限制或者偶尔要根据怪物特性调整骰面分布, 但依然换汤不换药. 
@@ -38,14 +38,8 @@ mathjax: false
 
 [链接](https://play.google.com/store/apps/details?id=com.mountains.feathertop&hl=en&gl=US)
 
-其实涉及到一个有趣的问题: 未婚同居.
+本质绘本. 流程极短, 交互机制比较有趣. 遗憾的是设计者为了 "让大部分玩家能够代入到角色里" (参见 [开发者的演讲](https://zhuanlan.zhihu.com/p/80034276)), 尽可能让故事模糊, 没有详细交代矛盾的部分 (如何发生, 这么应对), 只给出了最后的结果. 而事实上, 处理矛盾是日常交际中一个极其重要的组成部分. 这使得我对整个故事完全不感冒.
 
-占位符.
-
-## ねこあつめ
-
-[链接](https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume)
-
-类似地, 同一家公司之后还有一款在中国爆红的 [旅かえる](https://play.google.com/store/apps/details?id=jp.co.hit_point.tabikaeru). 「かえる」经常被拿来玩同音梗.
+另外其实涉及到一个有趣的问题: 未婚同居 (unmarried cohabitation).
 
 占位符.

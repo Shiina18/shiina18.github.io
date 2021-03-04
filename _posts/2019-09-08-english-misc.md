@@ -1,10 +1,29 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-03-01
+updated: 2020-03-03
 comments: true
 mathjax: false
 ---
+
+## XX times less
+
+2021/3/3
+
+中学时学过, "少几倍" 在中文毫无疑问是错误的. 
+
+> But *times less* has tradition, if not logic, on its side; it was idiomatic English for at least two centuries before anyone claimed it was confusing, according to Merriam-Webster's Dictionary of English Usage.
+
+字典上也有
+
+> equal fractional parts of which an indicated number equal a comparatively greater quantity
+
+虽然这种用法有被诟病, 但是在英语中依然有使用.
+
+- [time](https://www.merriam-webster.com/dictionary/time). *Merriam-Webster*.
+- Freeman, J. (2007, Oct 28). [Is 'three times less'  three times worse?](https://www.nytimes.com/2007/10/28/opinion/28iht-edfreeman.1.8081659.html). *The New York Times*.
+
+<!-- more -->
 
 ## Lucky star
 
@@ -30,8 +49,6 @@ mathjax: false
 - 羊倌. (2015, Dec 22). [星星为什么总是画成五角星形状呢?](https://www.zhihu.com/question/30295250/answer/69901264). *知乎*.
 - 刘大可. (2014). [星星为什么总是画成五角星形状呢?](https://www.zhihu.com/question/30295250/answer/70304694)
 - 混乱博物馆. (2017, Dec 25). [【混乱博物馆】为什么圣诞树顶有五角星?](https://www.bilibili.com/video/BV1aW411t7io). *bilibili*.
-
-<!-- more -->
 
 ## Mens and womens
 
