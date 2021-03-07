@@ -9,6 +9,8 @@ Last Updated on 2020-11-18
 
 休闲向博客, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
 
+和其他博客不同的一点是, 本站很多博文会不定期更新, 并标有相应的时间戳.
+
 - [网站目录](https://shiina18.github.io/sitemap/)
 - [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building/)
 
