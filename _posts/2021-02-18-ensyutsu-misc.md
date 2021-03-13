@@ -86,6 +86,7 @@ mathjax: false
 - 动画魂-Anitama. (2018, Mar 10). [Anitama 解第二十八期——国家队经典文戏集数演出分析](https://www.bilibili.com/video/BV1ZW411W7g7). *bilibili*.
 - 井上苔藓. (2019, Jan 26). [【拉片】《约定的梦幻岛》第一集片段拉片](https://www.bilibili.com/video/BV1mt411476d). *bilibili*.
 - 贫血王子. (2019, Apr 13). [神一般的镜头设计!《CAROL&TUESDAY》第 1 话演出分析](https://zhuanlan.zhihu.com/p/62293575). *知乎*.
+- _青_鸟 . (2021, Feb 28).[【镜头语言下的名场景】——终于...找到了，凉宫春日](https://www.bilibili.com/read/cv10050933). *bilibili*.
 
 ## 人物
 

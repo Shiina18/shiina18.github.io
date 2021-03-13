@@ -1,7 +1,7 @@
 ---
 title: "Tactics Ogre One Vision Mod Challenges"
 categories: Games
-updated: 2021-02-15
+updated: 2021-03-13
 comments: true
 mathjax: false
 ---
@@ -230,10 +230,11 @@ See the rules [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_cha
 
 I will follow the reverse mirror match rules.
 
+I'm going to follow 4 skills since 2021/3/13.
+
 Classes available.
 
 ```
-- ARCHER
 - FUSILIER	
 - BEAST TAMER
 - ROGUE
@@ -251,6 +252,8 @@ Classes available.
 - TRICKSTER 
 
 - MONSTERS
+
+- ARCHER (banned because of archers will show up in reinforcement)
 ```
 
 Some candidates for the only one special class slot.
@@ -260,7 +263,6 @@ Wicce lv. 18
 Exorcism, MP/TP control, Support
 
 - Dagger sidegrade, DEF/VIT/AVD gears
-- Parry
 - Draconic Magic
 - Necromancy
 - Devour
@@ -290,9 +292,6 @@ and offer damage and various support choices.
 It can inflict any kind of elemental averse, 
 which has synergy with damage scaling finishers from teammates.
 
-Parry is a free slot. Since it's expected to be a very long battle, 
-more survivability is favored.
-
 Other options
 
 Note that Devour also restores HP. 
@@ -319,6 +318,24 @@ Commando
 
 Since Divine Magic is banned, Gambit is the most convenient debuff removing tool.
 ```
+
+Wizard lv. 18
+
+Support: pure MP charger
+
+- Book, AVD shield, Cloud Shoes, AVD ring
+- Dark Magic
+- Silence
+- Meditate
+- Clarity
+
+Cloud Shoes provide Levitate which improves mage's poor movement, and Sidestep with which (and max avd gears) mage can evade ranged physical attack.
+
+Books + Meditate + Clarity generate MP then use Charge to transfer it to others. The targets: Spellblade and Matriarch with 3 magic + evade.
+
+Dark magic has quite a lot utility spells so he can also do something if Charge is not called for.
+
+Other units may not have the slot to equip Silence Ward, so he has another job to clear silence for backlines.
 
 Some thoughts for lv. 18 version
 
