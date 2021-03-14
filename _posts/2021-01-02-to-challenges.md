@@ -33,8 +33,8 @@ Description for the build
 
 Usually, **Spear sidegrade, Whip and ranged weapons are the best options for physical classes without magic.** See arguments [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/#teambuilding).
 
-- Attacker: can deal decent damage to most units.
-- Wallbreaker: can deal decent damage to tanks (included in Attacker).
+- Attacker (secondary attacker): can deal decent damage to most units.
+- Wallbreaker (primary attacker): can deal decent damage to tanks (included in Attacker).
 - Nuker: can eliminate units using high damage options (with the help of some combo).
 - Support: can focus more on using their abilities to gain an advantage for the team. (typically can buff teammates or clean debuffs.)
 - Annoyer: can inflict debuffs on enemies.
@@ -343,3 +343,45 @@ Some thoughts for lv. 18 version
 - Status: Silence, Stun, Bind, Shackle, Curse, Fear (TK and Night Crow in the reinforcement), Leaden, Bewitch
 - Nybeth is fearsome, hitting 200+ damage with projectile 3. Drain Mind and spell def up might be needed for safety.
 - Battering Ram, Flight, Squash, Absorb MP might be needed to take down the two necros. Waterwalk, xbows, guns might be needed to finish off Nybeth.
+
+
+First team
+
+- sg = sidegrade
+- Weapon means the corresponding weapon skill
+
+Candidates
+
+- Wicce Dagger sg / Draco / Necro / Devour / Clarity or Empower
+- Lich todo
+- Swordmaster 2H Ka / Weapon / Aow / BladeFocus / Counterhit
+- Trickster dual 1H Ka / Weapon / DoubleAttack / VampiricKiss / AbsorbMP or Dark
+- Dragoner Thrown sg / Weapon / Traj / Empower / Remedy
+- Dragon todo
+- Wizard Book (AVD gear + Cloud Shoes) / Dark / SilenceWard / Meditate / Clarity
+- Matriarch ? / Air / Water / Evade / Lightning or Clarity
+- Spellblade Dagger / Lightning / Earth / AborbMP / FatedCircle
+- Rogue A Fear Blowgun / Weapon / SilenceWard / Bullseye / Tactician
+- Rogue B Heal Blowgun / CurseWard or other ward / BoobyTrap / Speedstar / Heron
+- Familiar Book / Weapon / LingeringKiss / SelflessKiss / Sanctuary
+- Golem Boulder + RES ring / VoidCore / Phalanx / Gordian / Rampart
+
+Offensive cores
+
+- General support: LionDance / Galvanize / Draco, HoverDraft
+- Electrify + Empower + Disembowel
+- Electrify + 2H Ka double hit finisher
+- Dual Wielding
+
+Niche combo
+
+- Wizard Charge (Books + Meditate + Clarity) -> Spellblade + Matriarch (+ Wicce / Lich)
+
+Roles
+
+- Nuker: Dragon (Disembowel), Swordmaster (2H ka double hit)
+- Primary attacker: Trickster (dual 1h ka)
+- Secondary attacker: Dragoner, Familiar
+- Debuff removal: Swordmaster, Familiar, Wicce (all minor debuffs)
+- Healer: Rogue B, Swordmaster, Matriarch, Familiar
+- Exorcism: Wicce, Lich
