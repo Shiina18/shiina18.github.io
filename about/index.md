@@ -24,6 +24,7 @@ Last Updated on 2020-11-18
 - 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
 - 豆瓣: [Rick](https://www.douban.com/people/171432596/)
 - bangumi: [Dr. Boom](https://bgm.tv/user/388505)
+- 微博: [195_463](https://weibo.com/p/1005053891982912/home?profile_ftype=1&is_all=1#_0)
 - Instagram: [shiina_1418](https://www.instagram.com/shiina_1418/)
 
 ## Blogroll
