@@ -18,7 +18,7 @@ mathjax: false
 
 > 柯林斯: A bond between people is a strong feeling of friendship, love, or shared beliefs and experiences that unites them. (强烈的情感) 纽带
 
-中文羁绊指的是缠住不能脱身, 束缚, 有贬义.「絆」是人与人之间不可切断的关系, 解不开的联系. 因此严格来说不能翻译成羁绊.
+中文羁绊指的是缠住不能脱身, 束缚, 有贬义. 比如歌词 "政罗教网无羁绊".「絆」是人与人之间不可切断的关系, 解不开的联系. 因此严格来说不能翻译成羁绊.
 
 那么如何翻译?
 
@@ -34,10 +34,16 @@ mathjax: false
 > 
 > 上边这些带「缘」字的词就已经足够应对大部分出现这个词的情况了，我不相信哪个熟悉中国文化的人会不懂「缘」是什么东西。其他的时候，翻译成「深厚感情」也不寒碜，比喻是连通关系的「纽带」也不差，意译成「情感的牵挂」或者「情谊」也通顺。这些很合汉语习惯，也很好理解。即使程度或有所不及，但含义是没有错的。
 
+智蛙的特性 きずなへんげ / Battle Bond 被翻译为「牵绊变身」. 
+
+从语源上, 与綱 (つな) 有关, 而中文很难翻译出这种关系.
+
 - 阿丘. (2018, Mar 11). [什么叫做羁绊?](https://www.zhihu.com/question/23713333/answer/37027412). *知乎*.
 - Bubble Berry. (2015, Jun 27). [日文里的「絆」和中文里的「羁绊」是同一个意思吗?](https://www.zhihu.com/question/22271127/answer/23637214). *知乎*.
 - [bond](https://www.lexico.com/definition/bond). *LEXICO*.
 - [bond](https://www.collinsdictionary.com/dictionary/english/bond). *Collins*.
+
+话虽如此, 木已成舟. 顺便在 [这个回答](https://www.zhihu.com/question/22271127/answer/23696254) 里提到了许多错翻的例子, 其中有有理数 rational number 忘记写在英语杂录里了.
 
 <!-- more -->
 
