@@ -1,10 +1,45 @@
 ---
 title: "日语杂录"
 categories: Language
-updated: 2021-03-02
+updated: 2021-03-15
 comments: true
 mathjax: false
 ---
+
+## 「絆」vs bond vs 羁绊 
+
+2021/3/15
+
+这是查英语 bond 时发现的, 羁绊并不是我想的意思.
+
+> 牛津: A relationship between people or groups based on shared feelings, interests, or experiences. 牢固的联系 (strong connection): 纽带; 联系; 关系; 契合
+> 
+> (bonds) *literary* Ropes, chains, or other restraints used to restrict someone's movement or hold something in place. 绳索/链条 (ropes/chains) : 捆绑烦人的绳索 (或镣铐); 羁绊; 桎梏.
+
+> 柯林斯: A bond between people is a strong feeling of friendship, love, or shared beliefs and experiences that unites them. (强烈的情感) 纽带
+
+中文羁绊指的是缠住不能脱身, 束缚, 有贬义.「絆」是人与人之间不可切断的关系, 解不开的联系. 因此严格来说不能翻译成羁绊.
+
+那么如何翻译?
+
+> 没错，「缘」。这就是我们苦苦寻求的答案。
+> 
+> 缘是什么？按佛家的解释，是与促使某件事发生的直接原因对应的，那个间接的推动原因。但我们经常用它来形容两个人之间的感情和关系，而且正是指那种「说不清，道不明，但冥冥之中又存在着并联系着两人」的关系。一句「随缘吧」，随的是什么？当然是这种联系，说有则有、离不开；说无则无，强求不得。我们碰到了合适的另一半，说这是“情缘”，交上了志同道合的朋友，说「真是有缘」，「缘分呐」，遭遇了不可思议的过程而产生的联系，叫「奇缘」。要问这些体现了什么，难道不正是“絆”那种一言难尽又不可分割的感情吗？
+> 
+> 如果觉得这还不够表达“絆”的本意，好，还有杀手锏。
+> 
+> 「不解之缘」。
+> 
+> 《现代汉语词典第5版》解释：不能分开的缘分，指亲密的关系或深厚的感情。这可是个成语啊。原文的意思和汉语的美感兼具。没错，“絆”才一个字，可念出来きずな也是仨音，没差。
+> 
+> 上边这些带「缘」字的词就已经足够应对大部分出现这个词的情况了，我不相信哪个熟悉中国文化的人会不懂「缘」是什么东西。其他的时候，翻译成「深厚感情」也不寒碜，比喻是连通关系的「纽带」也不差，意译成「情感的牵挂」或者「情谊」也通顺。这些很合汉语习惯，也很好理解。即使程度或有所不及，但含义是没有错的。
+
+- 阿丘. (2018, Mar 11). [什么叫做羁绊?](https://www.zhihu.com/question/23713333/answer/37027412). *知乎*.
+- Bubble Berry. (2015, Jun 27). [日文里的「絆」和中文里的「羁绊」是同一个意思吗?](https://www.zhihu.com/question/22271127/answer/23637214). *知乎*.
+- [bond](https://www.lexico.com/definition/bond). *LEXICO*.
+- [bond](https://www.collinsdictionary.com/dictionary/english/bond). *Collins*.
+
+<!-- more -->
 
 ## 形容詞「き」「しき」
 
@@ -16,8 +51,6 @@ mathjax: false
 
 - [形容詞](https://ja.wikipedia.org/wiki/形容詞). *Wikipedia*.
 - 明王道教研.洛洛 (明王道日语). (2017, Jun 7). [3秒抢答！【同じ】是什么词性？](https://zhuanlan.zhihu.com/p/27282069). *知乎*.
-
-<!-- more -->
 
 ## 「かったです」と「でした」
 
