@@ -1,7 +1,7 @@
 ---
 title: "Tactics Ogre One Vision Mod Challenges"
 categories: Games
-updated: 2021-03-13
+updated: 2021-04-03
 comments: true
 mathjax: false
 ---
@@ -11,6 +11,8 @@ See [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/g
 This time I am going to following the refined common rules and [optional rules](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges#optional-rules), e.g. 5 skill 2 spell rule.
 
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
+
+2021/4/3: New rules are applied now, see [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Experiment-Rules).
 
 <!-- more -->
 
@@ -385,3 +387,53 @@ Roles
 - Debuff removal: Swordmaster, Familiar, Wicce (all minor debuffs)
 - Healer: Rogue B, Swordmaster, Matriarch, Familiar
 - Exorcism: Wicce, Lich
+
+## Random thoughts
+
+Core: archer (2h bow sidegrade + double shot) + familiar (selfless kiss) or Accelerator + Eletrify
+
+- According to the mechanism of double shot, sidegrade bow is suited for the largest attacking area.
+- With the help of Strengthen, 4 shots in a row should be enough to KO a non-tank unit. The problem is to avoid critical hit, so the standing location of the target is important. To that end, making an ally standing behind the target or putting an obstacle might be useful.
+- Accelerator is much slower than the kiss (RT 80 vs 25). However, MP is much easier to generate than TP. In order to generate TP while stay near the archer in the backline, familiar might equip a bow as well.
+- 2h bow sidegrade is slow. Suppose the first double shot deals 200 damage, then there is still 150 TP left to be generated, which takes time. Though TP can be obtained easier by consumables (50 or 100 for a trap), but abusing consumables means cheating in my mind.
+
+## Interesting Battles
+
+New rules are applied now, see [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Experiment-Rules).
+
+### The Gates of Barnicia
+
+2020/4/3
+
+- Version: 0.970c
+- Enemy: 13 units with 1 Cleric, Level 20.
+- Player: up to 12, but only used 9. Level 20. No cleric due to the rule.
+
+Points
+
+- It is the first battle for experimenting rules. The code only nerfs healing tools for the player, and tools used by AI are barely affected. Also Electrify is nerfed.
+- Enemies have poor gears, and it is extremely easy to vanquish them all even without any heals. Last time I used 10 lv.18 units with poorest classes and that was far more difficult. Maybe I should try use only 8 or 7 units, or just use lv. 18 ones.
+- They have 5 archers and 4 mages, so the goal is to counter those.
+
+Teams
+
+- Warlock: Book / Water / Silence Ward / Distill Mind / Clarity
+- Ninja: Fist side + Vritra (Falseflight) / Weapon / Deflect / Aow / Wild Hunt
+- Archer: 2H Bow side / Weapon / Aow / Tremendous Shot / Double Shot
+- Wicce: Dagger side / Draconic / Necro / Devour / Clarity
+- Knight: 1H Sword + Stun Shield / Divine / Silence Ward / Aegis / Rampart
+- Blade Knight: 2H Katana / Weapon / Deflect / Aow / Instill
+- Trickster: 1H Katana side + 1H Katana / Weapon / Deflect / Double Attack / Vampiric Kiss
+- Spellblade: Dagger / Weapon / Ice / Fire / Fated Circle
+- Vartan: Thrown / Weapon / Instill / Huapango / El Colas
+
+Game plan
+
+- Use Deflect, Sidestep (Haze) and Resilient (Solidify) to counter archers and mages.
+- Ninja, Archer spam silence. Wicce use Brainrot and Devour to shutdown mages.
+- Offensive core: Trickster + Blade Knight. Use Strengthen (Enlarge) to buff them and units with ranged weapons.
+
+Issues
+
+- Wild Hunt, Double Shot, Aegis, Huapango, El Colas are not used this time.
+- When Decoy is on, Instill will be blocked, so be careful.

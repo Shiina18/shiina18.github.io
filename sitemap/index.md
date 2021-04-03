@@ -56,7 +56,7 @@ mathjax: true
 - 2021-01-12 `Renju` [浦月斜三长蛇必败](https://shiina18.github.io/games/2021/01/12/hogetsu-sureloss)
 - 2021-01-11 `Renju` [河村九段的中级连珠讲座 (2)](https://shiina18.github.io/games/2021/01/11/renju-kouza-intermediate-2)
 - 2021-01-06 `Renju` [花月定式: 最强 4](https://shiina18.github.io/games/2021/01/06/kagetsu-1)
-- 2021-01-02 [Tactics Ogre One Vision Mod Challenges](https://shiina18.github.io/games/2021/01/02/to-challenges) <font color="lightgrey">(2021-03-13 updated)</font>
+- 2021-01-02 [Tactics Ogre One Vision Mod Challenges](https://shiina18.github.io/games/2021/01/02/to-challenges) <font color="lightgrey">(2021-04-03 updated)</font>
 - 2020-12-18 `Renju` [浦月一打定式: 最强 4](https://shiina18.github.io/games/2020/12/18/hogetsu-1) <font color="lightgrey">(2021-01-24 updated)</font>
 - 2020-12-06 `Renju` [欢乐五子棋残局闯关题解 (有禁手)](https://shiina18.github.io/games/2020/12/06/renju-solutions) <font color="lightgrey">(2020-12-12 updated)</font>
 - 2020-11-13 `Renju` [河村九段的中级连珠讲座 (1): 牵制手](https://shiina18.github.io/games/2020/11/13/renju-kouza-intermediate)
@@ -69,7 +69,7 @@ mathjax: true
 - 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外改版 OV mod 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2021-01-21 updated)</font>
-- 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2020-03-25 updated)</font>
+- 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2021-03-21 updated)</font>
 
 ### Language
 

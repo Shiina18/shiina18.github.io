@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last updated on 2021-02-02
+Last updated on 2021-03-22
 
 虽说标题写着 notes, 但其实基本没有正儿八经的 notes, 只是杂乱物品的堆放. 通常是博客其他文章没有用到的材料. (2019/9/29)
 
@@ -65,6 +65,10 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 非常有名的 Durrett 的 PTE, 展示了很多有趣的例子, 鞅只讲了离散鞅, 有时候我要翻倒向鞅的结论时会翻这本. 另外 Durrett 的主页给我印象最深的是, 专门有个 "my smiling face" 的链接. 世图引进的白色封面的第 3 版比较常见, 习题答案也可以找到.
 
 ## Recreation
+
+- [为什么该图形红蓝面积相等?](https://www.zhihu.com/question/447744804/answer/1769560146)
+
+想象两个人一起分一块披萨, 用刀平分的话, 想象中只要过圆心, 怎么切都行. 但实际上因为切的过程并不知道圆心真的在哪, 假如切的点不过圆心的话, 两个人还能够实现平分么? (2021/3/22)
 
 - [Trailing the dovetail shuffle to its lair](https://projecteuclid.org/download/pdf_1/euclid.aoap/1177005705)
 
