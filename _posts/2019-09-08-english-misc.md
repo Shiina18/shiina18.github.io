@@ -1,10 +1,18 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-03-03
+updated: 2020-04-03
 comments: true
 mathjax: false
 ---
+
+## 限制性定语从句
+
+2021/4/3
+
+In grammar, a restrictive clause is one that limits the meaning of something that comes before it. In the sentence "That's the professor who I'm trying to avoid," "who I'm trying to avoid" is a restrictive clause, since it's what identifies the professor. But in the sentence "That's my History professor, who I'm trying to avoid," the same clause is nonrestrictive, since the professor has already been identified as "my History professor." There should always be a comma before a nonrestrictive clause, but not before a restrictive clause.
+
+<!-- more -->
 
 ## XX times less
 
@@ -22,8 +30,6 @@ mathjax: false
 
 - [time](https://www.merriam-webster.com/dictionary/time). *Merriam-Webster*.
 - Freeman, J. (2007, Oct 28). [Is 'three times less'  three times worse?](https://www.nytimes.com/2007/10/28/opinion/28iht-edfreeman.1.8081659.html). *The New York Times*.
-
-<!-- more -->
 
 ## Lucky star
 

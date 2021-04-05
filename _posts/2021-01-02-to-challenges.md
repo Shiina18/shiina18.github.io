@@ -403,22 +403,22 @@ New rules are applied now, see [here](https://github.com/Shiina18/tactics_ogre_o
 
 ### The Gates of Barnicia
 
-2020/4/3
+2021/4/3
 
 - Version: 0.970c
-- Enemy: 13 units with 1 Cleric, Level 20.
-- Player: up to 12, but only used 9. Level 20. No cleric due to the rule.
+- Enemy: 13 units with 1 Cleric, Level 20, Rank 4.
+- Player: up to 12, but only used 9. Level 20, Rank 4. No cleric due to the rule.
 
 Points
 
 - It is the first battle for experimenting rules. The code only nerfs healing tools for the player, and tools used by AI are barely affected. Also Electrify is nerfed.
-- Enemies have poor gears, and it is extremely easy to vanquish them all even without any heals. Last time I used 10 lv.18 units with poorest classes and that was far more difficult. Maybe I should try use only 8 or 7 units, or just use lv. 18 ones.
+- Enemies have poor gears, and it is extremely easy to vanquish them all even without any heals. Last time I used 10 lv.18 units (rank 6) with poorest classes and that was far more difficult. Maybe I should try to use only 8 or 7 units, or just use lv. 18 ones.
 - They have 5 archers and 4 mages, so the goal is to counter those.
 
-Teams
+Team
 
 - Warlock: Book / Water / Silence Ward / Distill Mind / Clarity
-- Ninja: Fist side + Vritra (Falseflight) / Weapon / Deflect / Aow / Wild Hunt
+- Ninja: Fist side + Vritra (Falseflight) / Weapon (Sidearm) / Deflect / Aow / Wild Hunt
 - Archer: 2H Bow side / Weapon / Aow / Tremendous Shot / Double Shot
 - Wicce: Dagger side / Draconic / Necro / Devour / Clarity
 - Knight: 1H Sword + Stun Shield / Divine / Silence Ward / Aegis / Rampart
@@ -430,10 +430,19 @@ Teams
 Game plan
 
 - Use Deflect, Sidestep (Haze) and Resilient (Solidify) to counter archers and mages.
-- Ninja, Archer spam silence. Wicce use Brainrot and Devour to shutdown mages.
-- Offensive core: Trickster + Blade Knight. Use Strengthen (Enlarge) to buff them and units with ranged weapons.
+- Ninja and Archer spam Silence. Wicce use Brainrot and Devour to shut down mages.
+- Offensive cores: Trickster + Blade Knight. Use Strengthen (Enlarge) to buff them and units with ranged weapons.
 
 Issues
 
 - Wild Hunt, Double Shot, Aegis, Huapango, El Colas are not used this time.
 - When Decoy is on, Instill will be blocked, so be careful.
+
+Thoughts
+
+- The enemy mages barely have chance to cast any spell in fact.
+- Trickster's movement type floating is great on a field full of tar. Also he has 6 movement, and higher MND. These facts make him a better choice over a berserker.
+- 2H Bow side is much better than thought.
+- This Wicce build is strikingly good. Use Brainrot to shut down multiple mages and then tap Devour to clear Knight's MP, so that enemies will have a hard time removing status.
+- Rank 2 Bow finsher is deadly as thought. Be careful not to be hit by it.
+- I will redo the battle with lv. 18 units. One major difference is that I don't have access to Vritra then. And we will have one tier lower gears.
