@@ -15,11 +15,11 @@ mathjax: false
 
 <!-- more -->
 
-提示 (反白): <font color=#ffffff>如果有办法飞方片的话, 将牌可以只输一墩.</font>
+提示 (反白): <font color="white">如果有办法飞方片的话, 将牌可以只输一墩.</font>
 
 答案 (反白)
 
-<font color=#ffffff>
+<font color="white">
 先打 SA 再打 SQ 投入.
 
 如果西家不吃, 就打 CQ. 由于东家和南家的方片长度相同, 这样草花和方片合计输两墩.

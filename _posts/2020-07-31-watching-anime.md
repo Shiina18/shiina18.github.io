@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-02-23
+updated: 2020-04-08
 comments: true
 mathjax: false
 ---
@@ -11,6 +11,14 @@ mathjax: false
 拼接图片的简单工具: [filesmerge](https://www.filesmerge.com/merge-images)
 
 <!-- more -->
+
+## 眼镜反光
+
+2021/4/8
+
+哥斯拉 奇点 ep. 2 13:04 左右. 安排角色泡面倒热水, 水蒸气使眼镜在恰到好处的时候反光, 平添阴森的气氛; 而不是俗套地头微微一弯导致反光. 另外, 给人物安排动作, 避免乏味的站桩对话也是常用的方法. 目前奇点在对话的演出上都很有意思 (另外还有第一集女主盯着警报灯看的广角镜头).
+
+![](https://shiina18.github.io/assets/posts/images/20210409170133699_10150.jpg)
 
 ## 仰视和俯视
 
