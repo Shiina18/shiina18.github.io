@@ -10,11 +10,11 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(8)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(22)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(24)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(6)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
-- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(4)</font>
+- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(5)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(2)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(2)</font>
@@ -48,11 +48,13 @@ mathjax: true
 
 ### Games
 
+- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone)
+- 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh)
-- 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games)
+- 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games) <font color="lightgrey">(2021-04-09 updated)</font>
 - 2021-01-31 `Renju` [第 2 届道馆杯五子棋争霸赛战报](https://shiina18.github.io/games/2021/01/31/renju-contest)
 - 2021-01-29 `Renju` [连珠的各种手筋](https://shiina18.github.io/games/2021/01/29/renju-tesuji)
-- 2021-01-14 `Renju` [花月定式: 次强 4](https://shiina18.github.io/games/2021/01/14/kagetsu-2)
+- 2021-01-14 `Renju` [花月定式: 次强 4](https://shiina18.github.io/games/2021/01/14/kagetsu-2) <font color="lightgrey">(2021-03-05 updated)</font>
 - 2021-01-12 `Renju` [浦月斜三长蛇必败](https://shiina18.github.io/games/2021/01/12/hogetsu-sureloss)
 - 2021-01-11 `Renju` [河村九段的中级连珠讲座 (2)](https://shiina18.github.io/games/2021/01/11/renju-kouza-intermediate-2)
 - 2021-01-06 `Renju` [花月定式: 最强 4](https://shiina18.github.io/games/2021/01/06/kagetsu-1)
@@ -97,6 +99,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)
 - 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
 - 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2021-02-21 updated)</font>

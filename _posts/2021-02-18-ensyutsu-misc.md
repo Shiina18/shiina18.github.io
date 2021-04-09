@@ -63,6 +63,7 @@ mathjax: false
 
 - nbht. [Layout 与动画中的构图](https://www.iqiyi.com/dongman/nofishing1410.html). *爱奇艺*.
 - HB (动画魂). (2018, May 8). [站着说话不腰疼, 看可爱少女爬山——《向山进发》的作画奥秘](https://zhuanlan.zhihu.com/p/36560576). *知乎*.
+- 谢枫华 (动画魂). (2018, Jul 23). [让松本宪生第一次读透视法的动画](https://www.bilibili.com/read/cv787547). *bilibili*.
 - III (动画魂). (2018, Sep 18). [小动作蕴含丰富演技, 22 岁原画师分享业界经验](https://zhuanlan.zhihu.com/p/44805205). *知乎*.
 - kViN. (2018, Oct 11). [YAMA NO SUSUME SEASON 3 – PRODUCTION NOTES 7-13](https://blog.sakugabooru.com/2018/10/11/yama-no-susume-season-3-production-notes-7-13/). *SAKUGABLOG*.
     - 另外还有若干期讲向山进发的文章.

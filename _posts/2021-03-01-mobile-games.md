@@ -2,7 +2,7 @@
 title: "关于若干手游的几句话"
 categories: Games
 tags: 
-updated: 
+updated: 2021-04-09
 comments: true
 mathjax: false
 ---
@@ -10,6 +10,12 @@ mathjax: false
 玩过的手游很少, 一并记在本帖.
 
 <!-- more -->
+
+## KAMI 2
+
+[链接](https://play.google.com/store/apps/details?id=com.stateofplaygames.kami2&hl=zh&gl=US)
+
+看到这种游戏情不自禁地会去思考通解怎么求. 有人用程序做了一个 solver, 见 [GAME THEORY: AN ANALYSIS OF KAMI 2](http://www.rozmichelle.com/kami2/), 但我目前还没有仔细想过, 这篇文章也尚未仔细读.
 
 ## Dice Hunter: Quest of the Dicemancer
 
