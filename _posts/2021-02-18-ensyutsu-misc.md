@@ -1,14 +1,14 @@
 ---
 title: "动画演出分析杂录"
 categories: Anime
-updated: 2021-02-19
+updated: 2021-04-17
 comments: true
 mathjax: false
 ---
 
 当然分镜, 作画, L/O, 摄影等内容也会包含.
 
-多季动画以第一季开播时间为准.
+多季动画通常以第一季开播时间为准.
 
 <!-- more -->
 
@@ -50,6 +50,24 @@ mathjax: false
 
 - Komiku. (2018, Dec 19). [序「wind, glass, bluebird」(00:00:00-00:07:37)](https://zhuanlan.zhihu.com/p/51698728). *知乎*.
 - 炽叶木染. (2019, Mar 4). [对《利兹与青鸟》分镜头笔记 (其一)](https://www.bilibili.com/read/cv2188854/). *bilibili*.
+
+## 向山进发 第三季 (2018)
+
+- nbht. [Layout 与动画中的构图](https://www.iqiyi.com/dongman/nofishing1410.html). *爱奇艺*.
+- HB (动画魂). (2018, May 8). [站着说话不腰疼, 看可爱少女爬山——《向山进发》的作画奥秘](https://zhuanlan.zhihu.com/p/36560576). *知乎*.
+- 谢枫华 (动画魂). (2018, Jul 23). [让松本宪生第一次读透视法的动画](https://www.bilibili.com/read/cv787547). *bilibili*.
+- III (动画魂). (2018, Sep 18). [小动作蕴含丰富演技, 22 岁原画师分享业界经验](https://zhuanlan.zhihu.com/p/44805205). *知乎*.
+- FAR. (2019, Aug 6). [《向山进发》第三季第十集: ちな的温情剧场](https://www.bilibili.com/read/cv10909810) (2021, Apr 17, 屋顶现视研, 发布译文). *bilibili*.
+- kViN. (2018, Oct 11). [YAMA NO SUSUME SEASON 3 – PRODUCTION NOTES 7-13](https://blog.sakugabooru.com/2018/10/11/yama-no-susume-season-3-production-notes-7-13/). *SAKUGABLOG*.
+    - 另外还有若干期讲向山进发的文章.
+- [shirooo105](https://twitter.com/shirooo305). (2018, Sep 5).[『ヤマノススメ サードシーズン』10 話の演出について](https://shirooo305.hatenablog.com/entry/2018/09/05/151307). *Paradism*.
+    - 在该博客下搜索「ヤマノススメ」, 可以找到很多 mentions.
+- [ざっかん](https://twitter.com/skkan4). (2018, Sep 7). [『ヤマノススメ　サードシーズン』１０話について](http://zakkanzakko.seesaa.net/article/461488387.html). *雑感雑考*.
+- [折田key太郎](https://twitter.com/orita_no_ani). (2018, Sep 7). [コーヒーをめぐる成長とか, ちな氏の演出とか. (『ヤマノススメ サードシーズン』第 10 話)](https://orita-ani.net/coffee-makes-you-grow-up/). *おりあに劇場*.
+- 其他
+    - 东川Production. (2021, Jan 24).[「色違いの翼」填词鉴赏: 结翼成双, 比翼翱翔](https://zhuanlan.zhihu.com/p/346594318). *知乎*.
+    - 折田key太郎. (2018, Jul 18).[『ヤマノススメ サードシーズン』ED のリップシンクとオフビート](https://orita-ani.net/yamano-susume-3rd-ed-good/). *おりあに劇場*.
+
   
 ## 吹响! 悠风号 (2015)
 
@@ -58,23 +76,6 @@ mathjax: false
 - 井上苔藓. (2018, Apr 11). [【拉片】吹响上低音号第 10 集拉片](https://www.bilibili.com/video/BV1mW411K7ed). *bilibili*.
 
 特别多, 待添加
-
-## 向山进发 (2013)
-
-- nbht. [Layout 与动画中的构图](https://www.iqiyi.com/dongman/nofishing1410.html). *爱奇艺*.
-- HB (动画魂). (2018, May 8). [站着说话不腰疼, 看可爱少女爬山——《向山进发》的作画奥秘](https://zhuanlan.zhihu.com/p/36560576). *知乎*.
-- 谢枫华 (动画魂). (2018, Jul 23). [让松本宪生第一次读透视法的动画](https://www.bilibili.com/read/cv787547). *bilibili*.
-- III (动画魂). (2018, Sep 18). [小动作蕴含丰富演技, 22 岁原画师分享业界经验](https://zhuanlan.zhihu.com/p/44805205). *知乎*.
-- kViN. (2018, Oct 11). [YAMA NO SUSUME SEASON 3 – PRODUCTION NOTES 7-13](https://blog.sakugabooru.com/2018/10/11/yama-no-susume-season-3-production-notes-7-13/). *SAKUGABLOG*.
-    - 另外还有若干期讲向山进发的文章.
-- FAR. (2019, Aug 6). [Yama no Susume Third Season #10: China's warm emotional theater](https://artistunknown.info/2019/08/06/yama-no-susume-third-season-10-chinas-warm-emotional-theater/). *artist_unknown*.
-- shirooo105. (2018, Sep 5).[『ヤマノススメ サードシーズン』10 話の演出について](https://shirooo305.hatenablog.com/entry/2018/09/05/151307). *Paradism*.
-    - 在该博客下搜索「ヤマノススメ」, 可以找到很多 mentions.
-- 折田key太郎. (2018, Sep 7). [コーヒーをめぐる成長とか, ちな氏の演出とか. (『ヤマノススメ サードシーズン』第 10 話)](https://orita-ani.net/coffee-makes-you-grow-up/). *おりあに劇場*.
-- [「話数単位で選ぶ、2018 年 TV アニメ 10 選」投票集計](http://shinmai.seesaa.net/article/463460588.html) S3E10 为第二名.
-- 其他
-    - 东川Production. (2021, Jan 24).[「色違いの翼」填词鉴赏: 结翼成双, 比翼翱翔](https://zhuanlan.zhihu.com/p/346594318). *知乎*.
-    - 折田key太郎. (2018, Jul 18).[『ヤマノススメ サードシーズン』ED のリップシンクとオフビート](https://orita-ani.net/yamano-susume-3rd-ed-good/). *おりあに劇場*.
 
 ## 冰果 (2012)
 
