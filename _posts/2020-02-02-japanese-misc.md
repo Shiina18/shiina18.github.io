@@ -27,6 +27,8 @@ mathjax: false
 - UID39569795. (2020, Feb 15). [为什么糸这个字不写成丝?](https://nga.178.com/read.php?tid=20409596). *NGA*.
 - 趙瑾昀. (2016, Apr 26). [日语里面「濱」新字体「浜」字为什么在翻译成中文时变成了「滨」?](https://www.zhihu.com/question/44341331/answer/97227958). *知乎*.
 
+<!-- more -->
+
 ## 「絆」vs bond vs 羁绊 
 
 这是查英语 bond 时发现的, 羁绊并不是我想的意思.
@@ -65,8 +67,6 @@ mathjax: false
 - [bond](https://www.collinsdictionary.com/dictionary/english/bond). *Collins*.
 
 话虽如此, 木已成舟. 顺便在 [这个回答](https://www.zhihu.com/question/22271127/answer/23696254) 里提到了许多错翻的例子, 其中有有理数 rational number 忘记写在英语杂录里了.
-
-<!-- more -->
 
 ## 形容詞「き」「しき」
 

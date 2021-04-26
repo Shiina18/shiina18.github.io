@@ -11,7 +11,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(8)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(24)</font>
-- [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(4)</font>
+- [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(6)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(5)</font>
@@ -75,6 +75,7 @@ mathjax: true
 
 ### Language
 
+- 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation)
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2020-10-23 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2021-03-15 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
