@@ -33,8 +33,10 @@ Last Updated on 2020-11-18
 
 ### 依然活跃
 
+- [科学空间](https://kexue.fm/). by 苏剑林. `NLP`
 - [码农场](https://www.hankcs.com/): 放牧代码和思想, 专注自然语言处理, 机器学习算法.
 - [墨冰土](https://www.mobingtu.com/): 我随便写写, 您随便看看. by AI Euler. `随笔`
+- [谢益辉的个人主页](https://yihui.org/). `统计`
 - [宇宙的心弦](https://www.physixfan.com/): 细推物理须行乐, 何用浮名绊此身. by physixfan. `投资`
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
 - [pywonderland](http://pywonderland.com/): 殷勤昨夜三更雨, 又得浮生一日凉. by 赵亮. `数学`
