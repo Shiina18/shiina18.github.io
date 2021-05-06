@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2021-03-01
+updated: 2021-05-04
 comments: true
 mathjax: false
 ---
@@ -50,6 +50,10 @@ mathjax: false
 - [日式作画基础解说 完整版](https://www.bilibili.com/video/av2251266/)
 - [什么叫做无影动画？](https://www.zhihu.com/question/35917001/answer/245448686)
 - [吉成曜的作画有什么特点以及作画爱好者如何入门与提高?](https://www.zhihu.com/question/35991414/answer/250981347)
+- 一人原画
+    - [原画师炫技的舞台, 谈谈 "一人原画" 的独特优势](https://www.sohu.com/a/390705147_99967847)
+    - [原画栏中只有一个人时的种种情况——谈谈一人原画回 (上)](https://zhuanlan.zhihu.com/p/20868497)
+    - [原画栏中只有一个人时的种种情况——谈谈一人原画回 (下)](https://zhuanlan.zhihu.com/p/20896746)
 
 ## 写文章
 
@@ -85,6 +89,8 @@ mathjax: false
 
 - [【声优翻车集锦】整天说人家棒读！所以棒读到底是个啥？！](https://www.bilibili.com/video/BV1Hx411p7Wz)
 - [为什么日本深夜动画绝大多数是12、13集，或者24-26集？](https://www.zhihu.com/question/265029429/answer/288374351)
+- [为什么日本 tv 动画一季从过去的 25 集左右变成了 12 集左右?
+](https://www.zhihu.com/question/284943469/answer/440896624)
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) 
 - ["张力" 到底什么意思? 观众挂在嘴边, 我却一头雾水](https://zhuanlan.zhihu.com/p/96850338)
 - [所谓媚宅到底指什么呢? 它到底有什么坏处?](https://www.zhihu.com/question/263944167/answer/281518456)

@@ -29,11 +29,13 @@ Last Updated on 2020-11-18
 
 ## Blogroll
 
-排名不分先后. 附博客 description, 作者昵称和大致内容标签.
+排名不分先后. 附博客 description, 作者昵称和大致内容标签. 也会列出部分我喜欢的博文.
 
 ### 依然活跃
 
 - [科学空间](https://kexue.fm/). by 苏剑林. `NLP`
+    - 2019-09-18 [从语言模型到 Seq2Seq: Transformer 如戏, 全靠 Mask](https://kexue.fm/archives/6933)
+    - 2021-03-08 [Transformer 升级之路: 1. Sinusoidal 位置编码追根溯源](https://kexue.fm/archives/8231)
 - [码农场](https://www.hankcs.com/): 放牧代码和思想, 专注自然语言处理, 机器学习算法.
 - [墨冰土](https://www.mobingtu.com/): 我随便写写, 您随便看看. by AI Euler. `随笔`
 - [谢益辉的个人主页](https://yihui.org/). `统计`
@@ -45,9 +47,16 @@ Last Updated on 2020-11-18
 ### 不再更新 (至少断更一年)
 
 - 2016-04-01 [考据癖](http://localhost-8080.com/)
+    - 2011-03-23 [为什么一般逆时针旋转是拧松?](http://localhost-8080.com/2011/03/why-counterclockwise-open/)
+    - 2013-06-21 [吹牛大王 Baron Münchhausen](http://localhost-8080.com/2013/06/baron-munchhausen-the-tall-tale-teller/)
 - 2017-10-17 [刘未鹏 \| Mind Hacks](http://mindhacks.cn/): 思维改变生活. `杂谈`
+    - 2009-02-15 [[BetterExplained] 为什么你应该 (从现在开始就) 写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
 - 2018-06-07 [木遥的窗子](http://blog.farmostwood.net/). `随笔` `数学`
+    - 2011-11-06 [Research Notes: 为什么没人喜欢学习高等数学](http://blog.farmostwood.net/623.html)
+    - 2012-01-26 [Research Notes: 为什么跨学科的研究项目是件残酷的事](http://blog.farmostwood.net/643.html)
+    - 2016-07-20 [乞力马扎罗的八天和一夜](http://blog.farmostwood.net/830.html)
 - 2019-05-15 [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
+    - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - 2016-10-18 [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学`
 - 2013-03-27 [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
 - 2016-03-07 [No Arbitrage](http://www.sweet-layla.com/): It's Layla's labyrinth. `周记`
@@ -58,3 +67,4 @@ Last Updated on 2020-11-18
 - [Mathematical Association of America](https://www.maa.org/). 可以查到数学家的书评.
 - [Math Pages](https://mathpages.com/)
 - [Using your Head is Permitted](https://www.brand.site.co.il/riddles/usingyourhead.html). Interesting riddles.
+    - 2011-03 [Lights-Out](https://www.brand.site.co.il/riddles/201103q.html)
