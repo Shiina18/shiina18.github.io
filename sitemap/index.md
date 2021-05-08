@@ -10,7 +10,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
 - [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(8)</font>
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(24)</font>
+- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(25)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(6)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
@@ -48,6 +48,7 @@ mathjax: true
 
 ### Games
 
+- 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames)
 - 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone)
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh)
