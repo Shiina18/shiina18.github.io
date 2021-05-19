@@ -55,6 +55,7 @@ Last Updated on 2020-11-18
     - 2011-11-06 [Research Notes: 为什么没人喜欢学习高等数学](http://blog.farmostwood.net/623.html)
     - 2012-01-26 [Research Notes: 为什么跨学科的研究项目是件残酷的事](http://blog.farmostwood.net/643.html)
     - 2016-07-20 [乞力马扎罗的八天和一夜](http://blog.farmostwood.net/830.html)
+    - 2016-12-03 [我为什么反对川普](http://blog.farmostwood.net/837.html)
 - 2019-05-15 [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - 2016-10-18 [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学`
