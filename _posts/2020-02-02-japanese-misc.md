@@ -1,10 +1,20 @@
 ---
 title: "日语杂录"
 categories: Language
-updated: 2021-03-15
+updated: 2021-05-23
 comments: true
 mathjax: false
 ---
+
+## やむを得ない
+
+2021/5/23
+
+古语.「やむを得ない」即「やむことを得ない」省略了「こと」的形式.
+
+- 黄色潜水艇. (2021, May 23). [やむを得ない 是止む为什么不是止み?](https://www.zhihu.com/question/460871624/answer/1900540256). *知乎*.
+
+<!-- more -->
 
 ## 糸
 
@@ -26,8 +36,6 @@ mathjax: false
 
 - UID39569795. (2020, Feb 15). [为什么糸这个字不写成丝?](https://nga.178.com/read.php?tid=20409596). *NGA*.
 - 趙瑾昀. (2016, Apr 26). [日语里面「濱」新字体「浜」字为什么在翻译成中文时变成了「滨」?](https://www.zhihu.com/question/44341331/answer/97227958). *知乎*.
-
-<!-- more -->
 
 ## 「絆」vs bond vs 羁绊 
 
