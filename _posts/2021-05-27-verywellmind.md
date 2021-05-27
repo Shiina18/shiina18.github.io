@@ -15,12 +15,17 @@ mathjax: false
 ## 如何与内向者约会?
 
 - Gordon, S. (2021, Jan 25). [What to Know When Dating an Introvert](https://www.verywellmind.com/what-to-know-when-dating-an-introvert-5093777). *very well mind*.
+- Cuncic, A. (2020, Jul 25). [Understanding the Dimensions of Introversion and Shyness](https://www.verywellmind.com/introversion-and-shyness-explained-3024882). *very well mind*.
 
 > Overall, introversion is a personality trait where the person focuses more on internal feelings rather than on external sources of stimulation.
 > 
 > Typically, people who are introverted have a small group of close friends, enjoy solitude, and find large groups or parties draining at times. They also are very self-aware, enjoy observing people and situations, and are drawn to careers that foster independence.
 
 It's also important to note that introversion is **not the same thing** as being [antisocial](https://www.verywellmind.com/antisocial-personality-disorder-2795566), having [social anxiety](https://www.verywellmind.com/what-is-social-phobia-2671698), or being [shy](https://www.verywellmind.com/introversion-and-shyness-explained-3024882).
+
+社恐 (social anxiety, previously referred to as social phobia) 是正儿八经的心理疾病, 会严重影响生活, 而非人们平常随口自称的那种.
+
+Shyness involves fear of negative evaluation (and is a milder form of social anxiety),﻿ whereas introversion refers to a tendency toward becoming over-stimulated and the need to be alone to gain energy. The opposite of shyness is being outgoing. The outgoing person is not afraid of others and has a tendency to approach.
 
 ### 内向的关键特征
 
