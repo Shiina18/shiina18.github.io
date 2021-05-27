@@ -36,7 +36,7 @@ Last Updated on 2021-05-22
 - [科学空间](https://kexue.fm/). by 苏剑林. `NLP`
     - 2019-09-18 [从语言模型到 Seq2Seq: Transformer 如戏, 全靠 Mask](https://kexue.fm/archives/6933)
     - 2021-03-08 [Transformer 升级之路: 1. Sinusoidal 位置编码追根溯源](https://kexue.fm/archives/8231)
-- [码农场](https://www.hankcs.com/) `NLP`
+- [码农场](https://www.hankcs.com/). `NLP`
     - [CS224n 笔记系列](https://www.hankcs.com/tag/cs224n/)
 - [墨冰土](https://www.mobingtu.com/). by AI Euler. `随笔`
     - 2020-05-03 [服装搭配的信息理论](https://www.mobingtu.com/服装搭配的信息理论/)
@@ -45,6 +45,7 @@ Last Updated on 2021-05-22
     - 2009-05-11 [统计学和计量经济学的神奇?](http://www.loyhome.com/统计学和计量经济学的神奇？) 虽然是其他博客的, 但用了大量本博客的文章
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
+- [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
 - [pywonderland](http://pywonderland.com/). by 赵亮. `数学`
@@ -59,6 +60,8 @@ Last Updated on 2021-05-22
 - 2017-10-17 [刘未鹏 \| Mind Hacks](http://mindhacks.cn/): 思维改变生活. `杂谈`
     - 2009-02-15 [[BetterExplained] 为什么你应该 (从现在开始就) 写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
 - 2018-06-07 [木遥的窗子](http://blog.farmostwood.net/). `随笔` `数学`
+    - 2009-05-24 [我要读书](http://blog.farmostwood.net/398.html)
+    - 2010-10-09 [Research Notes: 鸿沟](http://blog.farmostwood.net/495.html)
     - 2011-11-06 [Research Notes: 为什么没人喜欢学习高等数学](http://blog.farmostwood.net/623.html)
     - 2012-01-26 [Research Notes: 为什么跨学科的研究项目是件残酷的事](http://blog.farmostwood.net/643.html)
     - 2016-07-20 [乞力马扎罗的八天和一夜](http://blog.farmostwood.net/830.html)
@@ -67,7 +70,6 @@ Last Updated on 2021-05-22
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - 2016-10-18 [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学`
 - 2013-03-27 [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
-- 2016-03-07 [No Arbitrage](http://www.sweet-layla.com/). `周记`
 
 ## Random Links
 

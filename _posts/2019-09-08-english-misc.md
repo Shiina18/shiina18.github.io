@@ -1,18 +1,23 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-04-03
+updated: 2020-05-25
 comments: true
 mathjax: false
 ---
+
+## 工具网站
+
+- [Vocabulary.com](https://www.vocabulary.com/). 释义有趣, 例句分领域.
+- [Oxford](https://www.lexico.com/), [Merriam-Webster](https://www.merriam-webster.com/), [Collins](https://www.collinsdictionary.com/). 我用得最多的三个字典, "网易有道词典" 整合了它们, 也是极其好用的 app.
+
+<!-- more -->
 
 ## 限制性定语从句
 
 2021/4/3
 
 In grammar, a restrictive clause is one that limits the meaning of something that comes before it. In the sentence "That's the professor who I'm trying to avoid," "who I'm trying to avoid" is a restrictive clause, since it's what identifies the professor. But in the sentence "That's my History professor, who I'm trying to avoid," the same clause is nonrestrictive, since the professor has already been identified as "my History professor." There should always be a comma before a nonrestrictive clause, but not before a restrictive clause.
-
-<!-- more -->
 
 ## XX times less
 

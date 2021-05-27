@@ -14,7 +14,7 @@ mathjax: true
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(7)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
-- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(5)</font>
+- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(6)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(2)</font>
@@ -80,7 +80,7 @@ mathjax: true
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2020-10-23 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2021-05-23 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
-- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-04-03 updated)</font>
+- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-05-25 updated)</font>
 
 ### Machine Learning
 
@@ -102,6 +102,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2021-05-27 [verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)
 - 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
