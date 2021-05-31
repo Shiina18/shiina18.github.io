@@ -6,7 +6,7 @@ comments: true
 mathjax: false
 ---
 
-得知这个网站起源于我想了解 "他者化 (othering)" 这个概念. 这本身是一个哲学概念, 所以大多文章多少会涉及一些术语或者人名. 但哲学我又完全不懂, 因此想找简单的文章读, 于是就找到了 verywellmind. 其上的文章不涉及任何专业术语, 非常易读, 并且有专业人士 review 确保质量.
+得知这个网站起源于我想了解 "他者化 (othering)" 这个概念. 这本身是一个哲学概念, 所以大多文章多少会涉及一些术语或者人名. 但哲学我又完全不懂, 因此想找简单的文章读, 于是就找到了 verywellmind. 其上的文章不涉及任何专业术语, 非常易读, 并且有专业人士 review 确保质量. 另外还发现很多心理学相关的公众号都会编译这个网站上的内容.
 
 > Verywell Mind uses only high-quality sources, including peer-reviewed studies, to support the facts within our articles.
 
