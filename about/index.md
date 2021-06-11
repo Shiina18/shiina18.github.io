@@ -43,6 +43,8 @@ Last Updated on 2021-05-22
     - 2020-05-05 [为什么人类社会不把研究永生放在首位?](https://www.mobingtu.com/为什么人类社会不把研究永生技术放在第一位？/)
 - [谢益辉的个人主页](https://yihui.org/). 统计之都创始人
     - 2009-05-11 [统计学和计量经济学的神奇?](http://www.loyhome.com/统计学和计量经济学的神奇？) 虽然是其他博客的, 但用了大量本博客的文章
+- [应坚刚的个人主页](http://homepage.fudan.edu.cn/jgying/). `数学`
+    - [讲义和勘误](http://homepage.fudan.edu.cn/jgying/resources/) 风格简明, 甚是喜欢
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
 - [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
