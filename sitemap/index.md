@@ -13,7 +13,7 @@ mathjax: true
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(25)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(7)</font>
-- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(5)</font>
+- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(6)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(6)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
@@ -94,6 +94,7 @@ mathjax: true
 
 ### Mathematics
 
+- 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
 - 2020-06-14 [Refutation of an Article on Shuffling in TCG](https://shiina18.github.io/mathematics/2020/06/14/refutation-on-shuffling)
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
 - 2019-09-14 [Lights-Out](https://shiina18.github.io/mathematics/2019/09/14/lights-out)

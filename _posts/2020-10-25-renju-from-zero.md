@@ -27,8 +27,13 @@ mathjax: false
 - 坂田吾朗. (2000). 三手胜五子棋题解. 人民体育出版社.
 - 新井华石九段. (1997). 五子连珠必胜法 (译, 张书). 人民体育出版社.
 - 真野芳久五段. (2015, Jun). [連珠の基礎](http://tokai-renjukai.pya.jp/siryo/RenjuKiso/RenjuKiso-1-2.pdf). *東海連珠会*. 另附 [超链接版](http://tokai-renjukai.pya.jp/siryo/RenjuSiryo.html). (2020/12/12)
+- 李洪斌. (2010). 五子棋实战必读——基础定式. 成都时代出版社.
 
 自学一本通是很好的零基础读物, 三手胜是必读经典.
+
+李洪斌的书第一章讲如何学棋, 可以参考, 阅读定式需要一定基础.
+
+戴晓涵有本《方寸之间》, 在 "零基础学五子棋" 公众号可以白嫖前三章, 对我来说第二章 "虎头虎尾" 有一些帮助.
 
 随着技术发展, 一些非必胜的判断可能被推翻, 阅读这类书籍要非常小心.
 
@@ -37,7 +42,7 @@ mathjax: false
 - [連珠の本の案内](http://www15.plala.or.jp/ssiio/renjubook.htm)
 - 彭建国 & 包明慧. (2005). 五子棋争先妙手. 北京体育出版社
 
-《五子棋争先妙手》是一本专门讲瑞星的书, 可以拿来看几个实战谱.
+《五子棋争先妙手》是一本专门讲瑞星的书, 平铺直叙, 只能拿来看几个实战谱.
 
 ## 软件
 
@@ -46,6 +51,7 @@ mathjax: false
     - [renlib](https://www.renju.se/renlib/): 国外软件, 很容易找, 解题引擎用的就是 renju solver. 
         - 一个重大问题是 renlib 打开棋谱占用的内存很大, 乐赛就没有这个问题.
     - 乐赛五子棋打谱软件: Temple 大学的数学 PhD 温向东开发, UI 漂亮, 功能强大. 收费软件. 以前的爱五子棋打谱软件, 以及连珠终结者 (Renju Solver) 都是他写的. 作者本人其实只是初学者水平.
+    - [摆谱小工具](https://lfz084.gitee.io/renju/renju.html): 网页打谱, 可以设置 "下一手为 1", 以及各种方便的标记.
 - AI
     - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋专业四段, 清华姚班, CS PhD. 实际用下来, 选点比弈心菜了不少, 但思路仍然值得初学者学习.
     - [弈心](https://www.aiexp.info/pages/yixin.html): 作者孙锴, 上交 CS 本, Cornell CS PhD. 在 katago 和 embryo 出现前是无敌的 AI.
