@@ -2,22 +2,29 @@ import os
 import re
 import shutil
 import time
+
 s = time.time()
+
+source_dir = r'F:\vnote_notebooks\vnotebook'
+target_dir = r'F:\GitHub'
+# source_dir = r'D:\GitHub\vnote_notebooks\vnotebook'
+# target_dir = r'D:\GitHub'
+
 
 def solve_escape(string, mode='link'):
     # https://stackoverflow.com/questions/6116978/how-to-replace-multiple-substrings-of-a-string
-    
+
     if mode == 'link':
         pattern = '(\[.*?\|.*?\])(\(.*?\))'
         rep = {'|': '\|'}
-        
+
     elif mode == 'math':
         pattern = '\$(.*)\$'
         rep = {'\{': r'\\{', '\}': r'\\}'}
-        
+
     new_string = []
     index = 0
-    rep = dict((re.escape(k), v) for k, v in rep.items()) 
+    rep = dict((re.escape(k), v) for k, v in rep.items())
     sub_pattern = re.compile("|".join(rep.keys()))
     for match in re.finditer(pattern, string):
         new_string.append(string[index:match.start(1)])
@@ -26,16 +33,18 @@ def solve_escape(string, mode='link'):
     new_string.append(string[index:])
     return ''.join(new_string)
 
+
 def solve_display_math(string):
     global flag
     if '$$' in string or string.startswith('```'):
         flag = -flag
         return string
-    if string.startswith(r'\begin{align') and flag>0:
+    if string.startswith(r'\begin{align') and flag > 0:
         return '$$\n' + string
-    if string.startswith(r'\end{align') and flag>0:
+    if string.startswith(r'\end{align') and flag > 0:
         return string + '$$\n'
     return string
+
 
 def solve_img(string, path='https://shiina18.github.io/assets/posts/'):
     pattern = '!\[(.*?)\]\((.*?)\)'
@@ -52,10 +61,11 @@ def solve_img(string, path='https://shiina18.github.io/assets/posts/'):
     new_string.append(string[index:])
     return ''.join(new_string)
 
-# posts   
-                        
-source = r'F:\vnote_notebooks\vnotebook\Blogger\Posts'
-target = r'F:\GitHub\shiina18.github.io\_posts'
+
+# posts
+
+source = os.path.join(source_dir, r'Blogger\Posts')
+target = os.path.join(target_dir, r'shiina18.github.io\_posts')
 
 for file in os.listdir(source):
     if file.endswith('.md'):
@@ -69,11 +79,11 @@ for file in os.listdir(source):
                     line = solve_display_math(line)
                     line = solve_img(line)
                     g.write(line)
-                        
+
 # pages
 
-source = r'F:\vnote_notebooks\vnotebook\Blogger'
-target = r'F:\GitHub\shiina18.github.io'
+source = os.path.join(source_dir, r'Blogger')
+target = os.path.join(target_dir, r'shiina18.github.io')
 
 for file in os.listdir(source):
     if '.' not in file and file not in {'Posts', '_v_attachments', 'images'}:
@@ -88,8 +98,9 @@ for file in os.listdir(source):
 
 # images
 
-source = r'F:\vnote_notebooks\vnotebook\Blogger\Posts\images'
-target = r'F:\GitHub\shiina18.github.io\assets\posts\images'
+source = os.path.join(source_dir, r'Blogger\Posts\images')
+target = os.path.join(target_dir, r'shiina18.github.io\assets\posts\images')
+
 for file in os.listdir(source):
     if file.endswith('.jpg') or file.endswith('.png') or file.endswith('.gif'):
         shutil.copyfile(os.path.join(source, file), os.path.join(target, file))
@@ -97,6 +108,7 @@ for file in os.listdir(source):
 # sitemap
 
 from collections import defaultdict
+
 
 class Post():
     def __init__(self, date=None, title=None, cat=None, updated=None, link=None, tag=None):
@@ -107,7 +119,8 @@ class Post():
         self.link = link
         self.tag = tag
 
-source = r'F:\GitHub\shiina18.github.io\_posts'
+
+source = os.path.join(target_dir, r'shiina18.github.io\_posts')
 cated = defaultdict(list)
 
 for post in os.listdir(source):
@@ -144,27 +157,28 @@ for post in os.listdir(source):
                     tag_flag = 0
         cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link, cur_post.tag))
 
-site = 'https://shiina18.github.io'           
-target = r'F:\GitHub\shiina18.github.io\sitemap'
+site = 'https://shiina18.github.io'
+target = os.path.join(target_dir, r'shiina18.github.io\sitemap')
+
 with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
     g.write('---\n')
     g.write('title: Sitemap\n')
     g.write('layout: page\n')
     g.write('mathjax: true\n')
     g.write('---\n\n')
-    
+
     g.write(f'\n## Categories\n\n')
     for cat in sorted(cated.keys()):
         url = '/'.join([site, 'category', '#', cat.replace(" ", "%20")])
         g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')
 
-    g.write(f'\n## Posts\n\n')   
+    g.write(f'\n## Posts\n\n')
     for cat in sorted(cated.keys()):
         g.write(f'\n### {cat}\n\n')
         for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):
             date, title, updated, link, tag = post
             y, m, d = date[:4], date[5:7], date[-2:]
-            url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])  
+            url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])
             if tag:
                 line = f'- {date} `{tag}` [{title}]({url})'
             else:

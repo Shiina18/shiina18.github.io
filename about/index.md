@@ -51,6 +51,7 @@ Last Updated on 2021-05-22
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
 - [pywonderland](http://pywonderland.com/). by 赵亮. `数学`
+- [SinanTalk](https://sinantang.github.io/). `杂谈`
 - [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
     - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
 
