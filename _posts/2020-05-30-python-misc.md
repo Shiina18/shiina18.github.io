@@ -1,10 +1,31 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2020-10-23
+updated: 2021-07-16
 comments: true
 mathjax: true
 ---
+
+## 上下文管理器
+
+2021/7/16
+
+简单参考 [完全理解 Python 关键字 "with" 与上下文管理器](https://zhuanlan.zhihu.com/p/26487659).
+
+看个例子, 来自 TensorFlow 的 `GradientTape` 类.
+
+```python
+import tensorflow as tf
+
+x = tf.Variable(3.0)
+
+with tf.GradientTape() as tape:
+  y = x**2
+
+dy_dx = tape.gradient(y, x)
+```
+
+如名字所示, tape 表示它像一个磁带, 记录前馈操作, 之后取出磁带反向传播. [源码](https://github.com/tensorflow/tensorflow/blob/a4dfb8d1a71385bd6d122e4f27f86dcebb96712d/tensorflow/python/eager/backprop.py#L847-L874) 中实现的 `__enter__` 和 `__exit__` 方法正是如此.
 
 ## Codetags
 
