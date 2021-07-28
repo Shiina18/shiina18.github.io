@@ -1,7 +1,7 @@
 ---
 title: "Hands-on experience with a constrained least squares problem"
 categories: Tech
-updated: 
+updated: 2021-07-28
 comments: true
 mathjax: true
 ---
@@ -24,7 +24,7 @@ with
 
 <!-- more -->
 
-The notation $\boldsymbol{1}_p$ stands for the $p\times 1$ vector $(1, \dots, 1)'$. The objection is equivalent to minimize $\beta' X'X \beta - 2Y'X\beta$. 
+The notation $\boldsymbol{1}_p$ stands for the $p\times 1$ vector $(1, \dots, 1)'$. The objection is equivalent to minimizing $\beta' X'X \beta - 2Y'X\beta$. 
 
 Here are two candidate solutions currently, a SciPy solution and a CVXOPT solution.
 
@@ -32,7 +32,35 @@ Side note: The vector $\beta$ can be viewed as a probability distribution over $
 
 ## The SciPy solution
 
-SciPy implements a way to solve more general problems using **sequential least squares programming (SLSQP) algorithm**; see [here](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html#sequential-least-squares-programming-slsqp-algorithm-method-slsqp) for the problem formulation, and [here](https://docs.scipy.org/doc/scipy/reference/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize) for the documentation of the `minimize` function.
+SciPy implements three methods to solve **general constrained minimization problems**: trust-region constrained algorithm (trust-constr), sequential least squares programming (SLSQP) algorithm and constrained optimization by linear approximation (COBYLA) algorithm; see [here](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html#constrained-minimization-of-multivariate-scalar-functions-minimize) for the problem formulation, and [here](https://docs.scipy.org/doc/scipy/reference/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize) for the documentation of the `minimize` function.
+
+### Which to use?
+
+**Use COBYLA if there are non-smooth functions**
+
+COBYLA is an non-gradient based method based on linear approximations to the objective function and each constraint. The algorithm operates by evaluating the objective function and the constrains at the vertices of a trust region. See [here](https://cossan.co.uk/wiki/index.php/COBYLA) for a brief introduction.
+
+> In general, the convergence of COBYLA is slower than that of gradient-based algorithms, i.e. more function evaluations are required to find the optimum. However, one of the salient features of COBYLA is its stability and the low number of parameters to be tuned for performing optimization.
+
+**Use SLSQP for moderately large problems**
+
+Kraft (1988) claims that sequential quadratic programming is known as to be *the most efficient* computation method to solve the general nonlinear programming problem with **twice continuously differentiable** objective function and constraints. 
+
+The size of the problem should only be **moderately large** with $m \le p \le 200$, where $m$ (=1 in our case) is the number of equality and inequality constraints (with bounds excluded), and $p$ is the dimension of the variable to be optimized. Wendorff et al. (2016) reported in their case study that SLSQP is not able to be run in parallel making a problem with large number of design variables intractable.
+
+**Use trust-constr method for large-scale problems**
+
+See [here](https://optimization.mccormick.northwestern.edu/index.php/Trust-region_methods) for a brief introduction for trust region methods.
+
+> It is the most versatile constrained minimization algorithm implemented in SciPy and the most appropriate for large-scale problems. 
+
+For equality constrained problems it is an implementation of Byrd-Omojokun Trust-Region SQP method. When inequality constraints are imposed as well, it swiches to the trust-region interior point method described in *An interior point algorithm for large-scale nonlinear programming* (Byrd et al., 1999).
+
+**References**
+
+- Kraft, D. (1988). [A software package for sequential quadratic programming](http://degenerateconic.com/wp-content/uploads/2018/03/DFVLR_FB_88_28.pdf). *Tech. Rep. DFVLR-FB* 88-28, DLR German Aerospace Center – Institute for Flight Mechanics, Koln, Germany.
+- Wendorff, A., Botero, E., & Alonso, J. J. (2016). [Comparing Different Off-the-Shelf Optimizers' Performance in Conceptual Aircraft Design](http://adl.stanford.edu/papers/botero_wendorff.pdf). In *17th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference* (p. 3362).
+- Byrd, R. H., Hribar, M. E., & Nocedal, J. (1999). An interior point algorithm for large-scale nonlinear programming. *SIAM Journal on Optimization*, *9*(4), 877-900.
 
 ## The CVXOPT solution
 
@@ -63,11 +91,11 @@ The 'status' field has values 'optimal' or 'unknown'.
 
 ### Technical notes
 
-There is a report [The CVXOPT linear and quadratic cone program solvers](http://www.ee.ucla.edu/~vandenbe/publications/coneprog.pdf) (pdf) listed in its [technical documentation](https://cvxopt.org/documentation/index.html#technical-documentation). According to p. 11 of the report, QPs are solved using a **path-following algorithm** which is a kind of **interior-point algorithms**.
+There is a report [The CVXOPT linear and quadratic cone program solvers](http://www.ee.ucla.edu/~vandenbe/publications/coneprog.pdf) (pdf) listed in its [technical documentation](https://cvxopt.org/documentation/index.html#technical-documentation). According to p. 11 of the report, QPs are solved using a path-following algorithm which is a kind of interior-point algorithms.
 
 ## Test
 
-Helper functions
+Based on the discussion above, SLSQP is used for SciPy.
 
 ```python
 import time
@@ -187,11 +215,13 @@ print(f'scipy.optimize.minimize cost {time_sci:.2f}s, failed {count_sci_fail} ti
 
 ### Results
 
+**Note that we only used SLSQP method in SciPy**, while `trust-constr` is said to be the most appropriate for large-scale problems.
+
 It seems that 
 
 - CVXOPT tends to achieve negligibly higher loss.
-- CVXOPT runs significantly faster when dealing with large matrices.
-- SciPy may fail to converge with default parameters when dealing with large matrices.
+- CVXOPT runs significantly faster even when dealing with large matrices.
+- SLSQP does fail to converge with default parameters when dealing with large matrices. 
 
 ```
 In a test that randomly generates 1000 x 100 matrices Xs and other vectors for 100 times
