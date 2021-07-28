@@ -38,7 +38,7 @@ SciPy implements three methods to solve **general constrained minimization probl
 
 **Use COBYLA if there are non-smooth functions**
 
-COBYLA is an non-gradient based method based on linear approximations to the objective function and each constraint. The algorithm operates by evaluating the objective function and the constrains at the vertices of a trust region. See [here](https://cossan.co.uk/wiki/index.php/COBYLA) for a brief introduction.
+COBYLA is an non-gradient based method based on linear approximations to the objective function and each constraint. The algorithm operates by evaluating the objective function and the constrains at the vertices of a trust region. See [here](https://cossan.co.uk/wiki/index.php/COBYLA) for a brief introduction for COBYLA and [here](https://optimization.mccormick.northwestern.edu/index.php/Trust-region_methods) for trust region methods..
 
 > In general, the convergence of COBYLA is slower than that of gradient-based algorithms, i.e. more function evaluations are required to find the optimum. However, one of the salient features of COBYLA is its stability and the low number of parameters to be tuned for performing optimization.
 
@@ -50,11 +50,11 @@ The size of the problem should only be **moderately large** with $m \le p \le 20
 
 **Use trust-constr method for large-scale problems**
 
-See [here](https://optimization.mccormick.northwestern.edu/index.php/Trust-region_methods) for a brief introduction for trust region methods.
-
 > It is the most versatile constrained minimization algorithm implemented in SciPy and the most appropriate for large-scale problems. 
 
 For equality constrained problems it is an implementation of Byrd-Omojokun Trust-Region SQP method. When inequality constraints are imposed as well, it swiches to the trust-region interior point method described in *An interior point algorithm for large-scale nonlinear programming* (Byrd et al., 1999).
+
+Byrd et al. (1999) assume in the paper that first and second derivatives of the objective function and constraints are available, but their strategy can be extended to make use of quasi-Newton approximations. Their algorithm incorporates within the interior point method two powerful tools for solving nonlinear problems: sequential quadratic programming (SQP) and trust region techniques.
 
 **References**
 
