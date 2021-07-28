@@ -17,7 +17,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(6)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
-- [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(2)</font>
+- [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(3)</font>
 
 ## Posts
 
@@ -124,5 +124,6 @@ mathjax: true
 
 ### Tech
 
+- 2021-07-27 [Hands-on experience with a constrained least squares problem](https://shiina18.github.io/tech/2021/07/27/constrained-least-squares)
 - 2021-02-25 [密码技术简要](https://shiina18.github.io/tech/2021/02/25/cryptology)
 - 2020-12-31 [计算机网络简要](https://shiina18.github.io/tech/2020/12/31/computer-networks) <font color="lightgrey">(2021-06-08 updated)</font>
