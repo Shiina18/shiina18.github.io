@@ -6,6 +6,8 @@ comments: true
 mathjax: true
 ---
 
+主问题是个特别简单的凸优化问题, 找包调的时候顺便看了看 SciPy 处理一般带约束优化问题的不同算法的适用场景 (官方文档里并没有写得很明白). 主要讲调包, 没有数学.
+
 Consider the following quadratic programming (QP) problem, 
 
 $$
@@ -44,7 +46,7 @@ COBYLA is an non-gradient based method based on linear approximations to the obj
 
 **Use SLSQP for moderately large problems**
 
-Kraft (1988) claims that sequential quadratic programming is known as to be *the most efficient* computation method to solve the general nonlinear programming problem with **twice continuously differentiable** objective function and constraints. 
+Kraft (1988) claims that sequential quadratic programming is known as to be *the most efficient* computation method to solve the general nonlinear programming problem with **continuously differentiable** objective function and constraints. 
 
 The size of the problem should only be **moderately large** with $m \le p \le 200$, where $m$ (=1 in our case) is the number of equality and inequality constraints (with bounds excluded), and $p$ is the dimension of the variable to be optimized. Wendorff et al. (2016) reported in their case study that SLSQP is not able to be run in parallel making a problem with large number of design variables intractable.
 
