@@ -13,7 +13,7 @@ mathjax: true
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(25)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(8)</font>
-- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(6)</font>
+- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(7)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(6)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
@@ -95,6 +95,7 @@ mathjax: true
 
 ### Mathematics
 
+- 2021-08-05 [极简凸优化](https://shiina18.github.io/mathematics/2021/08/05/convex-optimizatino)
 - 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
 - 2020-06-14 [Refutation of an Article on Shuffling in TCG](https://shiina18.github.io/mathematics/2020/06/14/refutation-on-shuffling)
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
@@ -125,6 +126,6 @@ mathjax: true
 
 ### Tech
 
-- 2021-07-27 [Hands-on experience with a constrained least squares problem](https://shiina18.github.io/tech/2021/07/27/constrained-least-squares) <font color="lightgrey">(2021-07-28 updated)</font>
+- 2021-07-27 [Hands-on experience with a constrained least squares problem](https://shiina18.github.io/tech/2021/07/27/constrained-least-squares) <font color="lightgrey">(2021-08-05 updated)</font>
 - 2021-02-25 [密码技术简要](https://shiina18.github.io/tech/2021/02/25/cryptology)
 - 2020-12-31 [计算机网络简要](https://shiina18.github.io/tech/2020/12/31/computer-networks) <font color="lightgrey">(2021-06-08 updated)</font>

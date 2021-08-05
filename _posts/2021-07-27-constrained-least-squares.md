@@ -1,14 +1,14 @@
 ---
 title: "Hands-on experience with a constrained least squares problem"
 categories: Tech
-updated: 2021-07-28
+updated: 2021-08-05
 comments: true
 mathjax: true
 ---
 
-主问题是个特别简单的凸优化问题, 找包调的时候顺便看了看 SciPy 处理一般带约束优化问题的不同算法的适用场景 (官方文档里并没有写得很明白). 主要讲调包, 没有数学.
+讲调包. 主问题是个凸二次规划, 找包调的时候顺便调研了 SciPy 处理一般带约束优化问题的不同算法的适用场景 (官方文档里并没有写得很明白). 
 
-Consider the following quadratic programming (QP) problem, 
+An optimization problem with a quadratic objective function and linear constraints is called a quadratic program (QP). Consider the following (convex) QP, 
 
 $$
 \begin{align*}
@@ -49,6 +49,8 @@ COBYLA is an non-gradient based method based on linear approximations to the obj
 Kraft (1988) claims that sequential quadratic programming is known as to be *the most efficient* computation method to solve the general nonlinear programming problem with **continuously differentiable** objective function and constraints. 
 
 The size of the problem should only be **moderately large** with $m \le p \le 200$, where $m$ (=1 in our case) is the number of equality and inequality constraints (with bounds excluded), and $p$ is the dimension of the variable to be optimized. Wendorff et al. (2016) reported in their case study that SLSQP is not able to be run in parallel making a problem with large number of design variables intractable.
+
+SQP 的想法类似 Newton 法, 用二次规划问题近似原始问题, 近似问题的解作为新的迭代起点, 于是就求解了一系列二次规划, 故称为 sequential quadratic programming. 按照 Nocedal Numerical optimization 第 18 章, SQP 也可以求解大问题. 上面的说法可能是针对 Kraft 的那种实现而言 (我也不清楚).
 
 **Use trust-constr method for large-scale problems**
 
@@ -203,14 +205,9 @@ for _ in tqdm.tqdm(range(times)):
         print('SciPy failed')
     loss_sci = res_sci['fun']
 
-    is_cvx_better = loss_cvx <= loss_sci
-    # print(is_cvx_better, loss_cvx, loss_sci)
-    loss_relative_diff += (loss_cvx - loss_sci) / loss_sci
-    count += is_cvx_better
+    # print(loss_cvx, loss_sci)
 
 print(f'In a test that randomly generates {n} x {p} matrix X and other vectors for {times} times')
-print(f'CVXOPT achieved a better solution {count}/{times} times')
-print(f'CVXOPT averagely achieved {100 * loss_relative_diff / times:.8f}% higher loss')
 print(f'cvxopt.solvers.qp cost {time_cvx:.2f}s, failed {count_cvx_fail} times')
 print(f'scipy.optimize.minimize cost {time_sci:.2f}s, failed {count_sci_fail} times')
 ```
@@ -221,14 +218,12 @@ print(f'scipy.optimize.minimize cost {time_sci:.2f}s, failed {count_sci_fail} ti
 
 It seems that 
 
-- CVXOPT tends to achieve negligibly higher loss.
+- CVXOPT tends to achieve negligibly higher loss. This should be due to the default parameters for tolerance (duality gap) are different. It doesn't imply that CVXOPT is worse by any means.
 - CVXOPT runs significantly faster even when dealing with large matrices.
 - SLSQP does fail to converge with default parameters when dealing with large matrices. 
 
 ```
 In a test that randomly generates 1000 x 100 matrices Xs and other vectors for 100 times
-CVXOPT achieved a better solution 0/100 times
-CVXOPT averagely achieved 0.00002240% higher loss
 cvxopt.solvers.qp cost 1.06s, failed 0 times
 scipy.optimize.minimize cost 25.03s, failed 0 times
 ```
@@ -236,24 +231,18 @@ scipy.optimize.minimize cost 25.03s, failed 0 times
 ```
  60%|██████    | 18/30 [01:29<00:57,  4.76s/it]SciPy failed
 In a test that randomly generates 1000 x 300 matrices Xs and other vectors for 30 times
-CVXOPT achieved a better solution 2/30 times
-CVXOPT averagely achieved 0.00002022% higher loss
 cvxopt.solvers.qp cost 1.02s, failed 0 times
 scipy.optimize.minimize cost 145.52s, failed 1 times
 ```
 
 ```
 In a test that randomly generates 22 x 5 matrices Xs and other vectors for 5000 times
-CVXOPT achieved a better solution 1616/5000 times
-CVXOPT averagely achieved 0.00001793% higher loss
 cvxopt.solvers.qp cost 9.48s, failed 0 times
 scipy.optimize.minimize cost 5.80s, failed 0 times
 ```
 
 ```
 In a test that randomly generates 10000 x 1000 matrix X and other vectors for 5 times
-CVXOPT achieved a better solution 5/5 times
-CVXOPT averagely achieved -0.02020533% higher loss
 cvxopt.solvers.qp cost 3.13s, failed 0 times
 scipy.optimize.minimize cost 1316.03s, failed 5 times
 ```
