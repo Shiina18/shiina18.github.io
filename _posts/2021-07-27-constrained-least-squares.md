@@ -28,7 +28,11 @@ with
 
 The notation $\boldsymbol{1}_p$ stands for the $p\times 1$ vector $(1, \dots, 1)'$. The objection is equivalent to minimizing $\beta' X'X \beta - 2Y'X\beta$. 
 
-Here are two candidate solutions currently, a SciPy solution and a CVXOPT solution.
+Here are two candidate solutions for Python currently, a SciPy solution and a CVXOPT solution. On top of these, packages like [CVXPY](https://www.cvxpy.org/) for Python and **[oj! Algorithms](https://www.ojalgo.org/) for Java** ([QuadraticSolver](http://ojalgo.org/generated/org/ojalgo/optimisation/quadratic/QuadraticSolver.html)).
+
+> oj! Algorithms – ojAlgo – is Open Source Java code to do mathematics, linear algebra and optimisation. It's what you need for data science, machine learning and scientific computing.
+>
+>Optimisation (mathematical programming) tools including LP, QP and MIP solvers – again this is pure Java with zero dependencies.
 
 Side note: The vector $\beta$ can be viewed as a probability distribution over $p$ column vectors of $X$, and thus $X\beta$ is simply the expectation of the underlying random vector. This fact is not leveraged in the following post.
 
@@ -46,11 +50,11 @@ COBYLA is an non-gradient based method based on linear approximations to the obj
 
 **Use SLSQP for moderately large problems**
 
-Kraft (1988) claims that sequential quadratic programming is known as to be *the most efficient* computation method to solve the general nonlinear programming problem with **continuously differentiable** objective function and constraints. 
+Kraft (1988) claims that sequential quadratic programming (SQP) is known as to be *the most efficient* computation method to solve the general nonlinear programming problem with **continuously differentiable** objective function and constraints. 
 
 The size of the problem should only be **moderately large** with $m \le p \le 200$, where $m$ (=1 in our case) is the number of equality and inequality constraints (with bounds excluded), and $p$ is the dimension of the variable to be optimized. Wendorff et al. (2016) reported in their case study that SLSQP is not able to be run in parallel making a problem with large number of design variables intractable.
 
-SQP 的想法类似 Newton 法, 用二次规划问题近似原始问题, 近似问题的解作为新的迭代起点, 于是就求解了一系列二次规划, 故称为 sequential quadratic programming. 按照 Nocedal Numerical optimization 第 18 章, SQP 也可以求解大问题. 上面的说法可能是针对 Kraft 的那种实现而言 (我也不清楚).
+The idea of SQP is somewhat like Newton's method. SQP methods solve a sequence of optimization subproblems, each of which optimizes a quadratic model of the objective subject to a linearization of the constraints. According to Chapter 18 of Nocedal's numerical optimization book, SQP is also appropriate for large problems. Maybe the statement above only applies to Kraft's implementation (I don't know).
 
 **Use trust-constr method for large-scale problems**
 

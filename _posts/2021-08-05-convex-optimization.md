@@ -43,6 +43,8 @@ $$
 
 于是, $\operatorname{dom} f = \\{x \mid \tilde f(x) < \infty \\}$, 这样以后就不用再特意强调函数的定义域.
 
+符号 $\nabla f$ 为 $f$ 的梯度 (取为列向量), $\nabla^2 f$ 为 Hesse 矩阵. 右上角的 ' 指矩阵转置.
+
 ### 优化问题
 
 优化问题的一般形式
@@ -181,7 +183,9 @@ $$
 
 ### Newton 法: 无约束和等式约束问题
 
-想法是用二次函数逼近原来的目标函数. 替换后的问题很容易解析地求解, 而这个解又能作为原始问题解的估计...
+想法是在当且迭代点 $x_k$ 用二次函数逼近原来的目标函数. 替换后的问题很容易解析地求解, 而这个解 $x_k + \Delta x_k$ 又能作为原始问题解的估计. 记第 $k$ 次迭代的点为 $x_k$, 令 $x_{k+1} = x_k + \Delta x_k$.
+
+
 
 考虑无约束凸优化问题 $\min_x f(x)$. 假设 $\nabla^2 f(x)$ 存在且正定. 用二阶 Taylor 展开 $\hat f$ 逼近 $f$,
 
@@ -189,7 +193,7 @@ $$
 \hat f(x+v) = f(x) + \left(\nabla f(x)\right)' v + \frac12 v' \nabla^2 f(x) v,
 $$
 
-这是关于 $v$ 的凸二次函数, 当 $v = -\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)$ 时达到极小. 取这个 $v$ 作为 Newton 步 (迭代的更新方向) $\Delta x$, 则 $x+\Delta x$ 是 $\hat f$ 的极小值点, 也应该是 $f$ 最优解的很好的估计. 然后把 $x+\Delta x$ 作为上式的 $x$ 继续迭代...
+这是关于 $v$ 的凸二次函数, 当 $v = -\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)$ 时达到极小. 取这个 $v$ 作为 Newton 步 (迭代的更新方向) $\Delta x$, 则 $x+\Delta x$ 是 $\hat f$ 的极小值点, 也应该是 $f$ 最优解的很好的估计. 
 
 **另一种视角** 假设 $f$ 为凸且可微, 则 $x^*$ 是最优解的充要条件是 $\nabla f(x^*) = 0$. 这就把优化问题转化为了方程求根问题. 
 
@@ -202,6 +206,20 @@ $$
 取 $\Delta x = v = -\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)$ 作为 Newton 步, 则 $x+\Delta x$ 是 $x^*$ 很好的逼近.
 
 ![一维情况的图示](https://shiina18.github.io/assets/posts/images/20210803231324130_30739.png "一维情况的图示")
+
+**Newton decrement**
+
+$$
+\lambda(x) = \{(\nabla f(x))'\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)\}^{1/2}
+$$
+
+称为 Newton decrement, 因为
+
+$$
+f(x) - \inf_y \hat f(y) = f(x) - \hat f(x+\Delta x) = \frac12 \lambda(x)^2.
+$$
+
+于是 $\lambda/2$ 就是 $f(x) - p^*$ 的一个估计, 可以作为停止条件.
 
 ![](https://shiina18.github.io/assets/posts/images/20210805211913852_4013.png)
 
@@ -225,7 +243,7 @@ $$
 \end{align*}
 $$
 
-求解 KKT 条件
+求解 KKT 条件 (关于 $\Delta x$ 和 $\nu$ 的方程)
 
 $$
 \begin{align*}

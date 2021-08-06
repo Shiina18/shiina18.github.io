@@ -95,7 +95,7 @@ mathjax: true
 
 ### Mathematics
 
-- 2021-08-05 [极简凸优化](https://shiina18.github.io/mathematics/2021/08/05/convex-optimizatino)
+- 2021-08-05 [极简凸优化](https://shiina18.github.io/mathematics/2021/08/05/convex-optimization)
 - 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
 - 2020-06-14 [Refutation of an Article on Shuffling in TCG](https://shiina18.github.io/mathematics/2020/06/14/refutation-on-shuffling)
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
