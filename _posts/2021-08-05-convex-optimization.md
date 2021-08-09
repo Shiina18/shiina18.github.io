@@ -10,7 +10,7 @@ mathjax: true
 
 - Boyd, S., & Vandenberghe, L. (2004). *[Convex optimization](https://web.stanford.edu/~boyd/cvxbook/)*. Cambridge university press.
 
-凸优化最有名 (?) 且十分易读的教材, 附录有一些线性代数的回顾. 如果不打算全读, 个人建议只读每章开头的小节, 可以很快地理清脉络.
+凸优化最有名 (?) 且十分易读的教材, 附录有一些线性代数的回顾. 如果不打算全读, 只读每章开头的小节可以很快地理清脉络.
 
 <!-- more -->
 
@@ -187,7 +187,7 @@ $$
 
 
 
-考虑无约束凸优化问题 $\min_x f(x)$. 假设 $\nabla^2 f(x)$ 存在且正定. 用二阶 Taylor 展开 $\hat f$ 逼近 $f$,
+考虑无约束凸优化问题 $\min_x f(x)$. 假设 $\nabla^2 f(x)$ 存在且正定. 用二阶 Taylor 展开 $\hat f$ 近似 $f$,
 
 $$
 \hat f(x+v) = f(x) + \left(\nabla f(x)\right)' v + \frac12 v' \nabla^2 f(x) v,
