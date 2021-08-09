@@ -222,7 +222,7 @@ print(f'scipy.optimize.minimize cost {time_sci:.2f}s, failed {count_sci_fail} ti
 
 It seems that 
 
-- CVXOPT tends to achieve negligibly higher loss. This should be due to the default parameters for tolerance (duality gap) are different. It doesn't imply that CVXOPT is worse by any means.
+- CVXOPT tends to achieve negligibly higher loss. This should be due to different default parameters for convergence tolerance (duality gap). It doesn't imply that CVXOPT is worse by any means.
 - CVXOPT runs significantly faster even when dealing with large matrices.
 - SLSQP does fail to converge with default parameters when dealing with large matrices. 
 
