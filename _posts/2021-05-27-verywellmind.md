@@ -1,5 +1,5 @@
 ---
-title: "verywellmind 文章杂录"
+title: "Verywellmind 文章杂录"
 categories: Miscellanea
 updated: 
 comments: true

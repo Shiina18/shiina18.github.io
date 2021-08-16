@@ -1,7 +1,7 @@
 ---
 title: "动画资料杂录"
 categories: Anime
-updated: 2021-05-04
+updated: 2021-08-15
 comments: true
 mathjax: false
 ---
@@ -94,6 +94,7 @@ mathjax: false
 - [アニメ様の七転八倒 (小黒祐一郎)](http://www.style.fm/as/05_column/05_oguro_bn.shtml), 其中的 [Eva 杂记翻译](https://bgm.tv/subject/265/reviews/1.html) 
 - ["张力" 到底什么意思? 观众挂在嘴边, 我却一头雾水](https://zhuanlan.zhihu.com/p/96850338)
 - [所谓媚宅到底指什么呢? 它到底有什么坏处?](https://www.zhihu.com/question/263944167/answer/281518456)
+- [分辨率和画质](https://www.bilibili.com/read/cv12426909)
 
 ## 漫画
 

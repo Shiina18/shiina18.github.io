@@ -28,7 +28,7 @@ with
 
 The notation $\boldsymbol{1}_p$ stands for the $p\times 1$ vector $(1, \dots, 1)'$. The objection is equivalent to minimizing $\beta' X'X \beta - 2Y'X\beta$. 
 
-Here are two candidate solutions for Python currently, a SciPy solution and a CVXOPT solution. On top of these, packages like [CVXPY](https://www.cvxpy.org/) for Python and **[oj! Algorithms](https://www.ojalgo.org/) for Java** ([QuadraticSolver](http://ojalgo.org/generated/org/ojalgo/optimisation/quadratic/QuadraticSolver.html)).
+Here are two candidate solutions for Python currently, a SciPy solution and a CVXOPT solution. On top of these, there are packages like [CVXPY](https://www.cvxpy.org/) for Python and **[oj! Algorithms](https://www.ojalgo.org/) for Java** ([QuadraticSolver](http://ojalgo.org/generated/org/ojalgo/optimisation/quadratic/QuadraticSolver.html)).
 
 > oj! Algorithms – ojAlgo – is Open Source Java code to do mathematics, linear algebra and optimisation. It's what you need for data science, machine learning and scientific computing.
 >

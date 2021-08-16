@@ -14,7 +14,7 @@ mathjax: true
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(8)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(7)</font>
-- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(6)</font>
+- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(7)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(3)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(3)</font>
@@ -37,7 +37,7 @@ mathjax: true
 - 2020-09-07 [放浪男孩 第 5 话 对话演出分析](https://shiina18.github.io/anime/2020/09/07/houmu-e05)
 - 2020-09-05 [向山进发 第 3 季 第 10 话](https://shiina18.github.io/anime/2020/09/05/yamasusu-se03ep10)
 - 2020-07-31 [动画观赏随记 (多图)](https://shiina18.github.io/anime/2020/07/31/watching-anime) <font color="lightgrey">(2020-04-08 updated)</font>
-- 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2021-05-04 updated)</font>
+- 2020-07-11 [动画资料杂录](https://shiina18.github.io/anime/2020/07/11/anime-misc) <font color="lightgrey">(2021-08-15 updated)</font>
 - 2020-07-02 [关于《浪客剑心》的几句话](https://shiina18.github.io/anime/2020/07/02/about-kenshin)
 - 2020-06-16 [关于《向山进发》的几句话](https://shiina18.github.io/anime/2020/06/16/about-yamasusu) <font color="lightgrey">(2021-02-18 updated)</font>
 
@@ -105,7 +105,8 @@ mathjax: true
 
 ### Miscellanea
 
-- 2021-05-27 [verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
+- 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself)
+- 2021-05-27 [Verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)
 - 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
