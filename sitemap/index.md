@@ -86,7 +86,7 @@ mathjax: true
 
 - 2021-07-29 `NLP` [论文笔记: TPLinker 实体关系抽取](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker)
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
-- 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-07-26 updated)</font>
+- 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-08-16 updated)</font>
 - 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
 - 2020-08-15 `Time Series` [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
 - 2020-08-09 `Time Series` [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
@@ -110,7 +110,7 @@ mathjax: true
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)
 - 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
-- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2021-02-21 updated)</font>
+- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2021-08-22 updated)</font>
 - 2019-09-06 [一次阅读马拉松经历](https://shiina18.github.io/miscellanea/2019/09/06/reading-marathon)
 
 ### Reading

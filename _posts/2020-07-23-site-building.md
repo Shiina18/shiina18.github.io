@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated: 2021-02-21
+updated: 2021-08-22
 comments: true
 mathjax: false
 ---
@@ -23,6 +23,7 @@ mathjax: false
 - 关于暴露 client_secret 的问题, 参考这个 [issue](https://github.com/gitalk/gitalk/issues/150), 没有问题. (2020/12/19)
 - 关于网站 size limit, 参考 [这里](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages). 限制是 1GB, 带宽每月 100GB. 目前看来几年之内还不需要太节约空间, 另外如果把现在用的图片压缩一遍 (比如有每日限额的 [这里](https://compressor.io/) 和每日无限的 [这里](https://kraken.io/web-interface)), 大概可以扩容一倍; 另外另开一个 repo 专门存图也可以. (2020/12/24)
     - 另外, 缩小图片尺寸可以显著减小图片 (比如用 [这个工具](https://www.iloveimg.com/resize-image)). (2021/2/21)
+    - 发现了解决图片压缩和 resize 的免费软件 [RIOT](https://riot-optimizer.com/). (2021/8/22)
 - [gitalk 403 问题](https://cuiqingcai.com/30010.html), 解决办法是在 `gitalk.html` 里新建一个属性 proxy, 再在 `_config.yml` 中填入可用的 proxy. (2021/2/18)
 
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.

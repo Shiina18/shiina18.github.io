@@ -11,8 +11,7 @@ Last updated on 2021-03-22
 
 ## Notes
 
-- 2020/6/4 [Solutions to Selected Problems in Time Series
-Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Problems%20in%20Time%20Series%20Analysis.pdf)
+- 2020/6/4 [Solutions to Selected Problems in Time Series Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Problems%20in%20Time%20Series%20Analysis.pdf)
 
 This document contains solutions to selected problems in Brockwell, P. J., Davis, R. A., and Fienberg, S. E. (1991). *Time series: theory and methods*. Springer Science & Business Media.
 
@@ -27,10 +26,6 @@ This document contains solutions to selected problems in Brockwell, P. J., Davis
 - [Author and Reviewer Tutorials](https://www.springer.com/cn/authors-editors/authorandreviewertutorials)
 
 Springer 上的作者和审稿人教程, 非常棒. 有中文版. ~~施普林格, 永远的神.~~ (2020/6/11)
-
-- [User guide: contents — scikit-learn 0.23.1 documentation](https://scikit-learn.org/stable/user_guide.html)
-
-Sklearn 的用户指南, 有些 topic 其实写得特别好, 比如 [GBDT](https://scikit-learn.org/stable/modules/ensemble.html#gradient-tree-boosting). (2020/6/10)
 
 - [2DI70 - Statistical Learning Theory Lecture Notes](https://www.win.tue.nl/~rmcastro/2DI70/files/2DI70_Lecture_Notes.pdf)
 
