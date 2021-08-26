@@ -6,6 +6,8 @@ comments: true
 mathjax: true
 ---
 
+[第二篇杂录](https://shiina18.github.io/tech/2021/08/26/python-misc-2/) 侧重最佳实践.
+
 ## 上下文管理器
 
 2021/7/16
@@ -27,6 +29,8 @@ dy_dx = tape.gradient(y, x)
 
 如名字所示, tape 表示它像一个磁带, 记录前馈操作, 之后取出磁带反向传播. [源码](https://github.com/tensorflow/tensorflow/blob/a4dfb8d1a71385bd6d122e4f27f86dcebb96712d/tensorflow/python/eager/backprop.py#L847-L874) 中实现的 `__enter__` 和 `__exit__` 方法正是如此.
 
+<!-- more -->
+
 ## Codetags
 
 2020/10/23
@@ -34,8 +38,6 @@ dy_dx = tape.gradient(y, x)
 > Programmers widely use ad-hoc code comment markup conventions to serve as reminders of sections of code that need closer inspection or review. Examples of markup include `FIXME`, `TODO`, `XXX`, `BUG`, but there many more in wide use in existing software.
 
 参考 [PEP 350 -- Codetags \| Python.org](https://www.python.org/dev/peps/pep-0350/#references)
-
-<!-- more -->
 
 ## 'import module' vs. 'from module import function'
 

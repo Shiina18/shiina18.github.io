@@ -29,6 +29,7 @@ nohup COMMAND [ARGS]
 
 ```
 nohup python xxx.py -blahblah &
+nohup sh xxx.sh -blahblah &
 ```
 
 默认把输出保存在当前目录的 `nohup.out` 文件中. 最后加上 `&` 使命令立刻在后台运行 (书 Putting a Process in the Background 一节), 会返回一个 pid, 如果忘了也能用 `ps` 查看.
@@ -46,22 +47,6 @@ tail -f nohup.out
 - [Linux Nohup Command \| Linuxize](https://linuxize.com/post/linux-nohup-command/)
 - [tail(1) - Linux manual page](https://man7.org/linux/man-pages/man1/tail.1.html)
 
-## 运行脚本
-
-在运行脚本前修改权限 (书 Executable Permissions 一节).
-
-```
-chmod 755 script_filename
-```
-
-权限分三组, owner, group, world, 每组三个权限 rwx (read 4, write 2, execute 1), 用二进制表示则 7 就是 rwx, 5 是 r-x.
-
-然后 for the script to run, we must precede the script name with an explicit path, 原因见书 Script File Location 一节.
-
-```
-./script_filename
-```
-
 ## 监控显存
 
 ```
@@ -72,11 +57,48 @@ watch -n 1 -d nvidia-smi
 
 参考 [Linux Watch Command \| Linuxize](https://linuxize.com/post/linux-watch-command/)
 
+## 运行脚本
+
+在运行脚本前修改权限 (书 Executable Permissions 一节).
+
+```
+chmod 755 script_filename
+```
+
+权限分三组, owner, group, world, 每组三个权限 rwx (read 4, write 2, execute 1), 用二进制表示再写为十进制, 则 7 (111) 就是 rwx, 5 (101) 是 r-x.
+
+然后 for the script to run, we must precede the script name with an explicit path, 原因见书 Script File Location 一节.
+
+```
+./script_filename
+```
+
+## 输出到文件
+
+参考书 Redirecting Standard Output and Standard Error to One File 一节
+
+```
+blahblah > output_filename.log 2>&1
+```
+
+We redirect file descriptor 2 (standard error) to file descriptor 1 (standard output) using the notation `2>&1`. The redirection of standard error must always occur *after* redirecting standard output or it doesn't work, 即 `2>&1 > output_filename.log` 无效.
+
+Recent versions of bash provide a second, more streamlined method for performing this combined redirection shown here
+
+```
+blahblah &> output_filename.log
+blahblah &>> output_filename.log
+```
+
+第二行是 append.
+
 ## 传输文件
 
 ```
 scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2
 ```
+
+用 `-r` recursively 传输文件夹.
 
 参考 [How to Use SCP Command to Securely Transfer Files \| Linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
@@ -97,9 +119,10 @@ Cheatsheet
 ```
 docker-compose build
 docker-compose stop
+docker-compose up
 docker-compose up -d
 ```
 
-其中 `-d` (`--detach`) Detached mode: Run containers in the background, print new container names.
+先用 `up` 确认没有问题, 再用 `-d` (`--detach`) Detached mode: Run containers in the background, print new container names.
 
 另外参考 [What’s the difference between `up`, `run`, and `start`?](https://docs.docker.com/compose/faq/#whats-the-difference-between-up-run-and-start)
