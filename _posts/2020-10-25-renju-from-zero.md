@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2021-06-09
+updated: 2021-09-03
 comments: true
 mathjax: false
 ---
@@ -56,6 +56,7 @@ mathjax: false
     - [蜗牛连珠](https://www.wind23.com/gomokuai.html): 手机 app. 主要好处是支持无禁手 AI 计算. 作者郝天一, 五子棋专业四段, 清华姚班, CS PhD. 实际用下来, 选点比弈心菜了不少, 但思路仍然值得初学者学习.
     - [弈心](https://www.aiexp.info/pages/yixin.html): 作者孙锴, 上交 CS 本, Cornell CS PhD. 在 katago 和 embryo 出现前是无敌的 AI.
     - [Embryo](https://github.com/Hexik/Embryo_engine). 如果设备跑不动 katago 的话就只能选择这个了. 另外还有基于 embryo 的制谱器, 可以在 QQ 群获取.
+    - [Katago](https://www.bilibili.com/read/cv10402376). 乱杀奕心, 现在普通配置的电脑也跑得动. (2021/8/29)
 
 ## 网上资源
 
@@ -75,6 +76,7 @@ mathjax: false
     - 虽然推荐, 励精还是有恶心人的地方, 比如 [连珠兵法战术](http://www.ljrenju.com/croom/kjjj/r4.htm) 一文大量直接翻译自 [河村九段初级讲座第二回「连攻」](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner/), 却没有给出任何 credit (只提到了一句 "河村典彦先生首推山形为进攻做二的最佳结构"). 类似地, 定式大概也是翻译自日语 (有些甚至还留着原文), 但是没有给出任何 references; 定式的年代也不清楚, 因为定式会翻新, 不知道是老定式还是新定式不利于初学者获得正确的知识. 最讽刺的是, 他在页脚写道 "励精付出精力, 请勿转载翻版", 自己却一点也没有这样的意识, 这种行为对信息传播非常不利.
 - [587 连珠](http://587.renju.org.tw/). 很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. 作者是台湾顶尖棋手林書玄. 
 - [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章.
+- [連珠雑記](https://renjuvarious.hatenablog.jp/). 日本棋手博客, 有不少实用习题讲解等. (2021/9/3)
 
 ### 其他资源
 

@@ -1,7 +1,7 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-05-25
+updated: 2020-09-11
 comments: true
 mathjax: false
 ---
@@ -12,6 +12,100 @@ mathjax: false
 - [Oxford](https://www.lexico.com/), [Merriam-Webster](https://www.merriam-webster.com/), [Collins](https://www.collinsdictionary.com/). 我用得最多的三个字典, "网易有道词典" 整合了它们, 也是极其好用的 app.
 
 <!-- more -->
+
+## It won't work.
+
+2021/9/11
+
+```
+shiina (github.com/shiina18) — Yesterday at 11:30 PM
+Unrelated random question: which one is the most frequently used? Is there any difference between them?
+1. The shower won't work.
+2. The shower doesn't work.
+3. The shower isn't working.
+
+raics — Yesterday at 11:47 PM
+I'd say that 2 and 3 are more common than 1, and there's a small difference if you want to be pedantic. When you say "isn't working", it means at that moment and you're unsure of its general condition, and it would be more proper to say "doesn't work" when something is known to be broken
+But I don't think many would think too much about it and would just use whatever first comes to mind, it's better to explain what exactly is the case than count on the other guy to catch the difference and assume that's exactly what you meant
+If you want an example, if you came to someone's place and turned on the shower you would say 'The shower isn't working' and the other guy would go 'Yeah, the shower doesn't work here'.
+
+shiina (github.com/shiina18) — Today at 12:47 AM
+thanks for reply lol
+this time (1) came to my mind at the first place while someone who doesn't know much about modal verbs thought I was talking about it in future tense. It then just made me wonder if there is any difference between those expressions.
+
+raics — Today at 1:05 AM
+About 1, "won't" implies that the thing we're talking about possesses a will, but it's used for inanimate objects as an idiom because we sometimes like to think they have a will of their own and are refusing to cooperate just to spite us :slight_smile:
+So, you would use 1 in something like "Even if I make defensive classes stronger, Timmy won't use them because dps is fun", and it can be used for present and future events. If we're talking about the shower the present is something like "I'm trying, but the shower won't work", or in future form as "Even if I change the valve, the shower won't work", for past event you use would instead, as "No matter what I tried, the shower wouldn't work"
+
+Moody — Today at 1:20 AM
+I would say for 
+1. There is an implied frustration in the tone (it sounds like what a young child might say to a parent). The reason for this is won't implies agency to the shower, like how a child might blame an object rather than think for a solution.
+
+2. This is a strong claim implying an expectation that it won't suddenly fix itself
+
+3. This has more of a sense that it might be quickly resolved.
+Anyway enough nonsense about modal verbs. Language is use. It's all about how it makes you feel
+
+LoliSauce — Today at 1:35 AM
+interestingly, 1 and 3 are the ones you'd hear most commonly in the western and central US.
+
+Gui — Today at 1:37 AM
+1 only makes sense if you're using it to answer a question or if you give it some explanation beforehand
+
+LoliSauce — Today at 1:37 AM
+well, not necessarily
+it's very common to personify inanimate objects
+
+Gui — Today at 1:38 AM
+3 implies a specific time-frame
+
+LoliSauce — Today at 1:38 AM
+and yeah, 3 is definitely an "in the moment" kind of response
+
+Gui — Today at 1:38 AM
+It's also wrong tho
+
+LoliSauce — Today at 1:39 AM
+right and wrong are often subjective to the region's local language quirks and the context it was said in
+correctness in language is something that's hard to pin down because it's always changing
+
+Gui — Today at 1:40 AM
+"The shower will not work" when there's nothing implying that it will work makes no sense
+
+LoliSauce — Today at 1:40 AM
+like I said, it's personification
+both a literary device for emphasis and just something people will say in frustration, as if it DID have a will to not work
+wish I wasn't getting ready for work right now, I'd love to chat about language more
+
+Gui — Today at 1:43 AM
+The other 2 you imply they do work
+"Isn't" implies it was working before
+"Doesn't" can mean anything
+"Won't" is future only
+Well see you later then
+
+Blue Moon Seraph — Today at 4:23 AM
+I mean if you have a shower, the expectation is that it will work. If you're trying to make it work, but it's not working, you might say "it won't work" not as a personification but more in the sense that you've tried to fix it but it's still not working. Definitely shows frustration.
+"the shower doesn't work" is more just an acceptance of the fact it is not in a usable state. It didn't before. It doesn't now.
+"the shower isn't working" is basically a frustration moment in that you tried to turn it on, but then water doesn't come out. This comes off more as an in the moment thing before you've given up.
+
+1 and 3 are basically the same. 1 leaning into frustration and implies efforts have been taken to make it work. 3 leaning into pseudo-surprise and minimal efforts have been taken to fix it.
+There are more very particular differences in meaning and tense, but for usage, that's about it.
+
+Gui — Today at 4:57 AM
+And the 3 phrases are just past/present/future
+I'm trying and it isn't working
+I tried and it didn't work
+If i try it won't work
+You shouldn't talk in the future unless you're answering a question or something similar so that's just wrong
+
+Gui — Today at 5:02 AM
+People saying it doesn't make it right because that's ultimately a logical fallacy
+Like talking in 3rd person
+It only makes it socially acceptable
+```
+
+
 
 ## 限制性定语从句
 
