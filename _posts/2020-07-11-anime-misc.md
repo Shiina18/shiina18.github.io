@@ -95,6 +95,7 @@ mathjax: false
 - ["张力" 到底什么意思? 观众挂在嘴边, 我却一头雾水](https://zhuanlan.zhihu.com/p/96850338)
 - [所谓媚宅到底指什么呢? 它到底有什么坏处?](https://www.zhihu.com/question/263944167/answer/281518456)
 - [分辨率和画质](https://www.bilibili.com/read/cv12426909)
+- [【动画业界】关于动画制作中的纸上作画和数码作画](https://www.bilibili.com/video/BV1E64y1M78r)
 
 ## 漫画
 

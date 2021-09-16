@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录 2: 最佳实践"
 categories: Tech
-updated: 
+updated: 2021-09-13
 comments: true
 mathjax: false
 ---
@@ -16,7 +16,7 @@ mathjax: false
 
 - `import` statements search through the list of paths in `sys.path`.
 - `sys.path` always includes the path of the script invoked on the command line and is agnostic to the working directory on the command line.
-- importing a package is conceptually the same as importing that package’s `__init__.py` file. 一些例子: [`scikit-learn/sklearn/linear_model/__init__.py`](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/linear_model/__init__.py)
+- importing a package is conceptually the same as importing that package’s `__init__.py` file. 一些例子: [`scikit-learn/sklearn/linear_model/__init__.py`](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/linear_model/__init__.py), 在 linear_model 文件夹中定义了很多私有 py 文件, 最后将 linear_model 作为模块导入, 把要用的东西塞在 init 文件里供调用.
 
 关于从别的文件夹导入
 
@@ -60,6 +60,20 @@ if has_failed() and config["vrebose"]:  # typo will show only on failure
 - It should be declared close to where it is used.
 
 另外顺便一提, 关于项目组织结构, 当年给我启蒙的是 [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). 虽然没有用它的包, 但是大致结构参考了它的.
+
+补充 (2021/9/13) : Python 3.4 的 enum 好像也能做到类似的事情, 参考 [http.HTTPStatus 的实现](https://github.com/python/cpython/blob/3.9/Lib/http/__init__.py), 非常巧妙. 注意到 [enum 的源码](https://github.com/python/cpython/blob/3.9/Lib/enum.py#L792) 中有这么一段, http 的实现里是在类中定义 `_value_` 最后再以 `value` 访问.
+
+```python
+@DynamicClassAttribute
+def name(self):
+    """The name of the Enum member."""
+    return self._name_
+
+@DynamicClassAttribute
+def value(self):
+    """The value of the Enum member."""
+    return self._value_
+```
 
 ## logging
 
