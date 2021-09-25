@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录 2: 最佳实践"
 categories: Tech
-updated: 2021-09-13
+updated: 2021-09-25
 comments: true
 mathjax: false
 ---
@@ -77,7 +77,7 @@ def value(self):
 
 ## logging
 
-主要参考 [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/), 现在自用的代码也基本抄的这个. 此外, [Python logging 较佳实践](https://zhuanlan.zhihu.com/p/275706374) 这篇也可以.
+主要参考 [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/), 现在自用的代码也基本抄的这个. 此外, [Python logging 较佳实践](https://zhuanlan.zhihu.com/p/275706374) 这篇也可以. 基础从略.
 
 配置文件 `log_config.json`
 
@@ -162,14 +162,73 @@ logger = logging.getLogger(__name__)
     - my_module.py
 ```
 
-其中 `logging.getLogger(name=__name__)` 表示获取名为 `__name__` 的 logger. 对于 my_module.py, `__name__` 为 utils.my_module, 对应 formatter 中的 %(name)s, 而 %(module)s 则为 my_module.
+其中 `logging.getLogger(name=__name__)` 表示获取 **名 (name)** 为 `__name__` 的 logger. 对于 my_module.py, `__name__` 为 utils.my_module (等价于 `logging.getLogger('utils.my_module')`), 对应 formatter 中的 %(name)s, 而 %(module)s 则为 my_module.
 
-上面的配置定义了名为 root 和 utils 的 logger. 不同的 logger 之间存在树状的层次关系, 根部名为 root, 形如 utils.my_module 的 logger (上面没有定义, 但可以定义) 的父节点是 utils, 而 utils 的父节点是 root. 如果 utils 的 propagate 为 true, 则除了这个 utils logger 配置的 handlers, 它还会把信息交给父节点 root logger 配置的 handlers, 详情参见 [logger 和 handler 的关系](https://docs.python.org/3/howto/logging.html#logging-flow). 
+上面的配置定义了名为 root 和 utils 的 logger. 不同的 logger 之间存在树状的层级关系, 根部名为 root, 名字形如 utils.my_module 的 logger (上面没有定义, 但可以定义) 的父结点是名为 utils 的 logger, 而 utils 的父结点是 root. 如果 utils 的 propagate 为 true, 则除了这个 utils logger 配置的 handlers, 它还会把信息交给 (propagate, 默认为 true) 父结点 root logger 的 handlers, 详情参见 [logger 和 handler 的关系](https://docs.python.org/3/howto/logging.html#logging-flow). 
 
-对于 my_module 而言, `logging.getLogger(name=__name__)` 获取名为 utils.my_module 的 logger, 因为没有配置, 所以将信息交给父节点 utils logger 的 handlers, 由于 utils 的 propagate 为 false, utils logger 的 handlers 处理完之后并不会把信息再交给 root logger 的 handlers.
+> Child loggers propagate messages up to the handlers associated with their ancestor loggers. Because of this, it is unnecessary to define and configure handlers for all the loggers an application uses. It is sufficient to configure handlers for a top-level logger and create child loggers as needed.
 
-原始帖子里的 root logger 的 console handler 会输出 debug 信息, 而有些第三方模块的 debug 信息太多了, 所以上面把 console handler 的级别改成了 info. 上面定义的 utils logger 只会输出自己定义的 debug 信息, 而不会输出第三方库的 debug 信息 (除非第三方库的名字恰好可以 propagate 到自己定义的 logger). 
+对于 my_module 而言, `logging.getLogger(__name__)` 获取名为 utils.my_module 的 logger. 因为没有配置同名 logger,  propagate 默认为 true, 所以将信息交给父结点 utils logger 的 handlers. 由于 utils 的 propagate 为 false, utils logger 的 handlers 处理完之后并不会把信息再交给父结点 root logger 的 handlers.
 
-比如 [kafka.producer.kafka 的源码](https://kafka-python.readthedocs.io/en/master/_modules/kafka/producer/kafka.html#KafkaProducer), 在开头定义 `log = logging.getLogger(__name__)`, 可以参考它正文的 log 写法.
+原始帖子里的 root logger 的 console handler 会输出 debug 信息, 而有些第三方模块的 debug 信息太多了, 所以上面把 console handler 的级别改成了 info. 上面定义的 utils logger 只会输出自己 utils 文件夹中模块定义的 debug 信息, 而不会输出第三方库的 debug 信息 (除非第三方库的名字恰好可以 propagate 到自己定义的 logger). 
+
+比如 [kafka.producer.kafka 的源码](https://kafka-python.readthedocs.io/en/master/_modules/kafka/producer/kafka.html#KafkaProducer) 和 [kafka.conn 的源码](https://github.com/dpkp/kafka-python/blob/f19e4238fb47ae2619f18731f0e0e9a3762cfa11/kafka/conn.py), 在开头定义 `log = logging.getLogger(__name__)`, 可以参考它正文的 log 写法.
 
 另外有篇巨长的文章 [Python Logging Guide – Best Practices and Hands-on Examples](https://coralogix.com/blog/python-logging-best-practices-tips/) 还没读.
+
+### 更多自定义
+
+2021/9/25
+
+根据日志格式要求自定义, 在一堆以竖线分隔的信息最后, 用 JSON 格式输出其他信息, 例如
+
+```
+2021-09-25 12:06:42.736|INFO|MainProcess-10960|7|module_dir.random_module:{"message": "Json format"}
+2021-09-25 12:06:42.737|ERROR|MainProcess-10960|21|__main__:
+{"message": "233", "exc_info": "Traceback (most recent call last):\n  File \"D:\\PycharmProjects\\DemoLogger\\main.py\", line 19, in <module>\n    1 / 0\nZeroDivisionError: division by zero"}
+```
+
+```python
+# configs/__init__.py
+import json
+import logging
+
+
+class JsonMessageFormatter(logging.Formatter):
+    def format(self, record):
+        message_dict = {'message': record.getMessage()}
+        if self.usesTime():
+            record.asctime = self.formatTime(record, self.datefmt)
+        s = self.formatMessage(record)
+        if record.exc_info:
+            if not record.exc_text:
+                record.exc_text = self.formatException(record.exc_info)
+        if record.exc_text:
+            if s[-1:] != "\n":
+                s = s + "\n"
+            message_dict['exc_info'] = record.exc_text
+        if record.stack_info:
+            if s[-1:] != "\n":
+                s = s + "\n"
+            message_dict['stack_info'] = self.formatStack(record.stack_info)
+        return s + json.dumps(message_dict)
+```
+
+配置方法参考 [官方文档](https://docs.python.org/3/library/logging.config.html#user-defined-objects). 在配置文件的 formatters 中加入
+
+```json
+"json": {
+  "()": "configs.JsonMessageFormatter",
+  "format": "%(asctime)s.%(msecs)03d|%(levelname)s|%(processName)s-%(process)d|%(lineno)s|%(name)s:",
+  "datefmt": "%Y-%m-%d %H:%M:%S"
+}
+```
+
+在 handlers 中需要的地方将 formatter 替换为 "json". 在主程序中 `import configs`, 详见 [示例](https://github.com/Shiina18/DemoLogger).
+
+下面是一些暂时没有用到的自定义例子.
+
+- Masnun. (2015, Nov 4). [Python: writing custom log handler and formatter](https://masnun.com/2015/11/04/python-writing-custom-log-handler-and-formatter.html) [Blog post]. *Abu Ashraf Masnun*.
+- Ward. B. (2018, Sep 1). [Python Custom Logging Handler Example](https://dzone.com/articles/python-custom-logging-handler-example). *DZone*.
+
+此外还有一个专门的库 [python-json-logger](https://github.com/madzak/python-json-logger), 不过这次用不到.
