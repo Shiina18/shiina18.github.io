@@ -97,3 +97,5 @@ Last Updated on 2021-10-09
 - [Math Pages](https://mathpages.com/)
 - [Using your Head is Permitted](https://www.brand.site.co.il/riddles/usingyourhead.html). Interesting riddles.
     - 2011-03 [Lights-Out](https://www.brand.site.co.il/riddles/201103q.html)
+
+<script type="text/javascript" src="http://www.douban.com/service/badge/171432596/?selection=favorite&amp;picsize=small&amp;show=collection&amp;n=6&amp;cat=book&amp;columns=3"></script>
