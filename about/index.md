@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2021-09-26
+Last Updated on 2021-10-09
 
 休闲向博客, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
 
@@ -20,14 +20,26 @@ Last Updated on 2021-09-26
 
 各平台文章均不重复, 不会搬运于本博客.
 
-- 有输出
-    - 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
-    - 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
-- 无输出
-    - 豆瓣: [Rick](https://www.douban.com/people/171432596/)
-    - bangumi: [Dr. Boom](https://bgm.tv/user/388505)
-    - 微博: [195_463](https://weibo.com/p/1005053891982912/home?profile_ftype=1&is_all=1#_0)
-    - Instagram: [shiina_1418](https://www.instagram.com/shiina_1418/)
+
+- 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
+    - 2018-04-11 [甄姬洛神后闪电判定是否更容易命中?](https://www.zhihu.com/question/270563020/answer/363874639)
+    - 2019-11-07 [条件方差公式的直观解释?](https://www.zhihu.com/question/38726155/answer/885319771)
+    - 2019-11-26 [一类双指针贪心法的证明 -- 以 LeetCode 11, 16 为例](https://zhuanlan.zhihu.com/p/93808593)
+    - 2020-08-12 [关于 Facebook Prophet 中 future changepoints 的一个脚注](https://zhuanlan.zhihu.com/p/181708348)
+    - 2021-01-16 [为什么熵值最大的分布状态是正态分布而不是均匀分布?](https://www.zhihu.com/question/357032828/answer/907586249)
+- 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
+    - 2018-09-05 [随笔｜名推理期望问题大结局](https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA)
+    - 2020-03-05 [洗牌的一点数学](https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw)
+    - 2020-08-04 [KTS 的瑞士轮算分机制 (增补)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
+    - 2021-01-01 [黄焖是什么意思?](https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw)
+    - 2021-01-13 [轮抽卡池怎么洗?](https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA)
+    - 2021-02-02 [复盘一把简单却曲折的五子棋对局](https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg)
+    - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
+    - 2021-06-24 [上海动物园游记](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)
+- 豆瓣: [Rick](https://www.douban.com/people/171432596/)
+- bangumi: [Dr. Boom](https://bgm.tv/user/388505)
+- 微博: [195_463](https://weibo.com/p/1005053891982912/home?profile_ftype=1&is_all=1#_0)
+- Instagram: [shiina_1418](https://www.instagram.com/shiina_1418/)
 
 ## Blogroll
 
@@ -56,13 +68,15 @@ Last Updated on 2021-09-26
     - [讲义和勘误](http://homepage.fudan.edu.cn/jgying/resources/) 风格简明, 甚是喜欢
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
+- [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) ([旧网址](http://pywonderland.com/)). by 赵亮. `数学`
+- [Benkuhn](https://www.benkuhn.net/). `杂谈`
+    - 2020-02 [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 - [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学` 时隔多年回归
 - [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
-- [pywonderland](http://pywonderland.com/). by 赵亮. `数学`
 - [SinanTalk](https://sinantang.github.io/). `杂谈`
 - [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
     - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
