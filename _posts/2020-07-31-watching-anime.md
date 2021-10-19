@@ -1,7 +1,7 @@
 ---
 title: "动画观赏随记 (多图)"
 categories: Anime
-updated: 2020-04-08
+updated: 2021-04-08
 comments: true
 mathjax: false
 ---
