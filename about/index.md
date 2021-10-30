@@ -7,25 +7,15 @@ mathjax: false
 
 Last Updated on 2021-10-09
 
-休闲向博客, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 
-
-和其他博客不同的一点是, 本站很多博文会不定期更新, 并标有相应的时间戳.
-
-- [网站目录](https://shiina18.github.io/sitemap/)
-- [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building/)
-
-感谢您的来访.
+在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
 
 ## 社交账号
 
 各平台文章均不重复, 不会搬运于本博客.
 
-
 - 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
     - 2018-04-11 [甄姬洛神后闪电判定是否更容易命中?](https://www.zhihu.com/question/270563020/answer/363874639)
     - 2019-11-07 [条件方差公式的直观解释?](https://www.zhihu.com/question/38726155/answer/885319771)
-    - 2019-11-26 [一类双指针贪心法的证明 -- 以 LeetCode 11, 16 为例](https://zhuanlan.zhihu.com/p/93808593)
-    - 2020-08-12 [关于 Facebook Prophet 中 future changepoints 的一个脚注](https://zhuanlan.zhihu.com/p/181708348)
     - 2021-01-16 [为什么熵值最大的分布状态是正态分布而不是均匀分布?](https://www.zhihu.com/question/357032828/answer/907586249)
 - 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
     - 2018-09-05 [随笔｜名推理期望问题大结局](https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA)
@@ -42,8 +32,6 @@ Last Updated on 2021-10-09
 - Instagram: [shiina_1418](https://www.instagram.com/shiina_1418/)
 
 ## Blogroll
-
-排名不分先后. 附博客 description, 作者昵称和大致内容标签. 也会列出部分我喜欢的博文.
 
 ### 依然活跃
 

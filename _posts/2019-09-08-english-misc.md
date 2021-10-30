@@ -1,7 +1,7 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-09-11
+updated: 2020-10-27
 comments: true
 mathjax: false
 ---
@@ -10,8 +10,102 @@ mathjax: false
 
 - [Vocabulary.com](https://www.vocabulary.com/). 释义有趣, 例句分领域.
 - [Oxford](https://www.lexico.com/), [Merriam-Webster](https://www.merriam-webster.com/), [Collins](https://www.collinsdictionary.com/). 我用得最多的三个字典, "网易有道词典" 整合了它们, 也是极其好用的 app.
+- [Longman](https://www.ldoceonline.com/) 的特色是可以看搭配.
 
 <!-- more -->
+
+## 主谓一致
+
+2021/10/27
+
+比如 [这里](https://ludwig.guru/s/are+one+of+the+most) 的句子.
+
+> Camels are one of the most unique mammals on earth.
+
+疑问在于, one of 看似前面应该和单数对应. 我自己写会写成 "The camel is one of ...". 可以参考 [singular vs plural - Why 'one of the... ' in this sentence uses 'are' instead of 'is'? - English Language Learners Stack Exchange](https://ell.stackexchange.com/questions/186577/why-one-of-the-in-this-sentence-uses-are-instead-of-is). 首先满足主谓一致, 把主语看成一个集体, 最后表语无需一致.
+
+```
+Blue Moon Seraph — 10/27/2021
+The subjects are plural as are the verbs they're attached to.
+
+A plural item can be considered as a group to be one thing. So sometimes you'll have what sounds like a plural subject with a singular verb, which is called a collective noun. Think like "class". The class is going. Class is made up of many individuals. Though in British English, collective nouns are often treated differently than in American English.
+
+Now for the part that you're specifically asking about. You have the plural subject being attached to a description using a linking verb (are), so the second part is actually being used as an adjective (one of - - -). It makes sense because everything inside the grouped noun (transition sentences) are being described as keys, but there are multiple other keys, so they are one key of many.
+```
+
+雯姐提供了很有意思的一个问题 "My favorite fruit..." 补充完整, 参考 
+
+- [Vocabulary: concord: my favourite fruit is/ are.... \| Article \| Onestopenglish](https://www.onestopenglish.com/ask-the-experts/vocabulary-concord-my-favourite-fruit-is/-are-/146417.article)
+- [uncountable nouns - My favorite fruit is grape/grapes - English Language Learners Stack Exchange](https://ell.stackexchange.com/questions/161456/my-favorite-fruit-is-grape-grapes).
+
+```
+shiina (github.com/shiina18) — 10/27/2021
+Then
+- My favorite fruit is apple.
+- My favorite fruit is the apple.
+- My favorite fruit is apples.
+- My favorite fruit are apples.
+- My favorite fruits are apples.
+which is/are acceptable?
+
+dn — 10/27/2021
+technically all of them, i think. but contextal nuance would determine which you use.
+
+Blue Moon Seraph — 10/27/2021
+My favorite fruit is apple. (this one treats apple as a broad category) 
+My favorite fruit is apples. (this one is close to wrong, but would be acceptable) 
+My favorite fruit are apples. (this one treats fruit as a collective noun, which is fine.) 
+
+All 5 are broadly acceptable.
+```
+
+额外一个问题
+
+> This is one of the novels that has/have made a mark in my life,
+
+参考 
+
+- [Singular or Plural Verbs with 'One of The' \| Grammar Girl](https://www.quickanddirtytips.com/education/grammar/singular-or-plural-verbs-with-one-of-the)
+- [determiners - Is the use of "one of the" correct in the following context? - English Language Learners Stack Exchange](https://ell.stackexchange.com/questions/15995/is-the-use-of-one-of-the-correct-in-the-following-context).
+
+## Interest or interests
+
+2021/10/26
+
+EMNLP2021 [这篇文章](https://arxiv.org/pdf/2109.06705.pdf) 摘要前两句话就一堆语法错误, 忍不了了.
+
+> Table filling based relational triple extraction methods are attracting growing research interests due to their promising performance and their abilities on extracting triples from complex sentences. However, this kind of methods are far from their full potential because most of them only focus on using local features but ignore the global associations of relations and of token pairs, which increases the possibility of overlooking some important information during triple extraction.
+
+最常用的
+
+- [singular, uncountable] if you have an interest in something or someone, you want to know or learn more about them
+- [countable usually plural] an activity that you enjoy doing or a subject that you enjoy studying
+
+Ref: [interest \| meaning of interest in Longman Dictionary of Contemporary English \| LDOCE](https://www.ldoceonline.com/dictionary/interest)
+
+另外, ability to do 是固定用法, 参考 [ability \| meaning of ability in Longman Dictionary of Contemporary English \| LDOCE](https://www.ldoceonline.com/dictionary/ability); 以及 association 这里跟 of 也不对, 用 among 或者 within 吧.
+
+## This kind
+
+Correct:
+
+- This kind/type/sort of thing is
+- These kinds/types/sorts of things are
+
+Workaround:
+
+- Things of this kind/type/sort are
+- A thing of this kind/type/sort is
+
+另外, these kind of things 是老英语, 现在不这么用.
+
+Ref: [singular vs plural - This kind of things has or have? - English Language Learners Stack Exchange](https://ell.stackexchange.com/questions/146691/this-kind-of-things-has-or-have)
+
+
+## Code is a mass noun in CS
+
+Ref: [grammatical number - Is it wrong to use the word "codes" in a programming context? - English Language & Usage Stack Exchange](https://english.stackexchange.com/questions/20455/is-it-wrong-to-use-the-word-codes-in-a-programming-context)
+
 
 ## It won't work.
 

@@ -15,7 +15,7 @@ mathjax: true
 - [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(8)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(7)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(7)</font>
-- [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(3)</font>
+- [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(5)</font>
 
@@ -79,10 +79,10 @@ mathjax: true
 ### Language
 
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation)
-- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2021-08-26 updated)</font>
+- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2021-10-28 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2021-05-23 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
-- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-09-11 updated)</font>
+- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-10-27 updated)</font>
 
 ### Machine Learning
 
@@ -117,6 +117,7 @@ mathjax: true
 
 ### Reading
 
+- 2021-10-30 [《理解漫画》笔记](https://shiina18.github.io/reading/2021/10/30/notes-comics)
 - 2021-05-23 [《乐之本事》笔记](https://shiina18.github.io/reading/2021/05/23/notes-classic)
 - 2021-04-03 [《亲密关系》笔记](https://shiina18.github.io/reading/2021/04/03/notes-intimate) <font color="lightgrey">(2021-05-23 updated)</font>
 - 2020-11-01 [Notes on how to think straight about psychology](https://shiina18.github.io/reading/2020/11/01/notes-on-psychology) <font color="lightgrey">(2021-02-11 updated)</font>
