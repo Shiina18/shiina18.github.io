@@ -2,7 +2,7 @@
 title: "炉石传说随记"
 categories: Games
 tags: 
-updated: 
+updated: 2021-11-15
 comments: true
 mathjax: false
 ---
@@ -22,7 +22,9 @@ mathjax: false
     - [Hearthstone Deck Tracker](https://hsreplay.net/downloads/). 通称 HDT.
 - 战棋
     - [NGA 战棋子版块](https://bbs.nga.cn/thread.php?fid=690&_ff=422). 例文: 2020-08 [美服第一系统攻略](https://bbs.nga.cn/read.php?tid=22901424).
-    - [コギコーギー](https://cogicorgi.com/). 亚服前百日本玩家的博客.
+    - [Every curve you need to know in Battlegrounds](https://acegameguides.com/every-curve-you-need-to-know-in-battlegrounds/). 包括 Shinese curve 和 Jeef curve.
+    - [A Guide to Improving at Battlegrounds or: How I Learned to Stop Worrying and Think About the Game](https://www.reddit.com/r/hearthstone/comments/hkmbzd/a_guide_to_improving_at_battlegrounds_or_how_i/)
+    - [コギコーギー](https://cogicorgi.com/). 亚服前百日本玩家的博客 (过时).
 
 ## THE BARRENS 中速舞娘亡语瞎
 

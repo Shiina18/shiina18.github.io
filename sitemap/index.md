@@ -51,7 +51,7 @@ mathjax: true
 - 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro)
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei)
 - 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2021-10-06 updated)</font>
-- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone)
+- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2021-11-15 updated)</font>
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh)
 - 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games) <font color="lightgrey">(2021-04-09 updated)</font>

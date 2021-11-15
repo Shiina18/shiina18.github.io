@@ -9,6 +9,8 @@ Last Updated on 2021-10-09
 
 在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
 
+与其说是博客, 这更像是我个人的线上公开笔记本, 便于自己在不同设备上翻阅. 
+
 ## 社交账号
 
 各平台文章均不重复, 不会搬运于本博客.

@@ -32,8 +32,10 @@ mathjax: false
 1. Idea/purpose: The impluse, the ideas, the emotions, the philosophies, the purposes of the work... The work's "**content**".
 2. Form: The **form** it will take... Will it be a book? A chalk drawing? A chair? A song? A sculpture? A comic book?
 3. Idiom (风格): The "school" of art, the vocabulary of styles or gestures or subject matter, the **genre** that the work belongs to... Maybe a genre of its own.
-4. Structure: Putting it all together... What to include, what to leave out... How to arrange, How to **compose** the work.
+4. Structure: Putting it all together... What to include, what to leave out... How to arrange, how to **compose** the work.
 5. Craft: Constructing the work, applying skills, practical knowledge, invention, problem-solving, getting the "**job**" done.
 6. Surface: Production values, finishing... The aspects most apparent on first superficial exposure to the work.
+
+注: 3 中的 vocabulary 应当指 a supply of expressive techniques or devices (as of an art form)
 
 待补充
