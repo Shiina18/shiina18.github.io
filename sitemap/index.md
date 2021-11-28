@@ -12,7 +12,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(27)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
-- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(8)</font>
+- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(9)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(7)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(7)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(4)</font>
@@ -48,7 +48,7 @@ mathjax: true
 
 ### Games
 
-- 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro)
+- 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro) <font color="lightgrey">(2021-10-21 updated)</font>
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei)
 - 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2021-10-06 updated)</font>
 - 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2021-11-15 updated)</font>
@@ -86,6 +86,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn)
 - 2021-07-29 `NLP` [论文笔记: TPLinker 实体关系抽取](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker)
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
 - 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-08-16 updated)</font>
