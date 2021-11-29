@@ -5,10 +5,10 @@ import time
 
 s = time.time()
 
-source_dir = r'F:\vnote_notebooks\vnotebook'
-target_dir = r'F:\GitHub'
-# source_dir = r'D:\GitHub\vnote_notebooks\vnotebook'
-# target_dir = r'D:\GitHub'
+# source_dir = r'F:\vnote_notebooks\vnotebook'
+# target_dir = r'F:\GitHub'
+source_dir = r'D:\GitHub\vnote_notebooks\vnotebook'
+target_dir = r'D:\GitHub'
 
 
 def solve_escape(string, mode='link'):

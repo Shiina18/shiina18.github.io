@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated: 2021-08-22
+updated: 2021-11-29
 comments: true
 mathjax: false
 ---
@@ -20,6 +20,7 @@ mathjax: false
 - 图片地址需要替换为可用的链接.
 - 线上不支持 `[TOC]`, 不过有侧边栏倒是无所谓.
 - 数学模式中的一对 `|`会被编译成表格, 得写成 `\vert`. (2020/8/9)
+- 数学模式中, 如果两个 `_` 之间没有空格, 则会被编译为斜体, 只要手动在 `_` 前加上空格即可. (2021/11/29)
 - 关于暴露 client_secret 的问题, 参考这个 [issue](https://github.com/gitalk/gitalk/issues/150), 没有问题. (2020/12/19)
 - 关于网站 size limit, 参考 [这里](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages). 限制是 1GB, 带宽每月 100GB. 目前看来几年之内还不需要太节约空间, 另外如果把现在用的图片压缩一遍 (比如有每日限额的 [这里](https://compressor.io/) 和每日无限的 [这里](https://kraken.io/web-interface)), 大概可以扩容一倍; 另外另开一个 repo 专门存图也可以. (2020/12/24)
     - 另外, 缩小图片尺寸可以显著减小图片 (比如用 [这个工具](https://www.iloveimg.com/resize-image)). (2021/2/21)

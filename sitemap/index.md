@@ -113,7 +113,7 @@ mathjax: true
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)
 - 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
 - 2020-07-29 [一次找短租的经历](https://shiina18.github.io/miscellanea/2020/07/29/short-term-rent)
-- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2021-08-22 updated)</font>
+- 2020-07-23 [建站记录](https://shiina18.github.io/miscellanea/2020/07/23/site-building) <font color="lightgrey">(2021-11-29 updated)</font>
 - 2019-09-06 [一次阅读马拉松经历](https://shiina18.github.io/miscellanea/2019/09/06/reading-marathon)
 
 ### Reading
