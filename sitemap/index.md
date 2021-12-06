@@ -12,7 +12,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
 - [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(27)</font>
 - [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
-- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(10)</font>
+- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(11)</font>
 - [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(7)</font>
 - [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(7)</font>
 - [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(4)</font>
@@ -88,6 +88,7 @@ mathjax: true
 
 - 2021-12-06 [非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
 - 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-04 updated)</font>
+- 2021-08-05 [知识蒸馏](https://shiina18.github.io/machine%20learning/2021/08/05/knowledge-distill)
 - 2021-07-29 `NLP` [论文笔记: TPLinker 实体关系抽取](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker)
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
 - 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-08-16 updated)</font>
