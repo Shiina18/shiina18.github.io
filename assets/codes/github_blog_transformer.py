@@ -203,13 +203,13 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
     g.write('mathjax: true\n')
     g.write('---\n\n')
 
-    g.write(f'\n## Categories\n\n')
+    g.write(f'\n## Categories  <font color="lightgrey">({len(cated.keys())})</font>\n\n')
     for cat in sorted(cated.keys()):
         # url = '/'.join([site, 'category', '#', cat.replace(" ", "%20")])
         url = '/'.join([site, 'sitemap', f'#{cat.replace(" ", "-").lower()}'])
         g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')
 
-    g.write(f'\n## Posts\n\n')
+    g.write(f'\n## Posts <font color="lightgrey">({sum(len(cated[cat]) for cat in cated.keys())})</font>\n\n')
     for cat in sorted(cated.keys()):
         g.write(f'\n### {cat}\n\n')
         for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):

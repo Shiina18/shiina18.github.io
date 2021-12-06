@@ -5,7 +5,7 @@ mathjax: true
 ---
 
 
-## Categories
+## Categories  <font color="lightgrey">(11)</font>
 
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(7)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(8)</font>
@@ -19,7 +19,7 @@ mathjax: true
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(5)</font>
 
-## Posts
+## Posts <font color="lightgrey">(101)</font>
 
 
 ### Algorithms
