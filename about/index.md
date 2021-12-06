@@ -16,18 +16,7 @@ Last Updated on 2021-10-09
 各平台文章均不重复, 不会搬运于本博客.
 
 - 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
-    - 2018-04-11 [甄姬洛神后闪电判定是否更容易命中?](https://www.zhihu.com/question/270563020/answer/363874639)
-    - 2019-11-07 [条件方差公式的直观解释?](https://www.zhihu.com/question/38726155/answer/885319771)
-    - 2021-01-16 [为什么熵值最大的分布状态是正态分布而不是均匀分布?](https://www.zhihu.com/question/357032828/answer/907586249)
 - 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
-    - 2018-09-05 [随笔｜名推理期望问题大结局](https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA)
-    - 2020-03-05 [洗牌的一点数学](https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw)
-    - 2020-08-04 [KTS 的瑞士轮算分机制 (增补)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
-    - 2021-01-01 [黄焖是什么意思?](https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw)
-    - 2021-01-13 [轮抽卡池怎么洗?](https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA)
-    - 2021-02-02 [复盘一把简单却曲折的五子棋对局](https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg)
-    - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
-    - 2021-06-24 [上海动物园游记](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)
 - 豆瓣: [Rick](https://www.douban.com/people/171432596/)
 - bangumi: [Dr. Boom](https://bgm.tv/user/388505)
 - 微博: [195_463](https://weibo.com/p/1005053891982912/home?profile_ftype=1&is_all=1#_0)

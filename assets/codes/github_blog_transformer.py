@@ -157,6 +157,42 @@ for post in os.listdir(source):
                     tag_flag = 0
         cated[cur_post.cat].append((cur_post.date, cur_post.title, cur_post.updated, cur_post.link, cur_post.tag))
 
+posts_from_other_sites = {
+    'Mathematics': [
+        ('2018-04-11', '甄姬洛神后闪电判定是否更容易命中? (知乎)', '', 'https://www.zhihu.com/question/270563020/answer/363874639', None),
+        ('2019-11-07', '条件方差公式的直观解释? (知乎)', '', 'https://www.zhihu.com/question/38726155/answer/885319771', None),
+        ('2021-01-16', '为什么熵值最大的分布状态是正态分布而不是均匀分布? (知乎)', '', 'https://www.zhihu.com/question/357032828/answer/907586249', None),
+        ('2018-09-05', '随笔｜名推理期望问题大结局 (公众号)', '', 'https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA', None),
+        ('2020-03-05', '洗牌的一点数学 (公众号)', '', 'https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw', None),
+        ('2021-01-13', '轮抽卡池怎么洗? (公众号)', '', 'https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA', None),
+    ],
+    'Games': [
+        ('2020-08-04', 'KTS 的瑞士轮算分机制 (增补) (公众号)', '', 'https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg', None),
+        ('2021-02-02', '复盘一把简单却曲折的五子棋对局 (公众号)', '', 'https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg', 'Renju'),
+        ('2018-08-02', 'Tracker 与 KTS 的瑞士轮算分机制 (公众号)', '', 'https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ', None),
+        ('2020-02-09', 'Challonge 的瑞士轮算分与匹配机制 (公众号)', '', 'https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g', None),
+        ('2016-10-07', '上海决斗都市战报 (公众号)', '', 'https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g', None)
+    ],
+    'Food and Cooking': [
+        ('2021-01-01', '黄焖是什么意思? (公众号)', '', 'https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw', None),
+    ],
+    'Language': [
+        ('2021-02-10', '「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)', '', 'https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg', None),
+    ],
+    'Miscellanea': [
+        ('2021-06-24', '上海动物园游记 (公众号)', '', 'https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw', None),
+    ],
+    'Machine Learning': [
+        ('2020-08-12', '关于 Facebook Prophet 中 future changepoints 的一个脚注 (知乎)', '', 'https://zhuanlan.zhihu.com/p/181708348', 'Time Series')
+    ],
+    'Algorithms': [
+        ('2019-11-26', '一类双指针贪心法的证明——以 LeetCode 11, 16 为例 (知乎)', '', 'https://zhuanlan.zhihu.com/p/93808593', None),
+        ('2019-11-25', 'LeetCode 179. Largest Number (知乎)', '', 'https://zhuanlan.zhihu.com/p/93630049', None)
+    ]
+}
+for cat in posts_from_other_sites.keys():
+    cated[cat].extend(posts_from_other_sites[cat])
+
 site = 'https://shiina18.github.io'
 target = os.path.join(target_dir, r'shiina18.github.io\sitemap')
 
@@ -169,7 +205,8 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
 
     g.write(f'\n## Categories\n\n')
     for cat in sorted(cated.keys()):
-        url = '/'.join([site, 'category', '#', cat.replace(" ", "%20")])
+        # url = '/'.join([site, 'category', '#', cat.replace(" ", "%20")])
+        url = '/'.join([site, 'sitemap', f'#{cat.replace(" ", "-").lower()}'])
         g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')
 
     g.write(f'\n## Posts\n\n')
@@ -178,7 +215,10 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
         for post in sorted(cated[cat], key=lambda x: x[0], reverse=True):
             date, title, updated, link, tag = post
             y, m, d = date[:4], date[5:7], date[-2:]
-            url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])
+            if link.startswith('https://') or link.startswith('http://'):
+                url = link
+            else:
+                url = '/'.join([site, cat.lower().replace(" ", "%20"), y, m, d, link])
             if tag:
                 line = f'- {date} `{tag}` [{title}]({url})'
             else:

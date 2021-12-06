@@ -7,17 +7,17 @@ mathjax: true
 
 ## Categories
 
-- [Algorithms](https://shiina18.github.io/category/#/Algorithms) <font color="lightgrey">(5)</font>
-- [Anime](https://shiina18.github.io/category/#/Anime) <font color="lightgrey">(8)</font>
-- [Food and Cooking](https://shiina18.github.io/category/#/Food%20and%20Cooking) <font color="lightgrey">(2)</font>
-- [Games](https://shiina18.github.io/category/#/Games) <font color="lightgrey">(27)</font>
-- [Language](https://shiina18.github.io/category/#/Language) <font color="lightgrey">(5)</font>
-- [Machine Learning](https://shiina18.github.io/category/#/Machine%20Learning) <font color="lightgrey">(11)</font>
-- [Mathematics](https://shiina18.github.io/category/#/Mathematics) <font color="lightgrey">(7)</font>
-- [Miscellanea](https://shiina18.github.io/category/#/Miscellanea) <font color="lightgrey">(7)</font>
-- [Reading](https://shiina18.github.io/category/#/Reading) <font color="lightgrey">(4)</font>
-- [Statistics](https://shiina18.github.io/category/#/Statistics) <font color="lightgrey">(3)</font>
-- [Tech](https://shiina18.github.io/category/#/Tech) <font color="lightgrey">(5)</font>
+- [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(7)</font>
+- [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(8)</font>
+- [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
+- [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(12)</font>
+- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(13)</font>
+- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
+- [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
+- [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(5)</font>
 
 ## Posts
 
@@ -28,6 +28,8 @@ mathjax: true
 - 2020-06-08 [编程题杂录](https://shiina18.github.io/algorithms/2020/06/08/coding-problems-misc) <font color="lightgrey">(2020-07-19 updated)</font>
 - 2020-06-03 [快速幂](https://shiina18.github.io/algorithms/2020/06/03/fast-power)
 - 2020-01-15 [主定理的证明](https://shiina18.github.io/algorithms/2020/01/15/master-theorem)
+- 2019-11-26 [一类双指针贪心法的证明——以 LeetCode 11, 16 为例 (知乎)](https://zhuanlan.zhihu.com/p/93808593)
+- 2019-11-25 [LeetCode 179. Largest Number (知乎)](https://zhuanlan.zhihu.com/p/93630049)
 - 2019-10-21 [中位数两则, 线性时间与 leetcode 4](https://shiina18.github.io/algorithms/2019/10/21/median-of-medians) <font color="lightgrey">(2020-06-07 updated)</font>
 
 ### Anime
@@ -43,6 +45,7 @@ mathjax: true
 
 ### Food and Cooking
 
+- 2021-01-01 [黄焖是什么意思? (公众号)](https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw)
 - 2020-06-08 [厨艺杂录](https://shiina18.github.io/food%20and%20cooking/2020/06/08/cooking-misc) <font color="lightgrey">(2021-01-01 updated)</font>
 - 2019-11-21 [一次手磨咖啡体验](https://shiina18.github.io/food%20and%20cooking/2019/11/21/brew-coffee) <font color="lightgrey">(2020-12-03 updated)</font>
 
@@ -55,6 +58,7 @@ mathjax: true
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh)
 - 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games) <font color="lightgrey">(2021-04-09 updated)</font>
+- 2021-02-02 `Renju` [复盘一把简单却曲折的五子棋对局 (公众号)](https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg)
 - 2021-01-31 `Renju` [第 2 届道馆杯五子棋争霸赛战报](https://shiina18.github.io/games/2021/01/31/renju-contest)
 - 2021-01-29 `Renju` [连珠的各种手筋](https://shiina18.github.io/games/2021/01/29/renju-tesuji)
 - 2021-01-14 `Renju` [花月定式: 次强 4](https://shiina18.github.io/games/2021/01/14/kagetsu-2) <font color="lightgrey">(2021-03-05 updated)</font>
@@ -72,13 +76,18 @@ mathjax: true
 - 2020-10-27 `Renju` [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
 - 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2021-09-03 updated)</font>
 - 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
+- 2020-08-04 [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外改版 OV mod 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2021-01-21 updated)</font>
+- 2020-02-09 [Challonge 的瑞士轮算分与匹配机制 (公众号)](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2021-03-21 updated)</font>
+- 2018-08-02 [Tracker 与 KTS 的瑞士轮算分机制 (公众号)](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
+- 2016-10-07 [上海决斗都市战报 (公众号)](https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g)
 
 ### Language
 
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation)
+- 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2021-10-28 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2021-05-23 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
@@ -94,6 +103,7 @@ mathjax: true
 - 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-08-16 updated)</font>
 - 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
 - 2020-08-15 `Time Series` [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
+- 2020-08-12 `Time Series` [关于 Facebook Prophet 中 future changepoints 的一个脚注 (知乎)](https://zhuanlan.zhihu.com/p/181708348)
 - 2020-08-09 `Time Series` [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
 - 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
 - 2019-06-15 [从提升树到 XGBoost, 原理简介](https://shiina18.github.io/machine%20learning/2019/06/15/xgb) <font color="lightgrey">(2020-10-14 updated)</font>
@@ -102,15 +112,22 @@ mathjax: true
 
 - 2021-08-05 [极简凸优化](https://shiina18.github.io/mathematics/2021/08/05/convex-optimization)
 - 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
+- 2021-01-16 [为什么熵值最大的分布状态是正态分布而不是均匀分布? (知乎)](https://www.zhihu.com/question/357032828/answer/907586249)
+- 2021-01-13 [轮抽卡池怎么洗? (公众号)](https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA)
 - 2020-06-14 [Refutation of an Article on Shuffling in TCG](https://shiina18.github.io/mathematics/2020/06/14/refutation-on-shuffling)
+- 2020-03-05 [洗牌的一点数学 (公众号)](https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw)
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
+- 2019-11-07 [条件方差公式的直观解释? (知乎)](https://www.zhihu.com/question/38726155/answer/885319771)
 - 2019-09-14 [Lights-Out](https://shiina18.github.io/mathematics/2019/09/14/lights-out)
 - 2019-09-13 [Super Egg Drop](https://shiina18.github.io/mathematics/2019/09/13/super-egg-drop)
 - 2019-03-07 [用 SVD 进行图像压缩](https://shiina18.github.io/mathematics/2019/03/07/svd) <font color="lightgrey">(2020-09-15 updated)</font>
+- 2018-09-05 [随笔｜名推理期望问题大结局 (公众号)](https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA)
+- 2018-04-11 [甄姬洛神后闪电判定是否更容易命中? (知乎)](https://www.zhihu.com/question/270563020/answer/363874639)
 
 ### Miscellanea
 
 - 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself)
+- 2021-06-24 [上海动物园游记 (公众号)](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)
 - 2021-05-27 [Verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)
 - 2021-02-28 [短期转移住所 checklist](https://shiina18.github.io/miscellanea/2021/02/28/travel-checklist)
