@@ -98,7 +98,7 @@ mathjax: true
 - 2021-12-06 [非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
 - 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-04 updated)</font>
 - 2021-08-05 [知识蒸馏](https://shiina18.github.io/machine%20learning/2021/08/05/knowledge-distill)
-- 2021-07-29 `NLP` [论文笔记: TPLinker 实体关系抽取](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker)
+- 2021-07-29 `NLP` [论文笔记: TPLinker 实体关系抽取以及 NER 变种](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker) <font color="lightgrey">(2021-12-08 updated)</font>
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
 - 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-08-16 updated)</font>
 - 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
