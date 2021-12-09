@@ -28,7 +28,9 @@ Last Updated on 2021-10-09
 
 - [科学空间](https://kexue.fm/). by 苏剑林. `NLP`
     - 2019-09-18 [从语言模型到 Seq2Seq: Transformer 如戏, 全靠 Mask](https://kexue.fm/archives/6933)
+    - 2020-04-25 [将 "softmax+交叉熵" 推广到多标签分类问题](https://kexue.fm/archives/7359)
     - 2021-03-08 [Transformer 升级之路: 1. Sinusoidal 位置编码追根溯源](https://kexue.fm/archives/8231)
+    - 2021-05-01 [GlobalPointer: 用统一的方式处理嵌套和非嵌套 NER](https://kexue.fm/archives/8373)
 - [码农场](https://www.hankcs.com/). `NLP`
     - [CS224n 笔记系列](https://www.hankcs.com/tag/cs224n/)
 - [墨冰土](https://www.mobingtu.com/). by AI Euler. `随笔`
@@ -43,8 +45,6 @@ Last Updated on 2021-10-09
     - 2016-12-03 [我为什么反对川普](http://blog.farmostwood.net/837.html)
 - [谢益辉的个人主页](https://yihui.org/). 统计之都创始人
     - 2009-05-11 [统计学和计量经济学的神奇?](http://www.loyhome.com/统计学和计量经济学的神奇？) 虽然是其他博客的, 但用了大量该博客的文章
-- [应坚刚的个人主页](http://homepage.fudan.edu.cn/jgying/). `数学` 现在挂了 (2021/9/26)
-    - [讲义和勘误](http://homepage.fudan.edu.cn/jgying/resources/) 风格简明, 甚是喜欢
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
 - [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) ([旧网址](http://pywonderland.com/)). by 赵亮. `数学`
@@ -62,6 +62,8 @@ Last Updated on 2021-10-09
 
 ### 不再更新 (至少断更一年)
 
+- [应坚刚的个人主页](http://homepage.fudan.edu.cn/jgying/). `数学` 现在挂了 (2021/9/26)
+    - [讲义和勘误](http://homepage.fudan.edu.cn/jgying/resources/) 风格简明, 甚是喜欢
 - 2016-04-01 [考据癖](http://localhost-8080.com/)
     - 2011-03-23 [为什么一般逆时针旋转是拧松?](http://localhost-8080.com/2011/03/why-counterclockwise-open/)
     - 2013-06-21 [吹牛大王 Baron Münchhausen](http://localhost-8080.com/2013/06/baron-munchhausen-the-tall-tale-teller/)

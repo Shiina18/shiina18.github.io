@@ -106,6 +106,8 @@ scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2
 
 Docker 简介可参考 [这篇](https://zhuanlan.zhihu.com/p/187505981), 以及 [Docker 底层原理浅析](https://mp.weixin.qq.com/s/0jFHlWAeH5avIO2NLpTmGA).
 
+Docker 教程: [天池](https://tianchi.aliyun.com/competition/entrance/231759/information)
+
 先创建镜像 (image) 文件, 再基于镜像创建进程 (称为容器).
 
 查看进程 (容器)
