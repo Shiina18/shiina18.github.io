@@ -2,7 +2,7 @@
 title: "炉石传说随记"
 categories: Games
 tags: 
-updated: 2021-11-15
+updated: 2021-12-25
 comments: true
 mathjax: false
 ---
@@ -26,9 +26,9 @@ mathjax: false
     - [A Guide to Improving at Battlegrounds or: How I Learned to Stop Worrying and Think About the Game](https://www.reddit.com/r/hearthstone/comments/hkmbzd/a_guide_to_improving_at_battlegrounds_or_how_i/)
     - [コギコーギー](https://cogicorgi.com/). 亚服前百日本玩家的博客 (过时).
 
-## THE BARRENS 中速舞娘亡语瞎
+## 中速舞娘亡语瞎
 
-2020/4/1
+2021/4/1
 
 新版本 DAY 2 卡组
 
@@ -69,3 +69,19 @@ Jambre 在 4 月 1 日有改动, 和我的构筑趋同, 参见 [这里](https://
     - 不太打得过骑士. 不过大家应该都打不过. 目前环境过于畸形, 等待即将到来的平衡补丁.
 
 2021/4/9 后记: 根据 4 月 7 日的 [NGA 国服周报 "贫瘠之地的锤炼" 第 1 期](https://bbs.nga.cn/read.php?tid=26236610), 上面对亡语瞎的构筑选择 (搭配节奏直伤体系的构筑表现更好), 看法 (亡语瞎的强度都一般) 和对局判断 (打骑士胜率很低) 还是相当准确的. 但总体而言并非一个很具竞争力的卡组.
+
+## Token 亡语瞎
+
+2021/12/25
+
+分段 1w+, 卡组代码 `AAECAbn5AwT7zgPK3QO/7QOHiwQN2cYDyd0D8+MDkOQDu+0DvO0D/e0DqO8Di/cDqZEEtpIE+JQEyZ8EAA==`
+
+新版本没怎么玩, 平衡补丁后环境比较有趣才回坑, 构筑抄 [VS 周报](http://bbs.nga.cn/read.php?tid=29915808) 的 [这套](https://www.hearthstonetopdecks.com/decks/deathrattle-demon-hunter-485-legend-drb00mer-fractured-in-alterac-valley/), 把一张演员大接力换成 223 战吼用过技能的回合抽一张牌. 最后胜率 60%+ 上传说, 遇到的主要劣势对局是萨满 (永恒之火, 冰) 和火冲法, 打海盗战优势. 现在瞎是最冷门的职业, 打了两天只遇到一个瞎; 传说前最热门的是海盗战和法师 (火冲决斗对半).
+
+- 构筑要点
+    - 上个版本的亡语瞎大牌 (除了两个 6 和一个 7) 是两个审判官, 现版本原始构筑大牌有英雄牌, 两张演员大接力, 和两张巨人, 容易手札事故, 导致中期空费多. 把大接力换成抽牌生物可以一定程度润滑节奏, 并且从 hsreplay 的数据看, 大接力是卡组中表现最差的牌 (另外一张表现很差的牌是研习).   
+    - 邪火神射手对英雄牌的伤害增幅尤为关键.
+    - 看 hsr 数据, 巨人平均 8 费登场, 没有想象中的好用.
+- 留牌要点
+    - 留 1 费刀和 2 费野猪, 有两者之一就 **留英雄牌**. 有 232 时可以留 3 费亡语. 先攻有刀或者后攻没别的小牌留历战先锋. 
+    - 看数据英雄牌是独一档的最强牌, 留牌胜率 / 抽到胜率 / 打出胜率都甩开第二名老远. 亡语瞎本身最大的问题是伤害效率低, 上版本往往要靠审判官斩杀. 现在英雄牌可以持续施压叫杀, 让场上小怪的威胁几乎翻倍. 拍下的当回合不会空过, 提供的 5 甲也有用 (这套唯一的墙是 433 生的 token, 唯一的奶是研习可以找到的奶).

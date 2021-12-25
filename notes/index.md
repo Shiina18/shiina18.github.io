@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last updated on 2021-10-30
+Last updated on 2021-12-14
 
 虽说标题写着 notes, 但其实基本没有正儿八经的 notes, 只是杂乱物品的堆放. 通常是博客其他文章没有用到的材料. (2019/9/29)
 
@@ -70,6 +70,10 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 积分与求导交换的几种条件简单小结. (2019/12/10)
 
 ## Books
+
+- [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+
+搜索基础. (2021/12/14)
 
 - [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/)
 

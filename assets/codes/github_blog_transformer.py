@@ -187,7 +187,8 @@ posts_from_other_sites = {
     ],
     'Algorithms': [
         ('2019-11-26', '一类双指针贪心法的证明——以 LeetCode 11, 16 为例 (知乎)', '', 'https://zhuanlan.zhihu.com/p/93808593', None),
-        ('2019-11-25', 'LeetCode 179. Largest Number (知乎)', '', 'https://zhuanlan.zhihu.com/p/93630049', None)
+        ('2019-11-25', 'LeetCode 179. Largest Number (知乎)', '', 'https://zhuanlan.zhihu.com/p/93630049', None),
+        ('2021-02-05', '最小化「集换社」税收 (公众号)', '', 'https://mp.weixin.qq.com/s/TKUS6IEiE-a1-kYuz1t1sw', None)
     ]
 }
 for cat in posts_from_other_sites.keys():
