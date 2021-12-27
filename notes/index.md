@@ -71,10 +71,6 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 
 ## Books
 
-- [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
-
-搜索基础. (2021/12/14)
-
 - [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/)
 
 非常有名的 Durrett 的 PTE, 展示了很多有趣的例子, 鞅只讲了离散鞅, 有时候我要翻倒向鞅的结论时会翻这本. 另外 Durrett 的主页给我印象最深的是, 专门有个 "my smiling face" 的链接. 世图引进的白色封面的第 3 版比较常见, 习题答案也可以找到.
