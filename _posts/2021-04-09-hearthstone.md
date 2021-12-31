@@ -74,9 +74,9 @@ Jambre 在 4 月 1 日有改动, 和我的构筑趋同, 参见 [这里](https://
 
 2021/12/25
 
-分段 8k, 卡组代码 `AAECAbn5AwT7zgPK3QO/7QOHiwQN2cYDyd0D8+MDkOQDu+0DvO0D/e0DqO8Di/cDqZEEtpIE+JQEyZ8EAA==`
+分段前 5k (2021/12/28), 胜率 63% 左右, 卡组代码 `AAECAbn5AwT7zgPK3QO/7QOHiwQN2cYDyd0D8+MDkOQDu+0DvO0D/e0DqO8Di/cDqZEEtpIE+JQEyZ8EAA==`
 
-新版本没怎么玩, 平衡补丁后环境比较有趣才回坑, 构筑抄 [VS 周报](http://bbs.nga.cn/read.php?tid=29915808) 的 [这套](https://www.hearthstonetopdecks.com/decks/deathrattle-demon-hunter-485-legend-drb00mer-fractured-in-alterac-valley/), 把一张演员大接力换成 223 战吼用过技能的回合抽一张牌. 最后胜率 60%+ 上传说, 遇到的主要劣势对局是萨满 (永恒之火, 冰) 和火冲法, 打海盗战优势. 现在瞎是最冷门的职业, 打了两天只遇到一个瞎; 传说前最热门的是海盗战和法师 (火冲决斗对半), 传说后法师少了, 胜率提升. 打法师的要点是多抢脸, 和对面 race, 并且 care 火眼和 435, 保留亡语.
+新版本没怎么玩, 平衡补丁后环境比较有趣才回坑, 构筑抄 [VS 周报](http://bbs.nga.cn/read.php?tid=29915808) 的 [这套](https://www.hearthstonetopdecks.com/decks/deathrattle-demon-hunter-485-legend-drb00mer-fractured-in-alterac-valley/), 把一张演员大接力换成 223 战吼用过技能的回合抽一张牌. 最后胜率 60%+ 上传说, 遇到的主要劣势对局是萨满 (永恒之火, 冰) 和火冲法, 打海盗战优势. 现在瞎是最冷门的职业, 打了两天只遇到一个瞎; 传说前最热门的是海盗战和法师 (火冲决斗对半), 传说后法师少了, 但战士也少了, 胜率稍微提升. 打法师的要点是多抢脸, 和对面 race, 并且 care 火眼和 435, 保留亡语.
 
 - 构筑要点
     - 上个版本的亡语瞎大牌 (除了两个 6 和一个 7) 是两个审判官, 现版本原始构筑大牌有英雄牌, 两张演员大接力, 和两张巨人, 容易手札事故, 导致中期空费多. 把大接力换成抽牌生物可以一定程度润滑节奏, 并且从 hsreplay 的数据看, 大接力是卡组中表现最差的牌 (另外一张表现很差的牌是研习).   

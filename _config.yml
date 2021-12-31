@@ -130,7 +130,7 @@ menu:
   about: /about/
   quotes: /quotes/
   notes: /notes/
-  archives: /archives/  # 暂时先放着
+  #archives: /archives/  # 暂时先放着
   sitemap: /sitemap/
   #categories: /categories/
   #tags: /tags/
