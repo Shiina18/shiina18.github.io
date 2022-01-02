@@ -17,9 +17,9 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(5)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(106)</font>
+## Posts <font color="lightgrey">(107)</font>
 
 
 ### Algorithms
@@ -155,6 +155,7 @@ mathjax: true
 
 ### Tech
 
+- 2021-12-16 [SQL 简单复习与习题集](https://shiina18.github.io/tech/2021/12/16/sql)
 - 2021-08-26 [Python 杂录 2: 最佳实践](https://shiina18.github.io/tech/2021/08/26/python-misc-2) <font color="lightgrey">(2021-09-25 updated)</font>
 - 2021-08-25 [Linux cheatsheet (自用)](https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet)
 - 2021-07-27 [Hands-on experience with a constrained least squares problem](https://shiina18.github.io/tech/2021/07/27/constrained-least-squares) <font color="lightgrey">(2021-08-05 updated)</font>
