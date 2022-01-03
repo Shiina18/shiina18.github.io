@@ -8,7 +8,7 @@ mathjax: true
 ## Categories  <font color="lightgrey">(11)</font>
 
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
-- [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(8)</font>
+- [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
@@ -19,7 +19,7 @@ mathjax: true
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(107)</font>
+## Posts <font color="lightgrey">(108)</font>
 
 
 ### Algorithms
@@ -35,6 +35,7 @@ mathjax: true
 
 ### Anime
 
+- 2022-01-03 [押井守评吉卜力笔记](https://shiina18.github.io/anime/2022/01/03/ghibli)
 - 2021-02-20 [电影基础知识简要](https://shiina18.github.io/anime/2021/02/20/film-basic)
 - 2021-02-18 [动画演出分析杂录](https://shiina18.github.io/anime/2021/02/18/ensyutsu-misc) <font color="lightgrey">(2021-05-31 updated)</font>
 - 2020-09-07 [放浪男孩 第 5 话 对话演出分析](https://shiina18.github.io/anime/2020/09/07/houmu-e05)

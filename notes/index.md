@@ -25,6 +25,10 @@ Last updated on 2021-12-14
 
 为什么许多 (经济学) 理论缺乏对现实中各种实际发生的事件和现象的解释能力? (2021/10/30)
 
+- 包遵信. (2018, Dec 4). [最后放弃研究数学的人, 是对数学失去兴趣了, 还是找不到教职被迫放弃了?](https://www.zhihu.com/question/296083077/answer/499612776). *知乎*.
+
+成本太高收益太低.
+
 ## Notes
 
 - 2020/6/4 [Solutions to Selected Problems in Time Series Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Problems%20in%20Time%20Series%20Analysis.pdf)
