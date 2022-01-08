@@ -12,14 +12,14 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(16)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(17)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(13)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(108)</font>
+## Posts <font color="lightgrey">(109)</font>
 
 
 ### Algorithms
@@ -97,6 +97,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision)
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop)
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
 - 2021-12-15 `NLP` [BERT 复习](https://shiina18.github.io/machine%20learning/2021/12/15/bert)
@@ -132,7 +133,7 @@ mathjax: true
 
 ### Miscellanea
 
-- 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself)
+- 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself) <font color="lightgrey">(2022-01-05 updated)</font>
 - 2021-06-24 [上海动物园游记 (公众号)](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)
 - 2021-05-27 [Verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)

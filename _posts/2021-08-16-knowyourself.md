@@ -1,7 +1,7 @@
 ---
 title: "KnowYourself 亲密关系文章杂录"
 categories: Miscellanea
-updated: 
+updated: 2022-01-05
 comments: true
 mathjax: false
 ---
@@ -21,6 +21,10 @@ mathjax: false
 长久的朋友是那些愿意随时提供帮助, 但却很少逾越界限的人——Ta 知道如何表达接纳、忠诚和无条件的支持, 什么时候该腾出沙发给你, 什么时候该给你一个拥抱. 
 
 成为密友的关键是 "支持彼此的社会认同 (social identity)" . 你了解 ta 认为自己属于哪些社会群体, 你了解作为这些群体成员带给 ta 的情感和价值意义, 同时你认可和支持这一切. 
+
+## 表白是关系中承诺的第一步
+
+- (2022, Jan 5). [在 "聊骚" 盛行的时代, 还会做这件事的人你一定要珍惜](https://mp.weixin.qq.com/s/QFZ2RQW-3kZH2Di3sTTP-g).
 
 ## 新鲜感并没有那么重要
 
