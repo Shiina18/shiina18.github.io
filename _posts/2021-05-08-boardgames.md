@@ -2,7 +2,7 @@
 title: "桌游店与桌游杂录"
 categories: Games
 tags: 
-updated: 2021-10-06
+updated: 2022-01-04
 comments: true
 mathjax: false
 ---
@@ -136,3 +136,13 @@ BGG 分数只记录查询时的分数.
 [BGG](https://boardgamegeek.com/boardgame/71021/evolution-origin-species) 6.3, Weight 2.09
 
 以前在谜藏开过一次. 这个店家盒子里所有扩展都洗混在一起, 乱得不行. 规则读漏了一些导致体验不佳.
+
+## 其他
+
+### Regicide (2020)
+
+2022/1/4
+
+[BGG](https://boardgamegeek.com/boardgame/307002/regicide) 7.6, Weight 2.14
+
+只用一幅扑克牌就能玩耍, 据多位友人说设计很精彩

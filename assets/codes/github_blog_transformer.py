@@ -165,6 +165,7 @@ posts_from_other_sites = {
         ('2018-09-05', '随笔｜名推理期望问题大结局 (公众号)', '', 'https://mp.weixin.qq.com/s/wsTlzJGfTzERfFmkOhtemA', None),
         ('2020-03-05', '洗牌的一点数学 (公众号)', '', 'https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw', None),
         ('2021-01-13', '轮抽卡池怎么洗? (公众号)', '', 'https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA', None),
+        ('2020-11-14', '为什么中位数最小化 MAE? (知乎)', '2022-01-09', 'https://www.zhihu.com/question/429407710/answer/1591908502', None)
     ],
     'Games': [
         ('2020-08-04', 'KTS 的瑞士轮算分机制 (增补) (公众号)', '', 'https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg', None),

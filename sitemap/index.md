@@ -13,13 +13,13 @@ mathjax: true
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(17)</font>
-- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(13)</font>
+- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(109)</font>
+## Posts <font color="lightgrey">(110)</font>
 
 
 ### Algorithms
@@ -55,7 +55,7 @@ mathjax: true
 
 - 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro) <font color="lightgrey">(2021-10-21 updated)</font>
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei)
-- 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2021-10-06 updated)</font>
+- 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2022-01-04 updated)</font>
 - 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2021-12-25 updated)</font>
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh)
@@ -121,6 +121,7 @@ mathjax: true
 - 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
 - 2021-01-16 [为什么熵值最大的分布状态是正态分布而不是均匀分布? (知乎)](https://www.zhihu.com/question/357032828/answer/907586249)
 - 2021-01-13 [轮抽卡池怎么洗? (公众号)](https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA)
+- 2020-11-14 [为什么中位数最小化 MAE? (知乎)](https://www.zhihu.com/question/429407710/answer/1591908502) <font color="lightgrey">(2022-01-09 updated)</font>
 - 2020-06-14 [Refutation of an Article on Shuffling in TCG](https://shiina18.github.io/mathematics/2020/06/14/refutation-on-shuffling)
 - 2020-03-05 [洗牌的一点数学 (公众号)](https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw)
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
