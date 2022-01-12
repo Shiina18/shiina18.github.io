@@ -97,7 +97,7 @@ mathjax: true
 
 ### Machine Learning
 
-- 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision)
+- 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision) <font color="lightgrey">(2022-01-11 updated)</font>
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop)
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
 - 2021-12-15 `NLP` [BERT 复习](https://shiina18.github.io/machine%20learning/2021/12/15/bert)

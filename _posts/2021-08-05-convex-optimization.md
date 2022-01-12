@@ -63,12 +63,12 @@ $$
 满足所有约束的向量称为可行解. 最优值 (不一定能取到) 定义为
 
 $$
-p^* = \inf\{ f_0(x) \mid f_i(x) \le 0, \, i=1,\dots, m\}.
+p^\ast = \inf\{ f_0(x) \mid f_i(x) \le 0, \, i=1,\dots, m\}.
 $$
-约定 $\inf \varnothing = \infty$, 即问题不可行 (没有可行解) 时最优值为无穷大. 若 $p^* = -\infty$, 称问题无下界 (unbounded below).
+约定 $\inf \varnothing = \infty$, 即问题不可行 (没有可行解) 时最优值为无穷大. 若 $p^\ast = -\infty$, 称问题无下界 (unbounded below).
 
 
-如果向量 $x^*$ 可行且 $f(x^*) = p^*$, 则称 $x^*$ 为最优解 (不一定唯一).
+如果向量 $x^\ast$ 可行且 $f(x^\ast) = p^\ast$, 则称 $x^\ast$ 为最优解 (不一定唯一).
 
 > The challenge, and art, in using convex optimization is in recognizing and formulating the problem. Once this formulation is done, solving the problem is, like least-squares or linear programming, (almost) technology. (Boyd & Vandenberghe, 2004, p. 8)
 
@@ -142,7 +142,7 @@ $$
 g(\lambda, \nu) = \inf_x L(x, \lambda, \nu).
 $$
 
-对偶函数给出了最优值 $p^*$ 的下界: 对任意 $\lambda \succeq 0$ 和任意 $\nu$, 有 $g(\lambda, \nu) \le p^*$ (因为新加的带乘子的两项都不大于零). 
+对偶函数给出了最优值 $p^\ast$ 的下界: 对任意 $\lambda \succeq 0$ 和任意 $\nu$, 有 $g(\lambda, \nu) \le p^\ast$ (因为新加的带乘子的两项都不大于零). 
 
 **对偶问题** 就是找原始问题最优值最好的下界, 且是个凸优化问题 (因为对偶函数是关于 $(\lambda, \nu)$ 的仿射函数的点点极小值, 所以一定是凹的, 即使原问题不是凸的)
 
@@ -153,23 +153,23 @@ $$
 \end{align*}
 $$
 
-记它的最优值 (对偶最优) 为 $d^*$, 称 $p^* - d^* (\ge 0)$ 为对偶间隙. 如果对偶间隙为 0, 则称为强对偶, 意味着原始问题和对偶问题最优值相等. **如果原问题是凸优化, 则通常有强对偶, 因此可以利用对偶问题求解.**
+记它的最优值 (对偶最优) 为 $d^\ast$, 称 $p^\ast - d^\ast (\ge 0)$ 为对偶间隙. 如果对偶间隙为 0, 则称为强对偶, 意味着原始问题和对偶问题最优值相等. **如果原问题是凸优化, 则通常有强对偶, 因此可以利用对偶问题求解.**
 
 ### KKT 条件
 
 解优化问题可以转化为解 KKT 条件.
 
-假设所有函数都可微 (不用假设凸性). 假设 $x^*$ 是原问题最优解, $(\lambda^*, \nu^*)$ 是对偶问题最优解. 
+假设所有函数都可微 (不用假设凸性). 假设 $x^\ast$ 是原问题最优解, $(\lambda^\ast, \nu^\ast)$ 是对偶问题最优解. 
 
-因为 $x^*$ 是 $L(x, \lambda^*, \nu^*)$ 关于 $x$ 的最小值点, Lagrange 函数关于 $x$ 的偏导在该点一定为零 (假设函数可微从而定义域为开集). 如果问题强对偶, 由对偶函数的形式可知 $\lambda_i f_i(x)$ 一定为零 (互补松弛). 组合起来, 如果问题强对偶, 则原始问题和对偶问题的最优解一定满足 Karush-Kuhn-Tucker (KKT) 条件:  Lagrange 函数梯度为零, 原始可行, 对偶可行, 互补松弛.
+因为 $x^\ast$ 是 $L(x, \lambda^\ast, \nu^\ast)$ 关于 $x$ 的最小值点, Lagrange 函数关于 $x$ 的偏导在该点一定为零 (假设函数可微从而定义域为开集). 如果问题强对偶, 由对偶函数的形式可知 $\lambda_i f_i(x)$ 一定为零 (互补松弛). 组合起来, 如果问题强对偶, 则原始问题和对偶问题的最优解一定满足 Karush-Kuhn-Tucker (KKT) 条件:  Lagrange 函数梯度为零, 原始可行, 对偶可行, 互补松弛.
 
 $$
 \begin{align*}
-\nabla f_0(x^*) + {\lambda^*}'\nabla f(x^*) + {\nu^*}'\nabla h(x^*) &=0,\\
-f_i(x^*) &\le 0, \quad i=1,\dots, m,\\
-h_j(x^*) & = 0,  \quad j=1,\dots, p,\\
-\lambda^*_i &\ge 0, \quad i=1,\dots, m,\\
-\lambda^*_i f_i(x^*) & = 0, \quad i=1,\dots, m.
+\nabla f_0(x^\ast) + {\lambda^\ast}'\nabla f(x^\ast) + {\nu^\ast}'\nabla h(x^\ast) &=0,\\
+f_i(x^\ast) &\le 0, \quad i=1,\dots, m,\\
+h_j(x^\ast) & = 0,  \quad j=1,\dots, p,\\
+\lambda^\ast_i &\ge 0, \quad i=1,\dots, m,\\
+\lambda^\ast_i f_i(x^\ast) & = 0, \quad i=1,\dots, m.
 \end{align*}
 $$
 
@@ -195,15 +195,15 @@ $$
 
 这是关于 $v$ 的凸二次函数, 当 $v = -\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)$ 时达到极小. 取这个 $v$ 作为 Newton 步 (迭代的更新方向) $\Delta x$, 则 $x+\Delta x$ 是 $\hat f$ 的极小值点, 也应该是 $f$ 最优解的很好的估计. 
 
-**另一种视角** 假设 $f$ 为凸且可微, 则 $x^*$ 是最优解的充要条件是 $\nabla f(x^*) = 0$. 这就把优化问题转化为了方程求根问题. 
+**另一种视角** 假设 $f$ 为凸且可微, 则 $x^\ast$ 是最优解的充要条件是 $\nabla f(x^\ast) = 0$. 这就把优化问题转化为了方程求根问题. 
 
-假设 $x$ 在 $x^*$ 附近, 用 Taylor 展开线性逼近它的梯度
+假设 $x$ 在 $x^\ast$ 附近, 用 Taylor 展开线性逼近它的梯度
 
 $$
 \nabla f(x+v) \approx \nabla f(x) + \nabla^2 f(x) v = 0,
 $$
 
-取 $\Delta x = v = -\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)$ 作为 Newton 步, 则 $x+\Delta x$ 是 $x^*$ 很好的逼近.
+取 $\Delta x = v = -\left(\nabla^2 f(x)\right)^{-1}\nabla f(x)$ 作为 Newton 步, 则 $x+\Delta x$ 是 $x^\ast$ 很好的逼近.
 
 ![一维情况的图示](https://shiina18.github.io/assets/posts/images/20210803231324130_30739.png "一维情况的图示")
 
@@ -219,7 +219,7 @@ $$
 f(x) - \inf_y \hat f(y) = f(x) - \hat f(x+\Delta x) = \frac12 \lambda(x)^2.
 $$
 
-于是 $\lambda/2$ 就是 $f(x) - p^*$ 的一个估计, 可以作为停止条件.
+于是 $\lambda/2$ 就是 $f(x) - p^\ast$ 的一个估计, 可以作为停止条件.
 
 ![](https://shiina18.github.io/assets/posts/images/20210805211913852_4013.png)
 
@@ -270,9 +270,9 @@ $$
 
 其中 $f_i\colon \mathbb R^n \to \mathbb R$ 凸且二次连续可微.
 
-假设存在最优解 $x^*$, 记最优值为 $p^* = f_0(x^*)$.
+假设存在最优解 $x^\ast$, 记最优值为 $p^\ast = f_0(x^\ast)$.
 
-假设问题严格可行, 即存在可行的 $x$ 使得 $f_i(x) < 0$. 这意味 Slater 条件成立, 因此强对偶成立, 存在对偶最优解 $\lambda^*$, $\nu^*$, 并且和最优解 $x^*$ 成立 KKT 条件.
+假设问题严格可行, 即存在可行的 $x$ 使得 $f_i(x) < 0$. 这意味 Slater 条件成立, 因此强对偶成立, 存在对偶最优解 $\lambda^\ast$, $\nu^\ast$, 并且和最优解 $x^\ast$ 成立 KKT 条件.
 
 例如对于凸二次规划, KKT 条件是充要条件, 见 Nocedal & Wright (2006) Theorem 16.4.
 
@@ -304,25 +304,25 @@ $$
 
 替换 $I_-(u)$. 其中 $t>0$ 是参数, 越大则逼近越准确. 上述函数凸, 递增, 可微.
 
-对每个 $t>0$, 上述问题最优解记为 $x^*(t)$ (假设存在唯一的解, 细节略), 这族向量称为中心路径 (随着 $t$ 变换, $x(t)$ 从图像上看起来是条路径). 可知其严格可行 (因为目标函数里有 log 函数), 且存在 $\hat \nu(t)$, 使得  Lagrange 函数导数为 0: 
+对每个 $t>0$, 上述问题最优解记为 $x^\ast(t)$ (假设存在唯一的解, 细节略), 这族向量称为中心路径 (随着 $t$ 变换, $x(t)$ 从图像上看起来是条路径). 可知其严格可行 (因为目标函数里有 log 函数), 且存在 $\hat \nu(t)$, 使得  Lagrange 函数导数为 0: 
 
 $$
-\nabla f_0(x^*(t)) + \sum_{i=1}^m \frac{1}{-tf_i(x^*(t))}\nabla f_i(x^*(t)) + A' \hat\nu(t) = 0.
+\nabla f_0(x^\ast(t)) + \sum_{i=1}^m \frac{1}{-tf_i(x^\ast(t))}\nabla f_i(x^\ast(t)) + A' \hat\nu(t) = 0.
 $$
 
-可知每个最优解都对应了原始问题的对偶可行解 (因为 $x^*(t)$ 是凸函数的导数的驻点, 意味着它最小化), 根据上式可取 $\lambda^*_i(t) = -1/(tf_i(x^*(t)))$, 于是对偶函数
+可知每个最优解都对应了原始问题的对偶可行解 (因为 $x^\ast(t)$ 是凸函数的导数的驻点, 意味着它最小化), 根据上式可取 $\lambda^\ast_i(t) = -1/(tf_i(x^\ast(t)))$, 于是对偶函数
 
 $$
-g(\lambda^*(t), \nu^*(t)) = f_0(x^*(t)) - m/t.
+g(\lambda^\ast(t), \nu^\ast(t)) = f_0(x^\ast(t)) - m/t.
 $$
 
 故对偶间隙不大于 $m/t$. 对当前参数 $t$, 问题的最优值和原始问题的最优值的差不大于这个间隙:
 
 $$
-f_0(x^*(t)) - p^* \le m/t,
+f_0(x^\ast(t)) - p^\ast \le m/t,
 $$
 
-所以当 $t\to\infty$ 时, $x^*(t)$ 收敛于最优点.
+所以当 $t\to\infty$ 时, $x^\ast(t)$ 收敛于最优点.
 
 ![](https://shiina18.github.io/assets/posts/images/20210803164333695_9012.png)
 

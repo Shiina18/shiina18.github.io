@@ -2,12 +2,10 @@
 title: "弱监督学习两则: Snorkel 和 Skweak"
 categories: 
 - Machine Learning
-updated: 
+updated: 2022-01-11
 comments: true
 mathjax: true
 ---
-
-![](https://shiina18.github.io/assets/posts/images/73292915238575.png)
 
 弱监督旨在避免昂贵的大量手动标注, 而采用编程式的方法生成标注数据. 一般分为两步: 先用「多种来源的带噪声标注规则」(称为 labelling functions) 对「无标注数据」进行标注 (得到 label model), 再把 (用 label model) 生成的标注数据喂给下游模型 (end model) 训练. 理想是 label model 可以泛化 (处理冲突, 平滑标签) labelling functions, 然后 end model 进一步泛化.
 
@@ -27,8 +25,8 @@ mathjax: true
 
 下面以 Snorkel 和 Skweak 为例, 介绍方法.
 
-- Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017). Snorkel: Rapid training data creation with weak supervision. Proceedings of the VLDB Endowment. *International Conference on Very Large Data Bases, 11*(3), 269. [[Code]](https://github.com/snorkel-team/snorkel)
-- Lison, P., Barnes, J., & Hubin, A. (2021). skweak: Weak Supervision Made Easy for NLP. *arXiv Preprint arXiv:2104.09683*. [[Code]](https://github.com/NorskRegnesentral/skweak)
+- Ratner, A., Bach, S. H., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017). Snorkel: Rapid training data creation with weak supervision. Proceedings of the VLDB Endowment. *International Conference on Very Large Data Bases, 11*(3), 269. [[Code](https://github.com/snorkel-team/snorkel)]
+- Lison, P., Barnes, J., & Hubin, A. (2021). skweak: Weak Supervision Made Easy for NLP. *arXiv Preprint arXiv:2104.09683*. [[Code](https://github.com/NorskRegnesentral/skweak)]
 - Lison, P., Hubin, A., Barnes, J., & Touileb, S. (2020). Named entity recognition without labelled data: A weak supervision approach. *arXiv Preprint arXiv:2004.14723*.
 
 ## Labelling functions
@@ -51,7 +49,7 @@ mathjax: true
 We model the true class label for a data point as a latent variable (因为不知道真实标签) in a probabilistic model. In the
 simplest case, we model each labeling function as a noisy "voter" which is **independent**. We can also model statistical dependencies (见原文 3.2 Modeling Structure) between the labeling functions to improve predictive performance.
 
-为什么需要打标模型, 而不是同一个样本的多个标签直接 majority vote? 理想是打标模型能泛化打标函数.
+为什么需要打标模型, 而不是同一个样本的多个标签直接 majority vote? 理想是打标模型能泛化打标函数. 另一个显而易见的原因是打标函数之间可能有相关关系, 导致投票不公平.
 
 > While the generative model is essentially a re-weighted combination of the user-provided labeling functions--which tend to be precise but low-coverage--modern discriminative models can retain this precision while learning to generalize beyond the labeling functions, increasing coverage and robustness on unseen data.
 
@@ -71,7 +69,7 @@ $$
 
 ### Skweak
 
-Snorkel 在理念上没有考虑序列标注问题, skweak 则补上个这一点. 打标模型是隐 Markov 模型, 其中真实标签是隐变量, 隐变量序列构成一个 Markov 链, 标注函数 given 真实标签后条件独立.
+Snorkel 在理念上没有考虑序列标注问题, skweak 则补上个这一点. 打标模型是隐 Markov 模型, 其中真实标签是隐变量, 隐变量序列构成一个 Markov 链 (Snorkel 假设隐变量都是独立的, 没考虑序列关系), 标注函数 given 真实标签后条件独立.
 
 ![](https://shiina18.github.io/assets/posts/images/303365417235832.png)
 
@@ -102,8 +100,17 @@ CHMM: Conditional hidden Markov model substitutes the constant transition and em
 
 ## Further reading
 
+- Snorkel 是 Stanford 一个专注于 data-centric 团队 [Hazy Research](https://hazyresearch.stanford.edu/blog) 的工作, 有商业化产品 [Snorkel AI](https://snorkel.ai/). 它的前身是 [DeepDive](http://deepdive.stanford.edu/) (因此也用了个潜水相关的词). Skweak 目前影响力有限.
+    - 关联资源见 [这里](https://www.snorkel.org/resources/), 它的 [blog](https://www.snorkel.org/blog/) 介绍了很多后来添加的新功能, 包括数据增强, slice 等.
+    - Ratner 2019 年的 [博士论文](https://ajratner.github.io/assets/papers/thesis.pdf), 大合集. Snorkel 后续好像没什么新消息了.
 -  Jay. (2021, Aug 26). [弱监督学习框架 Snorkel 在大规模文本数据集 "自动标注" 任务中的实践](https://mp.weixin.qq.com/s/QFVwePaIx2-0O5ee1J9Z2g). *携程技术*.
+- JayJay. (2021, Jan 23). [工业界如何解决 NER 问题? 12 个 trick, 与你分享~](https://zhuanlan.zhihu.com/p/152463745).
+    - "NER 本质是基于 token 的分类任务, 对噪声极其敏感. 如果盲目应用弱监督方法去解决低资源 NER 问题, 可能会导致全局性的性能下降, 甚至还不如直接基于词典的 NER."
 - [Issue#1254: How to create training data for NER task using snorkel?](https://github.com/snorkel-team/snorkel/issues/1254) 其实并不自然. 另外目前两个框架都不能覆盖关系抽取任务, 只能用来做关系分类 (把实体对作为输入).
+- 为什么主动学习 (active learning) 不温不火: [温文的回答](https://www.zhihu.com/question/439453212/answer/2147806195)
+- [Probabilistic Inference and Factor Graphs - DeepDive](http://deepdive.stanford.edu/inference)
+
+![](https://shiina18.github.io/assets/posts/images/73292915238575.png)
 
 ## Image sources
 

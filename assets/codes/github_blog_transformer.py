@@ -20,7 +20,7 @@ def solve_escape(string, mode='link'):
 
     elif mode == 'math':
         pattern = '\$(.*)\$'
-        rep = {'\{': r'\\{', '\}': r'\\}'}
+        rep = {'\{': r'\\{', '\}': r'\\}', '^*': r'^\ast'}
 
     new_string = []
     index = 0
@@ -78,6 +78,9 @@ for file in os.listdir(source):
                     line = solve_escape(line, 'math')
                     line = solve_display_math(line)
                     line = solve_img(line)
+                    if '^*' in line:
+                        print(os.path.join(source, file))
+                        print(line)
                     g.write(line)
 
 # pages
@@ -94,6 +97,9 @@ for file in os.listdir(source):
                     line = solve_escape(line, 'math')
                     line = solve_display_math(line)
                     line = solve_img(line)
+                    if '^*' in line:
+                        print(os.path.join(source, file))
+                        print(line)
                     g.write(line)
 
 # images
@@ -231,4 +237,4 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
             g.write(line)
 
 print(time.time() - s)
-time.sleep(2)
+input()
