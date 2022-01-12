@@ -12,14 +12,14 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(17)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(18)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(110)</font>
+## Posts <font color="lightgrey">(111)</font>
 
 
 ### Algorithms
@@ -101,6 +101,7 @@ mathjax: true
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop)
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
 - 2021-12-15 `NLP` [BERT 复习](https://shiina18.github.io/machine%20learning/2021/12/15/bert)
+- 2021-12-14 [文档目录抽取](https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction)
 - 2021-12-10 [Transformer 复习](https://shiina18.github.io/machine%20learning/2021/12/10/transformer)
 - 2021-12-06 [[半监督] 非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
 - 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-20 updated)</font>

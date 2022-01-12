@@ -101,8 +101,9 @@ CHMM: Conditional hidden Markov model substitutes the constant transition and em
 ## Further reading
 
 - Snorkel 是 Stanford 一个专注于 data-centric 团队 [Hazy Research](https://hazyresearch.stanford.edu/blog) 的工作, 有商业化产品 [Snorkel AI](https://snorkel.ai/). 它的前身是 [DeepDive](http://deepdive.stanford.edu/) (因此也用了个潜水相关的词). Skweak 目前影响力有限.
+    - 官方 tutorial 中推荐 [这个](https://github.com/snorkel-team/snorkel-tutorials/blob/master/spam/01_spam_tutorial.ipynb).
     - 关联资源见 [这里](https://www.snorkel.org/resources/), 它的 [blog](https://www.snorkel.org/blog/) 介绍了很多后来添加的新功能, 包括数据增强, slice 等.
-    - Ratner 2019 年的 [博士论文](https://ajratner.github.io/assets/papers/thesis.pdf), 大合集. Snorkel 后续好像没什么新消息了.
+    - 作者 Ratner 2019 年的 [博士论文](https://ajratner.github.io/assets/papers/thesis.pdf), 大合集. Snorkel 后续好像没什么新消息了.
 -  Jay. (2021, Aug 26). [弱监督学习框架 Snorkel 在大规模文本数据集 "自动标注" 任务中的实践](https://mp.weixin.qq.com/s/QFVwePaIx2-0O5ee1J9Z2g). *携程技术*.
 - JayJay. (2021, Jan 23). [工业界如何解决 NER 问题? 12 个 trick, 与你分享~](https://zhuanlan.zhihu.com/p/152463745).
     - "NER 本质是基于 token 的分类任务, 对噪声极其敏感. 如果盲目应用弱监督方法去解决低资源 NER 问题, 可能会导致全局性的性能下降, 甚至还不如直接基于词典的 NER."
