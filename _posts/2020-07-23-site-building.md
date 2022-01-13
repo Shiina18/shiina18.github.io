@@ -1,7 +1,7 @@
 ---
 title: "建站记录"
 categories: Miscellanea
-updated: 2021-11-29
+updated: 2022-01-13
 comments: true
 mathjax: false
 ---
@@ -35,10 +35,31 @@ mathjax: false
 
 2020/8/17
 
-- 嵌入视频. B 站嵌入视频上下有约 120 px 的填充物, 宽高比大约 1.8, 宽度似乎要接近 500px 才会有进度条, 宽 500 高 400 刚好. 我不知道怎么让嵌入视频自动适应移动端大小, 只能暂时献祭移动端了. 
+- 嵌入视频. B 站嵌入视频上下有约 120 px 的填充物, 宽高比大约 1.8, 宽度似乎要接近 500px 才会有进度条, 宽 500 高 400 刚好. 我不知道怎么让嵌入视频自动适应移动端大小, 只能暂时献祭移动端了. (现在放弃了, 线下编辑加载太慢了)
 - 嵌入音乐. 网易云有提供外链生成 iframe 插件. 
 - 嵌入其他网页. 推特, ins 都有提供插件. 
 - 在 TeX 用 `align` 和 `label`, 再通过 id 属性页内跳转到编号公式.
+- 下拉栏, 参考 [这里](https://github.com/snorkel-team/snorkel/blob/master/README.md) (2022/1/13)
+
+<details><summary><b>Details on installing with <tt>conda</tt></b></summary>
+<p>
+
+The following example commands give some more color on installing with `conda`.
+These commands assume that your `conda` installation is Python 3.6,
+and that you want to use a virtual environment called `snorkel-env`.
+
+```bash
+# [OPTIONAL] Activate a virtual environment called "snorkel"
+conda create --yes -n snorkel-env python=3.6
+conda activate snorkel-env
+
+# We specify PyTorch here to ensure compatibility, but it may not be necessary.
+conda install pytorch==1.1.0 -c pytorch
+conda install snorkel==0.9.0 -c conda-forge
+```
+
+</p>
+</details>
 
 ### 其他已经发现的 bug
 

@@ -107,7 +107,8 @@ CHMM: Conditional hidden Markov model substitutes the constant transition and em
 -  Jay. (2021, Aug 26). [弱监督学习框架 Snorkel 在大规模文本数据集 "自动标注" 任务中的实践](https://mp.weixin.qq.com/s/QFVwePaIx2-0O5ee1J9Z2g). *携程技术*.
 - JayJay. (2021, Jan 23). [工业界如何解决 NER 问题? 12 个 trick, 与你分享~](https://zhuanlan.zhihu.com/p/152463745).
     - "NER 本质是基于 token 的分类任务, 对噪声极其敏感. 如果盲目应用弱监督方法去解决低资源 NER 问题, 可能会导致全局性的性能下降, 甚至还不如直接基于词典的 NER."
-- [Issue#1254: How to create training data for NER task using snorkel?](https://github.com/snorkel-team/snorkel/issues/1254) 其实并不自然. 另外目前两个框架都不能覆盖关系抽取任务, 只能用来做关系分类 (把实体对作为输入).
+- [Issue #1254: How to create training data for NER task using snorkel?](https://github.com/snorkel-team/snorkel/issues/1254) 其实并不自然. 另外目前两个框架都不能覆盖关系抽取任务, 只能用来做关系分类 (把实体对作为输入).
+- [Issue #803: Question: Has anyone used snorkel for tabular numerical data?](https://github.com/snorkel-team/snorkel/issues/803)
 - 为什么主动学习 (active learning) 不温不火: [温文的回答](https://www.zhihu.com/question/439453212/answer/2147806195)
 - [Probabilistic Inference and Factor Graphs - DeepDive](http://deepdive.stanford.edu/inference)
 
