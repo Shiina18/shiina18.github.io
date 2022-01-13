@@ -42,6 +42,7 @@ mathjax: false
 - 下拉栏, 参考 [这里](https://github.com/snorkel-team/snorkel/blob/master/README.md) (2022/1/13)
 
 <details><summary><b>Details on installing with <tt>conda</tt></b></summary>
+<p>
 
 The following example commands give some more color on installing with `conda`.
 These commands assume that your `conda` installation is Python 3.6,
@@ -57,6 +58,7 @@ conda install pytorch==1.1.0 -c pytorch
 conda install snorkel==0.9.0 -c conda-forge
 ```
 
+</p>
 </details>
 
 ### 其他已经发现的 bug
