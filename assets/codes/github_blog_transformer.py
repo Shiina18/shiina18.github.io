@@ -80,6 +80,10 @@ for file in os.listdir(source):
                 for line in f:
                     details_ht = line.startswith('<details>') or line.startswith('</details>')
                     if details_ht:
+                        # TODO: syntax highlighting requires js which is not urgent
+                        # https://blog.paoloamoroso.com/2021/10/how-to-add-code-syntax-highlighting-to.html
+                        # mathjax is not tested and not urgent
+                        # TODO: whether `|` should be escaped is not tested
                         is_details_tag = not is_details_tag
                     if line.startswith('<details>'):
                         match = re.match('<details><summary>(.*)</summary>', line)
