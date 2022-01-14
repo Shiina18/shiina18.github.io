@@ -42,24 +42,15 @@ mathjax: false
 - 下拉栏, 参考 [这里](https://github.com/snorkel-team/snorkel/blob/master/README.md) (2022/1/13)
 
 <details><summary><b>Details on installing with <tt>conda</tt></b></summary>
-<p>
-
-The following example commands give some more color on installing with `conda`.
-These commands assume that your `conda` installation is Python 3.6,
-and that you want to use a virtual environment called `snorkel-env`.
-
-```bash
-# [OPTIONAL] Activate a virtual environment called "snorkel"
+<p>The following example commands give some more color on installing with <code>conda</code>. These commands assume that your <code>conda</code> installation is Python 3.6, and that you want to use a virtual environment called <code>snorkel-env</code>.</p>
+<pre><code class="language-shell"># [OPTIONAL] Activate a virtual environment called &quot;snorkel&quot;
 conda create --yes -n snorkel-env python=3.6
 conda activate snorkel-env
 
 # We specify PyTorch here to ensure compatibility, but it may not be necessary.
 conda install pytorch==1.1.0 -c pytorch
 conda install snorkel==0.9.0 -c conda-forge
-```
-
-</p>
-</details>
+</code></pre></details>
 
 ### 其他已经发现的 bug
 

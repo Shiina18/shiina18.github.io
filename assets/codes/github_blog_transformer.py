@@ -3,6 +3,8 @@ import re
 import shutil
 import time
 
+import markdown
+
 s = time.time()
 
 # source_dir = r'F:\vnote_notebooks\vnotebook'
@@ -73,7 +75,20 @@ for file in os.listdir(source):
             with open(os.path.join(target, file), encoding='utf-8', mode='w') as g:
                 # solve_display_math
                 flag = 1
+                is_details_tag = False
+                details_tag_lines = []
                 for line in f:
+                    details_ht = line.startswith('<details>') or line.startswith('</details>')
+                    if details_ht:
+                        is_details_tag = not is_details_tag
+                    if is_details_tag and not details_ht:
+                        details_tag_lines.append(line)
+                        continue
+                    if line.startswith('</details>'):
+                        details_md = ''.join(details_tag_lines)
+                        details_tag_lines = []
+                        details_html = markdown.markdown(details_md, extensions=['fenced_code'])
+                        g.write(details_html)
                     line = solve_escape(line, 'link')
                     line = solve_escape(line, 'math')
                     line = solve_display_math(line)
