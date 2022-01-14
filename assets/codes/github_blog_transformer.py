@@ -64,6 +64,21 @@ def solve_img(string, path='https://shiina18.github.io/assets/posts/'):
     return ''.join(new_string)
 
 
+def solve_img2html(string, path='https://shiina18.github.io/assets/posts/'):
+    pattern = '!\[(.*?)\]\((.*?)\)'
+    new_string = []
+    index = 0
+    for match in re.finditer(pattern, string):
+        new_string.append(string[index:match.start(2)])
+        tmp = string[match.start(1):match.end(1)]
+        tmp = f' "{tmp}"' if tmp else ''
+        new_string.extend([path,
+                           string[match.start(2):match.end(2)]])
+        index = match.end(2)
+    new_string.append(string[index:])
+    return ''.join(new_string)
+
+
 # posts
 
 source = os.path.join(source_dir, r'Blogger\Posts')
@@ -83,12 +98,12 @@ for file in os.listdir(source):
                         # TODO: syntax highlighting requires js which is not urgent
                         # https://blog.paoloamoroso.com/2021/10/how-to-add-code-syntax-highlighting-to.html
                         # mathjax is not tested and not urgent
-                        # TODO: whether `|` should be escaped is not tested
                         is_details_tag = not is_details_tag
                     if line.startswith('<details>'):
                         match = re.match('<details><summary>(.*)</summary>', line)
                         line = f'<details><summary>{line[match.start(1):match.end(1)]} <font color="deepskyblue">(Show more &raquo;)</font></summary>'
                     if is_details_tag and not details_ht:
+                        line = solve_img2html(line)
                         details_tag_lines.append(line)
                         continue
                     if line.startswith('</details>'):

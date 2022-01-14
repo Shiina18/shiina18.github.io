@@ -73,8 +73,8 @@ conda install snorkel==0.9.0 -c conda-forge
 
 [Wordpress.com](https://shiina1418.wordpress.com/) -> Github Page -> [Blogger](https://randomwalk034.blogspot.com/) -> Github Page
 
-<details><summary><b>WP 和 blogger 倒是都找到了好看的主题. </b> <font color="deepskyblue">(Show more &raquo;)</font></summary><p><img alt="WordPress" src="images/20200817232911683_26586.png" /></p>
-<p><img alt="Blogger" src="images/20200817232813332_31551.png" /></p>
+<details><summary><b>WP 和 blogger 倒是都找到了好看的主题. </b> <font color="deepskyblue">(Show more &raquo;)</font></summary><p><img alt="WordPress" src="https://shiina18.github.io/assets/posts/images/20200817232911683_26586.png" /></p>
+<p><img alt="Blogger" src="https://shiina18.github.io/assets/posts/images/20200817232813332_31551.png" /></p>
 <p>一点小发现是很多网站比如豆瓣 (<a href="https://www.douban.com/service/badgemaker">豆瓣收藏秀</a>), goodreads (<a href="https://www.goodreads.com/blog/show/42-new-widget-for-your-blog">new widget for your blog</a>) 等会提供一个 JavaScript widget 作为博客插件, 相关讨论帖大多是十多年前的, 非常有年代感, 也间接反映了博客的没落...</p></details>
 
 ### 考虑过/使用过的平台
