@@ -81,6 +81,9 @@ for file in os.listdir(source):
                     details_ht = line.startswith('<details>') or line.startswith('</details>')
                     if details_ht:
                         is_details_tag = not is_details_tag
+                    if line.startswith('<details>'):
+                        match = re.match('<details><summary>(.*)</summary>', line)
+                        line = f'<details><summary>{line[match.start(1):match.end(1)]} <font color="deepskyblue">(Show more &raquo;)</font></summary>'
                     if is_details_tag and not details_ht:
                         details_tag_lines.append(line)
                         continue

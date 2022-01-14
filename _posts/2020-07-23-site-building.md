@@ -41,8 +41,7 @@ mathjax: false
 - 在 TeX 用 `align` 和 `label`, 再通过 id 属性页内跳转到编号公式.
 - 下拉栏, 参考 [这里](https://github.com/snorkel-team/snorkel/blob/master/README.md) (2022/1/13)
 
-<details><summary><b>Details on installing with <tt>conda</tt></b></summary>
-<p>The following example commands give some more color on installing with <code>conda</code>. These commands assume that your <code>conda</code> installation is Python 3.6, and that you want to use a virtual environment called <code>snorkel-env</code>.</p>
+<details><summary><b>Details on installing with <tt>conda</tt></b> <font color="deepskyblue">(Show more &raquo;)</font></summary><p>The following example commands give some more color on installing with <code>conda</code>. These commands assume that your <code>conda</code> installation is Python 3.6, and that you want to use a virtual environment called <code>snorkel-env</code>.</p>
 <pre><code class="language-shell"># [OPTIONAL] Activate a virtual environment called &quot;snorkel&quot;
 conda create --yes -n snorkel-env python=3.6
 conda activate snorkel-env
@@ -50,6 +49,8 @@ conda activate snorkel-env
 # We specify PyTorch here to ensure compatibility, but it may not be necessary.
 conda install pytorch==1.1.0 -c pytorch
 conda install snorkel==0.9.0 -c conda-forge
+</code></pre>
+<pre><code class="language-python">print('test')
 </code></pre></details>
 
 ### 其他已经发现的 bug
