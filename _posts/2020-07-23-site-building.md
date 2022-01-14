@@ -50,8 +50,9 @@ conda activate snorkel-env
 conda install pytorch==1.1.0 -c pytorch
 conda install snorkel==0.9.0 -c conda-forge
 </code></pre></div></div>
-<pre><code class="language-python">print('test')
-</code></pre></details>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>print('test')
+# test
+</code></pre></div></div></details>
 
 ### 其他已经发现的 bug
 
