@@ -22,7 +22,7 @@ def solve_escape(string, mode='link'):
 
     elif mode == 'math':
         pattern = '\$(.*)\$'
-        rep = {'\{': r'\\{', '\}': r'\\}', '^*': r'^\ast'}
+        rep = {'\{': r'\\{', '\}': r'\\}', '^*': r'^\ast', '\#': r'\\#'}
 
     new_string = []
     index = 0
