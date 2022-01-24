@@ -44,7 +44,7 @@ Java 的 [Apache PDFBox](https://pdfbox.apache.org/) 可以得到 pdf 底层信�
 ### Python 包
 
 - [Pdfminer.six](https://github.com/pdfminer/pdfminer.six) 不太能用.
-- [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging. Works best on machine-generated, rather than scanned, PDFs. 
+- [pdfplumber](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging. Works best on machine-generated, rather than scanned, PDFs. 他实现表格抽取的逻辑可以参考 [冰焰虫子的博客](https://iceflameworm.github.io/).
 
 <!--
 ### 其他
@@ -64,7 +64,7 @@ Java 的 [Apache PDFBox](https://pdfbox.apache.org/) 可以得到 pdf 底层信�
     - 数据: 解析后的 pdf 信息, 包括 word, x0, y0, x1, y1, fontsize, fontname. 少量标注数据, 大量无标注数据.
     - 任务: 文档标题层级抽取, 文档开放信息抽取 (属性-属性值对). 
     - 方法: 目前没有找到公开讨论.
-    - 评论: 第一个任务和我们的目标完全吻合, 但给出的案例标题前都有数字, 看起来比较简单 (我们要处理的标题前没有数字).
+    - 评论: 第一个任务和我们的目标完全吻合, 但给出的案例标题前都有数字, 看起来比较简单 (我们要处理的标题前没有数字); 第二个任务看实例也很简单.
 - 虽然不是比赛, 但任务同 CCKS2021. 北邮同学的方法: 改造 Adaboost
     - 文章截图给出的例子是带数字开头标题的保险协议. 一共 1w+ 个 data samples.
     - Yue, T., Li, Y., & Hu, Z. (2021). DWSA: An Intelligent Document Structural Analysis Model for Information Extraction and Data Mining. *Electronics*, *10*(19), 2443.
@@ -111,3 +111,4 @@ Java 的 [Apache PDFBox](https://pdfbox.apache.org/) 可以得到 pdf 底层信�
 - Déjean, H., & Meunier, J.-L. (2010). Reflections on the inex structure extraction competition. *Proceedings of the 9th IAPR International Workshop on Document Analysis Systems*, 301–308.
 - [PaddleOCR新发版v2.2：开源版面分析与轻量化表格识别](https://mp.weixin.qq.com/s/Au6PGio56IJ1bdY3GkaIgg)
 - [CCKS测评任务5 基于 OpenCV 和 Faster R-CNN 的金融财报抽取](https://conference.bj.bcebos.com/ccks2019/eval/webpage/pdfs/eval_paper_5_6.pdf)
+- 比如 Google 的 [Document AI](https://cloud.google.com/document-ai) 重点还是解析表单, 证件等.

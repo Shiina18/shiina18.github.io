@@ -26,6 +26,7 @@ mathjax: false
     - 另外, 缩小图片尺寸可以显著减小图片 (比如用 [这个工具](https://www.iloveimg.com/resize-image)). (2021/2/21)
     - 发现了解决图片压缩和 resize 的免费软件 [RIOT](https://riot-optimizer.com/). (2021/8/22)
 - [gitalk 403 问题](https://cuiqingcai.com/30010.html), 解决办法是在 `gitalk.html` 里新建一个属性 proxy, 再在 `_config.yml` 中填入可用的 proxy. (2021/2/18)
+- gitalk 时不时会无法登录而跳转到主页, 也不是网上其他人的情况. 解决办法是换浏览器或者点击不同文章下面的登录按钮.
 
 写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
 

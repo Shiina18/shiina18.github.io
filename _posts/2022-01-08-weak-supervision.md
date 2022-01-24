@@ -49,7 +49,7 @@ mathjax: true
 We model the true class label for a data point as a latent variable (因为不知道真实标签) in a probabilistic model. In the
 simplest case, we model each labeling function as a noisy "voter" which is **independent**. We can also model statistical dependencies (见原文 3.2 Modeling Structure) between the labeling functions to improve predictive performance.
 
-为什么需要打标模型, 而不是同一个样本的多个标签直接 majority vote? 理想是打标模型能泛化打标函数. 另一个显而易见的原因是打标函数之间可能有相关关系, 导致投票不公平.
+为什么需要打标模型, 而不是同一个样本的多个标签直接 majority vote? 理想是打标模型能泛化打标函数. 另一个显而易见的原因是打标函数之间可能有相关关系, 导致投票不公平. 
 
 > While the generative model is essentially a re-weighted combination of the user-provided labeling functions--which tend to be precise but low-coverage--modern discriminative models can retain this precision while learning to generalize beyond the labeling functions, increasing coverage and robustness on unseen data.
 
@@ -98,12 +98,29 @@ CHMM: Conditional hidden Markov model substitutes the constant transition and em
 
 - Li, Y., Shetty, P., Liu, L., Zhang, C., & Song, L. (2021). BERTifying the Hidden Markov Model for Multi-Source Weakly Supervised Named Entity Recognition. *arXiv preprint arXiv:2105.12848*.
 
+## A few last comments
+
+Label model 其实就是模型集成的 bagging, 而 labeling functions 则为弱分类器, 自然要求它们数量多, 互相有差别而且准确率不低. Snorkel 做了这些事情.
+
+- 把 bagging 用在标注数据上 (并把这个概念包装为 data programming).
+- 数学证明在一定 setting 下, 弱监督可以接近强监督 (用数学包装论文).
+- 用因子图聚合标签. 但他文中其实对这一块讲得比较少, 这个生成模型几版论文好像又变了很多方案, 我没仔细读, 无法评价.
+
+它是一个比较直观可控的 (通过 labeling functions), 几乎免费的 (不需要再调别的东西) 可能带来提升的方式, 可以尝试.
+
+Google AI 博文 [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html) 介绍了他们的弱监督部署经验, 提到可以用不适合放在生产端的资源 (resources that are too slow (e.g. expensive models or aggregate statistics), private (e.g. entity or knowledge graphs), or otherwise unsuitable for deployment) 标注数据, 然后用便宜, 时事的特征训练, 在生产端预测, 达到 "知识迁移" 的效果. 用一套特征标数据, 用另一套特征训练. "This *cross-feature* transfer boosted our performance by an average 52% on the benchmark datasets we created."
+
+Skweak 就是在 snorkel 的基础上套一层 HMM 罢了.
+
 ## Further reading
 
 - Snorkel 是 Stanford 一个专注于 data-centric 团队 [Hazy Research](https://hazyresearch.stanford.edu/blog) 的工作, 有商业化产品 [Snorkel AI](https://snorkel.ai/). 它的前身是 [DeepDive](http://deepdive.stanford.edu/) (因此也用了个潜水相关的词). Skweak 目前影响力有限.
     - 官方 tutorial 中推荐 [这个](https://github.com/snorkel-team/snorkel-tutorials/blob/master/spam/01_spam_tutorial.ipynb).
     - 关联资源见 [这里](https://www.snorkel.org/resources/), 它的 [blog](https://www.snorkel.org/blog/) 介绍了很多后来添加的新功能, 包括数据增强, slice 等.
     - 作者 Ratner 2019 年的 [博士论文](https://ajratner.github.io/assets/papers/thesis.pdf), 大合集. Snorkel 后续好像没什么新消息了.
+    - 虽然论文中没提 NER, 但是他家有 [NER 产品](https://snorkel.ai/solutions/named-entity-recognition/).
+    - Snorkel 团队有 2017 年的文章 SwellShark 做 NER, 代码没有开源. 对嵌套实体用了基于多项分布的 label model, 最后 end model 用的还是 LSTM-CRF, 提升有限, 参考价值有限.
+        - Fries, J., Wu, S., Ratner, A., & Ré, C. (2017). Swellshark: A generative model for biomedical named entity recognition without labeled data. *arXiv Preprint arXiv:1704.06360*.
 -  Jay. (2021, Aug 26). [弱监督学习框架 Snorkel 在大规模文本数据集 "自动标注" 任务中的实践](https://mp.weixin.qq.com/s/QFVwePaIx2-0O5ee1J9Z2g). *携程技术*.
 - JayJay. (2021, Jan 23). [工业界如何解决 NER 问题? 12 个 trick, 与你分享~](https://zhuanlan.zhihu.com/p/152463745).
     - "NER 本质是基于 token 的分类任务, 对噪声极其敏感. 如果盲目应用弱监督方法去解决低资源 NER 问题, 可能会导致全局性的性能下降, 甚至还不如直接基于词典的 NER."

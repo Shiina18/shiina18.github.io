@@ -12,14 +12,14 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(18)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(19)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(111)</font>
+## Posts <font color="lightgrey">(112)</font>
 
 
 ### Algorithms
@@ -97,6 +97,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2022-01-22 [LightGBM](https://shiina18.github.io/machine%20learning/2022/01/22/lightgbm)
 - 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision) <font color="lightgrey">(2022-01-11 updated)</font>
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop)
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
