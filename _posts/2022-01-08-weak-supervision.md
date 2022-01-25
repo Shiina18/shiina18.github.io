@@ -36,7 +36,7 @@ mathjax: true
 - 手写的规则, 正则表达式
 - 远程监督, 领域词典, 外部知识库
 - 弱学习器, 在领域外训练过的模型
-- 文档级函数: 解决文档内的标注一致性问题 (见 skweak)
+- 文档级函数: 解决文档内的标注一致性问题 (见 skweak 原文)
 
 每个函数对样本生成一种标注, 只关注数据的某些方面, 只标注部分数据 (low coverage). 每个样本会得到多个可能会冲突的标注, 将这些标注聚合起来学习一个打标模型 (label model) 以得到最终的标注.
 
@@ -100,15 +100,15 @@ CHMM: Conditional hidden Markov model substitutes the constant transition and em
 
 ## A few last comments
 
-Label model 其实就是模型集成的 bagging, 而 labeling functions 则为弱分类器, 自然要求它们数量多, 互相有差别而且准确率不低. Snorkel 做了这些事情.
+可以把 label model 看成模型集成 (像 bagging), 而 labeling functions 则为弱分类器, 自然要求它们数量多, 互相有差别而且准确率不低. Snorkel 做了这些事情.
 
-- 把 bagging 用在标注数据上 (并把这个概念包装为 data programming).
-- 数学证明在一定 setting 下, 弱监督可以接近强监督 (用数学包装论文).
+- 把集成用在标注数据上.
 - 用因子图聚合标签. 但他文中其实对这一块讲得比较少, 这个生成模型几版论文好像又变了很多方案, 我没仔细读, 无法评价.
+- 数学证明在一定 setting 下, 弱监督可以接近强监督.
 
 它是一个比较直观可控的 (通过 labeling functions), 几乎免费的 (不需要再调别的东西) 可能带来提升的方式, 可以尝试.
 
-Google AI 博文 [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html) 介绍了他们的弱监督部署经验, 提到可以用不适合放在生产端的资源 (resources that are too slow (e.g. expensive models or aggregate statistics), private (e.g. entity or knowledge graphs), or otherwise unsuitable for deployment) 标注数据, 然后用便宜, 时事的特征训练, 在生产端预测, 达到 "知识迁移" 的效果. 用一套特征标数据, 用另一套特征训练. "This *cross-feature* transfer boosted our performance by an average 52% on the benchmark datasets we created."
+Google AI 博文 [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html) 介绍了他们的弱监督部署经验, 提到可以用不适合放在生产端的资源 (resources that are too slow (e.g. expensive models or aggregate statistics), private (e.g. entity or knowledge graphs), or otherwise unsuitable for deployment) 标注数据, 然后用便宜, 实时的特征训练, 在生产端预测, 达到 "知识迁移" 的效果. 用一套特征标数据, 用另一套特征训练. "This *cross-feature* transfer boosted our performance by an average 52% on the benchmark datasets we created."
 
 Skweak 就是在 snorkel 的基础上套一层 HMM 罢了.
 
