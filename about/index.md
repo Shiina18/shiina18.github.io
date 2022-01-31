@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2021-10-09
+Last Updated on 2022-01-29
 
 在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
 
@@ -56,7 +56,12 @@ Last Updated on 2021-10-09
 - [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
+- [Remains of the Day](https://www.eugenewei.com/). by Eugene Wei. `产品`
+    - 2020-08-03 [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat). 这个系列一共三篇, 见总结 [美国 "头学家" 是怎么看待 TikTok 的?](http://www.woshipm.com/it/4397019.html)
 - [SinanTalk](https://sinantang.github.io/). `杂谈`
+    - 2021-07-15 [推荐不自信的人都去学唱歌](https://sinantang.github.io/others/2021/07/15/singing/)
+- [Stratechery](https://stratechery.com/). by Ben Thompson. `产品`
+    - 2015-07-21 [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
 - [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
     - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
 

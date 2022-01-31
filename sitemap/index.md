@@ -11,7 +11,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(32)</font>
-- [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(6)</font>
+- [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(19)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
@@ -19,7 +19,7 @@ mathjax: true
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
 
-## Posts <font color="lightgrey">(112)</font>
+## Posts <font color="lightgrey">(113)</font>
 
 
 ### Algorithms
@@ -88,6 +88,7 @@ mathjax: true
 
 ### Language
 
+- 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2021-10-28 updated)</font>
@@ -107,7 +108,7 @@ mathjax: true
 - 2021-12-06 [[半监督] 非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
 - 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-20 updated)</font>
 - 2021-08-05 [知识蒸馏](https://shiina18.github.io/machine%20learning/2021/08/05/knowledge-distill)
-- 2021-07-29 `NLP` [TPLinker 实体关系抽取以及 NER 变种](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker) <font color="lightgrey">(2021-12-09 updated)</font>
+- 2021-07-29 `NLP` [TPLinker 实体关系抽取以及 NER 变种](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker) <font color="lightgrey">(2022-01-30 updated)</font>
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
 - 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-12-21 updated)</font>
 - 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)

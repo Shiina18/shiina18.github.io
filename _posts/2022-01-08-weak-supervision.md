@@ -7,7 +7,7 @@ comments: true
 mathjax: true
 ---
 
-弱监督旨在避免昂贵的大量手动标注, 而采用编程式的方法生成标注数据. 一般分为两步: 先用「多种来源的带噪声标注规则」(称为 labelling functions) 对「无标注数据」进行标注 (得到 label model), 再把 (用 label model) 生成的标注数据喂给下游模型 (end model) 训练. 理想是 label model 可以泛化 (处理冲突, 平滑标签) labelling functions, 然后 end model 进一步泛化.
+弱监督旨在避免昂贵的大量手动标注, 而采用编程式的方法生成标注数据. 一般分为两步: 先用「多种来源的带噪声标注规则」(称为 labelling functions) 对「无标注数据」进行标注 (得到 label model), 再把 (用 label model) 生成的标注数据喂给下游模型 (end model) 训练. 理想是 label model 可以泛化 (处理冲突, 平滑标签) labelling functions, 然后 end model 进一步泛化. (依然需要一些标注数据作为验证集和测试集以评估效果.)
 
 <!-- more -->
 
@@ -100,17 +100,19 @@ CHMM: Conditional hidden Markov model substitutes the constant transition and em
 
 ## A few last comments
 
-可以把 label model 看成模型集成 (像 bagging), 而 labeling functions 则为弱分类器, 自然要求它们数量多, 互相有差别而且准确率不低. Snorkel 做了这些事情.
+可以把 label model 看成模型集成, 而 labeling functions 则为弱分类器, 希望它们数量多, 互相有差别而且准确率不低. Snorkel 做了这些事情.
 
 - 把集成用在标注数据上.
-- 用因子图聚合标签. 但他文中其实对这一块讲得比较少, 这个生成模型几版论文好像又变了很多方案, 我没仔细读, 无法评价.
+- 用因子图聚合标签. 但他文中其实对这一块讲得比较少, 这个生成模型几版论文好像又变了很多方案 (现在的开源版本基于 matrix completion, 更 scalable), 我没仔细读, 无法评价.
 - 数学证明在一定 setting 下, 弱监督可以接近强监督.
-
-它是一个比较直观可控的 (通过 labeling functions), 几乎免费的 (不需要再调别的东西) 可能带来提升的方式, 可以尝试.
 
 Google AI 博文 [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html) 介绍了他们的弱监督部署经验, 提到可以用不适合放在生产端的资源 (resources that are too slow (e.g. expensive models or aggregate statistics), private (e.g. entity or knowledge graphs), or otherwise unsuitable for deployment) 标注数据, 然后用便宜, 实时的特征训练, 在生产端预测, 达到 "知识迁移" 的效果. 用一套特征标数据, 用另一套特征训练. "This *cross-feature* transfer boosted our performance by an average 52% on the benchmark datasets we created."
 
+文本分类特别契合 "用一套特征标数据, 用另一套特征训练" 的过程, 比如用一些规则标数据, 再用语言模型训练.
+
 Skweak 就是在 snorkel 的基础上套一层 HMM 罢了.
+
+大量高质量的有标注数据依然是成功的关键. 在有充足数据但标注数据少的时候, Snorkel 是一个比较直观可控的 (通过 labeling functions) 可能带来提升的方式, 可以尝试. 
 
 ## Further reading
 
@@ -121,6 +123,7 @@ Skweak 就是在 snorkel 的基础上套一层 HMM 罢了.
     - 虽然论文中没提 NER, 但是他家有 [NER 产品](https://snorkel.ai/solutions/named-entity-recognition/).
     - Snorkel 团队有 2017 年的文章 SwellShark 做 NER, 代码没有开源. 对嵌套实体用了基于多项分布的 label model, 最后 end model 用的还是 LSTM-CRF, 提升有限, 参考价值有限.
         - Fries, J., Wu, S., Ratner, A., & Ré, C. (2017). Swellshark: A generative model for biomedical named entity recognition without labeled data. *arXiv Preprint arXiv:1704.06360*.
+     - [Case studies for Google, Intel, and IBM](https://towardsdatascience.com/snorkel-in-the-wild-weak-supervision-at-google-intel-apple-and-ibm-2e0d77637ee0)
 -  Jay. (2021, Aug 26). [弱监督学习框架 Snorkel 在大规模文本数据集 "自动标注" 任务中的实践](https://mp.weixin.qq.com/s/QFVwePaIx2-0O5ee1J9Z2g). *携程技术*.
 - JayJay. (2021, Jan 23). [工业界如何解决 NER 问题? 12 个 trick, 与你分享~](https://zhuanlan.zhihu.com/p/152463745).
     - "NER 本质是基于 token 的分类任务, 对噪声极其敏感. 如果盲目应用弱监督方法去解决低资源 NER 问题, 可能会导致全局性的性能下降, 甚至还不如直接基于词典的 NER."
