@@ -17,9 +17,9 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(8)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(4)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(6)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(7)</font>
 
-## Posts <font color="lightgrey">(113)</font>
+## Posts <font color="lightgrey">(114)</font>
 
 
 ### Algorithms
@@ -161,6 +161,7 @@ mathjax: true
 
 ### Tech
 
+- 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib)
 - 2021-12-16 [SQL 简单复习与习题集](https://shiina18.github.io/tech/2021/12/16/sql)
 - 2021-08-26 [Python 杂录 2: 最佳实践](https://shiina18.github.io/tech/2021/08/26/python-misc-2) <font color="lightgrey">(2021-09-25 updated)</font>
 - 2021-08-25 [Linux cheatsheet (自用)](https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet)
