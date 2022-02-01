@@ -396,7 +396,8 @@ highlight_theme: normal
 mathjax:
   enable: true
   per_page: true # 打开的话每个 post 默认关闭 tex, 需要手动开启
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+  # cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML  # failed to load on 2022/2/1
+  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.1/es5/tex-mml-chtml.js  # 直接复制了 vnote2 的配置
 
 # Han Support docs: https://hanzi.pro/
 han: false
