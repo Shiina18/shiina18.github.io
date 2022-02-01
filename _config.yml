@@ -399,7 +399,7 @@ mathjax:
   # cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML  # failed to load on 2022/2/1
   # cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.1/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML  # 直接复制了 vnote2 的配置, Inline math 不显示
   # cdn: //cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML  # 随便复制了 https://github.com/theme-next/hexo-theme-next/issues/1415
-  cdn: //cdn.jsdelivr.net/npm/mathjax@2.7.1/unpacked/MathJax.min.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: //cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
 han: false
