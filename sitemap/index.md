@@ -88,7 +88,7 @@ mathjax: true
 
 ### Language
 
-- 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/java)
+- 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/first-java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
 - 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2021-10-28 updated)</font>
