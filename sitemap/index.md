@@ -110,7 +110,7 @@ mathjax: true
 - 2021-08-05 [知识蒸馏](https://shiina18.github.io/machine%20learning/2021/08/05/knowledge-distill)
 - 2021-07-29 `NLP` [TPLinker 实体关系抽取以及 NER 变种](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker) <font color="lightgrey">(2022-01-30 updated)</font>
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
-- 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2021-12-21 updated)</font>
+- 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2022-02-01 updated)</font>
 - 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
 - 2020-08-15 `Time Series` [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
 - 2020-08-12 `Time Series` [关于 Facebook Prophet 中 future changepoints 的一个脚注 (知乎)](https://zhuanlan.zhihu.com/p/181708348)

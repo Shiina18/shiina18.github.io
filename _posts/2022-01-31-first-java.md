@@ -6,6 +6,8 @@ comments: true
 mathjax: true
 ---
 
+翻阅了 [官方 tutorial](https://docs.oracle.com/javase/tutorial/).
+
 与 Python 比较
 
 - `new` 相当于在 Python 中显式地调用 `__init__` 方法.
@@ -44,7 +46,12 @@ $$
 
 其中 $c_{i, i}$ 表示 $(X'X)^{-1}$ 的第 $i$ 行第 $i$ 列, 残差 $u = y- X\hat\beta$ (右下角这一坨是 $\hat \sigma$), 符号 $t_{n-p}$ 表示自由度为 $n-p$ 的 t 分布. 最后 $2\mathbb P(Z > \vert\tau_i\vert)$ 则为第 $i$ 项对应的 p-value, 其中随机变量 $Z \sim t_{n-p}$.
 
-实现见 [这里](https://gist.github.com/Shiina18/844dcd880e5a377adc9880536f0d0563), 其中 Javadoc 的写法参考了官方文档风格, 用函数重载实现了类似默认参数的效果.
+实现见 [这里](https://gist.github.com/Shiina18/844dcd880e5a377adc9880536f0d0563), 其中 
+
+- 在 `TDistribution` 构造函数中显式传入 `rng=null` 避免创建随机数生成器;
+- 用了 Apache 的 FastMath: Faster, more accurate, portable alternative to Math and StrictMath for large scale computation.;
+- 用函数重载实现了类似默认参数的效果, 避免重复计算 beta;
+- Javadoc 的写法参考了 Apache Commns Math 官方文档风格.
 
 
 ## 其他
