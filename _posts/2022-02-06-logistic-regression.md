@@ -24,6 +24,8 @@ $$
 
 周志华西瓜书上把动机说为用 sigmoid 逼近阶梯函数, 虽然 sigmoid 可以, 但并不必要.
 
+<!-- more -->
+
 ## 为什么不用最小二乘?
 
 不能用 OLS 但可以用别的最小二乘, 参考 [Logistic 回归模型的参数估计为什么不能采用最小二乘法?](https://www.zhihu.com/question/23817253). 下面讨论为什么 OLS 不行.
@@ -85,8 +87,6 @@ $$
 $$
 
 收敛快.
-
-<!-- more -->
 
 ## References and further reading
 
