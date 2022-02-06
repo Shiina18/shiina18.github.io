@@ -98,7 +98,7 @@ mathjax: true
 
 ### Machine Learning
 
-- 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logistic-regression)
+- 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logreg)
 - 2022-01-22 [LightGBM](https://shiina18.github.io/machine%20learning/2022/01/22/lightgbm)
 - 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision) <font color="lightgrey">(2022-01-11 updated)</font>
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop) <font color="lightgrey">(2022-02-05 updated)</font>
