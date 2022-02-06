@@ -1,0 +1,96 @@
+---
+title: "逻辑回归复习: 为什么不用 OLS"
+categories: 
+- Machine Learning
+tags: 
+updated: 
+comments: true
+mathjax: true
+---
+
+把 logisitic 翻译成逻辑并不恰当, 但就先这么用了.
+
+## A quick go through
+
+有很多路径可以得到逻辑回归, 最直接地, 它是广义线性模型, 假设 log odds 可以线性表示 (从而决策边界是线性的), 即
+
+$$
+\log \frac{\mathbb P (Y = 1 \mid X)}{\mathbb P (Y = 0 \mid X)} = \beta'X,
+$$
+
+其中 $Y \in \\{0, 1\\}$, 随机向量 $X = (1, X_2, \dots, X_{p+1})'$, 参数 $\beta = (\beta_1, \dots, \beta_{p+1})'$. 用极大似然估计参数, 用 Newton 法计算优化问题. 类似地容易推广到 softmax 形式.
+
+**Motivation** 我认为可以这样理解: (1) 决策边界是线性的, 于是有右边项 $\beta'X$; (2) 两个概率之比大于某个阈值则预测为其中一个, 而由于概率非负, 所以最便利的让 odds 非负的办法是写为 $\exp(\beta'X)$, 或者其他任何单调变化都可以. 最后两个概率之和为 1 天然成立.
+
+周志华西瓜书上把动机说为用 sigmoid 逼近阶梯函数, 虽然 sigmoid 可以, 但并不必要.
+
+## 为什么不用最小二乘?
+
+不能用 OLS 但可以用别的最小二乘, 参考 [Logistic 回归模型的参数估计为什么不能采用最小二乘法?](https://www.zhihu.com/question/23817253). 下面讨论为什么 OLS 不行.
+
+**MLE 性质好** 线性回归用的最小二乘估计恰好等价于极大似然估计: 在一般线性回归的 setting 下 (残差服从 Gauss 分布等假设), 可以证明 MLE (极大似然估计) 和 MSE (最小二乘估计) 等价; 而 MLE 有很多好性质 (在正则条件下), 比如相合性 (估计收敛到真实参数) 和渐近正态性等. 
+
+**凸优化好求解** 经典统计问题求解 MLE 都是凸优化, 这个问题也是: 负对数似然为
+
+$$
+L_{\text{MLE}} = \sum_{i=1}^n \left[ 
+- y_i \beta' x_i + \log (1 + \mathrm{e}^{\beta'x_i})
+\right],
+$$ 
+
+其中 $n$ 是样本数, $y_i$ 是第 $i$ 个样本的标签 (0 或 1), $x_i = (x_{i, 1}, \dots, x_{i, p+1})'$ 是第 $i$ 个样本的特征 (列向量, 第一项为 1). 根据二阶导易知为凸.
+
+普通最小二乘的损失函数 
+
+$$
+L_{\text{OLS}} = \frac12\sum_{i=1}^n (y_i - \hat y_i)^2,
+$$
+
+其中 $\hat y_i = \sigma(\beta' x_i)$, $\sigma$ 为 sigmoid 函数. 求导
+
+$$
+\begin{align*}
+\frac{\partial L_{\text{OLS}}}{\partial \beta_j} 
+&= \sum_{i=1}^n x_{ij} (\hat y_i - y_i) \hat y_i (1 - \hat y_i) \\
+&= - \sum_{i=1}^n x_{ij} \left(
+\hat y_i^3 - (1+y_i)\hat y_i^2 + y_i \hat y_i
+\right),
+\end{align*}
+$$
+
+以及
+
+$$
+\frac{\partial^2 L_{\text{OLS}}}{\partial \beta_j \partial \beta_k}
+= - \sum_{i=1}^n x_{ij} x_{ik} \hat y_i (1 - \hat y_i)
+\left(
+3 \hat y_i^2 - 2(1+y_i)\hat y_i + y_i
+\right).
+$$
+
+上式可写为矩阵形式
+
+$$
+H_{\text{OLS}} = - X'AX,
+$$
+
+其中 $X = (x_{ij})$ 是矩阵 (和上一节的定义不同),  $A$ 是对角阵. 根据 $y_i$ 取 0 或 1 分类讨论易知 $A$ 不一定负定, 从而 $H_{\text{OLS}}$ 不一定正定, 也就是 OLS 的损失函数不一定为凸.
+
+**收敛速度快** 对 OLS, 从上一段求出的梯度中有 $\hat y_i (1 - \hat y_i)$ (来自 sigmoid 函数求导), 比如若 $y_i = 1$, 但 $\hat y_i$ 接近 0, 此时梯度依然很平缓, 导致收敛速度慢.
+
+对 MLE 
+
+$$
+\frac{\partial L_{\text{MLE}}}{\partial \beta_j} = \sum_i x_{ij}(\hat y_i - y_i),
+$$
+
+收敛快.
+
+<!-- more -->
+
+## References and further reading
+
+- [r - What is happening here, when I use squared loss in logistic regression setting? - Cross Validated](https://stats.stackexchange.com/questions/326350/what-is-happening-here-when-i-use-squared-loss-in-logistic-regression-setting)
+- [why sum of squared errors for logistic regression not used and instead maximum likelihood estimation is used to fit the model? - Cross Validated](https://stats.stackexchange.com/questions/251496/why-sum-of-squared-errors-for-logistic-regression-not-used-and-instead-maximum-l)
+- [逻辑回归损失函数为什么使用最大似然估计而不用最小二乘法?](https://www.zhihu.com/question/65350200)
+- [machine learning - Intuition behind logistic regression - Cross Validated](https://stats.stackexchange.com/questions/71176/intuition-behind-logistic-regression)

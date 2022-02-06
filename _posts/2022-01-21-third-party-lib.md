@@ -8,8 +8,6 @@ mathjax: false
 
 大多是常用第三方库.
 
-<!-- more -->
-
 ## Numpy
 
 ### `np.nan`
@@ -18,6 +16,8 @@ mathjax: false
 - `np.nan` is a floating point constant.
 
 Ref: [Python NumPy For Your Grandma - 3.5 nan](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-3-5-nan)
+
+<!-- more -->
 
 ## Pandas
 

@@ -51,7 +51,7 @@ $$
 - 在 `TDistribution` 构造函数中显式传入 `rng=null` 避免创建随机数生成器;
 - 用了 Apache 的 FastMath: Faster, more accurate, portable alternative to Math and StrictMath for large scale computation.;
 - 用函数重载实现了类似默认参数的效果, 避免重复计算 beta;
-- Javadoc 的写法参考了 Apache Commns Math 官方文档风格.
+- Javadoc 的写法参考了 Apache Commons Math 官方文档风格.
 
 
 ## 其他
