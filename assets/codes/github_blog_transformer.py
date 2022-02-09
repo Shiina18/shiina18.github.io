@@ -1,6 +1,5 @@
 # TODO
-# - 重构代码
-# - 根据文件修改时间决定是否覆盖
+# - 重构代码: 现在代码冗余太多
 
 import os
 import re
@@ -90,8 +89,13 @@ target = os.path.join(target_dir, r'shiina18.github.io\_posts')
 
 for file in os.listdir(source):
     if file.endswith('.md'):
-        with open(os.path.join(source, file), encoding='utf-8') as f:
-            with open(os.path.join(target, file), encoding='utf-8', mode='w') as g:
+        source_path = os.path.join(source, file)
+        target_path = os.path.join(target, file)
+        if os.path.exists(target_path) and (
+                os.path.getmtime(source_path) <= os.path.getmtime(target_path)):
+            continue
+        with open(source_path, encoding='utf-8') as f:    
+            with open(target_path, encoding='utf-8', mode='w') as g:
                 # solve_display_math
                 flag = 1
                 is_details_tag = False
@@ -131,8 +135,13 @@ target = os.path.join(target_dir, r'shiina18.github.io')
 
 for file in os.listdir(source):
     if '.' not in file and file not in {'Posts', '_v_attachments', 'images'}:
-        with open(os.path.join(source, file, 'index.md'), encoding='utf-8') as f:
-            with open(os.path.join(target, file, 'index.md'), encoding='utf-8', mode='w') as g:
+        source_path = os.path.join(source, file, 'index.md')
+        target_path = os.path.join(target, file, 'index.md')
+        if os.path.exists(target_path) and (
+                os.path.getmtime(source_path) <= os.path.getmtime(target_path)):
+            continue
+        with open(source_path, encoding='utf-8') as f:
+            with open(target_path, encoding='utf-8', mode='w') as g:
                 for line in f:
                     line = solve_escape(line, 'link')
                     line = solve_escape(line, 'math')
@@ -150,7 +159,11 @@ target = os.path.join(target_dir, r'shiina18.github.io\assets\posts\images')
 
 for file in os.listdir(source):
     if file.endswith('.jpg') or file.endswith('.png') or file.endswith('.gif'):
-        shutil.copyfile(os.path.join(source, file), os.path.join(target, file))
+        source_path = os.path.join(source, file)
+        target_path = os.path.join(target, file)
+        if os.path.exists(target_path) and (os.path.getmtime(source_path) <= os.path.getmtime(target_path)):
+            continue
+        shutil.copyfile(source_path, target_path)
 
 # sitemap
 
