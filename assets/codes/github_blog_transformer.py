@@ -1,3 +1,7 @@
+# TODO
+# - 重构代码
+# - 根据文件修改时间决定是否覆盖
+
 import os
 import re
 import shutil
@@ -253,7 +257,7 @@ md_guide = '''
 '''
 
 str_userguide = f'''
-<details><summary><b>分类说明</tt></b></summary>
+<details><summary><b>分类说明</b></summary>
 {markdown.markdown(md_guide, extensions=['fenced_code'])}
 </details>
 '''

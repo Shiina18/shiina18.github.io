@@ -19,7 +19,7 @@ mathjax: true
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(7)</font>
 
-<details><summary><b>分类说明</tt></b></summary>
+<details><summary><b>分类说明</b></summary>
 <ul>
 <li>技术类<ul>
 <li><a href="https://shiina18.github.io/sitemap/#machine-learning">#machine-learning</a>: 包含深度学习</li>
