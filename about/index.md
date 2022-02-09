@@ -5,15 +5,11 @@ comments: true
 mathjax: false
 ---
 
-Last Updated on 2022-01-29
+Last updated on 2022-01-29
 
-在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
-
-与其说是博客, 这更像是我个人的线上公开笔记本, 便于自己在不同设备上翻阅. 目前并不太关注读者体验和传播: 做到完全 self-contained, 重复对我而言很熟悉的 prerequisites (但通常会附上参考, 保留英语原文供溯源), 限制自己的表达方式, 不值当. 
+我是 C7. 与其说是博客, 这更像是我个人的线上公开笔记本, 便于自己在不同设备上翻阅. 在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 文章采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
 
 ## 社交账号
-
-各平台文章均不重复, 不会搬运于本博客.
 
 - 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
 - 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)

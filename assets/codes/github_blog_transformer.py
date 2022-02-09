@@ -241,6 +241,23 @@ for cat in posts_from_other_sites.keys():
 site = 'https://shiina18.github.io'
 target = os.path.join(target_dir, r'shiina18.github.io\sitemap')
 
+md_guide = '''
+- 技术类
+    - [#machine-learning](https://shiina18.github.io/sitemap/#machine-learning): 包含深度学习
+    - [#tech](https://shiina18.github.io/sitemap/#tech): 更一般的计算机技术, 以及工程问题, 单纯关于编程语言的文章则归入 [#language](https://shiina18.github.io/sitemap/#language)
+    - [#algorithms](https://shiina18.github.io/sitemap/#algorithms): 算法导论和编程题 (如 LeetCode) 相关
+- 数学类: 简单但有趣的问题, 包含严格证明
+    - [#mathematics](https://shiina18.github.io/sitemap/#mathematics): 包含概率论
+    - [#statistics](https://shiina18.github.io/sitemap/#statistics)
+- 其他分类都 self-explained
+'''
+
+str_userguide = f'''
+<details><summary><b>分类说明</tt></b></summary>
+{markdown.markdown(md_guide, extensions=['fenced_code'])}
+</details>
+'''
+
 with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
     g.write('---\n')
     g.write('title: Sitemap\n')
@@ -252,7 +269,8 @@ with open(os.path.join(target, 'index.md'), encoding='utf-8', mode='w') as g:
     for cat in sorted(cated.keys()):
         # url = '/'.join([site, 'category', '#', cat.replace(" ", "%20")])
         url = '/'.join([site, 'sitemap', f'#{cat.replace(" ", "-").lower()}'])
-        g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')
+        g.write(f'- [{cat}]({url}) <font color="lightgrey">({len(cated[cat])})</font>\n')  
+    g.write(str_userguide)
 
     g.write(f'\n## Posts <font color="lightgrey">({sum(len(cated[cat]) for cat in cated.keys())})</font>\n\n')
     for cat in sorted(cated.keys()):

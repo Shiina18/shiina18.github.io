@@ -19,6 +19,23 @@ mathjax: true
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(3)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(7)</font>
 
+<details><summary><b>分类说明</tt></b></summary>
+<ul>
+<li>技术类<ul>
+<li><a href="https://shiina18.github.io/sitemap/#machine-learning">#machine-learning</a>: 包含深度学习</li>
+<li><a href="https://shiina18.github.io/sitemap/#tech">#tech</a>: 更一般的计算机技术, 以及工程问题, 单纯关于编程语言的文章则归入 <a href="https://shiina18.github.io/sitemap/#language">#language</a></li>
+<li><a href="https://shiina18.github.io/sitemap/#algorithms">#algorithms</a>: 算法导论和编程题 (如 LeetCode) 相关</li>
+</ul>
+</li>
+<li>数学类: 简单但有趣的问题, 包含严格证明<ul>
+<li><a href="https://shiina18.github.io/sitemap/#mathematics">#mathematics</a>: 包含概率论</li>
+<li><a href="https://shiina18.github.io/sitemap/#statistics">#statistics</a></li>
+</ul>
+</li>
+<li>其他分类都 self-explained</li>
+</ul>
+</details>
+
 ## Posts <font color="lightgrey">(115)</font>
 
 
