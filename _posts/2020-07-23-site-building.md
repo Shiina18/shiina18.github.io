@@ -28,7 +28,7 @@ mathjax: false
 - [gitalk 403 问题](https://cuiqingcai.com/30010.html), 解决办法是在 `gitalk.html` 里新建一个属性 proxy, 再在 `_config.yml` 中填入可用的 proxy. (2021/2/18)
 - gitalk 时不时会无法登录而跳转到主页, 也不是网上其他人的情况. 解决办法是换浏览器或者点击不同文章下面的登录按钮.
 
-写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/codes/github_blog_transformer.py) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的.
+写了一个 [简陋的 Python 脚本](https://github.com/Shiina18/shiina18.github.io/blob/master/assets/code/post_adapter) 自动处理线下线上的 gap. 另外, 主题自带的 categories 页面不好看, 也一并集成在脚本中了. 功能并不完善, 是按照个人 md 写作习惯写的. 2022 年重构了代码.
 
 另外在修改样式的时候, [Agent Ransack](https://www.mythicsoft.com/agentransack/) 的全文搜索功能非常有帮助.
 
@@ -42,7 +42,8 @@ mathjax: false
 - 在 TeX 用 `align` 和 `label`, 再通过 id 属性页内跳转到编号公式.
 - 下拉栏, 参考 [这里](https://github.com/snorkel-team/snorkel/blob/master/README.md) (2022/1/13)
 
-<details><summary><b>Details on installing with <tt>conda</tt></b> <font color="deepskyblue">(Show more &raquo;)</font></summary><p>The following example commands give some more color on installing with <code>conda</code>. These commands assume that your <code>conda</code> installation is Python 3.6, and that you want to use a virtual environment called <code>snorkel-env</code>.</p>
+<details><summary><b>Details on installing with <tt>conda</tt></b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
+<p>The following example commands give some more color on installing with <code>conda</code>. These commands assume that your <code>conda</code> installation is Python 3.6, and that you want to use a virtual environment called <code>snorkel-env</code>.</p>
 <pre><code class="language-shell"># [OPTIONAL] Activate a virtual environment called &quot;snorkel&quot;
 conda create --yes -n snorkel-env python=3.6
 conda activate snorkel-env
@@ -57,7 +58,7 @@ conda install snorkel==0.9.0 -c conda-forge
 
 ### 其他已经发现的 bug
 
-- 长 code block 在手机端会被截断, 只能显示前 66 行.
+- 长 code block 在手机端会被截断, 只能显示前 66 行, 和 [这个](https://www.sidmartinbio.org/how-many-lines-is-a-standard-sheet-of-paper/) 巧合?
 - 一行中有多个 inline math, 里面有 `_` 的场合, 依然会被编译成斜体, 在 `_` 两边加空格可以解决. (2020/9/23)
 
 ### 其他想修正的点
@@ -68,13 +69,14 @@ conda install snorkel==0.9.0 -c conda-forge
 - 段落间距修正.
 - header 的上下间距修正.
 - 点开 post 之后标题和正文之间的间距修正.
-- 点击 read more 之后自动跳转到 read more 位置. (后来发现内置就有这个功能, 但不知道为什么不起作用, 可能是因为关闭了动画?)
+- 点击 read more 之后自动跳转到 read more 位置. (不起作用的原因是 page 里没有相应的 id)
 
 ## 过往博客
 
 [Wordpress.com](https://shiina1418.wordpress.com/) -> Github Page -> [Blogger](https://randomwalk034.blogspot.com/) -> Github Page
 
-<details><summary><b>WP 和 blogger 倒是都找到了好看的主题. </b> <font color="deepskyblue">(Show more &raquo;)</font></summary><p><img alt="WordPress" src="https://shiina18.github.io/assets/posts/images/20200817232911683_26586.png" /></p>
+<details><summary><b>WP 和 blogger 倒是都找到了好看的主题.</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
+<p><img alt="WordPress" src="https://shiina18.github.io/assets/posts/images/20200817232911683_26586.png" /></p>
 <p><img alt="Blogger" src="https://shiina18.github.io/assets/posts/images/20200817232813332_31551.png" /></p>
 <p>一点小发现是很多网站比如豆瓣 (<a href="https://www.douban.com/service/badgemaker">豆瓣收藏秀</a>), goodreads (<a href="https://www.goodreads.com/blog/show/42-new-widget-for-your-blog">new widget for your blog</a>) 等会提供一个 JavaScript widget 作为博客插件, 相关讨论帖大多是十多年前的, 非常有年代感, 也间接反映了博客的没落...</p></details>
 

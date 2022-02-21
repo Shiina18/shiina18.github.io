@@ -4,8 +4,7 @@ layout: page
 mathjax: true
 ---
 
-
-## Categories  <font color="lightgrey">(11)</font>
+## Categories <font color="lightgrey">(11)</font>
 
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
@@ -37,7 +36,6 @@ mathjax: true
 </details>
 
 ## Posts <font color="lightgrey">(115)</font>
-
 
 ### Algorithms
 

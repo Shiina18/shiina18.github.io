@@ -1,3 +1,4 @@
+# Deprecated
 # TODO
 # - 重构代码: 现在代码冗余太多
 
@@ -24,7 +25,7 @@ def solve_escape(string, mode='link'):
         rep = {'|': '\|'}
 
     elif mode == 'math':
-        pattern = '\$(.*)\$'
+        pattern = '\$(.*?)\$'
         rep = {'\{': r'\\{', '\}': r'\\}', '^*': r'^\ast', '\#': r'\\#'}
 
     new_string = []
