@@ -4,7 +4,7 @@ import inspect
 
 import markdown
 
-from config import *
+from config import joinurl, SITE_HOSTNAME
 
 
 @dataclasses.dataclass()
@@ -48,6 +48,8 @@ EXTERNAL_POSTS = {
              updated='2022-01-09')
     ],
     'Games': [
+        Post('2022-03-20', '【中村名局】第三十八局, 明星, 对长谷川一人 (知乎)', 'https://zhuanlan.zhihu.com/p/484040607', tags='Renju'),
+        Post('2022-03-09', '游戏王 Master Duel 比赛试办: 公开卡组双盘制 (公众号)', 'https://mp.weixin.qq.com/s/tWCjb1TBSYF__EKyfutZhQ'),
         Post('2020-08-04', 'KTS 的瑞士轮算分机制 (增补) (公众号)', 'https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg'),
         Post('2021-02-02', '复盘一把简单却曲折的五子棋对局 (公众号)', 'https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg', tags='Renju'),
         Post('2018-08-02', 'Tracker 与 KTS 的瑞士轮算分机制 (公众号)', 'https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ'),

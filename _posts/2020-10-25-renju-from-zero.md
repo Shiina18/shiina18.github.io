@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2021-09-03
+updated: 2022-03-18
 comments: true
 mathjax: false
 ---
@@ -82,7 +82,7 @@ mathjax: false
 
 - 温顺的瓜皮猫. (2020, Jun 3). [五子棋中, 先手下棋到底有多大的优势?](https://www.zhihu.com/question/267273167/answer/323472412). *知乎*.
 - 五子剑. (2009, Jun 29). [五子剑系列讲座](http://www.wuzi8.com/xiti/HTML/1752.html). *中国五子棋网*.
-- 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料.
+- 叉色-xsir. (2019, Mar 11). [一个非常硬核的五子棋资料站](https://zhuanlan.zhihu.com/p/51846364). *知乎*.  Ando 的连珠教室的一些资料. **还翻译了《连珠名局集-第七世名人 中村茂》** (2022/3/18)
 - [xsir31 分享的若干资源](https://github.com/xsir317/ku10/tree/master/resources). 包括一些日语和英语的资源. 
 - 松浦浩七段. [連珠苦楽部](http://matsurenju.game.coocan.jp/). 包括用习题的方式讲解定式.
 - 那智暴虐のれんじゅいし. (2018, Aug 10). [【連珠】入門、初心者の方が最初に覚える形について自分なりに考察した【五目並べ】](https://www.youtube.com/watch?v=J1kmzW9A95U). *YouTube*.

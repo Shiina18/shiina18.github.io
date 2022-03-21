@@ -1,7 +1,9 @@
 import collections
+import re
 
-from sitemap_base import *
-from utils import *
+from config import joinurl, SITE_HOSTNAME, POST_DST_DIR
+from sitemap_base import Post, CAT_DESC_HTML, EXTERNAL_POSTS
+from utils import Tag
 
 
 def get_meta(path) -> dict[str, str]:

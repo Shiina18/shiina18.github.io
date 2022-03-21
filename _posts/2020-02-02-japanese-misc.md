@@ -1,10 +1,20 @@
 ---
 title: "日语杂录"
 categories: Language
-updated: 2021-05-23
+updated: 2022-03-20
 comments: true
 mathjax: false
 ---
+
+## 天王山
+
+2022/3/20
+
+意思是关键点
+
+参考 [「天王山」の意味と語源とは？分野別の使い方と例文・英語も紹介 \| TRANS.Biz](https://biz.trans-suite.jp/37136)
+
+<!-- more -->
 
 ## やむを得ない
 
@@ -13,8 +23,6 @@ mathjax: false
 古语.「やむを得ない」即「やむことを得ない」省略了「こと」的形式.
 
 - 黄色潜水艇. (2021, May 23). [やむを得ない 是止む为什么不是止み?](https://www.zhihu.com/question/460871624/answer/1900540256). *知乎*.
-
-<!-- more -->
 
 ## 糸
 

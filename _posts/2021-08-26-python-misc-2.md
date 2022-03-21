@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录 2: 最佳实践"
 categories: Tech
-updated: 2021-09-25
+updated: 2022-03-15
 comments: true
 mathjax: false
 ---
@@ -232,3 +232,13 @@ class JsonMessageFormatter(logging.Formatter):
 - Ward. B. (2018, Sep 1). [Python Custom Logging Handler Example](https://dzone.com/articles/python-custom-logging-handler-example). *DZone*.
 
 此外还有一个专门的库 [python-json-logger](https://github.com/madzak/python-json-logger), 不过这次用不到.
+
+## pytest and assert
+
+2022/3/15
+
+比原生的 unittest 方便.
+
+遇到 ModuleNotFoundError, 可以尝试在 tests 目录下加上 `__init__.py`, 参考 [这个回答](https://stackoverflow.com/questions/54895002/modulenotfounderror-with-pytest). 我自己是参考 [sklearn 的格式](https://github.com/scikit-learn/scikit-learn/blob/1fc86b6aacd89da44a3b4e8abf7c3e2ba4336ffe/sklearn/datasets/tests/test_samples_generator.py) 写的.
+
+注意 assert 在平时的代码中是可以 disable 掉的, 参考 [RealPython 的介绍](https://realpython.com/python-assert-statement/#disabling-assertions-in-production-for-performance), 因此在代码中也不应该 except AssertionError.

@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last updated on 2021-12-14
+Last updated on 2022-03-14
 
 虽说标题写着 notes, 但其实基本没有正儿八经的 notes, 只是杂乱物品的堆放. 通常是博客其他文章没有用到的材料. (2019/9/29)
 
@@ -60,6 +60,10 @@ Fengnan Gao 老师在 2017 Fall Statistical Learning 用过这个讲义, 主要�
 精简易读, 以很少的前置知识介绍了随机分析最主干的内容, 路线比较自然, typo 不少 (不过一般都容易自己看出来). GTM274: *Brownian Motion, Martingales, and Stochastic Calculus* by Le Gall (他是 19 年的 Wolf 数学奖得主) 的主体框架也和这个讲义相似, 非常友好, 比 GTM113: *Brownian Motion and Stochastic Calculus* by Shreve 友好多了.
 
 ## Snippets
+
+- [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
+
+版本号命名规范. (2022/3/14)
 
 - [Pearson's chi-square test](http://personal.psu.edu/drh20/asymp/fall2006/lectures/ANGELchpt07.pdf)
 

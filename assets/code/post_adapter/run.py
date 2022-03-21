@@ -1,8 +1,13 @@
+import logging
 import shutil
 import time
 
-from adapter import *
-from sitemap import *
+from adapter import PostAdapter
+from config import (
+    SRC_ROOT, DST_ROOT, POST_SRC_DIR, POST_DST_DIR, IMG_SRC_DIR, IMG_DST_DIR
+)
+from sitemap import get_sitemap
+from utils import should_update
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.DEBUG, format='%(levelname)s | %(message)s')
@@ -39,6 +44,5 @@ for path in IMG_SRC_DIR.iterdir():
 
 # sitemap
 (DST_ROOT / 'sitemap' / 'index.md').write_text(get_sitemap(), encoding='utf8')
-
-print(time.time() - start_time)
+logger.info(f'Elapsed time: {time.time() - start_time: .2f} s')
 input()

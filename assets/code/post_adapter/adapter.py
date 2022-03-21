@@ -1,7 +1,11 @@
+import logging
+import pathlib
+import re
+
 import markdown
 
-from config import *
-from utils import *
+from config import joinurl, IMG_URL_ROOT
+from utils import Tag
 
 logger = logging.getLogger(__name__)
 
@@ -17,7 +21,8 @@ class BaseAdapter:
         elif string.startswith(r'\begin{align') and not self.is_wrapped_display:
             string = '$$\n' + string
         elif string.startswith(r'\end{align') and not self.is_wrapped_display:
-            assert string.endswith('\n')
+            if not string.endswith('\n'):
+                raise ValueError(f'Not ends with return {string}')
             string = string + '$$\n'
         return string
 

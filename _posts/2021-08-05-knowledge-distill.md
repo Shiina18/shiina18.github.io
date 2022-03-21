@@ -1,5 +1,5 @@
 ---
-title: "知识蒸馏"
+title: "知识蒸馏简要"
 categories: 
 - Machine Learning
 updated:
@@ -42,6 +42,7 @@ $$
 
 ## Further reading
 
+- 基于 PyTorch 的 NLP 知识蒸馏工具 [TextBrewer](https://github.com/airaria/TextBrewer)
 - [为什么要压缩模型, 而不是直接训练一个小的 CNN?](https://www.zhihu.com/question/303922732)
 - Gordon, M. A. (2020, Jan 13). [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html). 
 - Sanh, V. (2019). [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5). 提出者
