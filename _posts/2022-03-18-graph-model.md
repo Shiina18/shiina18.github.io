@@ -18,7 +18,7 @@ Directed graphs are useful for expressing causal relationships between random va
 
 把 $\mathbb P(X \in A)$ 记为 $p(X)$, 因为很多时候不关心 $A$, 只是用后者表示 $X$ 对应的概率测度. 
 
-另外记 $p(X) = \sum_Y p(X, Y)$, 这里 $\sum_Y$ 只是积分的简记. 以及 $p(X, Y) = p(Y|X) p(X)$. 
+另外记 $p(X) = \sum_Y p(X, Y)$, 这里 $\sum_Y$ 只是积分的简记. 以及 $p(X, Y) = p(Y\vert X) p(X)$. 
 
 这套记号虽然失去了一点严谨性, 但是很方便, 也抓住了精髓.
 
