@@ -1,12 +1,13 @@
 import collections
 import re
+from typing import *
 
 from config import joinurl, SITE_HOSTNAME, POST_DST_DIR
 from sitemap_base import Post, CAT_DESC_HTML, EXTERNAL_POSTS
 from utils import Tag
 
 
-def get_meta(path) -> dict[str, str]:
+def get_meta(path) -> Dict[str, str]:
     with open(path, encoding='utf8') as reader:
         separator_count = 0
         # only single value for each key is supported

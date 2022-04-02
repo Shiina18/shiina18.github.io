@@ -1,7 +1,7 @@
 ---
 title: "Python 第三方库杂录"
 categories: Tech
-updated: 
+updated: 2022-03-24
 comments: true
 mathjax: false
 ---
@@ -32,6 +32,54 @@ Ref: [python - In pandas, is inplace = True considered harmful, or not? - Stack 
 真的很搞.
 
 Ref: [python - Converting between datetime, Timestamp and datetime64 - Stack Overflow](https://stackoverflow.com/questions/13703720/converting-between-datetime-timestamp-and-datetime64)
+
+### Pandas 1.1 `isin` bug
+
+2022/3/24
+
+```python
+import pandas as pd
+
+a = pd.Series([42])
+b = pd.Series(['42'])
+a.isin(b)  # True in 1.1
+b.isin(a)  # False in 1.1
+# Both are False since 1.2
+```
+
+> Strings and integers are distinct and are therefore not comparable
+
+这句话从 1.2 版本才出现在 [文档](https://pandas.pydata.org/pandas-docs/version/1.2/reference/api/pandas.Series.isin.html) 中, 相关 issue 见 [Pandas doesn't always cast strings to int consistently when using .isin()](https://github.com/pandas-dev/pandas/issues/24918).
+
+### Pandas 1.3 inconsistent `where`
+
+2022/3/24
+
+Pandas 1.2
+
+```python
+>>> import pandas as pd
+>>> import numpy as np
+>>> df = pd.DataFrame([0.5, np.nan])
+>>> df.where(pd.notnull(df), None)
+     0
+0  0.5
+1  None
+```
+
+Pandas 1.3
+
+```python
+>>> import pandas as pd
+>>> import numpy as np
+>>> df = pd.DataFrame([0.5, np.nan])
+>>> df.where(pd.notnull(df), None)
+     0
+0  0.5
+1  NaN
+```
+
+See the issue [https://github.com/pandas-dev/pandas/issues/42423](https://github.com/pandas-dev/pandas/issues/42423)
 
 ## SQLAlchemy
 

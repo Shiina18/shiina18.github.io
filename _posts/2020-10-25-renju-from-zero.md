@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2022-03-18
+updated: 2022-03-31
 comments: true
 mathjax: false
 ---
@@ -57,6 +57,7 @@ mathjax: false
     - [弈心](https://www.aiexp.info/pages/yixin.html): 作者孙锴, 上交 CS 本, Cornell CS PhD. 在 katago 和 embryo 出现前是无敌的 AI.
     - [Embryo](https://github.com/Hexik/Embryo_engine). 如果设备跑不动 katago 的话就只能选择这个了. 另外还有基于 embryo 的制谱器, 可以在 QQ 群获取.
     - [Katago](https://www.bilibili.com/read/cv10402376). 乱杀奕心, 现在普通配置的电脑也跑得动. (2021/8/29)
+        - 现在还有智子五子棋.
 
 ## 网上资源
 
@@ -77,6 +78,7 @@ mathjax: false
 - [587 连珠](http://587.renju.org.tw/). 很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. 作者是台湾顶尖棋手林書玄. 
 - [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章.
 - [連珠雑記](https://renjuvarious.hatenablog.jp/). 日本棋手博客, 有不少实用习题讲解等. (2021/9/3)
+- [The Renju International Federation Portal - RenjuNet](https://www.renju.net/). 官网. 去年看还是上个世纪的页面水平, 现在更新了很多东西. (2022/3/31)
 
 ### 其他资源
 
