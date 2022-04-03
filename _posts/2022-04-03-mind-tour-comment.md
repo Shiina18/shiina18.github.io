@@ -21,7 +21,7 @@ Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https
 
 ![](https://shiina18.github.io/assets/posts/images/326062115238870.png)
 
-在白 14 后, 我分析局面如下: 黑棋应该没有必胜, 但是执黑高手会发现黑棋有利 (实际狗显示这个局面黑棋劣势). 我的目光在几个选点上移动: 平庸的 A, 乐观的 B, 远离的 C, 干练的 D, 控盘的 E —— 选择太多了! 但是 Michał 却拍出了下图的 15, 完全出乎我意料. 这个点看起来对白棋已经没有很大价值了, 所以这一手的意图有两个, 一边准备进攻一边防守. 对手让先, 不能错过机会! 我没有思考太多, 只确认了可以做 VCT (g11 h11 f9) 就下了 16.
+在白 14 后, 我分析局面如下: 黑棋应该没有显然的下法, 但是执黑高手会发现黑棋有利 (实际狗显示这个局面黑棋劣势). 我的目光在几个选点上移动: 平庸的 A, 乐观的 B, 远离的 C, 干练的 D, 控盘的 E —— 选择太多了! 但是 Michał 却拍出了下图的 15, 完全出乎我意料. 这个点看起来对白棋已经没有很大价值了, 所以这一手的意图有两个, 一边准备进攻一边防守. 对手让先, 不能错过机会! 我没有思考太多, 只确认了可以做 VCT (g11 h11 f9) 就下了 16.
 
 <details><summary><b>至 16 的局面, 不理有 T</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
 <p><img alt="" src="https://shiina18.github.io/assets/posts/images/533942815226737.png" /></p></details>
@@ -30,7 +30,7 @@ Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https
 
 ![](https://shiina18.github.io/assets/posts/images/370913916226108.png)
 
-现在局面看起来很简单, 但这个感觉是错的, 局面实际上纵横交错. 我的第一想法是下在 j6 —— 简单可靠的强防. 但这样我会丢先, (如果黑棋能从下面发起进攻并包围我的棋子,) 黑棋无需理会上面的白棋. 另一方面, 我没算到黑棋的 VCT. 此外, 多年前 Ants (应该是指索索夫) 对我说过要直面恐惧. 想到 Michał 的 Berger 系数 (瑞士制破评分规则的一种) 比我高得多, 意味着平局对他有利, 我最终决定把白 22 落在上方试图最大化利用它. 同时这一手也破坏了黑棋的一些资源, 比如 f 线, 很好.
+现在局面看起来很简单, 但这个感觉是错的, 局面实际上纵横交错. 白 22 我的第一想法是下在 j6 —— 简单可靠的强防. 但这样我会丢先, (如果黑棋能从下面发起进攻并包围我的棋子,) 黑棋无需理会上面的白棋. 另一方面, 我没算到黑棋的 VCT. 此外, 多年前 Ants (应该是指索索夫) 对我说过要直面恐惧. 想到 Michał 的 Berger 系数 (瑞士制破评分规则的一种) 比我高得多, 意味着平局对他有利, 我最终决定把白 22 落在上方试图最大化利用它. 同时这一手也破坏了黑棋的一些资源, 比如 f 线, 很好.
 
 <details><summary><b>至 23 的局面, 防左有 T</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
 <p><img alt="" src="https://shiina18.github.io/assets/posts/images/407110816236127.png" /></p></details>
