@@ -52,12 +52,12 @@ EXTERNAL_POSTS = {
         Post('2022-03-22', '【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)', 'https://zhuanlan.zhihu.com/p/485666026', tags='Renju'),
         Post('2022-03-21', '【中村名局】第 39 局, 岚月, 对 Ingvar Sundling (知乎)', 'https://zhuanlan.zhihu.com/p/484993455', tags='Renju'),
         Post('2022-03-20', '【中村名局】第 38 局, 明星, 对长谷川一人 (知乎)', 'https://zhuanlan.zhihu.com/p/484040607', tags='Renju'),
-        Post('2022-03-09', '游戏王 Master Duel 比赛试办: 公开卡组双盘制 (公众号)', 'https://mp.weixin.qq.com/s/tWCjb1TBSYF__EKyfutZhQ'),
-        Post('2020-08-04', 'KTS 的瑞士轮算分机制 (增补) (公众号)', 'https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg'),
+        Post('2022-03-09', '游戏王 Master Duel 比赛试办: 公开卡组双盘制 (公众号)', 'https://mp.weixin.qq.com/s/tWCjb1TBSYF__EKyfutZhQ', tags='YGO'),
+        Post('2020-08-04', 'KTS 的瑞士轮算分机制 (增补) (公众号)', 'https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg', tags='YGO'),
         Post('2021-02-02', '复盘一把简单却曲折的五子棋对局 (公众号)', 'https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg', tags='Renju'),
-        Post('2018-08-02', 'Tracker 与 KTS 的瑞士轮算分机制 (公众号)', 'https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ'),
-        Post('2020-02-09', 'Challonge 的瑞士轮算分与匹配机制 (公众号)', 'https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g'),
-        Post('2016-10-07', '上海决斗都市战报 (公众号)', 'https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g')
+        Post('2018-08-02', 'Tracker 与 KTS 的瑞士轮算分机制 (公众号)', 'https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ', tags='YGO'),
+        Post('2020-02-09', 'Challonge 的瑞士轮算分与匹配机制 (公众号)', 'https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g', tags='YGO'),
+        Post('2016-10-07', '上海决斗都市战报 (公众号)', 'https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g', tags='YGO')
     ],
     'Food and Cooking': [
         Post('2021-01-01', '黄焖是什么意思? (公众号)', 'https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw'),

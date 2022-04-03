@@ -73,13 +73,13 @@ mathjax: true
 - 2022-03-22 `Renju` [【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)](https://zhuanlan.zhihu.com/p/485666026)
 - 2022-03-21 `Renju` [【中村名局】第 39 局, 岚月, 对 Ingvar Sundling (知乎)](https://zhuanlan.zhihu.com/p/484993455)
 - 2022-03-20 `Renju` [【中村名局】第 38 局, 明星, 对长谷川一人 (知乎)](https://zhuanlan.zhihu.com/p/484040607)
-- 2022-03-09 [游戏王 Master Duel 比赛试办: 公开卡组双盘制 (公众号)](https://mp.weixin.qq.com/s/tWCjb1TBSYF__EKyfutZhQ)
+- 2022-03-09 `YGO` [游戏王 Master Duel 比赛试办: 公开卡组双盘制 (公众号)](https://mp.weixin.qq.com/s/tWCjb1TBSYF__EKyfutZhQ)
 - 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro) <font color="lightgrey">(2021-10-21 updated)</font>
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei) <font color="lightgrey">(2022-02-21 updated)</font>
 - 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2022-01-04 updated)</font>
 - 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2021-12-25 updated)</font>
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
-- 2021-03-12 [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh) <font color="lightgrey">(2022-03-15 updated)</font>
+- 2021-03-12 `YGO` [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh) <font color="lightgrey">(2022-03-15 updated)</font>
 - 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games) <font color="lightgrey">(2021-04-09 updated)</font>
 - 2021-02-02 `Renju` [复盘一把简单却曲折的五子棋对局 (公众号)](https://mp.weixin.qq.com/s/eu8Rvl4ca-T9UX129ND6wg)
 - 2021-01-31 `Renju` [第 2 届道馆杯五子棋争霸赛战报](https://shiina18.github.io/games/2021/01/31/renju-contest)
@@ -99,13 +99,13 @@ mathjax: true
 - 2020-10-27 `Renju` [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
 - 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-03-31 updated)</font>
 - 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
-- 2020-08-04 [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
+- 2020-08-04 `YGO` [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外改版 OV mod 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2021-01-21 updated)</font>
-- 2020-02-09 [Challonge 的瑞士轮算分与匹配机制 (公众号)](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
+- 2020-02-09 `YGO` [Challonge 的瑞士轮算分与匹配机制 (公众号)](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2021-03-21 updated)</font>
-- 2018-08-02 [Tracker 与 KTS 的瑞士轮算分机制 (公众号)](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
-- 2016-10-07 [上海决斗都市战报 (公众号)](https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g)
+- 2018-08-02 `YGO` [Tracker 与 KTS 的瑞士轮算分机制 (公众号)](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
+- 2016-10-07 `YGO` [上海决斗都市战报 (公众号)](https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g)
 
 ### Language
 
@@ -119,7 +119,7 @@ mathjax: true
 
 ### Machine Learning
 
-- 2022-03-29 [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
+- 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
 - 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi)
 - 2022-03-03 [到达时间预测两则: Uber 和美团](https://shiina18.github.io/machine%20learning/2022/03/03/predict-eta)
 - 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse)

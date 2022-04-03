@@ -2,6 +2,7 @@
 title: "词权重求和背后的假设"
 categories: 
 - Machine Learning
+tags: NLP
 updated: 
 comments: true
 mathjax: true
