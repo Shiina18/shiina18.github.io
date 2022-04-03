@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(38)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(23)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(24)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(9)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
@@ -35,7 +35,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(127)</font>
+## Posts <font color="lightgrey">(128)</font>
 
 ### Algorithms
 
@@ -120,6 +120,7 @@ mathjax: true
 ### Machine Learning
 
 - 2022-03-29 [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
+- 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi)
 - 2022-03-03 [到达时间预测两则: Uber 和美团](https://shiina18.github.io/machine%20learning/2022/03/03/predict-eta)
 - 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse)
 - 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logreg)

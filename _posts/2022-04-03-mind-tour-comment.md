@@ -49,7 +49,7 @@ Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https
 
 总之, 比赛继续. 事实上, 在 38 40 之后, 黑只剩下无望的防守了. 之前考虑的唯一问题是我能不能做反 V 防守, 怎么做. 我的对手并没有给我做出华丽反击的机会, 所以我对上方局面一无所知. 不过之后黑棋下了一些唯一防的几手, 尽可能削减了我的材料, 并拍下了 51 防守.
 
-想象一下有多少种下法映入我的眼帘! 但是时间紧迫, 我只剩四分钟了, 所以我只能计算最有希望的一路. 上方有三个眠三, 在 c11 再做三个眠三应该不会错. 此外, 很容易看出有两个独立的两步 VCF (b9 d11, d10 f10), 所以黑必须把斜活三冲掉, 但这样又给了白新的 V (h12 f12). Smooth on paper, but I was under heavy stress (and I had adrenaline in my blood, remember, just a few minutes ago Michał was killing me) so the lines mix, stones jump and wink. Barely managed.
+想象一下有多少种下法映入我的眼帘! 但是时间紧迫, 我只剩四分钟了, 所以我只能计算最有希望的一路. 上方有三个眠三, 在 c11 再做三个眠三应该不会错. 此外, 很容易看出有两个独立的两步 VCF (b9 d11, d10 f10), 所以黑必须把斜眠三冲掉, 但这样又给了白新的 V (h12 f12). Smooth on paper, but I was under heavy stress (and I had adrenaline in my blood, remember, just a few minutes ago Michał was killing me) so the lines mix, stones jump and wink. Barely managed.
 
 Well, that's all, the job was done. Thank you, Michał, a mutually devastating game it was!
 
