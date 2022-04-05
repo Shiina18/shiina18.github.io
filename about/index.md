@@ -39,8 +39,6 @@ Last updated on 2022-02-08
     - 2012-01-26 [Research Notes: 为什么跨学科的研究项目是件残酷的事](http://blog.farmostwood.net/643.html)
     - 2016-07-20 [乞力马扎罗的八天和一夜](http://blog.farmostwood.net/830.html)
     - 2016-12-03 [我为什么反对川普](http://blog.farmostwood.net/837.html)
-- [万事屋](https://tcya.xyz/). by 杨洵默. `统计`
-    - 2017-07-16 [心理学的危机](https://tcya.xyz/2017/07/16/p_value.html) 可以去统计之都或者公众号的下面看评论
 - [谢益辉的个人主页](https://yihui.org/). 统计之都创始人
     - 2009-05-11 [统计学和计量经济学的神奇?](http://www.loyhome.com/统计学和计量经济学的神奇？) 虽然是其他博客的, 但用了大量该博客的文章
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
@@ -73,6 +71,8 @@ Last updated on 2022-02-08
     - 2013-06-21 [吹牛大王 Baron Münchhausen](http://localhost-8080.com/2013/06/baron-munchhausen-the-tall-tale-teller/)
 - 2017-10-17 [刘未鹏 \| Mind Hacks](http://mindhacks.cn/): 思维改变生活. `杂谈`
     - 2009-02-15 [[BetterExplained] 为什么你应该 (从现在开始就) 写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
+- 2020-06-19 [万事屋](https://tcya.xyz/). by 杨洵默. `统计`
+    - 2017-07-16 [心理学的危机](https://tcya.xyz/2017/07/16/p_value.html) 可以去统计之都或者公众号的下面看评论
 - 2013-03-27 [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
 
 ## Random Links
