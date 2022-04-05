@@ -15,7 +15,7 @@ mathjax: true
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(9)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
-- [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(4)</font>
+- [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(7)</font>
 
 <details><summary><b>分类说明</b></summary>
@@ -35,7 +35,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(128)</font>
+## Posts <font color="lightgrey">(129)</font>
 
 ### Algorithms
 
@@ -183,6 +183,7 @@ mathjax: true
 
 ### Statistics
 
+- 2022-03-27 [孟加拉国口罩试验: 效应量显著地比统计显著性更重要](https://shiina18.github.io/statistics/2022/03/27/mask-rct)
 - 2022-03-18 [概率图模型基本概念](https://shiina18.github.io/statistics/2022/03/18/graph-model)
 - 2020-11-19 [Notes on statistics done wrong](https://shiina18.github.io/statistics/2020/11/19/wrong-stats)
 - 2020-09-16 [多重共线性](https://shiina18.github.io/statistics/2020/09/16/multicollinearity)
