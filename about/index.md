@@ -39,11 +39,14 @@ Last updated on 2022-02-08
     - 2012-01-26 [Research Notes: 为什么跨学科的研究项目是件残酷的事](http://blog.farmostwood.net/643.html)
     - 2016-07-20 [乞力马扎罗的八天和一夜](http://blog.farmostwood.net/830.html)
     - 2016-12-03 [我为什么反对川普](http://blog.farmostwood.net/837.html)
+- [万事屋](https://tcya.xyz/). by 杨洵默. `统计`
+    - 2017-07-16 [心理学的危机](https://tcya.xyz/2017/07/16/p_value.html) 可以去统计之都或者公众号的下面看评论
 - [谢益辉的个人主页](https://yihui.org/). 统计之都创始人
     - 2009-05-11 [统计学和计量经济学的神奇?](http://www.loyhome.com/统计学和计量经济学的神奇？) 虽然是其他博客的, 但用了大量该博客的文章
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
 - [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) ([旧网址](http://pywonderland.com/)). by 赵亮. `数学`
+- [argmin](http://www.argmin.net/). by Ben Recht. `统计` `机器学习`
 - [Benkuhn](https://www.benkuhn.net/). `杂谈`
     - 2020-02 [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 - [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 

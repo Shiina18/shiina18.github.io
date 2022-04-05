@@ -68,7 +68,7 @@ mathjax: true
 
 ### Games
 
-- 2022-04-03 `Renju` [2020 年棋博会连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
+- 2022-04-03 `Renju` [2020 年第一届 \"智圣\" 智力运动会连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
 - 2022-03-30 `Renju` [【中村名局】第 41 局, 瑞星, 对西川厚 (知乎)](https://zhuanlan.zhihu.com/p/487873516)
 - 2022-03-22 `Renju` [【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)](https://zhuanlan.zhihu.com/p/485666026)
 - 2022-03-21 `Renju` [【中村名局】第 39 局, 岚月, 对 Ingvar Sundling (知乎)](https://zhuanlan.zhihu.com/p/484993455)
@@ -129,7 +129,7 @@ mathjax: true
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop) <font color="lightgrey">(2022-02-05 updated)</font>
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
 - 2021-12-15 `NLP` [BERT 复习](https://shiina18.github.io/machine%20learning/2021/12/15/bert)
-- 2021-12-14 [文档目录抽取](https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction)
+- 2021-12-14 [文档目录抽取](https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction) <font color="lightgrey">(2022-04-03 updated)</font>
 - 2021-12-10 [Transformer 复习](https://shiina18.github.io/machine%20learning/2021/12/10/transformer)
 - 2021-12-06 [[半监督] 非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
 - 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-20 updated)</font>

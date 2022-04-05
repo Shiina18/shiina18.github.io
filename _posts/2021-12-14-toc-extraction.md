@@ -2,7 +2,7 @@
 title: "文档目录抽取"
 categories: 
 - Machine Learning
-updated: 
+updated: 2022-04-03
 comments: true
 mathjax: false
 ---
@@ -38,6 +38,7 @@ Java 的 [Apache PDFBox](https://pdfbox.apache.org/) 可以得到 pdf 底层信�
 
 开源工具 [pdf2htmlEX](https://pdf2htmlex.github.io/pdf2htmlEX/) 可以高质量地还原 pdf 排版, 但是很慢而且几乎无法从其生成的 html 中读出结构信息, 可定制性低, 难以后续处理, 文件大.
 
+- 起一个坏名字. (2022). [PDF 系列科普视频](https://www.bilibili.com/video/BV1Mr4y1679f).
 - 北京庖丁科技. (2020, Mar 24). [为什么说从 PDF 中提取文本是一件困难的事?](https://mp.weixin.qq.com/s/99LlGzr1K1LrigW1w6uCgg).
 - 北京庖丁科技. (2020, Dec 7). [电子文档全景结构识别漫谈](https://mp.weixin.qq.com/s/aH2kEqtUElAtub3El1l_kg).
 

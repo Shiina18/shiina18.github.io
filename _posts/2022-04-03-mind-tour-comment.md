@@ -1,5 +1,5 @@
 ---
-title: "2020 年棋博会连珠冠军 Epifanov Dmitry 自战棋评"
+title: "2020 年第一届 \"智圣\" 智力运动会连珠冠军 Epifanov Dmitry 自战棋评"
 categories: Games
 tags: Renju
 updated: 
@@ -7,7 +7,7 @@ comments: true
 mathjax: false
 ---
 
-[Epifanov Dmitry](https://renjunews.com/author/dmitry/) 是来自俄罗斯莫斯科的棋手, 1995 年接触连珠, 98 年开始参赛. 这是他在第八届棋博会 (欧洲赛区?) 7-0 夺冠的自战棋评, 相当通俗易懂. 我删减了一些无关紧要的话, 在括号里补充了一些. [比赛结果见这里](https://www.vint.ee/en-gb/tournament/result/168683/).
+[Epifanov Dmitry](https://renjunews.com/author/dmitry/) 是来自俄罗斯莫斯科的顶尖棋手, 1995 年接触连珠, 98 年开始参赛. 这是他在 ["信雅达杯" 第一届 "智圣" 智力运动会第一届五子棋比赛海外专业组](http://www.zgqyhzfy.com/web/matchdetail.do?newsguid=8a7f00f97452ab7801751fa77a990641) 7-0 夺冠的自战棋评, 相当通俗易懂. 我删减了一些无关紧要的话, 在括号里补充了一些. [比赛结果见这里](https://www.vint.ee/en-gb/tournament/result/168683/).
 
 Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https://renjunews.com/the-1st-mind-master-tournament-comments/). *RenjuNews*.
 
