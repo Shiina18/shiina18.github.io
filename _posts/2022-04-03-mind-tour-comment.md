@@ -1,5 +1,5 @@
 ---
-title: "2020 年第一届 \"智圣\" 智力运动会连珠冠军 Epifanov Dmitry 自战棋评"
+title: "2020 年第一届 \"智圣\" 智力运动会线上连珠冠军 Epifanov Dmitry 自战棋评"
 categories: Games
 tags: Renju
 updated: 
@@ -7,7 +7,7 @@ comments: true
 mathjax: false
 ---
 
-[Epifanov Dmitry](https://renjunews.com/author/dmitry/) 是来自俄罗斯莫斯科的顶尖棋手, 1995 年接触连珠, 98 年开始参赛. [郝天一曾经在通信赛与其对局过.](https://zhuanlan.zhihu.com/p/59415723) 这是他在 ["信雅达杯" 第一届 "智圣" 智力运动会第一届五子棋比赛海外专业组](http://www.zgqyhzfy.com/web/matchdetail.do?newsguid=8a7f00f97452ab7801751fa77a990641) 7-0 夺冠的自战棋评, 相当通俗易懂. 我删减了一些无关紧要的话, 在括号里补充了一些. [比赛结果见这里](https://www.vint.ee/en-gb/tournament/result/168683/). 
+[Epifanov Dmitry](https://renjunews.com/author/dmitry/) 是来自俄罗斯莫斯科的顶尖棋手, 1995 年接触连珠, 98 年开始参赛. [郝天一曾经在通信赛与其对局过.](https://zhuanlan.zhihu.com/p/59415723) 这是他在 ["信雅达杯" 第一届 "智圣" 智力运动会第一届五子棋比赛海外专业组](http://www.zgqyhzfy.com/web/matchdetail.do?newsguid=8a7f00f97452ab7801751fa77a990641) 7-0 夺冠的自战棋评, 相当通俗易懂. 我翻译时删减了一些无关紧要的话, 在括号里补充了一些. [比赛结果见这里](https://www.vint.ee/en-gb/tournament/result/168683/). 
 
 Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https://renjunews.com/the-1st-mind-master-tournament-comments/). *RenjuNews*.
 
@@ -21,16 +21,17 @@ Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https
 
 ![](https://shiina18.github.io/assets/posts/images/326062115238870.png)
 
-在白 14 后, 我分析局面如下: 黑棋应该没有显然的下法, 但是执黑高手会发现黑棋有利 (实际狗显示这个局面黑棋劣势). 我的目光在几个选点上移动: 平庸的 A, 乐观的 B, 远离的 C, 干练的 D, 控盘的 E —— 选择太多了! 但是 Michał 却拍出了下图的 15, 完全出乎我意料. 这个点看起来对白棋已经没有很大价值了, 所以这一手的意图有两个, 一边准备进攻一边防守. 对手让先, 不能错过机会! 我没有思考太多, 只确认了可以做 VCT (g11 h11 f9) 就下了 16.
+在白 14 后, 我分析局面如下: 黑棋应该没有显然的下法, 但是执黑高手会发现黑棋有利. 我的目光在几个选点上移动: 平庸的 A, 乐观的 B, 远离的 C, 干练的 D, 控盘的 E —— 选择太多了! 但是 Michał 却拍出了下图的 15, 完全出乎我意料. 这个点看起来对白棋已经没有很大价值了, 所以这一手的意图有两个, 一边准备进攻一边防守. 对手让先, 不能错过机会! 我没有思考太多, 只确认了可以做 VCT (g11 h11 f9) 就下了 16.
 
 <details><summary><b>至 16 的局面, 不理有 T</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
-<p><img alt="" src="https://shiina18.github.io/assets/posts/images/533942815226737.png" /></p></details>
+<p><img alt="" src="https://shiina18.github.io/assets/posts/images/533942815226737.png" /></p>
+<p>实际白 14 狗显示这个局面黑棋劣势, 而不是作者认为的有利.</p></details>
 
-我计划如果对手 i5 活三就防下 (并且也期望对手这么下). 但是 Michał 下得很小心, 先防了我一条重要线路. 白方很难维持上方的先手: 因为只有一个活二, 而且如果直接活掉就浪费了. 因此基本作战计划是缓缓地包围黑棋, 于是下了如下 18. Michał 此时在 i5 活三了. 在对局中, 我认为这个活三不合时宜, 但现在我倾向赞同 Michał 的选择. 在按计划下止活三后, 黑 21 破坏了我的活二.
+我计划如果对手 i5 活三就防下 (并且也期望对手这么下). 但是 Michał 下得很谨慎, 先防了我一条重要线路. 白方很难维持上方的先手: 因为只有一个活二, 而且如果直接活掉就浪费了. 因此基本作战计划是缓缓地包围黑棋, 于是下了如下 18. Michał 此时在 i5 活三了. 在对局中, 我认为这个活三不合时宜, 但现在我倾向赞同 Michał 的选择. 在按计划下止活三后, 黑 21 破坏了我的活二.
 
 ![](https://shiina18.github.io/assets/posts/images/370913916226108.png)
 
-现在局面看起来很简单, 但这个感觉是错的, 局面实际上纵横交错. 白 22 我的第一想法是下在 j6 —— 简单可靠的强防. 但这样我会丢先, (如果黑棋能从下面发起进攻并包围我的棋子,) 黑棋无需理会上面的白棋. 另一方面, 我没算到黑棋的 VCT. 此外, 多年前 Ants (应该是指索索夫) 对我说过要直面恐惧. 想到 Michał 的 Berger 系数 (瑞士制破评分规则的一种) 比我高得多, 意味着平局对他有利, 我最终决定把白 22 落在上方试图最大化利用它. 同时这一手也破坏了黑棋的一些资源, 比如 f 线, 很好.
+现在局面看起来很简单, 但这个感觉是错的, 局面实际上纵横交错. 白 22 我的第一想法是下在 j6 —— 简单可靠的强防. 但这样我会丢先, (如果黑棋能从下面发起进攻并包围我的棋子,) 黑棋无需理会上面的白棋. 另一方面, 我没算到黑棋的 VCT. 此外, 多年前 Ants (索索夫) 对我说过要直面恐惧. 想到 Michał 的 Berger 系数 (瑞士制破平分规则的一种) 比我高得多, 意味着平局对他有利, 我最终决定把白 22 落在上方试图最大化利用它. 同时这一手也破坏了黑棋的一些资源, 比如 f 线, 很好.
 
 <details><summary><b>至 23 的局面, 防左有 T</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
 <p><img alt="" src="https://shiina18.github.io/assets/posts/images/407110816236127.png" /></p></details>
@@ -43,7 +44,7 @@ Epifanov Dmitry. (2020, Oct 13). [The 1st Mind Master Tournament comments](https
 
 ![](https://shiina18.github.io/assets/posts/images/281554016248548.png)
 
-黑 37 在 d5 做 V 很有意思, 但我发现了一个简单明确的防守: 先冲四, 然后活三, 这个三对手要防, 之后黑就没威胁了. 黑 37 有更好的点吗? 黑棋有胜吗? 我没有看见任何好点, 简略的电脑复盘也没有给出正面结果 (狗: 17 后白 90+ 胜率, 之后一直维持着白必胜的局面). 第 27 手有没有更强的点? 可能. 比如黑 27-35, 而且可能大胆的白 22 不好 (上下都能胜, 狗的一选是这个, 但是如果人脑无法确定下面黑是否能胜确实有风险). 木已成舟, 我对白 22 并不后悔, 但是在对局时还挺后悔的.
+黑 37 在 d5 做 V 很有意思, 但我发现了一个简明的防守: 先冲四, 然后活三, 这个三对手要防, 之后黑就没威胁了. 黑 37 有更好的点吗? 黑棋有胜吗? 我没有看见任何好点, 简略的电脑复盘也没有给出正面结果 (狗: 17 后白 90+ 胜率, 之后一直维持着白必胜的局面). 第 27 手有没有更强的点? 可能. 比如黑 27-35, 而且可能大胆的白 22 不好. 木已成舟, 我对白 22 并不后悔, 但是在对局时还挺后悔的. (狗的意见是 22 上面对攻或者下面防都能胜)
 
 ![](https://shiina18.github.io/assets/posts/images/466485816237230.png)
 

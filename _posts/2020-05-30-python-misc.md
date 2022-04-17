@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2021-10-28
+updated: 2022-04-11
 comments: true
 mathjax: true
 ---
@@ -9,6 +9,16 @@ mathjax: true
 [第二篇杂录](https://shiina18.github.io/tech/2021/08/26/python-misc-2/) 侧重最佳实践.
 
 最近 (2021/10/28) 发现官方文档有 [Programming FAQ — Python 3.10.0 documentation](https://docs.python.org/3/faq/programming.html), 很有用.
+
+## Pickle is insecure
+
+2022/4/11
+
+很早就知道 pickle 不安全, 但是没有见过实际例子, 下文就是一例.
+
+Ben Frederickson. (2014). [Don't Pickle Your Data](https://www.benfrederickson.com/dont-pickle-your-data/)
+
+<!-- more -->
 
 ## 上下文管理器
 
@@ -30,8 +40,6 @@ dy_dx = tape.gradient(y, x)
 ```
 
 如名字所示, tape 表示它像一个磁带, 记录前馈操作, 之后取出磁带反向传播. [源码](https://github.com/tensorflow/tensorflow/blob/a4dfb8d1a71385bd6d122e4f27f86dcebb96712d/tensorflow/python/eager/backprop.py#L847-L874) 中实现的 `__enter__` 和 `__exit__` 方法正是如此.
-
-<!-- more -->
 
 ## Codetags
 

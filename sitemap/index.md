@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(9)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(7)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(8)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -35,7 +35,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(129)</font>
+## Posts <font color="lightgrey">(130)</font>
 
 ### Algorithms
 
@@ -68,7 +68,7 @@ mathjax: true
 
 ### Games
 
-- 2022-04-03 `Renju` [2020 年第一届 \"智圣\" 智力运动会连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
+- 2022-04-03 `Renju` [2020 年第一届 \"智圣\" 智力运动会线上连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
 - 2022-03-30 `Renju` [【中村名局】第 41 局, 瑞星, 对西川厚 (知乎)](https://zhuanlan.zhihu.com/p/487873516)
 - 2022-03-22 `Renju` [【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)](https://zhuanlan.zhihu.com/p/485666026)
 - 2022-03-21 `Renju` [【中村名局】第 39 局, 岚月, 对 Ingvar Sundling (知乎)](https://zhuanlan.zhihu.com/p/484993455)
@@ -112,7 +112,7 @@ mathjax: true
 - 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/first-java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
-- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2021-10-28 updated)</font>
+- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2022-04-11 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2022-03-20 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
 - 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-10-27 updated)</font>
@@ -191,9 +191,10 @@ mathjax: true
 
 ### Tech
 
+- 2022-04-12 [First easy piece: virtualization](https://shiina18.github.io/tech/2022/04/12/virtual)
 - 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib) <font color="lightgrey">(2022-03-24 updated)</font>
 - 2021-12-16 [SQL 简单复习与习题集](https://shiina18.github.io/tech/2021/12/16/sql)
-- 2021-08-26 [Python 杂录 2: 最佳实践](https://shiina18.github.io/tech/2021/08/26/python-misc-2) <font color="lightgrey">(2022-03-15 updated)</font>
+- 2021-08-26 [Python 杂录 2: 最佳实践](https://shiina18.github.io/tech/2021/08/26/python-misc-2) <font color="lightgrey">(2022-04-07 updated)</font>
 - 2021-08-25 [Linux cheatsheet (自用)](https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet)
 - 2021-07-27 [Hands-on experience with a constrained least squares problem](https://shiina18.github.io/tech/2021/07/27/constrained-least-squares) <font color="lightgrey">(2021-08-05 updated)</font>
 - 2021-02-25 [密码技术简要](https://shiina18.github.io/tech/2021/02/25/cryptology)

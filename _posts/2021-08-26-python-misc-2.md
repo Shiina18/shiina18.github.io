@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录 2: 最佳实践"
 categories: Tech
-updated: 2022-03-15
+updated: 2022-04-07
 comments: true
 mathjax: false
 ---
@@ -74,6 +74,8 @@ def value(self):
     """The value of the Enum member."""
     return self._value_
 ```
+
+补充 (2022/4/7): namedtuple 的优势见 [data-classes-vs-typing-namedtuple-primary-use-cases](https://stackoverflow.com/questions/51671699/data-classes-vs-typing-namedtuple-primary-use-cases)
 
 ## logging
 

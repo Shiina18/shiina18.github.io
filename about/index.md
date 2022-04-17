@@ -50,7 +50,6 @@ Last updated on 2022-02-08
 - [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学` 时隔多年回归
-- [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
 - [Remains of the Day](https://www.eugenewei.com/). by Eugene Wei. `产品`
@@ -59,8 +58,6 @@ Last updated on 2022-02-08
     - 2021-07-15 [推荐不自信的人都去学唱歌](https://sinantang.github.io/others/2021/07/15/singing/)
 - [Stratechery](https://stratechery.com/). by Ben Thompson. `产品`
     - 2015-07-21 [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
-- [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
-    - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
 
 ### 不再更新 (至少断更一年)
 
@@ -74,6 +71,9 @@ Last updated on 2022-02-08
 - 2020-06-19 [万事屋](https://tcya.xyz/). by 杨洵默. `统计`
     - 2017-07-16 [心理学的危机](https://tcya.xyz/2017/07/16/p_value.html) 可以去统计之都或者公众号的下面看评论
 - 2013-03-27 [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
+- 2016-03-07 [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
+- 2021-01-02 [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
+    - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
 
 ## Random Links
 
