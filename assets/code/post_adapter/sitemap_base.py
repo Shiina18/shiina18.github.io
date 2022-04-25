@@ -88,8 +88,10 @@ CAT_DESC = '''- 技术类
     - [#statistics](https://shiina18.github.io/sitemap/#statistics)
 - 其他分类都 self-explained'''
 
-CAT_DESC_HTML = f'''
-<details><summary><b>分类说明</b></summary>
-{markdown.markdown(CAT_DESC, extensions=['fenced_code'])}
-</details>
-'''
+CAT_DESC_HTML = '\n'.join([
+    '',
+    '<details><summary><b>分类说明</b></summary>',
+    f"{markdown.markdown(CAT_DESC, extensions=['fenced_code'])}",
+    '</details>',
+    '',
+])

@@ -1,37 +1,26 @@
 ---
 title: "Python 第三方库杂录"
 categories: Tech
-updated: 2022-03-24
+updated: 2022-04-25
 comments: true
 mathjax: false
 ---
 
 大多是常用第三方库.
 
-## Numpy
-
-### `np.nan`
-
-- `np.nan == np.nan` returns False.
-- `np.nan` is a floating point constant.
-
-Ref: [Python NumPy For Your Grandma - 3.5 nan](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-3-5-nan)
-
-<!-- more -->
-
 ## Pandas
 
-### Inplace is harmful
+### groupby 默认会排序
 
-时间和空间都没优势, 反而不能 chaining methods.
+2022/4/25
 
-Ref: [python - In pandas, is inplace = True considered harmful, or not? - Stack Overflow](https://stackoverflow.com/questions/45570984/in-pandas-is-inplace-true-considered-harmful-or-not)
+> sort : bool, default True
+>
+> Sort group keys. Get better performance by turning this off. Note this does not influence the order of observations within each group. Groupby preserves the order of rows within each group.
 
-### datetime, Timestamp, and datetime64
+见 [这个问题](https://stackoverflow.com/questions/35511350/preserve-row-order-when-doing-operations-across-multiple-dataframes-in-pandas) 和 [文档](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html). 我因为忽视这一点遇到了微妙的 bug. 把这个关掉还能提升性能.
 
-真的很搞.
-
-Ref: [python - Converting between datetime, Timestamp and datetime64 - Stack Overflow](https://stackoverflow.com/questions/13703720/converting-between-datetime-timestamp-and-datetime64)
+<!-- more -->
 
 ### Pandas 1.1 `isin` bug
 
@@ -80,6 +69,27 @@ Pandas 1.3
 ```
 
 See the issue [https://github.com/pandas-dev/pandas/issues/42423](https://github.com/pandas-dev/pandas/issues/42423)
+
+### Inplace is harmful
+
+时间和空间都没优势, 反而不能 chaining methods.
+
+Ref: [python - In pandas, is inplace = True considered harmful, or not? - Stack Overflow](https://stackoverflow.com/questions/45570984/in-pandas-is-inplace-true-considered-harmful-or-not)
+
+### datetime, Timestamp, and datetime64
+
+真的很搞.
+
+Ref: [python - Converting between datetime, Timestamp and datetime64 - Stack Overflow](https://stackoverflow.com/questions/13703720/converting-between-datetime-timestamp-and-datetime64)
+
+## Numpy
+
+### `np.nan`
+
+- `np.nan == np.nan` returns False.
+- `np.nan` is a floating point constant.
+
+Ref: [Python NumPy For Your Grandma - 3.5 nan](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-3-5-nan)
 
 ## SQLAlchemy
 

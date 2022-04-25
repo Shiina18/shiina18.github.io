@@ -1,6 +1,9 @@
 import collections
+import datetime
 import re
 from typing import *
+
+import markdown
 
 from config import joinurl, SITE_HOSTNAME, POST_DST_DIR
 from sitemap_base import Post, CAT_DESC_HTML, EXTERNAL_POSTS
@@ -36,8 +39,8 @@ def get_meta(path) -> Dict[str, str]:
     return meta_dict
 
 
-def get_sitemap():
-    posts_groupby_cat = collections.defaultdict(list)
+def get_cat2posts():
+    cat2posts = collections.defaultdict(list)
     for path in POST_DST_DIR.glob('*.md'):
         filename = path.stem  # yyyy-mm-dd-slug
         datefmt = 'yyyy-mm-dd'
@@ -46,37 +49,77 @@ def get_sitemap():
             created=filename[:len(datefmt)],
             **get_meta(path)
         )
-        posts_groupby_cat[post.categories].append(post)
-
+        cat2posts[post.categories].append(post)
     for cat, posts in EXTERNAL_POSTS.items():
-        posts_groupby_cat[cat].extend(posts)
+        cat2posts[cat].extend(posts)
+    return cat2posts
 
-    sitemap_lines = [
-        f'---\ntitle: Sitemap\nlayout: page\nmathjax: true\n---\n',
-        f"\n## Categories {Tag.grey(f'({len(posts_groupby_cat)})')}\n\n"
-    ]
+
+def get_cat_lines(cat2posts):
+    lines = []
     total_num_posts = 0
-    sorted_cats = sorted(posts_groupby_cat.keys())
-    for cat in sorted_cats:
+    for cat in sorted(cat2posts.keys()):
         url = joinurl(
             SITE_HOSTNAME, 'sitemap', f'#{cat.replace(" ", "-").lower()}'
         )
-        num_posts = len(posts_groupby_cat[cat])
+        num_posts = len(cat2posts[cat])
         total_num_posts += num_posts
-        sitemap_lines.append(f'- [{cat}]({url}) {Tag.grey(f"({num_posts})")}\n')
-    sitemap_lines.append(CAT_DESC_HTML)
+        lines.append(f'- [{cat}]({url}) {Tag.grey(f"({num_posts})")}\n')
 
-    sitemap_lines.append(f'\n## Posts {Tag.grey(f"({total_num_posts})")}\n')
-    for cat in sorted_cats:
-        sitemap_lines.append(f'\n### {cat}\n\n')
-        for post in sorted(
-                posts_groupby_cat[cat], key=lambda x: x.created, reverse=True
-        ):
-            tag_part = f' `{post.tags}`' if post.tags else ''
-            updated_part = f' {Tag.grey(f"({post.updated} updated)")}' if post.updated else ''
-            sitemap_lines.append(
-                f'- {post.created}{tag_part} [{post.title}]({post.url}){updated_part}\n'
+    lines.append(CAT_DESC_HTML)
+    lines.append(get_recent_update_lines(cat2posts))
+    lines.append(f'\n## Posts {Tag.grey(f"({total_num_posts})")}\n')
+    return lines
+
+
+def get_post_item(post):
+    tag_part = f' `{post.tags}`' if post.tags else ''
+    updated_part = f' {Tag.grey(f"({post.updated} updated)")}' if post.updated else ''
+    return f'- {post.created}{tag_part} [{post.title}]({post.url}){updated_part}\n'
+
+
+def get_post_lines(cat2posts):
+    lines = []
+    for cat in sorted(cat2posts.keys()):
+        lines.append(f'\n### {cat}\n\n')
+        # newest to oldest
+        lines += [
+            get_post_item(post) for post in sorted(
+                cat2posts[cat], key=lambda x: x.created, reverse=True
             )
+        ]
+    return lines
+
+
+def get_recent_update_lines(cat2posts):
+    recent_updates = []
+    since_date_str = (
+        datetime.datetime.today() - datetime.timedelta(days=90)
+    ).strftime('%Y-%m-%d')
+    for _, posts in cat2posts.items():
+        for post in posts:
+            if post.updated is not None and post.updated > since_date_str:
+                recent_updates.append(post)
+    recent_updates.sort(key=lambda post: post.updated, reverse=True)
+    recent_updates = ''.join(get_post_item(post) for post in recent_updates)
+    RECENT_UPDATES_HTML = '\n'.join([
+        '',
+        '<details><summary><b>Recent updates</b></summary>',
+        f"{markdown.markdown(recent_updates, extensions=['fenced_code'])}",
+        '</details>',
+        '',
+    ])
+    return RECENT_UPDATES_HTML
+
+
+def get_sitemap():
+    cat2posts = get_cat2posts()
+    sitemap_lines = [
+        f'---\ntitle: Sitemap\nlayout: page\nmathjax: true\n---\n',
+        f"\n## Categories {Tag.grey(f'({len(cat2posts)})')}\n\n"
+    ]
+    sitemap_lines += get_cat_lines(cat2posts)
+    sitemap_lines += get_post_lines(cat2posts)
     return ''.join(sitemap_lines)
 
 

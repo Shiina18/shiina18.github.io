@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2022-03-31
+updated: 2022-04-22
 comments: true
 mathjax: false
 ---
@@ -78,7 +78,7 @@ mathjax: false
 - [587 连珠](http://587.renju.org.tw/). 很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. 作者是台湾顶尖棋手林書玄. 
 - [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章.
 - [連珠雑記](https://renjuvarious.hatenablog.jp/). 日本棋手博客, 有不少实用习题讲解等. (2021/9/3)
-- [The Renju International Federation Portal - RenjuNet](https://www.renju.net/). 官网. 去年看还是上个世纪的页面水平, 现在更新了很多东西. (2022/3/31)
+- [The Renju International Federation Portal - RenjuNet](https://www.renju.net/). 官网. 去年看还是上个世纪的页面水平, 现在更新了很多东西, 文章里可以翻出很多老古董. (2022/3/31)
 
 ### 其他资源
 
@@ -88,7 +88,7 @@ mathjax: false
 - [xsir31 分享的若干资源](https://github.com/xsir317/ku10/tree/master/resources). 包括一些日语和英语的资源. 
 - 松浦浩七段. [連珠苦楽部](http://matsurenju.game.coocan.jp/). 包括用习题的方式讲解定式.
 - 那智暴虐のれんじゅいし. (2018, Aug 10). [【連珠】入門、初心者の方が最初に覚える形について自分なりに考察した【五目並べ】](https://www.youtube.com/watch?v=J1kmzW9A95U). *YouTube*.
-    - 这是中山智晴, 日本 top 棋手, 有博客 [那智暴虐の連珠石](https://note.com/nachiblack). 
+    - 这是中山智晴, 日本 top 棋手, 有博客 [那智暴虐の連珠石](https://note.com/nachiblack) (但没啥好看的, 冈部宽也有博客, 也没啥好看的就没写). 
     - 容易取胜的形状: 不推荐初学者花浦, 推荐溪峡. 形状互通, 黑八卦不容易输.
     - 想记住手筋: 云雨. 互通, 手筋型的进攻多, 但是很难, 有背诵价值.
     - 想打持久战: 疏流.
@@ -96,6 +96,10 @@ mathjax: false
 - [日本連珠社](https://www.renjusha.net/). 有许多河村九段的研究资料. 
 - [中国连珠网](http://www.rifchina.com/). 有比赛棋谱. 
 - [VCF 习题 24 道](https://kdocs.cn/l/cqe9vsPGEdUs). 李洪斌分享的习题. 
+- [連珠あれこれ](http://haisaresu.blog.fc2.com). 除了题目外还有少量文章
+- [連 珠 コ ー ナ ー](http://www15.plala.or.jp/ssiio/renju.htm). 定石、次の一手問題集还不错.
+- Gomoku quest. 上面有分类的 VCF 习题几千题, 尤其是白抓禁手的题, 还不错.
+- [瑞星和棋大定式](https://www.bilibili.com/video/BV1n7411r7vJ)
 
 ## 术语对应表
 
@@ -127,6 +131,14 @@ mathjax: false
     - [珠型名の由来](http://renju.jp/db/dictionary/syukei/). *東京連珠会*.
     - 第40期名人・山口釉水. (2007, Sep 27). [珠型名の由来・平成版](http://table28.renju.info/PageVisitor/Essay/NicknameOfOpenings.php).
     - [七桂, 七间, 七连](http://www.ljrenju.com/croom/history/7g7j7l.htm). *励精连珠教室*. 倒是可以帮助记忆, 只有七间是星, 其他都是月. (2020/11/23)
+    
+## 游戏现状
+
+除非成年前赢过大比赛 (有段者, 意味着很多精力投入而且达到了一定水平), 否则对成人而言就是 **纯粹的图一乐游戏**. 因为学习成本很高, 而又不能对工作/经济带来回报, 还没有什么社交价值 (没人玩, 英美那边更是没人).
+
+小朋友比赛最多, 大学生还有一点点, 毕业后普通成人爱好者一年能参加的线下赛大约只有两个: 当地等级赛和智运会, 并且一些地方的等级赛不欢迎成人. 价格更是不菲, 上海等级赛 130, 浙江宁波 200. 据称 200 是正常价格, 上海因为人多才能摊到 130.
+
+学棋的主力是小朋友, 尤其是幼儿园和小学生. 小学才开始学的话一开始输给幼儿园还会带来心理压力. 在主力是小朋友, 成人没有动力 (除了有段者) 玩的现状下, 群众基础其实很糟糕.
 
 ## 参考文献
 

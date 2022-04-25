@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(9)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(8)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(9)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -35,7 +35,23 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(130)</font>
+<details><summary><b>Recent updates</b></summary>
+<ul>
+<li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-04-25 updated)</font></li>
+<li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-04-22 updated)</font></li>
+<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-04-11 updated)</font></li>
+<li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-04-07 updated)</font></li>
+<li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-04-03 updated)</font></li>
+<li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-03-25 updated)</font></li>
+<li>2020-02-02 <a href="https://shiina18.github.io/language/2020/02/02/japanese-misc">日语杂录</a> <font color="lightgrey">(2022-03-20 updated)</font></li>
+<li>2021-03-12 <code>YGO</code> <a href="https://shiina18.github.io/games/2021/03/12/yugioh">游戏王 OCG 杂录: 入门资料集</a> <font color="lightgrey">(2022-03-15 updated)</font></li>
+<li>2021-10-15 <code>Renju</code> <a href="https://shiina18.github.io/games/2021/10/15/sosei">疏星简要</a> <font color="lightgrey">(2022-02-21 updated)</font></li>
+<li>2022-01-01 <a href="https://shiina18.github.io/machine%20learning/2022/01/01/bayesop">Bayes 优化简介</a> <font color="lightgrey">(2022-02-05 updated)</font></li>
+<li>2021-07-29 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2021/07/29/tplinker">TPLinker 实体关系抽取以及 NER 变种</a> <font color="lightgrey">(2022-01-30 updated)</font></li>
+</ul>
+</details>
+
+## Posts <font color="lightgrey">(131)</font>
 
 ### Algorithms
 
@@ -97,7 +113,7 @@ mathjax: true
 - 2020-11-09 `Renju` [五子棋复盘: 无禁初心者](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-12-08 updated)</font>
 - 2020-10-30 `Renju` [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
 - 2020-10-27 `Renju` [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
-- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-03-31 updated)</font>
+- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-04-22 updated)</font>
 - 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-08-04 `YGO` [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
@@ -192,7 +208,8 @@ mathjax: true
 ### Tech
 
 - 2022-04-12 [First easy piece: virtualization](https://shiina18.github.io/tech/2022/04/12/virtual)
-- 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib) <font color="lightgrey">(2022-03-24 updated)</font>
+- 2022-04-09 [gRPC 简要](https://shiina18.github.io/tech/2022/04/09/grpc)
+- 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib) <font color="lightgrey">(2022-04-25 updated)</font>
 - 2021-12-16 [SQL 简单复习与习题集](https://shiina18.github.io/tech/2021/12/16/sql)
 - 2021-08-26 [Python 杂录 2: 最佳实践](https://shiina18.github.io/tech/2021/08/26/python-misc-2) <font color="lightgrey">(2022-04-07 updated)</font>
 - 2021-08-25 [Linux cheatsheet (自用)](https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet)
