@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(38)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(39)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(24)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
@@ -37,8 +37,8 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-04-29 updated)</font></li>
 <li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-04-25 updated)</font></li>
-<li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-04-22 updated)</font></li>
 <li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-04-11 updated)</font></li>
 <li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-04-07 updated)</font></li>
 <li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-04-03 updated)</font></li>
@@ -47,11 +47,10 @@ mathjax: true
 <li>2021-03-12 <code>YGO</code> <a href="https://shiina18.github.io/games/2021/03/12/yugioh">游戏王 OCG 杂录: 入门资料集</a> <font color="lightgrey">(2022-03-15 updated)</font></li>
 <li>2021-10-15 <code>Renju</code> <a href="https://shiina18.github.io/games/2021/10/15/sosei">疏星简要</a> <font color="lightgrey">(2022-02-21 updated)</font></li>
 <li>2022-01-01 <a href="https://shiina18.github.io/machine%20learning/2022/01/01/bayesop">Bayes 优化简介</a> <font color="lightgrey">(2022-02-05 updated)</font></li>
-<li>2021-07-29 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2021/07/29/tplinker">TPLinker 实体关系抽取以及 NER 变种</a> <font color="lightgrey">(2022-01-30 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(131)</font>
+## Posts <font color="lightgrey">(132)</font>
 
 ### Algorithms
 
@@ -84,6 +83,7 @@ mathjax: true
 
 ### Games
 
+- 2022-05-02 `Renju` [2022 年贵州省五子棋网络公开赛战报](https://shiina18.github.io/games/2022/05/02/guio2022)
 - 2022-04-03 `Renju` [2020 年第一届 \"智圣\" 智力运动会线上连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
 - 2022-03-30 `Renju` [【中村名局】第 41 局, 瑞星, 对西川厚 (知乎)](https://zhuanlan.zhihu.com/p/487873516)
 - 2022-03-22 `Renju` [【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)](https://zhuanlan.zhihu.com/p/485666026)
@@ -113,7 +113,7 @@ mathjax: true
 - 2020-11-09 `Renju` [五子棋复盘: 无禁初心者](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-12-08 updated)</font>
 - 2020-10-30 `Renju` [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
 - 2020-10-27 `Renju` [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
-- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-04-22 updated)</font>
+- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-04-29 updated)</font>
 - 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-08-04 `YGO` [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
