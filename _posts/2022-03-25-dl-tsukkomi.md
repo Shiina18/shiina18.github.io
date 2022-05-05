@@ -75,6 +75,10 @@ DRL 成功的关键离不开一个好的奖励函数 (reward function), 然而�
 
 - 匿名用户. (2020, Dec 2). [为什么现在不看好 CV 方向了呢?](https://www.zhihu.com/question/383486199/answer/1606619221). *知乎*.
 
+> 没有意义。我一直都认为nlp工程岗位没有前途，nlp只适合做research。学nlp的同学，如果毕业之后想去到工业界，建议要么做nlp的research，要么转去做推荐 or 广告。普通的nlp工程岗位是最烂的岗位，没有之一，毫无意义。
+
+- Berkeley. (2021). [NLP 常规任务用 bert 类模型几行代码就能解决, 那 NLP 岗主要存在的价值是什么?](https://www.zhihu.com/question/462802557/answer/2036794468).
+
 其他
 
 - 纳米酱. (2020, Jul 8). [算法工程师当前选哪个方向好?](https://www.zhihu.com/question/398876586/answer/1325455486). *知乎*.

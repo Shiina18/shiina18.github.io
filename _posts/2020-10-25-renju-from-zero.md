@@ -102,6 +102,7 @@ mathjax: false
 - [連珠雑記](https://renjuvarious.hatenablog.jp/). 日本棋手博客, 有不少实用习题讲解等. (2021/9/3)
 - Gomoku quest. 上面有分类的 VCF 习题几千题, 尤其是白抓禁手的题, 还不错.
 - [瑞星和棋大定式](https://www.bilibili.com/video/BV1n7411r7vJ), [金星和棋大定式](https://www.bilibili.com/video/BV1ua4y1Y7fr)
+- 公众号 "微笑棋社" 山口规则定式讲解.
 - 公众号 "广东五子棋" 上有自战棋评看.
 
 ## 术语对应表
