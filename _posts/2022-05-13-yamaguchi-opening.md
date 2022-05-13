@@ -7,7 +7,7 @@ comments: true
 mathjax: false
 ---
 
-改编自《漱星阁开局指南1.3》(2022/3/3), 便于检索. 山口不平衡的的开局没收录.
+改编自《漱星阁开局指南1.3》(2022/3/3), 便于检索. 山口不平衡的的开局没收录, 溪月也没收录.
 
 记号说明: 数字表可战打点 (平衡到小优), a 表必胜, + 表近胜, x 表白近胜.
 
@@ -27,6 +27,7 @@ mathjax: false
 <ul>
 <li><a href="https://www.bilibili.com/video/BV1oq4y1V7wV">2021 年锦标赛第一轮棋评</a></li>
 <li><a href="https://mp.weixin.qq.com/s/EY9oQO0r-7XOmmuXNUu8Iw">微笑棋社 寒星</a></li>
+<li>"13 不活三白必胜", 出自 <a href="https://www.bilibili.com/video/BV1vK4y147kK">乐赛五子棋职业对局赏析 8</a></li>
 </ul></details>
 
 ## d3-疏星
@@ -56,12 +57,17 @@ mathjax: false
 - 5 打平衡
 - 6 7 打偏白
 
+实战
+
+- [乐赛五子棋职业对局赏析 6](https://www.bilibili.com/video/BV1ua4y1Y7fr)
+- [乐赛五子棋职业对局赏析 7](https://www.bilibili.com/video/BV15D4y1Q7h3)
+
 ## d6-雨月
 
 ![](https://shiina18.github.io/assets/posts/images/580150721243794.png)
 
 - 4 打平衡
-- 5 打平衡 ([疏星](#d3-疏星) 2 打)
+- 5 打平衡 (通 [疏星](#d3-疏星) 2 打, 所以雨月不流行?)
 - 6 打白小优
 - 7 打偏白
 
@@ -134,6 +140,8 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/403262721225949.png)
 
 3 打偏黑, 黑选择多
+
+[乐赛五子棋职业对局赏析 9](https://www.bilibili.com/video/BV1wz4y1f7Xt)
 
 ## i11-斜月
 
