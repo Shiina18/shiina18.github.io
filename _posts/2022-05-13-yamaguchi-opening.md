@@ -11,6 +11,8 @@ mathjax: false
 
 记号说明: 数字表可战打点 (平衡到小优), a 表必胜, + 表近胜, x 表白近胜.
 
+原文中的小优和偏黑具体表示什么意思我也不知道.
+
 [开局名称一览图](http://iroha.poloa.net/ref/07_02.html)
 
 <!-- more -->
@@ -37,7 +39,6 @@ mathjax: false
 - 1 打黑接近小优
 - 2 打平衡
 - 3 打白小优
-- 4 打白近胜
 
 <details><summary><b>流行定式</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
 <p><img alt="" src="https://shiina18.github.io/assets/posts/images/127725321239229.png" /></p>
