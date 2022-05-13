@@ -2,7 +2,7 @@
 title: "弱监督学习两则: Snorkel 和 Skweak"
 categories: 
 - Machine Learning
-updated: 2022-01-11
+updated: 2022-05-06
 comments: true
 mathjax: true
 ---
@@ -124,6 +124,7 @@ Skweak 就是在 snorkel 的基础上套一层 HMM 罢了.
     - Snorkel 团队有 2017 年的文章 SwellShark 做 NER, 代码没有开源. 对嵌套实体用了基于多项分布的 label model, 最后 end model 用的还是 LSTM-CRF, 提升有限, 参考价值有限.
         - Fries, J., Wu, S., Ratner, A., & Ré, C. (2017). Swellshark: A generative model for biomedical named entity recognition without labeled data. *arXiv Preprint arXiv:1704.06360*.
      - [Case studies for Google, Intel, and IBM](https://towardsdatascience.com/snorkel-in-the-wild-weak-supervision-at-google-intel-apple-and-ibm-2e0d77637ee0)
+- [rubrix](https://github.com/recognai/rubrix), open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP (2021 年中新出的)
 -  Jay. (2021, Aug 26). [弱监督学习框架 Snorkel 在大规模文本数据集 "自动标注" 任务中的实践](https://mp.weixin.qq.com/s/QFVwePaIx2-0O5ee1J9Z2g). *携程技术*.
 - JayJay. (2021, Jan 23). [工业界如何解决 NER 问题? 12 个 trick, 与你分享~](https://zhuanlan.zhihu.com/p/152463745).
     - "NER 本质是基于 token 的分类任务, 对噪声极其敏感. 如果盲目应用弱监督方法去解决低资源 NER 问题, 可能会导致全局性的性能下降, 甚至还不如直接基于词典的 NER."

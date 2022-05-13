@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(39)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(41)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(24)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
@@ -37,6 +37,7 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2022-01-08 <a href="https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision">弱监督学习两则: Snorkel 和 Skweak</a> <font color="lightgrey">(2022-05-06 updated)</font></li>
 <li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-04-29 updated)</font></li>
 <li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-04-25 updated)</font></li>
 <li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-04-11 updated)</font></li>
@@ -46,11 +47,10 @@ mathjax: true
 <li>2020-02-02 <a href="https://shiina18.github.io/language/2020/02/02/japanese-misc">日语杂录</a> <font color="lightgrey">(2022-03-20 updated)</font></li>
 <li>2021-03-12 <code>YGO</code> <a href="https://shiina18.github.io/games/2021/03/12/yugioh">游戏王 OCG 杂录: 入门资料集</a> <font color="lightgrey">(2022-03-15 updated)</font></li>
 <li>2021-10-15 <code>Renju</code> <a href="https://shiina18.github.io/games/2021/10/15/sosei">疏星简要</a> <font color="lightgrey">(2022-02-21 updated)</font></li>
-<li>2022-01-01 <a href="https://shiina18.github.io/machine%20learning/2022/01/01/bayesop">Bayes 优化简介</a> <font color="lightgrey">(2022-02-05 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(132)</font>
+## Posts <font color="lightgrey">(134)</font>
 
 ### Algorithms
 
@@ -83,6 +83,8 @@ mathjax: true
 
 ### Games
 
+- 2022-05-13 `Renju` [山口规则开局速查](https://shiina18.github.io/games/2022/05/13/yamaguchi-opening)
+- 2022-05-05 `Renju` [五子棋/连珠入门指南](https://shiina18.github.io/games/2022/05/05/renju-guide)
 - 2022-05-02 `Renju` [2022 年贵州省五子棋网络公开赛战报](https://shiina18.github.io/games/2022/05/02/guio2022)
 - 2022-04-03 `Renju` [2020 年第一届 \"智圣\" 智力运动会线上连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
 - 2022-03-30 `Renju` [【中村名局】第 41 局, 瑞星, 对西川厚 (知乎)](https://zhuanlan.zhihu.com/p/487873516)
@@ -141,7 +143,7 @@ mathjax: true
 - 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse)
 - 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logreg)
 - 2022-01-22 [LightGBM](https://shiina18.github.io/machine%20learning/2022/01/22/lightgbm)
-- 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision) <font color="lightgrey">(2022-01-11 updated)</font>
+- 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision) <font color="lightgrey">(2022-05-06 updated)</font>
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop) <font color="lightgrey">(2022-02-05 updated)</font>
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
 - 2021-12-15 `NLP` [BERT 复习](https://shiina18.github.io/machine%20learning/2021/12/15/bert)

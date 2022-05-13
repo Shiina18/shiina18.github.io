@@ -27,7 +27,7 @@ Last updated on 2022-02-08
     - 2020-04-25 [将 "softmax+交叉熵" 推广到多标签分类问题](https://kexue.fm/archives/7359)
     - 2021-03-08 [Transformer 升级之路: 1. Sinusoidal 位置编码追根溯源](https://kexue.fm/archives/8231)
     - 2021-05-01 [GlobalPointer: 用统一的方式处理嵌套和非嵌套 NER](https://kexue.fm/archives/8373)
-- [码农场](https://www.hankcs.com/). `NLP`
+- [码农场](https://www.hankcs.com/). HanLP. `NLP`
     - [CS224n 笔记系列](https://www.hankcs.com/tag/cs224n/)
 - [墨冰土](https://www.mobingtu.com/). by AI Euler. `随笔`
     - 2020-05-03 [服装搭配的信息理论](https://www.mobingtu.com/服装搭配的信息理论/)

@@ -18,6 +18,8 @@ mathjax: true
 
 Since our model contains no recurrence and no convolution, in order for the model to make use of the order of the sequence, we must inject some information about the relative or absolute position of the tokens in the sequence.
 
+注意 BERT 用了绝对位置编码.
+
 - [什么是 Transformer 位置编码?](https://mp.weixin.qq.com/s/IZr1WJvV8YrdNZZICBElhQ)
 - 苏剑林. (2021, Mar 8). [Transformer 升级之路: 1. Sinusoidal 位置编码追根溯源](https://kexue.fm/archives/8231).
 - 码农场. (2021, Nov 27). [相对位置并不优于绝对位置](https://www.hankcs.com/ml/a-simple-and-effective-positional-encoding-for-transformers.html).
