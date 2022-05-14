@@ -55,12 +55,11 @@ mathjax: false
 ![](https://shiina18.github.io/assets/posts/images/84570321226218.png)
 
 - 4 打黑小优
-- 5 打平衡
+- 5 打平衡 (通 [金星](#d7-金星) 3 打)
 - 6 7 打偏白
 
 实战
 
-- [乐赛五子棋职业对局赏析 6](https://www.bilibili.com/video/BV1ua4y1Y7fr)
 - [乐赛五子棋职业对局赏析 7](https://www.bilibili.com/video/BV15D4y1Q7h3)
 
 ## d6-雨月
