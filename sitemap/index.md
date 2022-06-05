@@ -9,11 +9,11 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(41)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(44)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(25)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(26)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
-- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(9)</font>
+- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(10)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(9)</font>
@@ -46,11 +46,10 @@ mathjax: true
 <li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-03-25 updated)</font></li>
 <li>2020-02-02 <a href="https://shiina18.github.io/language/2020/02/02/japanese-misc">日语杂录</a> <font color="lightgrey">(2022-03-20 updated)</font></li>
 <li>2021-03-12 <code>YGO</code> <a href="https://shiina18.github.io/games/2021/03/12/yugioh">游戏王 OCG 杂录: 入门资料集</a> <font color="lightgrey">(2022-03-15 updated)</font></li>
-<li>2021-10-15 <code>Renju</code> <a href="https://shiina18.github.io/games/2021/10/15/sosei">疏星简要</a> <font color="lightgrey">(2022-02-21 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(135)</font>
+## Posts <font color="lightgrey">(140)</font>
 
 ### Algorithms
 
@@ -83,6 +82,9 @@ mathjax: true
 
 ### Games
 
+- 2022-06-03 `Renju` [浦月必胜法 (上篇)](https://shiina18.github.io/games/2022/06/03/hogetsu)
+- 2022-05-30 [日麻牌效率基础](https://shiina18.github.io/games/2022/05/30/pairi)
+- 2022-05-24 [从零开始的日麻](https://shiina18.github.io/games/2022/05/24/mj)
 - 2022-05-13 `Renju` [山口规则开局速查](https://shiina18.github.io/games/2022/05/13/yamaguchi-opening)
 - 2022-05-05 `Renju` [五子棋/连珠入门指南](https://shiina18.github.io/games/2022/05/05/renju-guide)
 - 2022-05-02 `Renju` [2022 年贵州省五子棋网络公开赛战报](https://shiina18.github.io/games/2022/05/02/guio2022)
@@ -137,6 +139,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie)
 - 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init)
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
 - 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi)
@@ -182,6 +185,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free)
 - 2022-02-07 [吞食润滑剂是否安全?](https://shiina18.github.io/miscellanea/2022/02/07/lube-safe)
 - 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself) <font color="lightgrey">(2022-01-05 updated)</font>
 - 2021-06-24 [上海动物园游记 (公众号)](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)

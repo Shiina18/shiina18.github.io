@@ -82,3 +82,4 @@ DRL 成功的关键离不开一个好的奖励函数 (reward function), 然而�
 其他
 
 - 纳米酱. (2020, Jul 8). [算法工程师当前选哪个方向好?](https://www.zhihu.com/question/398876586/answer/1325455486). *知乎*.
+- [为什么做机器学习的很少使用假设检验?](https://www.zhihu.com/question/55420602)
