@@ -1,7 +1,7 @@
 ---
 title: "Python 第三方库杂录"
 categories: Tech
-updated: 2022-04-25
+updated: 2022-05-30
 comments: true
 mathjax: false
 ---
@@ -9,6 +9,14 @@ mathjax: false
 大多是常用第三方库.
 
 ## Pandas
+
+### Cookbook
+
+2020/5/30
+
+pipeline, 临时列 等
+
+- peter. (2022). [Cookbook](https://www.zhihu.com/question/289788451/answer/2495499460)
 
 ### groupby 默认会排序
 

@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2022-04-11
+updated: 2022-05-29
 comments: true
 mathjax: true
 ---
@@ -9,6 +9,13 @@ mathjax: true
 [第二篇杂录](https://shiina18.github.io/tech/2021/08/26/python-misc-2/) 侧重最佳实践.
 
 最近 (2021/10/28) 发现官方文档有 [Programming FAQ — Python 3.10.0 documentation](https://docs.python.org/3/faq/programming.html), 很有用.
+
+## `__qualname__`
+
+2022/5/29
+
+- [Python decorator get class name - PythonProgramming.in](https://www.pythonprogramming.in/python-decorator-get-class-name.html)
+- [What is `__qualname__` in python? - Stack Overflow](https://stackoverflow.com/questions/58108488/what-is-qualname-in-python)
 
 ## Pickle is insecure
 
@@ -34,7 +41,7 @@ import tensorflow as tf
 x = tf.Variable(3.0)
 
 with tf.GradientTape() as tape:
-  y = x**2
+    y = x**2
 
 dy_dx = tape.gradient(y, x)
 ```
