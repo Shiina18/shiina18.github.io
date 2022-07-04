@@ -37,15 +37,13 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2022-06-05 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/06/05/uie">UIE: Universal Information Extraction</a> <font color="lightgrey">(2022-07-04 updated)</font></li>
 <li>2022-06-03 <code>Renju</code> <a href="https://shiina18.github.io/games/2022/06/03/hogetsu">浦月必胜法 (上篇)</a> <font color="lightgrey">(2022-06-18 updated)</font></li>
-<li>2022-06-05 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/06/05/uie">UIE: Universal Information Extraction</a> <font color="lightgrey">(2022-06-06 updated)</font></li>
 <li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-05-30 updated)</font></li>
 <li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-05-29 updated)</font></li>
 <li>2022-01-08 <a href="https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision">弱监督学习两则: Snorkel 和 Skweak</a> <font color="lightgrey">(2022-05-06 updated)</font></li>
 <li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-04-29 updated)</font></li>
 <li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-04-07 updated)</font></li>
-<li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-04-03 updated)</font></li>
-<li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-03-25 updated)</font></li>
 </ul>
 </details>
 
@@ -140,7 +138,7 @@ mathjax: true
 
 ### Machine Learning
 
-- 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-06-06 updated)</font>
+- 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
 - 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init)
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
 - 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi)

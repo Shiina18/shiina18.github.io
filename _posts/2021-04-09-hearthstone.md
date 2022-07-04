@@ -25,6 +25,8 @@ mathjax: false
     - [Every curve you need to know in Battlegrounds](https://acegameguides.com/every-curve-you-need-to-know-in-battlegrounds/). 包括 Shinese curve 和 Jeef curve.
     - [A Guide to Improving at Battlegrounds or: How I Learned to Stop Worrying and Think About the Game](https://www.reddit.com/r/hearthstone/comments/hkmbzd/a_guide_to_improving_at_battlegrounds_or_how_i/)
     - [コギコーギー](https://cogicorgi.com/). 亚服前百日本玩家的博客 (过时).
+- 其他
+    - [匹配机制](https://hearthstone.fandom.com/wiki/Matchmaking)
 
 ## 中速舞娘亡语瞎
 
