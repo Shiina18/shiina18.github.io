@@ -8,11 +8,11 @@ mathjax: true
 
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
-- [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(3)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(45)</font>
+- [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(46)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(26)</font>
-- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(14)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(27)</font>
+- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(15)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(10)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
@@ -48,7 +48,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(142)</font>
+## Posts <font color="lightgrey">(146)</font>
 
 ### Algorithms
 
@@ -75,12 +75,14 @@ mathjax: true
 
 ### Food and Cooking
 
+- 2022-07-15 [《中国居民膳食指南》笔记](https://shiina18.github.io/food%20and%20cooking/2022/07/15/diet-guide)
 - 2021-01-01 [黄焖是什么意思? (公众号)](https://mp.weixin.qq.com/s/LjsnO0a0Y-iZ4nFwPK20Lw)
 - 2020-06-08 [厨艺杂录](https://shiina18.github.io/food%20and%20cooking/2020/06/08/cooking-misc) <font color="lightgrey">(2021-01-01 updated)</font>
 - 2019-11-21 [一次手磨咖啡体验](https://shiina18.github.io/food%20and%20cooking/2019/11/21/brew-coffee) <font color="lightgrey">(2020-12-03 updated)</font>
 
 ### Games
 
+- 2022-06-23 `Renju` [浦月必胜法 (中篇)](https://shiina18.github.io/games/2022/06/23/hogetsu2)
 - 2022-06-12 `YGO` [组织线上赛的经验](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
 - 2022-06-03 `Renju` [浦月必胜法 (上篇)](https://shiina18.github.io/games/2022/06/03/hogetsu) <font color="lightgrey">(2022-06-18 updated)</font>
 - 2022-05-30 [日麻牌效率基础](https://shiina18.github.io/games/2022/05/30/pairi)
@@ -139,6 +141,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2022-08-01 `NLP` [工业界 NLP 实践杂录](https://shiina18.github.io/machine%20learning/2022/08/01/industry-nlp)
 - 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
 - 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init)
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
@@ -168,6 +171,7 @@ mathjax: true
 
 ### Mathematics
 
+- 2022-07-17 [《合作的进化》笔记](https://shiina18.github.io/mathematics/2022/07/17/cooperation)
 - 2021-08-05 [极简凸优化](https://shiina18.github.io/mathematics/2021/08/05/convex-optimization)
 - 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
 - 2021-01-16 [为什么熵值最大的分布状态是正态分布而不是均匀分布? (知乎)](https://www.zhihu.com/question/357032828/answer/907586249)
