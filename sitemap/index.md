@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(10)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(9)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(10)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -37,17 +37,18 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2019-09-08 <a href="https://shiina18.github.io/language/2019/09/08/english-misc">英语杂录</a> <font color="lightgrey">(2022-07-28 updated)</font></li>
+<li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-07-28 updated)</font></li>
+<li>2022-02-25 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/02/25/simcse">SimCSE: simple contrastive sentence embedding</a> <font color="lightgrey">(2022-07-12 updated)</font></li>
+<li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-07-08 updated)</font></li>
+<li>2021-04-09 <a href="https://shiina18.github.io/games/2021/04/09/hearthstone">炉石传说随记</a> <font color="lightgrey">(2022-07-06 updated)</font></li>
+<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-07-05 updated)</font></li>
 <li>2022-06-05 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/06/05/uie">UIE: Universal Information Extraction</a> <font color="lightgrey">(2022-07-04 updated)</font></li>
 <li>2022-06-03 <code>Renju</code> <a href="https://shiina18.github.io/games/2022/06/03/hogetsu">浦月必胜法 (上篇)</a> <font color="lightgrey">(2022-06-18 updated)</font></li>
-<li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-05-30 updated)</font></li>
-<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-05-29 updated)</font></li>
-<li>2022-01-08 <a href="https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision">弱监督学习两则: Snorkel 和 Skweak</a> <font color="lightgrey">(2022-05-06 updated)</font></li>
-<li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-04-29 updated)</font></li>
-<li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-04-07 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(141)</font>
+## Posts <font color="lightgrey">(142)</font>
 
 ### Algorithms
 
@@ -96,7 +97,7 @@ mathjax: true
 - 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro) <font color="lightgrey">(2021-10-21 updated)</font>
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei) <font color="lightgrey">(2022-02-21 updated)</font>
 - 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2022-01-04 updated)</font>
-- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2021-12-25 updated)</font>
+- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2022-07-06 updated)</font>
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 `YGO` [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh) <font color="lightgrey">(2022-03-15 updated)</font>
 - 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games) <font color="lightgrey">(2021-04-09 updated)</font>
@@ -116,7 +117,7 @@ mathjax: true
 - 2020-11-09 `Renju` [五子棋复盘: 无禁初心者](https://shiina18.github.io/games/2020/11/09/renju-review) <font color="lightgrey">(2020-12-08 updated)</font>
 - 2020-10-30 `Renju` [河村九段的初级连珠讲座 (3)](https://shiina18.github.io/games/2020/10/30/renju-kouza-beginner-3)
 - 2020-10-27 `Renju` [河村九段的初级连珠讲座 (2)](https://shiina18.github.io/games/2020/10/27/renju-kouza-beginner-2)
-- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-04-29 updated)</font>
+- 2020-10-25 `Renju` [从零开始的五子棋学习](https://shiina18.github.io/games/2020/10/25/renju-from-zero) <font color="lightgrey">(2022-07-28 updated)</font>
 - 2020-10-25 `Renju` [河村九段的初级连珠讲座 (1)](https://shiina18.github.io/games/2020/10/25/renju-kouza-beginner)
 - 2020-08-04 `YGO` [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
@@ -131,10 +132,10 @@ mathjax: true
 - 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/first-java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
-- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2022-05-29 updated)</font>
+- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2022-07-05 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2022-03-20 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
-- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2020-10-27 updated)</font>
+- 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2022-07-28 updated)</font>
 
 ### Machine Learning
 
@@ -143,7 +144,7 @@ mathjax: true
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
 - 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi)
 - 2022-03-03 [到达时间预测两则: Uber 和美团](https://shiina18.github.io/machine%20learning/2022/03/03/predict-eta)
-- 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse)
+- 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse) <font color="lightgrey">(2022-07-12 updated)</font>
 - 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logreg)
 - 2022-01-22 [LightGBM](https://shiina18.github.io/machine%20learning/2022/01/22/lightgbm)
 - 2022-01-08 [弱监督学习两则: Snorkel 和 Skweak](https://shiina18.github.io/machine%20learning/2022/01/08/weak-supervision) <font color="lightgrey">(2022-05-06 updated)</font>
@@ -213,9 +214,10 @@ mathjax: true
 
 ### Tech
 
+- 2022-07-06 [Notes on the art of readable code](https://shiina18.github.io/tech/2022/07/06/readable-code)
 - 2022-04-12 [First easy piece: virtualization](https://shiina18.github.io/tech/2022/04/12/virtual)
 - 2022-04-09 [gRPC 简要](https://shiina18.github.io/tech/2022/04/09/grpc)
-- 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib) <font color="lightgrey">(2022-05-30 updated)</font>
+- 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib) <font color="lightgrey">(2022-07-08 updated)</font>
 - 2021-12-16 [SQL 简单复习与习题集](https://shiina18.github.io/tech/2021/12/16/sql)
 - 2021-08-26 [Python 杂录 2: 最佳实践](https://shiina18.github.io/tech/2021/08/26/python-misc-2) <font color="lightgrey">(2022-04-07 updated)</font>
 - 2021-08-25 [Linux cheatsheet (自用)](https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet)

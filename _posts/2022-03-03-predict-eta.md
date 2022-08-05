@@ -89,3 +89,11 @@ The decoder is a fully connected neural network with a segment bias adjustment l
     - 天气数据: 温度, 气压, 降水量
     
 > 在实际配送中, 我们都会要求骑手在完成交付后进行签到, 这样就会积累大量的上报数据, 对于后续进行精细化挖掘非常有帮助.
+
+## 其他
+
+智能配送运筹优化相关
+
+- 美团. (2018). [美团配送系统架构演进实践](https://mp.weixin.qq.com/s/Ik5vp5zQfx5dS4JFvAlxgQ)
+- 美团. (2020). [智能配送系统的运筹优化实战](https://mp.weixin.qq.com/s/HAKZ_liwSRDmZaFNxwvuwQ)
+- (2020). [从架构到算法，详解美团外卖订单分配内部机制](https://blog.csdn.net/u011323949/article/details/107964560)

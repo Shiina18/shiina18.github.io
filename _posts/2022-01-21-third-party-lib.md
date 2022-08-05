@@ -1,12 +1,20 @@
 ---
 title: "Python 第三方库杂录"
 categories: Tech
-updated: 2022-05-30
+updated: 2022-07-08
 comments: true
 mathjax: false
 ---
 
 大多是常用第三方库.
+
+## 其他库
+
+### unyt
+
+2022/7/7
+
+涉及到浮点数的单位相等判断会有问题, 参考 [issue#238](https://github.com/yt-project/unyt/issues/238)
 
 ## Pandas
 
@@ -14,9 +22,11 @@ mathjax: false
 
 2020/5/30
 
-pipeline, 临时列 等
+pipeline (df.pipe), 临时列 (df.assign) 等
 
 - peter. (2022). [Cookbook](https://www.zhihu.com/question/289788451/answer/2495499460)
+- data school. (2018). [What's the future of the pandas library?](https://www.dataschool.io/future-of-pandas/)
+- Sin-Yi Chou. (2019). [Pandas - Pipe Method](https://sinyi-chou.github.io/python-pandas-pipe/). 用装饰器辅助 debug
 
 ### groupby 默认会排序
 
@@ -47,6 +57,27 @@ b.isin(a)  # False in 1.1
 > Strings and integers are distinct and are therefore not comparable
 
 这句话从 1.2 版本才出现在 [文档](https://pandas.pydata.org/pandas-docs/version/1.2/reference/api/pandas.Series.isin.html) 中, 相关 issue 见 [Pandas doesn't always cast strings to int consistently when using .isin()](https://github.com/pandas-dev/pandas/issues/24918).
+
+### 用 apply 给列赋值可能导致原地修改
+
+```python
+df = pd.DataFrame([1, 2], columns=['a'])
+df['b'] = 0
+def f(row):
+    if row['a'] == 1:
+        row['a'] = 123
+    row['b'] = False
+    return row
+df.apply(f, axis=1, result_type='expand')
+print(df)
+"""
+     a  b
+0  123  0
+1    2  0
+"""
+```
+
+另一个例子可以参考 [python - pandas df.apply unexpectedly changes dataframe inplace - Stack Overflow](https://stackoverflow.com/questions/52457989/pandas-df-apply-unexpectedly-changes-dataframe-inplace).
 
 ### Pandas 1.3 inconsistent `where`
 

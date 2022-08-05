@@ -2,7 +2,7 @@
 title: "从零开始的五子棋学习"
 categories: Games
 tags: Renju
-updated: 2022-04-29
+updated: 2022-07-28
 comments: true
 mathjax: false
 ---
@@ -77,6 +77,7 @@ mathjax: false
 - [587 连珠](http://587.renju.org.tw/). 很好的台湾教学网站, 有交互式棋盘, 以及实用的资源整合. 有一定难度. 作者是台湾顶尖棋手林書玄. 
 - [★魚丸湯の闇黑五子棋學院★](https://blog.xuite.net/jang20529659/twblog1). 台湾棋手楊裕雄三段的博客, 有很多教学文章.
 - [The Renju International Federation Portal - RenjuNet](https://www.renju.net/). 官网. 去年看还是上个世纪的页面水平, 现在更新了很多东西, 文章里可以翻出很多老古董. (2022/3/31)
+- 开宝五子棋陪练 (app). 一位程序员给女儿做的做题软件, 包含了主要经典习题册, 调用了 slowrenju 的 AI. (2022/7/28)
 
 ### 其他资源
 
@@ -104,6 +105,7 @@ mathjax: false
 - [瑞星和棋大定式](https://www.bilibili.com/video/BV1n7411r7vJ), [金星和棋大定式](https://www.bilibili.com/video/BV1ua4y1Y7fr)
 - 公众号 "微笑棋社" 山口规则定式讲解.
 - 公众号 "广东五子棋" 上有自战棋评看.
+- [五子棋塔拉-山口-10规则技术分析](https://zhuanlan.zhihu.com/p/539741856) (2022/7/10)
 
 ## 术语对应表
 

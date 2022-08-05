@@ -77,6 +77,8 @@ def value(self):
 
 补充 (2022/4/7): namedtuple 的优势见 [data-classes-vs-typing-namedtuple-primary-use-cases](https://stackoverflow.com/questions/51671699/data-classes-vs-typing-namedtuple-primary-use-cases)
 
+其他可参考的文章: [Configuration Files in Python using dataclasses \| True Analytics Tech](https://tech.trueanalytics.ai/posts/dataconf-at-tdg/)
+
 ## logging
 
 主要参考 [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/), 现在自用的代码也基本抄的这个. 此外, [Python logging 较佳实践](https://zhuanlan.zhihu.com/p/275706374) 这篇也可以. 基础从略.

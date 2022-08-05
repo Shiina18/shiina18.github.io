@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2022-05-29
+updated: 2022-07-05
 comments: true
 mathjax: true
 ---
@@ -9,6 +9,20 @@ mathjax: true
 [第二篇杂录](https://shiina18.github.io/tech/2021/08/26/python-misc-2/) 侧重最佳实践.
 
 最近 (2021/10/28) 发现官方文档有 [Programming FAQ — Python 3.10.0 documentation](https://docs.python.org/3/faq/programming.html), 很有用.
+
+## nonlocal
+
+2022/7/5
+
+忘了看哪个源码的时候读到的
+
+[Python の nonlocal と global の違い - Qiita](https://qiita.com/domodomodomo/items/6df1419767e8acb99dd7)
+
+## functools
+
+lru_cache 以及 [singledispatch](https://rednafi.github.io/digressions/python/2020/04/05/python-singledispatch.html)
+
+<!-- more -->
 
 ## `__qualname__`
 
@@ -24,8 +38,6 @@ mathjax: true
 很早就知道 pickle 不安全, 但是没有见过实际例子, 下文就是一例.
 
 Ben Frederickson. (2014). [Don't Pickle Your Data](https://www.benfrederickson.com/dont-pickle-your-data/)
-
-<!-- more -->
 
 ## 上下文管理器
 

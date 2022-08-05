@@ -1,7 +1,7 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2020-10-27
+updated: 2022-07-28
 comments: true
 mathjax: false
 ---
@@ -13,6 +13,12 @@ mathjax: false
 - [Longman](https://www.ldoceonline.com/) 的特色是可以看搭配.
 
 <!-- more -->
+
+## Archives
+
+2022/7/28
+
+参考 [Archive vs. archives, Internet vs. internet • Robin Camille Davis •](https://robincamille.com/2011-09-09-archive-vs-archives-internet-vs-internet/)
 
 ## 主谓一致
 
