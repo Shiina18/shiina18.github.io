@@ -2,7 +2,7 @@
 title: "深度学习吐槽杂录"
 categories: 
 - Machine Learning
-updated:
+updated: 2022-08-06
 comments: true
 mathjax: false
 ---
@@ -17,6 +17,14 @@ mathjax: false
 
 - mileistone. (2018, Jun 30). [为什么都说神经网络是个黑箱?](https://www.zhihu.com/question/263672028/answer/430179912). *知乎*.
     - Ali Rahimi. (2018, Jan 25). [Lessons from Optics, The Other Deep Learning](http://www.argmin.net/2018/01/25/optics/). *argmin blog*.
+    
+如果没有变革性的突破, 弱人工智能时代的范式应该基本就要确定了. 基本范式就是大模型 + 拖拖乐, 下游少量数据微调, 在前端表现为拖拖乐形成 DAG, 自动生产模型.
+
+- 霍华德. (2022). [你是什么时候对深度学习失去信心的？](https://www.zhihu.com/question/544763123/answer/2613151319)
+
+17 年往后, 到现在的 5 年里, 其实大家研究的都是 trick 和讲故事的水平, 真正的进展其实不大.
+
+- 小赖sqLai. (2022). [你是什么时候对深度学习失去信心的？](https://www.zhihu.com/question/544763123/answer/2614099366)
 
 ---
 

@@ -8,6 +8,8 @@ comments: true
 mathjax: false
 ---
 
+一些摘抄.
+
 <!-- more -->
 
 ## 文本分类
@@ -27,6 +29,8 @@ mathjax: false
 - 李rumor. (2021). [在文本分类任务中，有哪些论文中很少提及却对性能有重要影响的tricks？](https://www.zhihu.com/question/265357659/answer/1714619843)
 
 ![](https://shiina18.github.io/assets/posts/images/525872913220842.png)
+
+连接包括一些调参经验.
 
 - 李rumor. (2021). [目前深度学习用在短文本分类最好的模型有哪些？](https://www.zhihu.com/question/50888062/answer/1714628626)
 

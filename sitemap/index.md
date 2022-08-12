@@ -37,11 +37,12 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2022-03-25 <a href="https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi">深度学习吐槽杂录</a> <font color="lightgrey">(2022-08-06 updated)</font></li>
+<li>2021-04-09 <a href="https://shiina18.github.io/games/2021/04/09/hearthstone">炉石传说随记</a> <font color="lightgrey">(2022-08-05 updated)</font></li>
 <li>2019-09-08 <a href="https://shiina18.github.io/language/2019/09/08/english-misc">英语杂录</a> <font color="lightgrey">(2022-07-28 updated)</font></li>
 <li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-07-28 updated)</font></li>
 <li>2022-02-25 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/02/25/simcse">SimCSE: simple contrastive sentence embedding</a> <font color="lightgrey">(2022-07-12 updated)</font></li>
 <li>2022-01-21 <a href="https://shiina18.github.io/tech/2022/01/21/third-party-lib">Python 第三方库杂录</a> <font color="lightgrey">(2022-07-08 updated)</font></li>
-<li>2021-04-09 <a href="https://shiina18.github.io/games/2021/04/09/hearthstone">炉石传说随记</a> <font color="lightgrey">(2022-07-06 updated)</font></li>
 <li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-07-05 updated)</font></li>
 <li>2022-06-05 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/06/05/uie">UIE: Universal Information Extraction</a> <font color="lightgrey">(2022-07-04 updated)</font></li>
 <li>2022-06-03 <code>Renju</code> <a href="https://shiina18.github.io/games/2022/06/03/hogetsu">浦月必胜法 (上篇)</a> <font color="lightgrey">(2022-06-18 updated)</font></li>
@@ -99,7 +100,7 @@ mathjax: true
 - 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro) <font color="lightgrey">(2021-10-21 updated)</font>
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei) <font color="lightgrey">(2022-02-21 updated)</font>
 - 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2022-01-04 updated)</font>
-- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2022-07-06 updated)</font>
+- 2021-04-09 [炉石传说随记](https://shiina18.github.io/games/2021/04/09/hearthstone) <font color="lightgrey">(2022-08-05 updated)</font>
 - 2021-04-08 [一题桥牌双明手残局](https://shiina18.github.io/games/2021/04/08/bridge-end)
 - 2021-03-12 `YGO` [游戏王 OCG 杂录: 入门资料集](https://shiina18.github.io/games/2021/03/12/yugioh) <font color="lightgrey">(2022-03-15 updated)</font>
 - 2021-03-01 [关于若干手游的几句话](https://shiina18.github.io/games/2021/03/01/mobile-games) <font color="lightgrey">(2021-04-09 updated)</font>
@@ -145,7 +146,7 @@ mathjax: true
 - 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
 - 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init)
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
-- 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi)
+- 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi) <font color="lightgrey">(2022-08-06 updated)</font>
 - 2022-03-03 [到达时间预测两则: Uber 和美团](https://shiina18.github.io/machine%20learning/2022/03/03/predict-eta)
 - 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse) <font color="lightgrey">(2022-07-12 updated)</font>
 - 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logreg)
