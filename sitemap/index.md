@@ -13,10 +13,10 @@ mathjax: true
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(27)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(15)</font>
-- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(10)</font>
-- [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(5)</font>
-- [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(5)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(10)</font>
+- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
+- [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(6)</font>
+- [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(12)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -49,7 +49,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(146)</font>
+## Posts <font color="lightgrey">(151)</font>
 
 ### Algorithms
 
@@ -190,6 +190,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2022-08-14 [租房 checklist](https://shiina18.github.io/miscellanea/2022/08/14/rent)
 - 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free)
 - 2022-02-07 [吞食润滑剂是否安全?](https://shiina18.github.io/miscellanea/2022/02/07/lube-safe)
 - 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself) <font color="lightgrey">(2022-01-05 updated)</font>
@@ -203,6 +204,7 @@ mathjax: true
 
 ### Reading
 
+- 2022-08-06 [Notes on cracking the PM Interview](https://shiina18.github.io/reading/2022/08/06/interview)
 - 2022-02-16 [《下一代书店》笔记](https://shiina18.github.io/reading/2022/02/16/bookstore)
 - 2021-10-30 [《理解漫画》笔记](https://shiina18.github.io/reading/2021/10/30/notes-comics)
 - 2021-05-23 [《乐之本事》笔记](https://shiina18.github.io/reading/2021/05/23/notes-classic)
@@ -211,6 +213,7 @@ mathjax: true
 
 ### Statistics
 
+- 2022-08-23 [CRF 复习](https://shiina18.github.io/statistics/2022/08/23/crf)
 - 2022-03-27 [孟加拉国口罩试验: 效应量显著地比统计显著性更重要](https://shiina18.github.io/statistics/2022/03/27/mask-rct)
 - 2022-03-18 [概率图模型基本概念](https://shiina18.github.io/statistics/2022/03/18/graph-model)
 - 2020-11-19 [Notes on statistics done wrong](https://shiina18.github.io/statistics/2020/11/19/wrong-stats)
@@ -219,7 +222,9 @@ mathjax: true
 
 ### Tech
 
+- 2022-08-19 [Docker 简要: 部署 Python 应用简例](https://shiina18.github.io/tech/2022/08/19/docker)
 - 2022-07-06 [Notes on the art of readable code](https://shiina18.github.io/tech/2022/07/06/readable-code)
+- 2022-04-12 [Spark 简要](https://shiina18.github.io/tech/2022/04/12/spark)
 - 2022-04-12 [First easy piece: virtualization](https://shiina18.github.io/tech/2022/04/12/virtual)
 - 2022-04-09 [gRPC 简要](https://shiina18.github.io/tech/2022/04/09/grpc)
 - 2022-01-21 [Python 第三方库杂录](https://shiina18.github.io/tech/2022/01/21/third-party-lib) <font color="lightgrey">(2022-07-08 updated)</font>
