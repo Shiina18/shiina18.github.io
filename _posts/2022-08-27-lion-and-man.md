@@ -48,7 +48,7 @@ mathjax: true
 
 把 (无限的) 时间分割为一系列时间段 $t_1, t_2, ...$, 使得 $\sum_{i=0}^\infty t_i^2 < 1$, 其中 $t_0=r_1$. 因为 $\sum_{k=1}^\infty (1/k) = \infty$ 而且 $\sum_{k=1}^\infty (1/k^2)$ 有限, 比如可以取 $t_k = 1/(k+c)$, 其中 $c$ 足够大.
 
-记时刻 $s_i = \sum_{j=0}^{i-1} t_j$, 时刻 $s_i$ 到 $s_{i+1}$ 的时间段称为第 $i$ 步. 假设在时刻 $s_i$, 基督徒位于 $C_i \ne O$, 狮子在 $B_i \ne C_i$, 并且 $r_i = \overline{OC}_i$, 其中 $r_i^2 = \sum_{j=0}^{i-1} t_j^2 < 1$. 
+记时刻 $s_i = \sum_{j=0}^{i-1} t_j$, 时刻 $s_i$ 到 $s_{i+1}$ 的时间段称为第 $i$ 步. 假设在时刻 $s_i$, 基督徒位于 $C_i \ne O$, 狮子在 $B_i \ne C_i$, 并且 $r_i = \overline{OC} _i$, 其中 $r_i^2 = \sum _{j=0}^{i-1} t_j^2 < 1$. 
 
 ![](https://shiina18.github.io/assets/posts/images/514062720239995.png)
 
