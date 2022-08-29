@@ -12,7 +12,7 @@ mathjax: true
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(46)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(7)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(27)</font>
-- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(15)</font>
+- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(16)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(6)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
@@ -49,7 +49,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(151)</font>
+## Posts <font color="lightgrey">(152)</font>
 
 ### Algorithms
 
@@ -172,6 +172,7 @@ mathjax: true
 
 ### Mathematics
 
+- 2022-08-27 [狮子与基督徒问题, 以及其他追及问题](https://shiina18.github.io/mathematics/2022/08/27/lion-and-man)
 - 2022-07-17 [《合作的进化》笔记](https://shiina18.github.io/mathematics/2022/07/17/cooperation)
 - 2021-08-05 [极简凸优化](https://shiina18.github.io/mathematics/2021/08/05/convex-optimization)
 - 2021-06-16 [Brown 运动的一些简单习题](https://shiina18.github.io/mathematics/2021/06/16/bm-ex)
