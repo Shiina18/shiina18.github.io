@@ -47,3 +47,4 @@ $$
 - Gordon, M. A. (2020, Jan 13). [Do We Really Need Model Compression?](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html). 
 - Sanh, V. (2019). [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5). 提出者
 - [吐槽神经网络模型压缩](https://www.zhihu.com/question/349948366)
+- [知识蒸馏早就是接近死亡的研究方向了](https://www.zhihu.com/question/309808462/answer/2649118476)
