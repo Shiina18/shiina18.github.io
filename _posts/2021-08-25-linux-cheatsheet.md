@@ -1,7 +1,7 @@
 ---
 title: "Linux cheatsheet (自用)"
 categories: Tech
-updated: 
+updated: 2022-09-11
 comments: true
 mathjax: false
 ---
@@ -14,6 +14,17 @@ mathjax: false
 
 <!-- more -->
 
+## 常用命令
+
+看一下 `awk` 和 `rsync`.
+
+- 叉烧. (2019). [算法工程师 Linux 必知必会​](https://mp.weixin.qq.com/s/y97ivwbksKNpqiSNFhWJeQ)
+
+### kill
+
+> Generally, you should use `kill` before `kill -9` to give the target process a chance to clean up after itself. If you don't give the process a chance to finish what it's doing and clean up, it may leave corrupted files (or other state) around that it won't be able to understand once restarted.
+
+参考 [linux - When should I not kill -9 a process? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/8916/when-should-i-not-kill-9-a-process)
 
 ## 训练模型
 
@@ -21,13 +32,13 @@ mathjax: false
 > 
 > Usually, when you run a program over SSH, if your connection drops or you log out, the session is terminated, and all the processes executed from the terminal will stop. This is where the `nohup` command comes in handy. It ignores all hangup signals, and the process will continue to run.
 
-```
+```shell
 nohup COMMAND [ARGS]
 ```
 
 通常来说
 
-```
+```shell
 nohup python xxx.py -blahblah &
 nohup sh xxx.sh -blahblah &
 ```
@@ -36,7 +47,7 @@ nohup sh xxx.sh -blahblah &
 
 然后可以用
 
-```
+```shell
 tail -f nohup.out 
 ```
 
@@ -49,7 +60,7 @@ tail -f nohup.out
 
 ## 监控显存
 
-```
+```shell
 watch -n 1 -d nvidia-smi
 ```
 
@@ -61,7 +72,7 @@ watch -n 1 -d nvidia-smi
 
 在运行脚本前修改权限 (书 Executable Permissions 一节).
 
-```
+```shell
 chmod 755 script_filename
 ```
 
@@ -69,7 +80,7 @@ chmod 755 script_filename
 
 然后 for the script to run, we must precede the script name with an explicit path, 原因见书 Script File Location 一节.
 
-```
+```shell
 ./script_filename
 ```
 
@@ -77,7 +88,7 @@ chmod 755 script_filename
 
 参考书 Redirecting Standard Output and Standard Error to One File 一节
 
-```
+```shell
 blahblah > output_filename.log 2>&1
 ```
 
@@ -85,7 +96,7 @@ We redirect file descriptor 2 (standard error) to file descriptor 1 (standard ou
 
 Recent versions of bash provide a second, more streamlined method for performing this combined redirection shown here
 
-```
+```shell
 blahblah &> output_filename.log
 blahblah &>> output_filename.log
 ```
@@ -94,7 +105,7 @@ blahblah &>> output_filename.log
 
 ## 传输文件
 
-```
+```shell
 scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2
 ```
 
@@ -104,6 +115,8 @@ scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2
 
 ## 简单 Docker 部署
 
+参见 [Docker 部署简要](https://shiina18.github.io/tech/2022/08/19/docker/).
+
 Docker 简介可参考 [这篇](https://zhuanlan.zhihu.com/p/187505981), 以及 [Docker 底层原理浅析](https://mp.weixin.qq.com/s/0jFHlWAeH5avIO2NLpTmGA).
 
 Docker 教程: [天池](https://tianchi.aliyun.com/competition/entrance/231759/information)
@@ -112,13 +125,13 @@ Docker 教程: [天池](https://tianchi.aliyun.com/competition/entrance/231759/i
 
 查看进程 (容器)
 
-```
+```shell
 docker ps
 ```
 
 Cheatsheet
 
-```
+```shell
 docker-compose build
 docker-compose stop
 docker-compose up

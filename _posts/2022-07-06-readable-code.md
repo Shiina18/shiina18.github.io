@@ -434,7 +434,7 @@ if request:
 
 这一段纯粹是个人喜好.
 
-每行长度控制在 80 字符以内 (便于双窗口并排), 偶尔长一点但不超过 100 字符. 一般 IDE 我会开三条辅助线: 80, 100, 120. Pandas 和 [Django](https://code.djangoproject.com/ticket/23395) 用的是 80, 而 huggingface 用的是 120. 另外 pandas 用的括号严格按照
+每行长度控制在 80 字符以内 (便于双窗口并排), 偶尔长一点但不超过 100 字符. 一般 IDE 我会开三条辅助线: 80, 100, 120. Pandas 和 [Django](https://code.djangoproject.com/ticket/23395) 用的是 80, 而 huggingface 用的是 120. 另外 pandas (以及我见过的大多优秀开源项目) 用的括号严格按照
 
 ```python
 x = f(

@@ -86,7 +86,7 @@ $$
 
 如果双方轮流行动, 那么可以根据对方的策略执行自己的策略, 此时双方不可能同时有必胜策略. 连续时间博弈的问题是双方可以即时对对手策略进行反应.
 
-还有一些自然的问题, 比如说是否存在 "合理 (nice)" 的必胜策略? 最显然的定义 "合理" 的方式是连续性 ($\Phi$ 和 $\Psi$ 连续). 策略 $\Phi\colon \mathcal B\to \mathcal C$ 是连续的, 若对任意 $f_0\in\mathcal B$, 任意 $\varepsilon>0$, 存在 $\delta>0$, 使得对任意 $f_1 \in \\{f\in\mathcal B : \vert f_0(t) - f(t) \vert <\delta \text{ for any } t  \\}$, 都成立 $\vert \Psi(f_0)(t) - \Psi(f_1)(t) \vert < \varepsilon$ for any $t$.
+还有一些自然的问题, 比如说是否存在 "合理 (nice)" 的必胜策略? 最显然的定义 "合理" 的方式是连续性 ($\Phi$ 和 $\Psi$ 连续). 策略 $\Phi\colon \mathcal B\to \mathcal C$ 是连续的, 若对任意 $f_0\in\mathcal B$, 任意 $\varepsilon>0$, 存在 $\delta>0$, 使得对任意 $f_1 \in \\{f\in\mathcal B : \vert f_0(t) - f(t) \vert <\delta \text{ for any } t  \\}$, 都成立 $\vert \Phi(f_0)(t) - \Phi(f_1)(t) \vert < \varepsilon$ for any $t$.
 
 ## 结果
 

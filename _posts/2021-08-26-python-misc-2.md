@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录 2: 最佳实践"
 categories: Tech
-updated: 2022-04-07
+updated: 2022-09-09
 comments: true
 mathjax: false
 ---
@@ -179,6 +179,9 @@ logger = logging.getLogger(__name__)
 比如 [kafka.producer.kafka 的源码](https://kafka-python.readthedocs.io/en/master/_modules/kafka/producer/kafka.html#KafkaProducer) 和 [kafka.conn 的源码](https://github.com/dpkp/kafka-python/blob/f19e4238fb47ae2619f18731f0e0e9a3762cfa11/kafka/conn.py), 在开头定义 `log = logging.getLogger(__name__)`, 可以参考它正文的 log 写法.
 
 另外有篇巨长的文章 [Python Logging Guide – Best Practices and Hands-on Examples](https://coralogix.com/blog/python-logging-best-practices-tips/) 还没读.
+
+> The client provides a [`printf`\-style message format string](https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting) (as a `msg` argument) and the values (as a `args` argument) to construct the log message to the logging method, e.g., `logger.debug('Entering method %s: x=%d, y=%f', 'Foo', x, y)`. After the logging statement is deemed as active, the logger constructs the log message using the string formatting operator `%`.  
+    This approach relies on an older and quirky string formatting feature of Python but it involves *the lazy construction of log messages*.
 
 ### 更多自定义
 

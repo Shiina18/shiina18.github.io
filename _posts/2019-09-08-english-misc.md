@@ -1,7 +1,7 @@
 ---
 title: "英语杂录"
 categories: Language
-updated: 2022-07-28
+updated: 2022-09-06
 comments: true
 mathjax: false
 ---
@@ -11,6 +11,16 @@ mathjax: false
 - [Vocabulary.com](https://www.vocabulary.com/). 释义有趣, 例句分领域.
 - [Oxford](https://www.lexico.com/), [Merriam-Webster](https://www.merriam-webster.com/), [Collins](https://www.collinsdictionary.com/). 我用得最多的三个字典, "网易有道词典" 整合了它们, 也是极其好用的 app.
 - [Longman](https://www.ldoceonline.com/) 的特色是可以看搭配.
+
+## Handle vs handler
+
+2022/9/6
+
+参考 [In programming, what is the difference between a handle and a handler? - Quora](https://www.quora.com/In-programming-what-is-the-difference-between-a-handle-and-a-handler)
+
+## Transparent
+
+参考 [meaning in context - What is the correct interpretation of *transparent*? - English Language Learners Stack Exchange](https://ell.stackexchange.com/questions/17693/what-is-the-correct-interpretation-of-transparent)
 
 <!-- more -->
 
