@@ -5,7 +5,7 @@ comments: true
 mathjax: false
 ---
 
-Last updated on 2022-02-08
+Last updated on 2022-09-26
 
 我是 C7. 与其说是博客, 这更像是我个人的线上公开笔记本, 便于自己在不同设备上翻阅. 在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 文章采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
 
@@ -39,6 +39,8 @@ Last updated on 2022-02-08
     - 2012-01-26 [Research Notes: 为什么跨学科的研究项目是件残酷的事](http://blog.farmostwood.net/643.html)
     - 2016-07-20 [乞力马扎罗的八天和一夜](http://blog.farmostwood.net/830.html)
     - 2016-12-03 [我为什么反对川普](http://blog.farmostwood.net/837.html)
+- [万事屋](https://tcya.xyz/). by 杨洵默. `统计`
+    - 2017-07-16 [心理学的危机](https://tcya.xyz/2017/07/16/p_value.html) 可以去统计之都或者公众号的下面看评论
 - [谢益辉的个人主页](https://yihui.org/). 统计之都创始人
     - 2009-05-11 [统计学和计量经济学的神奇?](http://www.loyhome.com/统计学和计量经济学的神奇？) 虽然是其他博客的, 但用了大量该博客的文章
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
@@ -52,12 +54,15 @@ Last updated on 2022-02-08
 - [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学` 时隔多年回归
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
+- [pybites](http://pybit). `Python`
 - [Remains of the Day](https://www.eugenewei.com/). by Eugene Wei. `产品`
     - 2020-08-03 [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat). 这个系列一共三篇, 见总结 [美国 "头学家" 是怎么看待 TikTok 的?](http://www.woshipm.com/it/4397019.html)
 - [SinanTalk](https://sinantang.github.io/). `杂谈`
     - 2021-07-15 [推荐不自信的人都去学唱歌](https://sinantang.github.io/others/2021/07/15/singing/)
 - [Stratechery](https://stratechery.com/). by Ben Thompson. `产品`
     - 2015-07-21 [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
+- [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
+    - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
 
 ### 不再更新 (至少断更一年)
 
@@ -68,12 +73,8 @@ Last updated on 2022-02-08
     - 2013-06-21 [吹牛大王 Baron Münchhausen](http://localhost-8080.com/2013/06/baron-munchhausen-the-tall-tale-teller/)
 - 2017-10-17 [刘未鹏 \| Mind Hacks](http://mindhacks.cn/): 思维改变生活. `杂谈`
     - 2009-02-15 [[BetterExplained] 为什么你应该 (从现在开始就) 写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
-- 2020-06-19 [万事屋](https://tcya.xyz/). by 杨洵默. `统计`
-    - 2017-07-16 [心理学的危机](https://tcya.xyz/2017/07/16/p_value.html) 可以去统计之都或者公众号的下面看评论
 - 2013-03-27 [Me, Myself and Mathematics](https://sbjoshi.wordpress.com/): Saurabh Joshi's Blog about math, algorithms, theorems, puzzles….
-- 2016-03-07 [No Arbitrage](http://www.sweet-layla.com/). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
-- 2021-01-02 [Synthesist in the Shell](https://linghao.io/). by Linghao Zhang. `工程师`
-    - 2018-06-16 [初心](https://linghao.io/notes/stay-gold)
+- 2016-03-07 [No Arbitrage](http://www.sweet-layla.com/) (挂了). 转战豆瓣 [蕾拉](https://www.douban.com/people/sweetlayla/notes). `周记`
 
 ## Random Links
 

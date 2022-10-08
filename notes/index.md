@@ -35,6 +35,10 @@ Last updated on 2022-03-14
 
 ## Notes
 
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
+译文 [中英对照](https://www.oschina.net/translate/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?cmp), 或者 [另一个版本](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md)
+
 - 2020/6/4 [Solutions to Selected Problems in Time Series Analysis](https://shiina18.github.io/assets/docs/Solutions%20to%20Selected%20Problems%20in%20Time%20Series%20Analysis.pdf)
 
 This document contains solutions to selected problems in Brockwell, P. J., Davis, R. A., and Fienberg, S. E. (1991). *Time series: theory and methods*. Springer Science & Business Media.

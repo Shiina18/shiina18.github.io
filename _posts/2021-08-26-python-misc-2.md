@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录 2: 最佳实践"
 categories: Tech
-updated: 2022-09-09
+updated: 2022-09-13
 comments: true
 mathjax: false
 ---
@@ -78,6 +78,8 @@ def value(self):
 补充 (2022/4/7): namedtuple 的优势见 [data-classes-vs-typing-namedtuple-primary-use-cases](https://stackoverflow.com/questions/51671699/data-classes-vs-typing-namedtuple-primary-use-cases)
 
 其他可参考的文章: [Configuration Files in Python using dataclasses \| True Analytics Tech](https://tech.trueanalytics.ai/posts/dataconf-at-tdg/)
+
+另外还有第三方库 [pydantic](https://pydantic-docs.helpmanual.io/), 一个优点是嵌套时, 生成 dict 或者 json 比较方便.
 
 ## logging
 

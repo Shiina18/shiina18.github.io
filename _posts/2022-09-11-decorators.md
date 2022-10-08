@@ -80,3 +80,7 @@ TODO.
 见 [pandas/util/_decorators.py](https://github.com/pandas-dev/pandas/blob/main/pandas/util/_decorators.py), 选几个.
 
 比如 `doc` 装饰器, 配合 [`textwrap.dedent`](https://docs.python.org/3/library/textwrap.html#textwrap.dedent) 可以让多行字符串更易读.
+
+**其他**
+
+- [你写过哪些真正生产可用的 Python 装饰器?](https://www.zhihu.com/question/350078061)

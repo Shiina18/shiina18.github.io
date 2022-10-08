@@ -55,6 +55,22 @@ conda install snorkel==0.9.0 -c conda-forge
 <pre><code class="language-python">print('test')
 </code></pre></details>
 
+<a name="模型简介"></a>
+
+- <mark>Marked text</mark>
+- <span style="background-color: #FFFF00">Marked text</span>
+- <mark style="background-color: lightblue">Marked text</mark>
+- 不确定
+    - <kbd>keyboard</kbd>
+    - This is a [hover text](## "your hover text") example.
+    - <abbr title="Open Neural Network EXchange">ONNX</abbr>
+
+手动加 anchor, [跳转](#模型简介)
+
+```diff
++ import numpy as np
+- import pandas as pd
+```
 
 ### 其他已经发现的 bug
 
