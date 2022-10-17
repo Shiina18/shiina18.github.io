@@ -1,7 +1,7 @@
 ---
 title: "Shell 脚本简要"
 categories: Language
-updated: 
+updated: 2022-10-13
 comments: true
 mathjax: false
 ---
@@ -98,6 +98,7 @@ echo "<html>
 - 单引号不做 string interpolation, 双引号做, 参考 [这里](https://stackoverflow.com/questions/6697753/difference-between-single-and-double-quotes-in-bash).
 - `${}` 称为 parameter substitution/expansion (双引号内生效), 类似 Python 的 f-string, 把字符串里面的占位符替换成对应值. 其中 `{}` 可写可不写, 最好写上避免歧义. `$()` 称为 command substitution, 见 [这里](https://superuser.com/questions/935374/difference-between-and-in-a-shell-script). 单纯的圆括号 `()` 表示 subshell.
 - 用 `"` 可以写多行字符串. 另外同 Python, 在行末尾写 `\` 为 line continuation.
+- [Double quote to prevent globbing and word splitting.](https://github.com/koalaman/shellcheck/wiki/SC2086)
 
 <details><summary><b>很少用的 declare</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
 <ul>
@@ -396,9 +397,25 @@ done
 
 可以结合 `case` 写位置参数, 略.
 
+## 数组
+
+只支持一维数组. 使用场景可以参考 [SC2086#exceptions](https://github.com/koalaman/shellcheck/wiki/SC2086#exceptions).
+
+```bash
+# index 从 0 开始, 但是赋值时中间可以不赋值
+a[1]=foo
+echo ${a[1]}
+
+days=(Sun Mon Tue Wed Thu Fri Sat)
+days=([0]=Sun [1]=Mon [2]=Tue [3]=Wed [4]=Thu
+[5]=Fri [6]=Sat)
+
+for i in "${days[@]}"; do echo $i; done
+```
+
 ## Tips
 
-[shellcheck](https://github.com/koalaman/shellcheck/wiki/Checks) 插件提供了很多建议
+[shellcheck](https://github.com/koalaman/shellcheck/wiki/Checks) 插件提供了 [很多建议](https://github.com/koalaman/shellcheck#gallery-of-bad-code)
 
 - Use `cd ... || exit` in case `cd` fails. See [SC2164](https://github.com/koalaman/shellcheck/wiki/SC2164). 因为默认情况下 shell 脚本遇到错误会继续执行下一句, 而不是退出.
 - Check exit code directly with e.g. `if mycmd;`, not indirectly with `$?`. See [SC2181](https://github.com/koalaman/shellcheck/wiki/SC2181).

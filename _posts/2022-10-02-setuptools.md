@@ -68,10 +68,10 @@ python -m build
 之后如果本地项目需要用到, 可以用
 
 ```shell
-pip install -e path/to/foo_package
+pip install -e path/to/根目录
 ```
 
-把 `path/to/foo_package` 加入 PYTHONPATH 里.
+会读取根目录下的 `setup.cfg` 或 `setup.py`, 把 `foo_package` 路径加入 PYTHONPATH 里.
 
 - [python - What is the use case for `pip install -e`? - Stack Overflow](https://stackoverflow.com/questions/42609943/what-is-the-use-case-for-pip-install-e)
 

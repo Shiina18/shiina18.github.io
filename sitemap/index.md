@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(46)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(10)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(27)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(28)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(16)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(6)</font>
@@ -37,17 +37,18 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2022-09-20 <a href="https://shiina18.github.io/language/2022/09/20/shell-script">Shell 脚本简要</a> <font color="lightgrey">(2022-10-13 updated)</font></li>
+<li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录</a> <font color="lightgrey">(2022-10-10 updated)</font></li>
 <li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-09-13 updated)</font></li>
 <li>2021-08-25 <a href="https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet">Linux cheatsheet (自用)</a> <font color="lightgrey">(2022-09-11 updated)</font></li>
 <li>2019-09-08 <a href="https://shiina18.github.io/language/2019/09/08/english-misc">英语杂录</a> <font color="lightgrey">(2022-09-06 updated)</font></li>
 <li>2022-03-25 <a href="https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi">深度学习吐槽杂录</a> <font color="lightgrey">(2022-08-06 updated)</font></li>
 <li>2021-04-09 <a href="https://shiina18.github.io/games/2021/04/09/hearthstone">炉石传说随记</a> <font color="lightgrey">(2022-08-05 updated)</font></li>
 <li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-07-28 updated)</font></li>
-<li>2022-02-25 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/02/25/simcse">SimCSE: simple contrastive sentence embedding</a> <font color="lightgrey">(2022-07-12 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(160)</font>
+## Posts <font color="lightgrey">(161)</font>
 
 ### Algorithms
 
@@ -132,7 +133,7 @@ mathjax: true
 
 - 2022-10-01 [Java 初步: 简化版](https://shiina18.github.io/language/2022/10/01/java)
 - 2022-09-26 [C++ 初步: 简化版](https://shiina18.github.io/language/2022/09/26/cpp)
-- 2022-09-20 [Shell 脚本简要](https://shiina18.github.io/language/2022/09/20/shell-script)
+- 2022-09-20 [Shell 脚本简要](https://shiina18.github.io/language/2022/09/20/shell-script) <font color="lightgrey">(2022-10-13 updated)</font>
 - 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/first-java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
@@ -143,6 +144,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2022-10-16 [深度学习性能瓶颈往往是内存带宽](https://shiina18.github.io/machine%20learning/2022/10/16/gpu)
 - 2022-08-01 `NLP` [工业界 NLP 实践杂录](https://shiina18.github.io/machine%20learning/2022/08/01/industry-nlp)
 - 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
 - 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init)
@@ -224,7 +226,7 @@ mathjax: true
 
 ### Tech
 
-- 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile)
+- 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-10 updated)</font>
 - 2022-10-02 [Python setuptools 简要](https://shiina18.github.io/tech/2022/10/02/setuptools)
 - 2022-09-11 [Python 装饰器杂录](https://shiina18.github.io/tech/2022/09/11/decorators)
 - 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web)
