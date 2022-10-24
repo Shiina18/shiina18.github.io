@@ -1,7 +1,7 @@
 ---
 title: "Python 的 web 相关库杂录"
 categories: Tech
-updated: 
+updated: 2022-10-24
 comments: true
 mathjax: false
 ---
@@ -37,7 +37,8 @@ uWSGI 很多功能与 Nginx 等部件重复, 文档也很杂乱 (开发者承认
 
 > gevent is a coroutine-based Python networking library that uses greenlet to provide a high-level synchronous API on top of the libev or libuv event loop.
 
-[gevent introduction](http://www.gevent.org/intro.html)
+- [gevent introduction](http://www.gevent.org/intro.html)
+- [gevent For the Working Python Developer](https://sdiehl.github.io/gevent-tutorial/)
 
 > A monkey patch (also spelled monkey-patch, MonkeyPatch) is a way to extend or modify the runtime code of dynamic languages (e.g. Smalltalk, JavaScript, Objective-C, Ruby, Perl, Python, Groovy, etc.) without altering the original source code.
 

@@ -2,7 +2,7 @@
 title: "文档目录抽取"
 categories: 
 - Machine Learning
-updated: 2022-04-03
+updated: 2022-10-19
 comments: true
 mathjax: false
 ---
@@ -102,6 +102,7 @@ Java 的 [Apache PDFBox](https://pdfbox.apache.org/) 可以得到 pdf 底层信�
     - LayoutLM 已经发展了很多代版本
         - [微软亚洲研究院提出多语言通用文档理解预训练模型 LayoutXLM](https://www.msra.cn/zh-cn/news/features/layoutxlm) (包括中文)
         - [Github](https://github.com/microsoft/unilm/tree/master/layoutxlm). 模型巨大 (1.5G), 目前没有看到国内实践经验.
+        - 百度开源 [ERNIE-Layout](https://github.com/PaddlePaddle/PaddleNLP/blob/develop/model_zoo/ernie-layout/README_ch.md) (2022/10/19)
 - 阿里达摩院的 [展示](https://vision.aliyun.com/experience/detail?spm=a2c4g.11186623.0.0.6cc469768Y2hb7&&tagName=ocr&children=TrimDocument). 给的实例都太简单了, 案例五效果明显有问题.
 - 同花顺 iFinD 的 [展示](https://www.sohu.com/a/238369466_100132876), 对于数字开头的标题, 截图中肉眼可见的有错漏.
 

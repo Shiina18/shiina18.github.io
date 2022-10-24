@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(6)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(17)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(18)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -37,8 +37,11 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-10-24 updated)</font></li>
+<li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
+<li>2022-08-19 <a href="https://shiina18.github.io/tech/2022/08/19/docker">Docker 简要: 部署 Python 应用简例</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
+<li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录</a> <font color="lightgrey">(2022-10-18 updated)</font></li>
 <li>2022-09-20 <a href="https://shiina18.github.io/language/2022/09/20/shell-script">Shell 脚本简要</a> <font color="lightgrey">(2022-10-13 updated)</font></li>
-<li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录</a> <font color="lightgrey">(2022-10-10 updated)</font></li>
 <li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-09-13 updated)</font></li>
 <li>2021-08-25 <a href="https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet">Linux cheatsheet (自用)</a> <font color="lightgrey">(2022-09-11 updated)</font></li>
 <li>2019-09-08 <a href="https://shiina18.github.io/language/2019/09/08/english-misc">英语杂录</a> <font color="lightgrey">(2022-09-06 updated)</font></li>
@@ -48,7 +51,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(161)</font>
+## Posts <font color="lightgrey">(162)</font>
 
 ### Algorithms
 
@@ -158,7 +161,7 @@ mathjax: true
 - 2022-01-01 [Bayes 优化简介](https://shiina18.github.io/machine%20learning/2022/01/01/bayesop) <font color="lightgrey">(2022-02-05 updated)</font>
 - 2021-12-31 [半监督学习简要](https://shiina18.github.io/machine%20learning/2021/12/31/semi-supervised)
 - 2021-12-15 `NLP` [BERT 复习](https://shiina18.github.io/machine%20learning/2021/12/15/bert)
-- 2021-12-14 [文档目录抽取](https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction) <font color="lightgrey">(2022-04-03 updated)</font>
+- 2021-12-14 [文档目录抽取](https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction) <font color="lightgrey">(2022-10-19 updated)</font>
 - 2021-12-10 [Transformer 复习](https://shiina18.github.io/machine%20learning/2021/12/10/transformer)
 - 2021-12-06 [[半监督] 非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
 - 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-20 updated)</font>
@@ -226,12 +229,13 @@ mathjax: true
 
 ### Tech
 
-- 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-10 updated)</font>
+- 2022-10-23 [Python 并发基础](https://shiina18.github.io/tech/2022/10/23/concurrency)
+- 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-18 updated)</font>
 - 2022-10-02 [Python setuptools 简要](https://shiina18.github.io/tech/2022/10/02/setuptools)
 - 2022-09-11 [Python 装饰器杂录](https://shiina18.github.io/tech/2022/09/11/decorators)
-- 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web)
+- 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web) <font color="lightgrey">(2022-10-24 updated)</font>
 - 2022-08-29 [Triton Inference Server 简要](https://shiina18.github.io/tech/2022/08/29/triton)
-- 2022-08-19 [Docker 简要: 部署 Python 应用简例](https://shiina18.github.io/tech/2022/08/19/docker)
+- 2022-08-19 [Docker 简要: 部署 Python 应用简例](https://shiina18.github.io/tech/2022/08/19/docker) <font color="lightgrey">(2022-10-19 updated)</font>
 - 2022-07-06 [Notes on the art of readable code](https://shiina18.github.io/tech/2022/07/06/readable-code)
 - 2022-04-12 [Spark 简要](https://shiina18.github.io/tech/2022/04/12/spark)
 - 2022-04-12 [First easy piece: virtualization](https://shiina18.github.io/tech/2022/04/12/virtual)
