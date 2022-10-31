@@ -54,7 +54,7 @@ Last updated on 2022-09-26
 - [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学` 时隔多年回归
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
-- [pybites](http://pybit). `Python`
+- [pybites](https://pybit.es/). `Python`
 - [Remains of the Day](https://www.eugenewei.com/). by Eugene Wei. `产品`
     - 2020-08-03 [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat). 这个系列一共三篇, 见总结 [美国 "头学家" 是怎么看待 TikTok 的?](http://www.woshipm.com/it/4397019.html)
 - [SinanTalk](https://sinantang.github.io/). `杂谈`
@@ -79,6 +79,7 @@ Last updated on 2022-09-26
 ## Random Links
 
 - [统计之都](https://cosx.org/)
+- [Full Stack Python](https://www.fullstackpython.com/)
 - [Mathematical Association of America](https://www.maa.org/). 可以查到数学家的书评.
 - [Math Pages](https://mathpages.com/)
 - [Using your Head is Permitted](https://www.brand.site.co.il/riddles/usingyourhead.html). Interesting riddles.

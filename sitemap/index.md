@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(6)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(18)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(19)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -47,11 +47,10 @@ mathjax: true
 <li>2019-09-08 <a href="https://shiina18.github.io/language/2019/09/08/english-misc">英语杂录</a> <font color="lightgrey">(2022-09-06 updated)</font></li>
 <li>2022-03-25 <a href="https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi">深度学习吐槽杂录</a> <font color="lightgrey">(2022-08-06 updated)</font></li>
 <li>2021-04-09 <a href="https://shiina18.github.io/games/2021/04/09/hearthstone">炉石传说随记</a> <font color="lightgrey">(2022-08-05 updated)</font></li>
-<li>2020-10-25 <code>Renju</code> <a href="https://shiina18.github.io/games/2020/10/25/renju-from-zero">从零开始的五子棋学习</a> <font color="lightgrey">(2022-07-28 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(162)</font>
+## Posts <font color="lightgrey">(163)</font>
 
 ### Algorithms
 
@@ -229,7 +228,8 @@ mathjax: true
 
 ### Tech
 
-- 2022-10-23 [Python 并发基础](https://shiina18.github.io/tech/2022/10/23/concurrency)
+- 2022-10-29 [SQLAlchemy 简要](https://shiina18.github.io/tech/2022/10/29/sqlalchemy)
+- 2022-10-23 [Python 并发简要](https://shiina18.github.io/tech/2022/10/23/concurrency)
 - 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-18 updated)</font>
 - 2022-10-02 [Python setuptools 简要](https://shiina18.github.io/tech/2022/10/02/setuptools)
 - 2022-09-11 [Python 装饰器杂录](https://shiina18.github.io/tech/2022/09/11/decorators)

@@ -1,12 +1,12 @@
 ---
-title: "Python 并发基础"
+title: "Python 并发简要"
 categories: Tech
 updated: 
 comments: true
 mathjax: false
 ---
 
-并发 (concurrency) 和并行 (parallelism) 是两个概念. 这两个术语的使用还有争议, 下面依照书上的说法, 并行是并发的子集. 
+并发 (concurrency) 和并行 (parallelism) 是两个概念. 这两个术语的使用还有争议, 下面依照书上 (Fluent Python, 2nd Edition) 的说法, 并行是并发的子集. 
 
 > A modern laptop with 4 CPU cores is routinely running more than 200 processes at any given time under normal, casual use. To execute 200 tasks in parallel, you'd need 200 cores. So, in practice, most computing is concurrent and not parallel.
 
