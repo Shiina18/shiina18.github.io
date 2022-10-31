@@ -50,6 +50,8 @@ ORM 是用面向对象的方式操作数据库, 使得对所有支持的数据�
 
 如果写 raw sql 需要模板, 可以用 [jinjasql](https://github.com/sripathikrishnan/jinjasql#when-to-use-jinjasql) 防止 SQL 注入.
 
+查询很大的时候可以参考 [Loading SQL data into Pandas without running out of memory](https://pythonspeed.com/articles/pandas-sql-chunking/).
+
 参考
 
 - [How to Execute Raw SQL in SQLAlchemy \| Tutorial by Chartio](https://chartio.com/resources/tutorials/how-to-execute-raw-sql-in-sqlalchemy/)
