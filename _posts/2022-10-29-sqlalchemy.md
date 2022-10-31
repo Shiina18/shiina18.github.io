@@ -48,6 +48,8 @@ class Connection(Connectable):
 
 ORM 是用面向对象的方式操作数据库, 使得对所有支持的数据库类型都能用相同的代码. 教程参考 [官方文档](https://docs.sqlalchemy.org/en/14/orm/tutorial.html) (但总体而言官方文档写得太长了, 见 [为什么很多人都喜欢 Django 的 ORM 而不是 SQLAlchemy](https://www.zhihu.com/question/19959765/answer/28233183)), 稳定版是 1.4, 最近已经有 2.0 beta 了, 只保留了核心操作. (我没看过)
 
+如果写 raw sql 需要模板, 可以用 [jinjasql](https://github.com/sripathikrishnan/jinjasql#when-to-use-jinjasql) 防止 SQL 注入.
+
 参考
 
 - [How to Execute Raw SQL in SQLAlchemy \| Tutorial by Chartio](https://chartio.com/resources/tutorials/how-to-execute-raw-sql-in-sqlalchemy/)
