@@ -1,7 +1,7 @@
 ---
 title: "Python 的 web 相关库杂录"
 categories: Tech
-updated: 2022-10-24
+updated: 2022-11-15
 comments: true
 mathjax: false
 ---
@@ -57,9 +57,31 @@ uWSGI 很多功能与 Nginx 等部件重复, 文档也很杂乱 (开发者承认
 
 基本用法没什么好说的. 此外有个自动生成 Swagger UI 的包 [Flask-RESTX](https://flask-restx.readthedocs.io/en/latest/). Flask-RESTX is a community driven fork of Flask-RESTPlus (后者很久没维护了, 前者也有一段时间不怎么维护了).
 
+部署到生产时官方 [tutorial](https://flask.palletsprojects.com/en/2.2.x/tutorial/deploy/#run-with-a-production-server) 用了 [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/); [这里](https://flask.palletsprojects.com/en/2.2.x/deploying/) 介绍了各种常见 WSGI server 部署 Flask 的例子.,
+
 - [一个并发的网站, Tornado 与 Flask 应该选哪一个?](https://www.zhihu.com/question/27316652/answer/299186589)
 - [Flask - Full Stack Python](https://www.fullstackpython.com/flask.html)
 - [python - What is an 'endpoint' in Flask? - Stack Overflow](https://stackoverflow.com/questions/19261833/what-is-an-endpoint-in-flask)
+
+## Celery
+
+> [Celery](https://www.fullstackpython.com/celery.html) is a task queue implementation for Python web applications used to asynchronously execute work outside the HTTP request-response cycle. 
+
+异步基本就用这个库. Celery 命名 [来源](https://github.com/celery/celery/issues/6048) 于, 它把数据喂给 RabbitMQ. 
+
+把应用迁移到使用 Celery 不用改什么代码, 工作量主要在配置上. 
+
+<details><summary><b>一些资源</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
+<p><a href="https://www.fullstackpython.com/celery.html">Full Stack Python</a></p>
+<ul>
+<li><a href="https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html">How to Use Celery and RabbitMQ with Django</a> is a great tutorial that shows how to both install and set up a basic task with Django.</li>
+<li><a href="https://denibertovic.com/posts/celery-best-practices/">Celery - Best Practices</a> explains things you should not do with Celery and shows some underused features for making task queues easier to work with.</li>
+<li><a href="https://blog.balthazar-rouberol.com/celery-best-practices">Celery Best Practices</a> is a different author's follow up to the above best practices post that builds upon some of his own learnings from 3+ years using Celery.</li>
+</ul></details>
+
+除了一开始的 tutorial, 官方 userguide 建议先看 [tasks](https://docs.celeryq.dev/en/stable/userguide/tasks.html).
+
+Celery 启动后先注册任务, 可以用 `--loglevel=DEBUG`, 搜索 tasks, 看任务有没有注册, 注册了哪些 (`autodiscover_tasks` 中可以指定搜索路径). 在代码中实际使用时, 函数路径必须和注册的任务名相同 (x.y.z, 注意相对 import).
 
 ## 其他
 

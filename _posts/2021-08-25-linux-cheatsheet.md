@@ -1,7 +1,7 @@
 ---
 title: "Linux cheatsheet (自用)"
 categories: Tech
-updated: 2022-09-11
+updated: 2022-11-09
 comments: true
 mathjax: false
 ---
@@ -16,9 +16,10 @@ mathjax: false
 
 ## 常用命令
 
-看一下 `awk` 和 `rsync`.
+看一下 `awk` 和 `rsync`; `top`, `nvidia-smi`.
 
 - 叉烧. (2019). [算法工程师 Linux 必知必会​](https://mp.weixin.qq.com/s/y97ivwbksKNpqiSNFhWJeQ)
+- CHRIS HOFFMAN. (2016). [The Linux Directory Structure, Explained](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
 
 ### kill
 
@@ -123,21 +124,72 @@ Docker 教程: [天池](https://tianchi.aliyun.com/competition/entrance/231759/i
 
 先创建镜像 (image) 文件, 再基于镜像创建进程 (称为容器).
 
-查看进程 (容器)
-
-```shell
-docker ps
-```
-
-Cheatsheet
-
-```shell
-docker-compose build
-docker-compose stop
-docker-compose up
-docker-compose up -d
-```
-
-先用 `up` 确认没有问题, 再用 `-d` (`--detach`) Detached mode: Run containers in the background, print new container names.
-
 另外参考 [What’s the difference between `up`, `run`, and `start`?](https://docs.docker.com/compose/faq/#whats-the-difference-between-up-run-and-start)
+
+## 杂项
+
+**找到并 kill 相关进程**
+
+```shell
+ps aux | grep 'xxx' | grep -v grep | awk '{print $2}' | xargs kill
+```
+
+**查看系统版本**
+
+```shell
+cat /etc/os-release
+```
+
+**conda**
+
+```shell
+conda create --name myenv
+conda create -n myenv python=3.8
+
+conda remove --name myenv --all
+conda env remove --name myenv
+```
+
+## less
+
+相比于 vim, less loads the document a page at a time. 
+
+```shell
+# 显示行号
+less -N /etc/init/mysql.conf
+```
+
+| Shortcuts |                  Action                  |
+| --------- | ---------------------------------------- |
+| g         | jump to the **beginning** of the file.   |
+| G         | end                                      |
+| /[string] | search forward for the specified string. |
+| n         | **next** match during a search.          |
+| N         | previous                                 |
+
+
+## vim
+
+搜索同 less, `gg` 跳到文件首行, `G` 尾行.
+
+| Shortcuts  |              Action               |
+| ---------- | --------------------------------- |
+| u          | undo                              |
+| Ctrl + r   | redo                              |
+| dd         | delete (cut) a line               |
+| 2dd 或 d2d | delete (cut) 2 lines              |
+| 0          | jump to the **start** of the line |
+| $          | jump to the **end** of the line   |
+
+**删除选中的多行**
+
+先 `Shift + v` 进入 visual line 模式, 移动光标选中多行, 再按 `d` 删除选中的多行.
+
+**多行注释**
+
+1. 先 `Ctrl + v` 进入 visual block 模式, 移动光标 (之后会多行同时编辑)
+2. `Shift + i` (大写 I) 进入 insert 模式, 输入例如 `#`, 再按 `Esc` 退回普通模式看到效果
+
+**取消多行注释**
+
+同上 step 1 之后, 按 `d` 或 `x` 删除选中行的首字符 (多个字符需要重复多次).

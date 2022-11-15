@@ -47,10 +47,12 @@ Last updated on 2022-09-26
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
 - [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) ([旧网址](http://pywonderland.com/)). by 赵亮. `数学`
 - [argmin](http://www.argmin.net/). by Ben Recht. `统计` `机器学习`
+- [Arvin](http://www.arvinzyy.cn/). `搜广推`
 - [Benkuhn](https://www.benkuhn.net/). `杂谈`
     - 2020-02 [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 - [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
+- [Full Stack Python](https://www.fullstackpython.com/). `Python`
 - [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学` 时隔多年回归
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
@@ -79,7 +81,6 @@ Last updated on 2022-09-26
 ## Random Links
 
 - [统计之都](https://cosx.org/)
-- [Full Stack Python](https://www.fullstackpython.com/)
 - [Mathematical Association of America](https://www.maa.org/). 可以查到数学家的书评.
 - [Math Pages](https://mathpages.com/)
 - [Using your Head is Permitted](https://www.brand.site.co.il/riddles/usingyourhead.html). Interesting riddles.
