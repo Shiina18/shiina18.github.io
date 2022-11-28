@@ -50,6 +50,8 @@ Last updated on 2022-09-26
 - [Arvin](http://www.arvinzyy.cn/). `搜广推`
 - [Benkuhn](https://www.benkuhn.net/). `杂谈`
     - 2020-02 [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
+- [Bright Yellow](http://www.ines-panker.com/). by Ines Panker. `Python` `工程师`
+    - 2020-10-28 [Celery: A Few Gotchas Explained](http://www.ines-panker.com/2020/10/28/celery-explained.html)
 - [Eventually Almost Everywhere](https://eventuallyalmosteverywhere.wordpress.com/): A blog about probability and olympiads by Dominic Yeo. 
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - [Full Stack Python](https://www.fullstackpython.com/). `Python`

@@ -131,7 +131,14 @@ Docker 教程: [天池](https://tianchi.aliyun.com/competition/entrance/231759/i
 **找到并 kill 相关进程**
 
 ```shell
-ps aux | grep 'xxx' | grep -v grep | awk '{print $2}' | xargs kill
+ps aux | grep "$service" | grep -v grep | awk '{print $2}' | xargs kill
+```
+
+参考 [SC2009: Consider using `pgrep` instead of grepping `ps` output.](https://github.com/koalaman/shellcheck/wiki/SC2009), 一个更简洁安全的写法是 (另外参考 pkill)
+
+```shell
+# When `-f` option is used, the command matches against full argument lists. 
+pgrep -f "$service" | xargs kill
 ```
 
 **查看系统版本**
@@ -193,3 +200,7 @@ less -N /etc/init/mysql.conf
 **取消多行注释**
 
 同上 step 1 之后, 按 `d` 或 `x` 删除选中行的首字符 (多个字符需要重复多次).
+
+**删除所有**
+
+`gg` + `dG`

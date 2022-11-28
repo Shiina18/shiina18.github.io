@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(19)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(20)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -37,7 +37,7 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
-<li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-11-15 updated)</font></li>
+<li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-11-25 updated)</font></li>
 <li>2021-08-25 <a href="https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet">Linux cheatsheet (自用)</a> <font color="lightgrey">(2022-11-09 updated)</font></li>
 <li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-10-31 updated)</font></li>
 <li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
@@ -49,7 +49,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(164)</font>
+## Posts <font color="lightgrey">(165)</font>
 
 ### Algorithms
 
@@ -228,12 +228,13 @@ mathjax: true
 
 ### Tech
 
+- 2022-11-23 [RabbitMQ 消息确认机制](https://shiina18.github.io/tech/2022/11/23/rabbitmq)
 - 2022-10-29 [SQLAlchemy 简要](https://shiina18.github.io/tech/2022/10/29/sqlalchemy)
 - 2022-10-23 [Python 并发简要](https://shiina18.github.io/tech/2022/10/23/concurrency)
 - 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-18 updated)</font>
 - 2022-10-02 [Python setuptools 简要](https://shiina18.github.io/tech/2022/10/02/setuptools)
 - 2022-09-11 [Python 装饰器杂录](https://shiina18.github.io/tech/2022/09/11/decorators)
-- 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web) <font color="lightgrey">(2022-11-15 updated)</font>
+- 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web) <font color="lightgrey">(2022-11-25 updated)</font>
 - 2022-08-29 [Triton Inference Server 简要](https://shiina18.github.io/tech/2022/08/29/triton)
 - 2022-08-19 [Docker 简要: 部署 Python 应用简例](https://shiina18.github.io/tech/2022/08/19/docker) <font color="lightgrey">(2022-10-19 updated)</font>
 - 2022-07-06 [Notes on the art of readable code](https://shiina18.github.io/tech/2022/07/06/readable-code)

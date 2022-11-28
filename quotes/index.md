@@ -5,6 +5,18 @@ comments: true
 mathjax: false
 ---
 
+**2022/11/22**
+
+*   **Honesty**, both personal and intellectual
+*   A **cooperative mindset**, which often prioritizes helping your colleagues over your own direct work
+*   **Intellectual curiosity** – relentlessly getting to the bottom of problems
+*   **Humility**, including the ability to admit what you don’t know, and to acknowledge and learn from your mistakes
+*   A **quantitative approach** to decision making and problem solving
+
+— [Jane Street](https://www.cues.org.uk/archives/jane-street/)
+
+几年前还在官网上, 现在找不到了, 备份一下.
+
 **2020/10/1**
 
 在相当长的一段时间中, 我们的科普界似乎有一种很流行的观念, 即认为好的科普著作, 就在于以通俗的语言准确地向普通读者讲清科学道理. 当然, 这也是一种类型的科普, 但却绝不是唯一种类的科普, 更不是科普的最高境界. 作为一本优秀的科普著作, 语言的通俗和科学概念的准确只是最起码的必要条件, 甚至于连趣味性都可归入此列, 除了这些基本要求之外, 真正优秀的科普著作应该能向读者传达一种精神, 一种思考的方法, 能带给读者一种独特的视角, 以及一种科学的品味, 一种人文的观念. 

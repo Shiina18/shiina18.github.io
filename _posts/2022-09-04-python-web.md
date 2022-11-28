@@ -1,7 +1,7 @@
 ---
 title: "Python 的 web 相关库杂录"
 categories: Tech
-updated: 2022-11-15
+updated: 2022-11-25
 comments: true
 mathjax: false
 ---
@@ -77,6 +77,17 @@ uWSGI 很多功能与 Nginx 等部件重复, 文档也很杂乱 (开发者承认
 <li><a href="https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html">How to Use Celery and RabbitMQ with Django</a> is a great tutorial that shows how to both install and set up a basic task with Django.</li>
 <li><a href="https://denibertovic.com/posts/celery-best-practices/">Celery - Best Practices</a> explains things you should not do with Celery and shows some underused features for making task queues easier to work with.</li>
 <li><a href="https://blog.balthazar-rouberol.com/celery-best-practices">Celery Best Practices</a> is a different author's follow up to the above best practices post that builds upon some of his own learnings from 3+ years using Celery.</li>
+</ul>
+<p>其他看到的</p>
+<ul>
+<li><a href="https://stackoverflow.com/questions/9077687/why-use-celery-instead-of-rabbitmq">python - Why use Celery instead of RabbitMQ? - Stack Overflow</a></li>
+<li><a href="https://blog.wolt.com/engineering/2021/09/15/5-tips-for-writing-production-ready-celery-tasks/">5 tips for writing production-ready Celery tasks - Wolt Blog</a></li>
+<li><a href="https://progressstory.com/tech/python/production-ready-celery-configuration/">Production-ready Celery configuration - Progress Story</a></li>
+</ul>
+<p>进一步解释 Celery 机制</p>
+<ul>
+<li><a href="http://www.ines-panker.com/2020/10/28/celery-explained.html">Celery: A Few Gotchas Explained</a></li>
+<li><a href="https://www.distributedpython.com/2018/10/26/celery-execution-pool/">Celery Execution Pools: What is it all about? | distributedpython</a> 这是专门写 Celery 的博客</li>
 </ul></details>
 
 除了一开始的 tutorial, 官方 userguide 建议先看 [tasks](https://docs.celeryq.dev/en/stable/userguide/tasks.html).
