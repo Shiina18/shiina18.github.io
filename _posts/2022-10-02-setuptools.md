@@ -77,6 +77,8 @@ pip install -e path/to/根目录
 
 更一般地可以用 wheel (.whl) 文件安装; 上传到 pypi 等.
 
+如何卸载以 user 选项安装的包参考 [这里](https://stackoverflow.com/questions/33412974/how-to-uninstall-a-package-installed-with-pip-install-user).
+
 ## Package discovery
 
 上例项目结构比较简单, setuptools 可以自动找到正确的目录. 对于复杂一些的结构

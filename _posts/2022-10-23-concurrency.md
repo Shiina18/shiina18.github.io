@@ -81,4 +81,5 @@ with futures.ThreadPoolExecutor() as executor:
 - [SuperFastPython](https://superfastpython.com/) 写得好像还可以.
 - 异步编程: 协程. 多进程多线程重构起来都相当简单, 外面套一层就行; 但协程写起来比较麻烦, 得把涉及到的函数都调整一遍 (所以 gevent 是神).
 - Fossen. [python asyncio的设计晦涩难懂，一点也不python，是做毁了吗？](https://www.zhihu.com/question/451397804/answer/2193074474)
-
+- 一般的多线程, 多进程
+    - [daemon thread](https://stackoverflow.com/questions/5127401/setdaemon-method-of-threading-thread)

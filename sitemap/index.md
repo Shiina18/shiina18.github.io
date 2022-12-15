@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(20)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(21)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -37,19 +37,18 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2021-11-28 <a href="https://shiina18.github.io/machine%20learning/2021/11/28/gnn">图神经网络简介</a> <font color="lightgrey">(2022-11-30 updated)</font></li>
 <li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-11-25 updated)</font></li>
 <li>2021-08-25 <a href="https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet">Linux cheatsheet (自用)</a> <font color="lightgrey">(2022-11-09 updated)</font></li>
 <li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-10-31 updated)</font></li>
 <li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
 <li>2022-08-19 <a href="https://shiina18.github.io/tech/2022/08/19/docker">Docker 简要: 部署 Python 应用简例</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
-<li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录</a> <font color="lightgrey">(2022-10-18 updated)</font></li>
+<li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录: Makefile 等</a> <font color="lightgrey">(2022-10-18 updated)</font></li>
 <li>2022-09-20 <a href="https://shiina18.github.io/language/2022/09/20/shell-script">Shell 脚本简要</a> <font color="lightgrey">(2022-10-13 updated)</font></li>
-<li>2021-08-26 <a href="https://shiina18.github.io/tech/2021/08/26/python-misc-2">Python 杂录 2: 最佳实践</a> <font color="lightgrey">(2022-09-13 updated)</font></li>
-<li>2019-09-08 <a href="https://shiina18.github.io/language/2019/09/08/english-misc">英语杂录</a> <font color="lightgrey">(2022-09-06 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(165)</font>
+## Posts <font color="lightgrey">(166)</font>
 
 ### Algorithms
 
@@ -162,7 +161,7 @@ mathjax: true
 - 2021-12-14 [文档目录抽取](https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction) <font color="lightgrey">(2022-10-19 updated)</font>
 - 2021-12-10 [Transformer 复习](https://shiina18.github.io/machine%20learning/2021/12/10/transformer)
 - 2021-12-06 [[半监督] 非监督数据增强 (UDA)](https://shiina18.github.io/machine%20learning/2021/12/06/uda)
-- 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2021-12-20 updated)</font>
+- 2021-11-28 [图神经网络简介](https://shiina18.github.io/machine%20learning/2021/11/28/gnn) <font color="lightgrey">(2022-11-30 updated)</font>
 - 2021-08-05 [知识蒸馏简要](https://shiina18.github.io/machine%20learning/2021/08/05/knowledge-distill)
 - 2021-07-29 `NLP` [TPLinker 实体关系抽取以及 NER 变种](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker) <font color="lightgrey">(2022-01-30 updated)</font>
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
@@ -228,10 +227,11 @@ mathjax: true
 
 ### Tech
 
+- 2022-12-10 [正则灾难性回溯与防御方法](https://shiina18.github.io/tech/2022/12/10/regex)
 - 2022-11-23 [RabbitMQ 消息确认机制](https://shiina18.github.io/tech/2022/11/23/rabbitmq)
 - 2022-10-29 [SQLAlchemy 简要](https://shiina18.github.io/tech/2022/10/29/sqlalchemy)
 - 2022-10-23 [Python 并发简要](https://shiina18.github.io/tech/2022/10/23/concurrency)
-- 2022-10-03 [Python 自动化杂录](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-18 updated)</font>
+- 2022-10-03 [Python 自动化杂录: Makefile 等](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-18 updated)</font>
 - 2022-10-02 [Python setuptools 简要](https://shiina18.github.io/tech/2022/10/02/setuptools)
 - 2022-09-11 [Python 装饰器杂录](https://shiina18.github.io/tech/2022/09/11/decorators)
 - 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web) <font color="lightgrey">(2022-11-25 updated)</font>
