@@ -16,7 +16,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(21)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(22)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -37,6 +37,8 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-12-17 updated)</font></li>
+<li>2022-05-10 <a href="https://shiina18.github.io/machine%20learning/2022/05/10/bp-init">复习: 反向传播与参数初始化</a> <font color="lightgrey">(2022-12-15 updated)</font></li>
 <li>2021-11-28 <a href="https://shiina18.github.io/machine%20learning/2021/11/28/gnn">图神经网络简介</a> <font color="lightgrey">(2022-11-30 updated)</font></li>
 <li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-11-25 updated)</font></li>
 <li>2021-08-25 <a href="https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet">Linux cheatsheet (自用)</a> <font color="lightgrey">(2022-11-09 updated)</font></li>
@@ -48,7 +50,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(166)</font>
+## Posts <font color="lightgrey">(167)</font>
 
 ### Algorithms
 
@@ -137,7 +139,7 @@ mathjax: true
 - 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/first-java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
-- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2022-07-05 updated)</font>
+- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2022-12-17 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2022-03-20 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
 - 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2022-09-06 updated)</font>
@@ -147,7 +149,7 @@ mathjax: true
 - 2022-10-16 [深度学习性能瓶颈往往是内存带宽](https://shiina18.github.io/machine%20learning/2022/10/16/gpu)
 - 2022-08-01 `NLP` [工业界 NLP 实践杂录](https://shiina18.github.io/machine%20learning/2022/08/01/industry-nlp)
 - 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
-- 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init)
+- 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init) <font color="lightgrey">(2022-12-15 updated)</font>
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
 - 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi) <font color="lightgrey">(2022-08-06 updated)</font>
 - 2022-03-03 [到达时间预测两则: Uber 和美团](https://shiina18.github.io/machine%20learning/2022/03/03/predict-eta)
@@ -227,6 +229,7 @@ mathjax: true
 
 ### Tech
 
+- 2022-12-19 [[Walkthrough] Install and set up Redis](https://shiina18.github.io/tech/2022/12/19/redis)
 - 2022-12-10 [正则灾难性回溯与防御方法](https://shiina18.github.io/tech/2022/12/10/regex)
 - 2022-11-23 [RabbitMQ 消息确认机制](https://shiina18.github.io/tech/2022/11/23/rabbitmq)
 - 2022-10-29 [SQLAlchemy 简要](https://shiina18.github.io/tech/2022/10/29/sqlalchemy)

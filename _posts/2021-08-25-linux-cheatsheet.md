@@ -204,3 +204,9 @@ less -N /etc/init/mysql.conf
 **删除所有**
 
 `gg` + `dG`
+
+**若粘贴的文本被自动注释**
+
+`:set paste` 进入粘贴模式, 再进入 insert 模式
+
+参考 [vimrc - VIM commenting out what I paste - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/84639/vim-commenting-out-what-i-paste)

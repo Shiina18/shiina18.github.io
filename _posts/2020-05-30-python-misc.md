@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2022-07-05
+updated: 2022-12-17
 comments: true
 mathjax: true
 ---
@@ -33,11 +33,12 @@ lru_cache 以及 [singledispatch](https://rednafi.github.io/digressions/python/2
 
 ## Pickle is insecure
 
-2022/4/11
+2022/4/11, 12/17
 
-很早就知道 pickle 不安全, 但是没有见过实际例子, 下文就是一例.
+很早就知道 pickle 不安全, 但是没有见过实际例子, 下文就是例子.
 
-Ben Frederickson. (2014). [Don't Pickle Your Data](https://www.benfrederickson.com/dont-pickle-your-data/)
+- Ben Frederickson. (2014). [Don't Pickle Your Data](https://www.benfrederickson.com/dont-pickle-your-data/)
+- [码农高天](https://www.bilibili.com/video/BV1724y1D7Tz)
 
 ## 上下文管理器
 

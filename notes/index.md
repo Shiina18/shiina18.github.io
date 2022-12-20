@@ -137,7 +137,7 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 
 - [二十四条逻辑谬误](https://zhuanlan.zhihu.com/p/19837940)
 
-便携. (2020/2/1)
+便携. (2020/2/1) 再随便给个来源, 可以看公众号 "刘夙的科技世界" (liusukj).
 
 - [腾讯新闻发文痛批中学语文 "四大论证方法": 逻辑狗屁不通](https://www.kechuang.org/t/83337)
 
