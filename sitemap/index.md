@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(46)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(10)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(28)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(29)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(16)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -50,7 +50,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(167)</font>
+## Posts <font color="lightgrey">(168)</font>
 
 ### Algorithms
 
@@ -146,6 +146,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2022-12-24 `NLP` [GPT-1 到 ChatGPT 简介](https://shiina18.github.io/machine%20learning/2022/12/24/gpt)
 - 2022-10-16 [深度学习性能瓶颈往往是内存带宽](https://shiina18.github.io/machine%20learning/2022/10/16/gpu)
 - 2022-08-01 `NLP` [工业界 NLP 实践杂录](https://shiina18.github.io/machine%20learning/2022/08/01/industry-nlp)
 - 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
