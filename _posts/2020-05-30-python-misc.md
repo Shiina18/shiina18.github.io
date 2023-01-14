@@ -1,7 +1,7 @@
 ---
 title: "Python 杂录"
 categories: Language
-updated: 2022-12-17
+updated: 2023-01-10
 comments: true
 mathjax: true
 ---
@@ -9,6 +9,20 @@ mathjax: true
 [第二篇杂录](https://shiina18.github.io/tech/2021/08/26/python-misc-2/) 侧重最佳实践.
 
 最近 (2021/10/28) 发现官方文档有 [Programming FAQ — Python 3.10.0 documentation](https://docs.python.org/3/faq/programming.html), 很有用.
+
+## 一些语法糖
+
+2023/1/10
+
+```python
+(1,) + (2, 3)
+# (1, 2, 3)
+
+a = {1:1}
+b = {2:2}
+{**a, **b}
+# {1: 1, 2: 2}
+```
 
 ## nonlocal
 

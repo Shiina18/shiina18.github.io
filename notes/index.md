@@ -37,6 +37,12 @@ Last updated on 2022-11-09
 
 成本太高收益太低.
 
+## Random Archives
+
+- Reinhardt Jin​. (2016). [卡牌游戏的经营策略: 一点杂谈](https://zhuanlan.zhihu.com/p/21637545)
+  
+作者是 "冰帝没鼻子", 游戏王老玩家们一定看过他写的文章.
+
 ## Notes
 
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)

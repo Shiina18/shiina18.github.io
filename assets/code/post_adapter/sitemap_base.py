@@ -45,10 +45,15 @@ EXTERNAL_POSTS = {
         Post('2020-03-05', '洗牌的一点数学 (公众号)', 'https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw'),
         Post('2021-01-13', '轮抽卡池怎么洗? (公众号)', 'https://mp.weixin.qq.com/s/8xsCp5IPisAD1qUPUr9IHA'),
         Post('2020-11-14', '为什么中位数最小化 MAE? (知乎)', 'https://www.zhihu.com/question/429407710/answer/1591908502',
-             updated='2022-01-09')
+             updated='2022-01-09'),
+        Post(
+            '2020-02-28', '关于那篇日本洗牌文的吐槽 (微博)',
+            'https://card.weibo.com/article/m/show/id/2309404477060755095579?ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2012%3B%20M2102J2SC%20Build%2FSKQ1.211006.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML,%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F100.0.4896.79%20Mobile%20Safari%2F537.36Mi%2010S_12_WeiboIntlAndroid_5980',
+        ),
     ],
     'Games': [
-        Post('2022-06-12', '组织线上赛的经验', 'https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw', tags='YGO'),
+        Post('2022-12-30', '译文 | サイヤCS夺冠的忍者卡组解说 (公众号)', 'https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA', tags='YGO'),
+        Post('2022-06-12', '组织线上赛的经验 (公众号)', 'https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw', tags='YGO'),
         Post('2022-03-30', '【中村名局】第 41 局, 瑞星, 对西川厚 (知乎)', 'https://zhuanlan.zhihu.com/p/487873516', tags='Renju'),
         Post('2022-03-22', '【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)', 'https://zhuanlan.zhihu.com/p/485666026', tags='Renju'),
         Post('2022-03-21', '【中村名局】第 39 局, 岚月, 对 Ingvar Sundling (知乎)', 'https://zhuanlan.zhihu.com/p/484993455', tags='Renju'),

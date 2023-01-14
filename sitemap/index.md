@@ -9,14 +9,14 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(46)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(47)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(10)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(29)</font>
-- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(16)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(30)</font>
+- [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(22)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(23)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -37,7 +37,9 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
-<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2022-12-17 updated)</font></li>
+<li>2022-11-09 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/11/09/docee">轻量级篇章事件抽取: PTPCG</a> <font color="lightgrey">(2023-01-14 updated)</font></li>
+<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2023-01-10 updated)</font></li>
+<li>2022-12-19 <a href="https://shiina18.github.io/tech/2022/12/19/redis">[Walkthrough] Install and set up Redis</a> <font color="lightgrey">(2023-01-04 updated)</font></li>
 <li>2022-05-10 <a href="https://shiina18.github.io/machine%20learning/2022/05/10/bp-init">复习: 反向传播与参数初始化</a> <font color="lightgrey">(2022-12-15 updated)</font></li>
 <li>2021-11-28 <a href="https://shiina18.github.io/machine%20learning/2021/11/28/gnn">图神经网络简介</a> <font color="lightgrey">(2022-11-30 updated)</font></li>
 <li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-11-25 updated)</font></li>
@@ -46,11 +48,10 @@ mathjax: true
 <li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
 <li>2022-08-19 <a href="https://shiina18.github.io/tech/2022/08/19/docker">Docker 简要: 部署 Python 应用简例</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
 <li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录: Makefile 等</a> <font color="lightgrey">(2022-10-18 updated)</font></li>
-<li>2022-09-20 <a href="https://shiina18.github.io/language/2022/09/20/shell-script">Shell 脚本简要</a> <font color="lightgrey">(2022-10-13 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(168)</font>
+## Posts <font color="lightgrey">(172)</font>
 
 ### Algorithms
 
@@ -84,8 +85,9 @@ mathjax: true
 
 ### Games
 
+- 2022-12-30 `YGO` [译文 | サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
 - 2022-06-23 `Renju` [浦月必胜法 (中篇)](https://shiina18.github.io/games/2022/06/23/hogetsu2)
-- 2022-06-12 `YGO` [组织线上赛的经验](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
+- 2022-06-12 `YGO` [组织线上赛的经验 (公众号)](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
 - 2022-06-03 `Renju` [浦月必胜法 (上篇)](https://shiina18.github.io/games/2022/06/03/hogetsu) <font color="lightgrey">(2022-06-18 updated)</font>
 - 2022-05-30 [日麻牌效率基础](https://shiina18.github.io/games/2022/05/30/pairi)
 - 2022-05-24 [从零开始的日麻](https://shiina18.github.io/games/2022/05/24/mj)
@@ -139,7 +141,7 @@ mathjax: true
 - 2022-01-31 [Java 初体验: 线性回归系数的检验](https://shiina18.github.io/language/2022/01/31/first-java)
 - 2021-04-26 [翻译心得](https://shiina18.github.io/language/2021/04/26/translation) <font color="lightgrey">(2022-01-01 updated)</font>
 - 2021-02-10 [「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)](https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg)
-- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2022-12-17 updated)</font>
+- 2020-05-30 [Python 杂录](https://shiina18.github.io/language/2020/05/30/python-misc) <font color="lightgrey">(2023-01-10 updated)</font>
 - 2020-02-02 [日语杂录](https://shiina18.github.io/language/2020/02/02/japanese-misc) <font color="lightgrey">(2022-03-20 updated)</font>
 - 2020-01-08 [在 TeXworks 中自定义代码补全](https://shiina18.github.io/language/2020/01/08/tex-autocompletion)
 - 2019-09-08 [英语杂录](https://shiina18.github.io/language/2019/09/08/english-misc) <font color="lightgrey">(2022-09-06 updated)</font>
@@ -147,6 +149,7 @@ mathjax: true
 ### Machine Learning
 
 - 2022-12-24 `NLP` [GPT-1 到 ChatGPT 简介](https://shiina18.github.io/machine%20learning/2022/12/24/gpt)
+- 2022-11-09 `NLP` [轻量级篇章事件抽取: PTPCG](https://shiina18.github.io/machine%20learning/2022/11/09/docee) <font color="lightgrey">(2023-01-14 updated)</font>
 - 2022-10-16 [深度学习性能瓶颈往往是内存带宽](https://shiina18.github.io/machine%20learning/2022/10/16/gpu)
 - 2022-08-01 `NLP` [工业界 NLP 实践杂录](https://shiina18.github.io/machine%20learning/2022/08/01/industry-nlp)
 - 2022-06-05 `NLP` [UIE: Universal Information Extraction](https://shiina18.github.io/machine%20learning/2022/06/05/uie) <font color="lightgrey">(2022-07-04 updated)</font>
@@ -187,6 +190,7 @@ mathjax: true
 - 2020-11-14 [为什么中位数最小化 MAE? (知乎)](https://www.zhihu.com/question/429407710/answer/1591908502) <font color="lightgrey">(2022-01-09 updated)</font>
 - 2020-06-14 [Refutation of an Article on Shuffling in TCG](https://shiina18.github.io/mathematics/2020/06/14/refutation-on-shuffling)
 - 2020-03-05 [洗牌的一点数学 (公众号)](https://mp.weixin.qq.com/s/wQLWX7x9NFpVCK3Dk9u7Xw)
+- 2020-02-28 [关于那篇日本洗牌文的吐槽 (微博)](https://card.weibo.com/article/m/show/id/2309404477060755095579?ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2012%3B%20M2102J2SC%20Build%2FSKQ1.211006.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML,%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F100.0.4896.79%20Mobile%20Safari%2F537.36Mi%2010S_12_WeiboIntlAndroid_5980)
 - 2019-11-30 [Side Note: Information Entropy, Cross-Entropy and KL Divergence](https://shiina18.github.io/mathematics/2019/11/30/entropy)
 - 2019-11-07 [条件方差公式的直观解释? (知乎)](https://www.zhihu.com/question/38726155/answer/885319771)
 - 2019-09-14 [Lights-Out](https://shiina18.github.io/mathematics/2019/09/14/lights-out)
@@ -230,7 +234,8 @@ mathjax: true
 
 ### Tech
 
-- 2022-12-19 [[Walkthrough] Install and set up Redis](https://shiina18.github.io/tech/2022/12/19/redis)
+- 2023-01-01 [Notes on Distributed Data](https://shiina18.github.io/tech/2023/01/01/distributed)
+- 2022-12-19 [[Walkthrough] Install and set up Redis](https://shiina18.github.io/tech/2022/12/19/redis) <font color="lightgrey">(2023-01-04 updated)</font>
 - 2022-12-10 [正则灾难性回溯与防御方法](https://shiina18.github.io/tech/2022/12/10/regex)
 - 2022-11-23 [RabbitMQ 消息确认机制](https://shiina18.github.io/tech/2022/11/23/rabbitmq)
 - 2022-10-29 [SQLAlchemy 简要](https://shiina18.github.io/tech/2022/10/29/sqlalchemy)
