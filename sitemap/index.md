@@ -10,8 +10,8 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(47)</font>
-- [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(10)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(30)</font>
+- [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(33)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -47,11 +47,10 @@ mathjax: true
 <li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-10-31 updated)</font></li>
 <li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
 <li>2022-08-19 <a href="https://shiina18.github.io/tech/2022/08/19/docker">Docker 简要: 部署 Python 应用简例</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
-<li>2022-10-03 <a href="https://shiina18.github.io/tech/2022/10/03/makefile">Python 自动化杂录: Makefile 等</a> <font color="lightgrey">(2022-10-18 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(172)</font>
+## Posts <font color="lightgrey">(176)</font>
 
 ### Algorithms
 
@@ -85,7 +84,7 @@ mathjax: true
 
 ### Games
 
-- 2022-12-30 `YGO` [译文 | サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
+- 2022-12-30 `YGO` [译文: サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
 - 2022-06-23 `Renju` [浦月必胜法 (中篇)](https://shiina18.github.io/games/2022/06/23/hogetsu2)
 - 2022-06-12 `YGO` [组织线上赛的经验 (公众号)](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
 - 2022-06-03 `Renju` [浦月必胜法 (上篇)](https://shiina18.github.io/games/2022/06/03/hogetsu) <font color="lightgrey">(2022-06-18 updated)</font>
@@ -135,6 +134,7 @@ mathjax: true
 
 ### Language
 
+- 2022-12-18 [Atypical: Season 4 Episode 1 Transcript](https://shiina18.github.io/language/2022/12/18/atypicals4e1)
 - 2022-10-01 [Java 初步: 简化版](https://shiina18.github.io/language/2022/10/01/java)
 - 2022-09-26 [C++ 初步: 简化版](https://shiina18.github.io/language/2022/09/26/cpp)
 - 2022-09-20 [Shell 脚本简要](https://shiina18.github.io/language/2022/09/20/shell-script) <font color="lightgrey">(2022-10-13 updated)</font>
@@ -148,6 +148,9 @@ mathjax: true
 
 ### Machine Learning
 
+- 2023-01-14 [Minimum cut 的一个应用](https://shiina18.github.io/machine%20learning/2023/01/14/min-cut)
+- 2023-01-06 [MLFlow 简介](https://shiina18.github.io/machine%20learning/2023/01/06/mlflow)
+- 2023-01-04 [Huggingface Transformers Trainer as a general PyTorch trainer](https://shiina18.github.io/machine%20learning/2023/01/04/trainer)
 - 2022-12-24 `NLP` [GPT-1 到 ChatGPT 简介](https://shiina18.github.io/machine%20learning/2022/12/24/gpt)
 - 2022-11-09 `NLP` [轻量级篇章事件抽取: PTPCG](https://shiina18.github.io/machine%20learning/2022/11/09/docee) <font color="lightgrey">(2023-01-14 updated)</font>
 - 2022-10-16 [深度学习性能瓶颈往往是内存带宽](https://shiina18.github.io/machine%20learning/2022/10/16/gpu)
