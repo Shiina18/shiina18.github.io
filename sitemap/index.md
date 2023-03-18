@@ -79,6 +79,7 @@ mathjax: true
 ### Games
 
 - 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
+- 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
 - 2023-01-20 `YGO` [YDK 到 PDF 卡表转换器 1.0 (公众号)](https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ)
 - 2023-01-18 `YGO` [YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)](https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw)
 - 2022-12-30 `YGO` [译文: サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
@@ -124,7 +125,6 @@ mathjax: true
 - 2020-08-04 `YGO` [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外改版 OV mod 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2021-01-21 updated)</font>
-- 2020-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2020/02/19/renju-blitz)
 - 2020-02-09 `YGO` [Challonge 的瑞士轮算分与匹配机制 (公众号)](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2021-03-21 updated)</font>
 - 2018-08-02 `YGO` [Tracker 与 KTS 的瑞士轮算分机制 (公众号)](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
