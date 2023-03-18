@@ -30,7 +30,7 @@ for path in POST_SRC_DIR.glob('*.md'):
 
 # pages
 for path in SRC_ROOT.iterdir():
-    if path.is_dir() and path.name not in {POST_SRC_DIR.name, 'images'}:
+    if path.is_dir() and path.name not in {POST_SRC_DIR.name, 'images'} and not path.name.startswith('_'):
         adapt(path / 'index.md', DST_ROOT / path.name / 'index.md')
 
 # images

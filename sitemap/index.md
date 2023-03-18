@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(47)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(33)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -37,20 +37,14 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
+<li>2022-05-15 <a href="https://shiina18.github.io/miscellanea/2022/05/15/free">免费的启蒙</a> <font color="lightgrey">(2023-02-03 updated)</font></li>
 <li>2022-11-09 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/11/09/docee">轻量级篇章事件抽取: PTPCG</a> <font color="lightgrey">(2023-01-14 updated)</font></li>
 <li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2023-01-10 updated)</font></li>
 <li>2022-12-19 <a href="https://shiina18.github.io/tech/2022/12/19/redis">[Walkthrough] Install and set up Redis</a> <font color="lightgrey">(2023-01-04 updated)</font></li>
-<li>2022-05-10 <a href="https://shiina18.github.io/machine%20learning/2022/05/10/bp-init">复习: 反向传播与参数初始化</a> <font color="lightgrey">(2022-12-15 updated)</font></li>
-<li>2021-11-28 <a href="https://shiina18.github.io/machine%20learning/2021/11/28/gnn">图神经网络简介</a> <font color="lightgrey">(2022-11-30 updated)</font></li>
-<li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2022-11-25 updated)</font></li>
-<li>2021-08-25 <a href="https://shiina18.github.io/tech/2021/08/25/linux-cheatsheet">Linux cheatsheet (自用)</a> <font color="lightgrey">(2022-11-09 updated)</font></li>
-<li>2020-12-24 <a href="https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc">机器学习杂录</a> <font color="lightgrey">(2022-10-31 updated)</font></li>
-<li>2021-12-14 <a href="https://shiina18.github.io/machine%20learning/2021/12/14/toc-extraction">文档目录抽取</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
-<li>2022-08-19 <a href="https://shiina18.github.io/tech/2022/08/19/docker">Docker 简要: 部署 Python 应用简例</a> <font color="lightgrey">(2022-10-19 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(176)</font>
+## Posts <font color="lightgrey">(180)</font>
 
 ### Algorithms
 
@@ -84,6 +78,9 @@ mathjax: true
 
 ### Games
 
+- 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
+- 2023-01-20 `YGO` [YDK 到 PDF 卡表转换器 1.0 (公众号)](https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ)
+- 2023-01-18 `YGO` [YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)](https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw)
 - 2022-12-30 `YGO` [译文: サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
 - 2022-06-23 `Renju` [浦月必胜法 (中篇)](https://shiina18.github.io/games/2022/06/23/hogetsu2)
 - 2022-06-12 `YGO` [组织线上赛的经验 (公众号)](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
@@ -127,6 +124,7 @@ mathjax: true
 - 2020-08-04 `YGO` [KTS 的瑞士轮算分机制 (增补) (公众号)](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - 2020-07-17 [Game Log for Tactics Ogre LUCT One Vision Mod](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod) <font color="lightgrey">(2021-01-02 updated)</font>
 - 2020-06-24 [皇家骑士团 命运之轮 国外改版 OV mod 中文指南](https://shiina18.github.io/games/2020/06/24/ov-guide) <font color="lightgrey">(2021-01-21 updated)</font>
+- 2020-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2020/02/19/renju-blitz)
 - 2020-02-09 `YGO` [Challonge 的瑞士轮算分与匹配机制 (公众号)](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
 - 2019-09-13 [宝可梦对战入门资料集](https://shiina18.github.io/games/2019/09/13/pokemon-showdown) <font color="lightgrey">(2021-03-21 updated)</font>
 - 2018-08-02 `YGO` [Tracker 与 KTS 的瑞士轮算分机制 (公众号)](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
@@ -205,7 +203,7 @@ mathjax: true
 ### Miscellanea
 
 - 2022-08-14 [租房 checklist](https://shiina18.github.io/miscellanea/2022/08/14/rent)
-- 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free)
+- 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free) <font color="lightgrey">(2023-02-03 updated)</font>
 - 2022-02-07 [吞食润滑剂是否安全?](https://shiina18.github.io/miscellanea/2022/02/07/lube-safe)
 - 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself) <font color="lightgrey">(2022-01-05 updated)</font>
 - 2021-06-24 [上海动物园游记 (公众号)](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)

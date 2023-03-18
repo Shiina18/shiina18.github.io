@@ -10,6 +10,11 @@ mathjax: true
 
 最近 (2021/10/28) 发现官方文档有 [Programming FAQ — Python 3.10.0 documentation](https://docs.python.org/3/faq/programming.html), 很有用.
 
+## Misc
+
+- [python - What do * (single star) and / (slash) do as independent parameters? - Stack Overflow](https://stackoverflow.com/questions/59661042/what-do-single-star-and-slash-do-as-independent-parameters)
+- [performance - Python: Remove all duplicates from a large list of lists efficiently and elegantly - Stack Overflow](https://stackoverflow.com/questions/52452286/python-remove-all-duplicates-from-a-large-list-of-lists-efficiently-and-elegant) 用 pandas 对大列表快速保序去重
+
 ## 一些语法糖
 
 2023/1/10
@@ -18,8 +23,8 @@ mathjax: true
 (1,) + (2, 3)
 # (1, 2, 3)
 
-a = {1:1}
-b = {2:2}
+a = {1: 1}
+b = {2: 2}
 {**a, **b}
 # {1: 1, 2: 2}
 ```

@@ -30,7 +30,7 @@ mathjax: false
 
 ![](https://shiina18.github.io/assets/posts/images/525872913220842.png)
 
-连接包括一些调参经验.
+链接里包括一些调参经验.
 
 - 李rumor. (2021). [目前深度学习用在短文本分类最好的模型有哪些？](https://www.zhihu.com/question/50888062/answer/1714628626)
 
@@ -41,7 +41,15 @@ mathjax: false
 - LSTM (情感分类/意图识别) 稍微复杂的任务
 - Bert (细粒度情感/阴阳怪气/小样本识别) 难任务
 
-一个特别经典的结构建议大家试一下: concat_emb -> spartial dropout(0.2) -> LSTM -> LSTM -> concat(maxpool, meanpool) -> FC. 除了经典结构, 几乎所有的吊炸天 structure 可以被精调的两层 lstm 干掉.
+一个特别经典的结构建议大家试一下: concat_emb -> spatial dropout(0.2) -> LSTM -> LSTM -> concat(maxpool, meanpool) -> FC. 除了经典结构, 几乎所有的吊炸天 structure 可以被精调的两层 lstm 干掉.
+
+<details><summary><b>关于这个双层结构的注释</b><font color="deepskyblue"> (Show more &raquo;)</font></summary>
+<p>在很多地方看到过这个, 不清楚具体叫什么.</p>
+<ul>
+<li><a href="https://www.kaggle.com/competitions/quora-insincere-questions-classification/discussion/80568">1st place solution | Quora Insincere Questions Classification | Kaggle</a></li>
+<li><a href="https://www.kaggle.com/code/mlwhiz/third-place-model-for-toxic-spatial-dropout">Third Place Model for Toxic - spatial dropout | Kaggle</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/311491156">dropout for embedding——spatial dropout</a></li>
+</ul></details>
 
 **结合策略和算法**
 

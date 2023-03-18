@@ -7,16 +7,20 @@ mathjax: false
 
 Last updated on 2022-09-26
 
-我是 C7. 与其说是博客, 这更像是我个人的线上公开笔记本, 便于自己在不同设备上翻阅. 在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 文章采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
+我是 C7. 与其说是博客, 这更像我个人的线上公开笔记本, 便于自己在不同设备上翻阅. "笔记本" 意味着文章会不定期在原页面更新, 而不是新发一条帖子. 在 [网站目录](https://shiina18.github.io/sitemap/) 可查看分类整理的全部文章, 页面右上角的 `Search` 可以站内搜索. 文章采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行版权许可. 感谢您的来访.
 
 ## 社交账号
 
-- 知乎: [椎名](https://www.zhihu.com/people/ji-hua-yuan-39)
-- 微信公众号: [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect)
-- 豆瓣: [Rick](https://www.douban.com/people/171432596/)
-- bangumi: [Dr. Boom](https://bgm.tv/user/388505)
-- 微博: [195_463](https://weibo.com/p/1005053891982912/home?profile_ftype=1&is_all=1#_0)
-- Instagram: [shiina_1418](https://www.instagram.com/shiina_1418/)
+- 知乎 [椎名](https://www.zhihu.com/people/ji-hua-yuan-39): 以前回答一些简单的数学问题, 现在不活跃
+- 微信公众号 [mathbbC7](http://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzU0MTMyNw==&hid=1&sn=01521bfc9313f0f1275dc3cfe754069c#wechat_redirect): 以前翻译和撰写游戏王文章, 现在分享乱七八糟的东西
+- 豆瓣 [Rick](https://www.douban.com/people/171432596/): 仅用来标记书籍
+- bangumi [Dr. Boom](https://bgm.tv/user/388505): 仅用来标记动画和电视剧
+- 微博 [195_463](https://weibo.com/p/1005053891982912/home?profile_ftype=1&is_all=1#_0): 一些胡言乱语, 还有抽奖
+- Instagram [shiina_1418](https://www.instagram.com/shiina_1418/): 仅用来存照片, 很不活跃
+
+## Toys
+
+- [YGOPRO ydk to decklist PDF](https://ydk2decklist.streamlit.app/): 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
 
 ## Blogroll
 
