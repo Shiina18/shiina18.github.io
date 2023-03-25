@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(52)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(33)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -44,7 +44,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(180)</font>
+## Posts <font color="lightgrey">(181)</font>
 
 ### Algorithms
 
@@ -80,6 +80,7 @@ mathjax: true
 
 - 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
 - 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
+- 2023-02-19 [国际象棋入门札记](https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ)
 - 2023-01-20 `YGO` [YDK 到 PDF 卡表转换器 1.0 (公众号)](https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ)
 - 2023-01-18 `YGO` [YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)](https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw)
 - 2022-12-30 `YGO` [译文: サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)

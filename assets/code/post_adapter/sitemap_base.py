@@ -52,6 +52,7 @@ EXTERNAL_POSTS = {
         ),
     ],
     'Games': [
+		Post('2023-02-19', '国际象棋入门札记', 'https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ'),
         Post('2023-01-20', 'YDK 到 PDF 卡表转换器 1.0 (公众号)', 'https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ', tags='YGO'),
         Post('2023-01-18', 'YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)', 'https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw', tags='YGO'),
         Post('2022-12-30', '译文: サイヤCS夺冠的忍者卡组解说 (公众号)', 'https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA', tags='YGO'),
