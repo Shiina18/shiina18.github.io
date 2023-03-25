@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(52)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(53)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(33)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -44,7 +44,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(181)</font>
+## Posts <font color="lightgrey">(182)</font>
 
 ### Algorithms
 
@@ -78,6 +78,7 @@ mathjax: true
 
 ### Games
 
+- 2023-03-25 [YDK 转 PDF 开发小记](https://shiina18.github.io/games/2023/03/25/ydk2pdf)
 - 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
 - 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
 - 2023-02-19 [国际象棋入门札记](https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ)
