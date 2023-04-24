@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(53)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(33)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(34)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -38,13 +38,10 @@ mathjax: true
 <details><summary><b>Recent updates</b></summary>
 <ul>
 <li>2022-05-15 <a href="https://shiina18.github.io/miscellanea/2022/05/15/free">免费的启蒙</a> <font color="lightgrey">(2023-02-03 updated)</font></li>
-<li>2022-11-09 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2022/11/09/docee">轻量级篇章事件抽取: PTPCG</a> <font color="lightgrey">(2023-01-14 updated)</font></li>
-<li>2020-05-30 <a href="https://shiina18.github.io/language/2020/05/30/python-misc">Python 杂录</a> <font color="lightgrey">(2023-01-10 updated)</font></li>
-<li>2022-12-19 <a href="https://shiina18.github.io/tech/2022/12/19/redis">[Walkthrough] Install and set up Redis</a> <font color="lightgrey">(2023-01-04 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(182)</font>
+## Posts <font color="lightgrey">(183)</font>
 
 ### Algorithms
 
@@ -81,7 +78,7 @@ mathjax: true
 - 2023-03-25 [YDK 转 PDF 开发小记](https://shiina18.github.io/games/2023/03/25/ydk2pdf)
 - 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
 - 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
-- 2023-02-19 [国际象棋入门札记](https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ)
+- 2023-02-19 [国际象棋入门札记 (公众号)](https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ)
 - 2023-01-20 `YGO` [YDK 到 PDF 卡表转换器 1.0 (公众号)](https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ)
 - 2023-01-18 `YGO` [YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)](https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw)
 - 2022-12-30 `YGO` [译文: サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
@@ -148,6 +145,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2023-04-24 `NLP` [Stanford Alpaca 简要](https://shiina18.github.io/machine%20learning/2023/04/24/alpaca)
 - 2023-01-14 [Minimum cut 的一个应用](https://shiina18.github.io/machine%20learning/2023/01/14/min-cut)
 - 2023-01-06 [MLFlow 简介](https://shiina18.github.io/machine%20learning/2023/01/06/mlflow)
 - 2023-01-04 [Huggingface Transformers Trainer as a general PyTorch trainer](https://shiina18.github.io/machine%20learning/2023/01/04/trainer)
