@@ -9,9 +9,9 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(53)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(55)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(34)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(35)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -37,11 +37,11 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
-<li>2022-05-15 <a href="https://shiina18.github.io/miscellanea/2022/05/15/free">免费的启蒙</a> <font color="lightgrey">(2023-02-03 updated)</font></li>
+<li>2023-04-24 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2023/04/24/alpaca">Stanford Alpaca 简要</a> <font color="lightgrey">(2023-04-26 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(183)</font>
+## Posts <font color="lightgrey">(186)</font>
 
 ### Algorithms
 
@@ -75,6 +75,8 @@ mathjax: true
 
 ### Games
 
+- 2023-04-29 `Renju` [五子棋完全入门指南 (公众号)](https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ)
+- 2023-04-15 `Renju` [用棋谱数据库生成的五子棋习题 (公众号)](https://mp.weixin.qq.com/s/YaY7-iwbdDyVxwMLsNGovw)
 - 2023-03-25 [YDK 转 PDF 开发小记](https://shiina18.github.io/games/2023/03/25/ydk2pdf)
 - 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
 - 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
@@ -145,7 +147,8 @@ mathjax: true
 
 ### Machine Learning
 
-- 2023-04-24 `NLP` [Stanford Alpaca 简要](https://shiina18.github.io/machine%20learning/2023/04/24/alpaca)
+- 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc)
+- 2023-04-24 `NLP` [Stanford Alpaca 简要](https://shiina18.github.io/machine%20learning/2023/04/24/alpaca) <font color="lightgrey">(2023-04-26 updated)</font>
 - 2023-01-14 [Minimum cut 的一个应用](https://shiina18.github.io/machine%20learning/2023/01/14/min-cut)
 - 2023-01-06 [MLFlow 简介](https://shiina18.github.io/machine%20learning/2023/01/06/mlflow)
 - 2023-01-04 [Huggingface Transformers Trainer as a general PyTorch trainer](https://shiina18.github.io/machine%20learning/2023/01/04/trainer)

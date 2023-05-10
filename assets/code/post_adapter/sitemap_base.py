@@ -52,6 +52,8 @@ EXTERNAL_POSTS = {
         ),
     ],
     'Games': [
+		Post('2023-04-29', '五子棋完全入门指南 (公众号)', 'https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ', tags='Renju'),
+		Post('2023-04-15', '用棋谱数据库生成的五子棋习题 (公众号)', 'https://mp.weixin.qq.com/s/YaY7-iwbdDyVxwMLsNGovw', tags='Renju'),
 		Post('2023-02-19', '国际象棋入门札记 (公众号)', 'https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ'),
         Post('2023-01-20', 'YDK 到 PDF 卡表转换器 1.0 (公众号)', 'https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ', tags='YGO'),
         Post('2023-01-18', 'YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)', 'https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw', tags='YGO'),
