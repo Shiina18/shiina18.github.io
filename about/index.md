@@ -21,6 +21,7 @@ Last updated on 2022-09-26
 ## Toys
 
 - [YGOPRO ydk to decklist PDF](https://ydk2decklist.streamlit.app/): 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
+- [Renju Puzzles](https://renju-puzzles.rtfd.io/): 真实比赛对局棋谱库生成的连珠习题
 
 ## Blogroll
 

@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(55)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(35)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(37)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -41,7 +41,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(186)</font>
+## Posts <font color="lightgrey">(188)</font>
 
 ### Algorithms
 
@@ -147,6 +147,8 @@ mathjax: true
 
 ### Machine Learning
 
+- 2023-05-28 [Stockfish NNUE 的网络简介](https://shiina18.github.io/machine%20learning/2023/05/28/nnue)
+- 2023-05-12 `NLP` [读文章: InstructUIE 和 Flan collection](https://shiina18.github.io/machine%20learning/2023/05/12/ins-ft)
 - 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc)
 - 2023-04-24 `NLP` [Stanford Alpaca 简要](https://shiina18.github.io/machine%20learning/2023/04/24/alpaca) <font color="lightgrey">(2023-04-26 updated)</font>
 - 2023-01-14 [Minimum cut 的一个应用](https://shiina18.github.io/machine%20learning/2023/01/14/min-cut)
