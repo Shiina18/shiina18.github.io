@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(55)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(56)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(37)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -41,7 +41,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(188)</font>
+## Posts <font color="lightgrey">(189)</font>
 
 ### Algorithms
 
@@ -75,6 +75,7 @@ mathjax: true
 
 ### Games
 
+- 2023-06-11 [万智牌轮抽简要](https://shiina18.github.io/games/2023/06/11/draft)
 - 2023-04-29 `Renju` [五子棋完全入门指南 (公众号)](https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ)
 - 2023-04-15 `Renju` [用棋谱数据库生成的五子棋习题 (公众号)](https://mp.weixin.qq.com/s/YaY7-iwbdDyVxwMLsNGovw)
 - 2023-03-25 [YDK 转 PDF 开发小记](https://shiina18.github.io/games/2023/03/25/ydk2pdf)
