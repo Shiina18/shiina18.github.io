@@ -52,6 +52,7 @@ EXTERNAL_POSTS = {
         ),
     ],
     'Games': [
+		Post('2023-06-29', '游戏王 cube 轮抽交流 (公众号)', 'https://mp.weixin.qq.com/s/jBs3DKJyPeUwP76NK1RCTg', tags='YGO'),
 		Post('2023-04-29', '五子棋完全入门指南 (公众号)', 'https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ', tags='Renju'),
 		Post('2023-04-15', '用棋谱数据库生成的五子棋习题 (公众号)', 'https://mp.weixin.qq.com/s/YaY7-iwbdDyVxwMLsNGovw', tags='Renju'),
 		Post('2023-02-19', '国际象棋入门札记 (公众号)', 'https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ'),
@@ -80,6 +81,7 @@ EXTERNAL_POSTS = {
         Post('2021-06-24', '上海动物园游记 (公众号)', 'https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw'),
     ],
     'Machine Learning': [
+		Post('2023-07-19', '基于神经网络的棋类 AI 简介: 以 AlphaGo Zero 和 Stockfish NNUE 为例 (公众号)', 'https://mp.weixin.qq.com/s/beI13muMO9uzUyhNs1ooig'),
         Post('2020-08-12', '关于 Facebook Prophet 中 future changepoints 的一个脚注 (知乎)',
              'https://zhuanlan.zhihu.com/p/181708348', tags='Time Series')
     ],

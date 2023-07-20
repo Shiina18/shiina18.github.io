@@ -41,7 +41,7 @@ Last updated on 2022-11-09
 
 成本太高收益太低.
 
-## Random Archives
+## Random archives
 
 - Reinhardt Jin​. (2016). [卡牌游戏的经营策略: 一点杂谈](https://zhuanlan.zhihu.com/p/21637545)
   
@@ -106,6 +106,10 @@ Every irreducible Markov chain with a finite state space is positive recurrent a
 积分与求导交换的几种条件简单小结. (2019/12/10)
 
 ## Books
+
+- [BUTTERICK'S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/)
+
+This book will make you a better typographer.
 
 - [Probability: Theory and Examples](https://services.math.duke.edu/~rtd/)
 

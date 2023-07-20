@@ -9,9 +9,9 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(56)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(57)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(37)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(38)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -41,7 +41,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(189)</font>
+## Posts <font color="lightgrey">(191)</font>
 
 ### Algorithms
 
@@ -75,6 +75,7 @@ mathjax: true
 
 ### Games
 
+- 2023-06-29 `YGO` [游戏王 cube 轮抽交流 (公众号)](https://mp.weixin.qq.com/s/jBs3DKJyPeUwP76NK1RCTg)
 - 2023-06-11 [万智牌轮抽简要](https://shiina18.github.io/games/2023/06/11/draft)
 - 2023-04-29 `Renju` [五子棋完全入门指南 (公众号)](https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ)
 - 2023-04-15 `Renju` [用棋谱数据库生成的五子棋习题 (公众号)](https://mp.weixin.qq.com/s/YaY7-iwbdDyVxwMLsNGovw)
@@ -148,6 +149,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2023-07-19 [基于神经网络的棋类 AI 简介: 以 AlphaGo Zero 和 Stockfish NNUE 为例 (公众号)](https://mp.weixin.qq.com/s/beI13muMO9uzUyhNs1ooig)
 - 2023-05-28 [Stockfish NNUE 的网络简介](https://shiina18.github.io/machine%20learning/2023/05/28/nnue)
 - 2023-05-12 `NLP` [读文章: InstructUIE 和 Flan collection](https://shiina18.github.io/machine%20learning/2023/05/12/ins-ft)
 - 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc)
