@@ -79,6 +79,10 @@ Fengnan Gao 老师在 2017 Fall Statistical Learning 用过这个讲义, 主要�
 
 ## Snippets
 
+- [URL structure best practices for Google](https://developers.google.com/search/docs/crawling-indexing/url-structure)
+
+URL 命名规范.
+
 - [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 
 命令行参数格式约定. (2022/11/9)

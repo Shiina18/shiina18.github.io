@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(57)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(38)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(39)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -37,11 +37,11 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
-<li>2023-04-24 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2023/04/24/alpaca">Stanford Alpaca 简要</a> <font color="lightgrey">(2023-04-26 updated)</font></li>
+<li>2023-05-09 <a href="https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc">ChatDoc 系列简要</a> <font color="lightgrey">(2023-08-03 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(191)</font>
+## Posts <font color="lightgrey">(192)</font>
 
 ### Algorithms
 
@@ -149,10 +149,11 @@ mathjax: true
 
 ### Machine Learning
 
+- 2023-09-19 `NLP` [GPT 微调指南要点](https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune)
 - 2023-07-19 [基于神经网络的棋类 AI 简介: 以 AlphaGo Zero 和 Stockfish NNUE 为例 (公众号)](https://mp.weixin.qq.com/s/beI13muMO9uzUyhNs1ooig)
 - 2023-05-28 [Stockfish NNUE 的网络简介](https://shiina18.github.io/machine%20learning/2023/05/28/nnue)
 - 2023-05-12 `NLP` [读文章: InstructUIE 和 Flan collection](https://shiina18.github.io/machine%20learning/2023/05/12/ins-ft)
-- 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc)
+- 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc) <font color="lightgrey">(2023-08-03 updated)</font>
 - 2023-04-24 `NLP` [Stanford Alpaca 简要](https://shiina18.github.io/machine%20learning/2023/04/24/alpaca) <font color="lightgrey">(2023-04-26 updated)</font>
 - 2023-01-14 [Minimum cut 的一个应用](https://shiina18.github.io/machine%20learning/2023/01/14/min-cut)
 - 2023-01-06 [MLFlow 简介](https://shiina18.github.io/machine%20learning/2023/01/06/mlflow)
