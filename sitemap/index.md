@@ -9,9 +9,9 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(57)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(61)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(39)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(40)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -41,7 +41,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(192)</font>
+## Posts <font color="lightgrey">(197)</font>
 
 ### Algorithms
 
@@ -75,6 +75,10 @@ mathjax: true
 
 ### Games
 
+- 2023-10-03 [Heavily modded XCOM2](https://shiina18.github.io/games/2023/10/03/xcom)
+- 2023-09-30 [PTCG 卡组类型](https://shiina18.github.io/games/2023/09/30/ptcg)
+- 2023-09-13 [Radical Red 4.0 Hardcore Nuzlocke](https://shiina18.github.io/games/2023/09/13/nuzlocke)
+- 2023-09-11 `YGO` [回到 2011 年玩游戏王 (公众号)](https://mp.weixin.qq.com/s/4KqI0rGumkadEAgvO8karQ)
 - 2023-06-29 `YGO` [游戏王 cube 轮抽交流 (公众号)](https://mp.weixin.qq.com/s/jBs3DKJyPeUwP76NK1RCTg)
 - 2023-06-11 [万智牌轮抽简要](https://shiina18.github.io/games/2023/06/11/draft)
 - 2023-04-29 `Renju` [五子棋完全入门指南 (公众号)](https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ)
@@ -149,6 +153,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2023-09-25 [简介 HiTIN: Hierarchy-aware Tree Isomorphism Network forHierarchical Text Classification](https://shiina18.github.io/machine%20learning/2023/09/25/hitin)
 - 2023-09-19 `NLP` [GPT 微调指南要点](https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune)
 - 2023-07-19 [基于神经网络的棋类 AI 简介: 以 AlphaGo Zero 和 Stockfish NNUE 为例 (公众号)](https://mp.weixin.qq.com/s/beI13muMO9uzUyhNs1ooig)
 - 2023-05-28 [Stockfish NNUE 的网络简介](https://shiina18.github.io/machine%20learning/2023/05/28/nnue)

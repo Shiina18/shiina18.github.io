@@ -52,6 +52,7 @@ EXTERNAL_POSTS = {
         ),
     ],
     'Games': [
+		Post('2023-09-11', '回到 2011 年玩游戏王 (公众号)', 'https://mp.weixin.qq.com/s/4KqI0rGumkadEAgvO8karQ', tags='YGO'),
 		Post('2023-06-29', '游戏王 cube 轮抽交流 (公众号)', 'https://mp.weixin.qq.com/s/jBs3DKJyPeUwP76NK1RCTg', tags='YGO'),
 		Post('2023-04-29', '五子棋完全入门指南 (公众号)', 'https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ', tags='Renju'),
 		Post('2023-04-15', '用棋谱数据库生成的五子棋习题 (公众号)', 'https://mp.weixin.qq.com/s/YaY7-iwbdDyVxwMLsNGovw', tags='Renju'),
