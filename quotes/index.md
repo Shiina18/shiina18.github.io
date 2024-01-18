@@ -5,6 +5,24 @@ comments: true
 mathjax: false
 ---
 
+**2023/12/3**
+
+一谈起合格的教师，我们好些人就会想起老祖宗传承下来的教师经: "为人师表、行为世范"。我想问一下，有这个必要吗? 可能吗? 这是教师的第一准则吗?
+
+现代人类社会的发展趋势一一应该是一个合情合理的趋势一一是专业化。在现代专业化社会中，大学教授只是多种职业中的一种。一方面，现代社会并不承认 "万般皆下品，唯有读书高"; 另一方面，一个相对成熟的现代社会一一或者专业化的社会一一迟早要打破“学而优则仕”的局面。于是，大学教授真正要做的，是完成社会对该职业所设定的任务，没有必要故作优良，更没有必要假装清高。
+
+大学教授与现代社会所有的教育者一样，我们的任务是给下一代讲一讲我们所认识的人生、我们自以为是的真理。当然也应该告诉后生们我们的迷惑、我们的无知。假装什么都懂是行不通的、也是违背人生正道的。哪怕是从教学效果看，坑蒙拐骗的教育经实际上也是蒙不住学生的。正如托尔斯泰所指出的，由于还没有过度地浸淫于俗世，孩子们的美丽心灵可能具有辨别真伪的非凡能力。而且，一旦感到了教育者实质上在做坑蒙拐骗的勾当，所谓正面教育的所有努力都会瓦解为东流水，甚至转化为负面的效果。
+
+因此，我认为，教育者的职业定位应该是给年轻的学生们提供一套套的参照系。美妙的、正面的，是给后生们追求幸福快乐人生的鼓励; 失败的、痛苦的，是给他们的警醒。
+
+至于“道德楷模”的功能，是不应该由我们大学教授以及其他层面的教育者来承担的。在这个方面，我认可一个“合格公民”的基本标准，而不相信教育者应该是“完人”。也许，有人会想这样不大好，因为，我们这些不怎么完美的教育者教有出来的学生也好不到哪里去。但我要说，如果我们能够让绝大部分学生成为一个个 "合格公民"，那么，我们的教育应该是非常成功的了。
+
+其实，社会的楷模并不是一个大学教授按照某种标准能够做出来的、更不是硬装出来的。那些自封的“成功人士”大约也是不在此列的。真正活在老百姓心中的楷模是时代的英雄豪杰、是人类在给定时期的领袖。他们，必得给人们带来光明、带来希望，有时不得不用自己的生命与灵魂来为人类杀出一条血路。他们，会产生于各种职业里，在教育者中并不见得比例就会高一些。相反，因为教师职业远离日常生活，产生公众认可的英雄的机会可能相对更少一些。这个事实也告诉我们，我们一一大学教师一一不应把成为“明星”和“显贵”作为自己的职业目标。
+
+放下“为人师表、行为世范”的社会包袱吧! 取而代之，让我们争取做一个符合“职业标准”的大学教授、一个合格的公民。我说要争取做到，是因为，如果扪心自问，我们这个群体的相当一部分人会认为自己离这个标准还颇有距离。
+
+From 彭笑刚《物理化学讲义》序言
+
 **2022/11/22**
 
 *   **Honesty**, both personal and intellectual
@@ -28,12 +46,6 @@ mathjax: false
 The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
 
 — [Bertrand Russell](https://www.brainyquote.com/quotes/bertrand_russell_121392)
-
-**2020/6/7**
-
-Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.
-
-From Francis Bacon, [The Essays](https://www.goodreads.com/quotes/28623-read-not-to-contradict-and-confute-nor-to-believe-and).
 
 **2020/1/12**
 
@@ -85,24 +97,11 @@ From David Salsburg's *The Lady Tasting Tea* p. 59.
 
 From 魔王勇者 ep. 7.
 
-**2019/8/20**
-
-A good speech should be like a woman's skirt; long enough to cover the subject and short enough to create interest.
-
-— [Winston S. Churchill](https://www.goodreads.com/quotes/421900-a-good-speech-should-be-like-a-woman-s-skirt-long)
-
 **2019/7/10**
 
 When a man cannot choose, he ceases to be a man.
 
 — Anthony Burgess, [A Clockwork Orange](https://www.goodreads.com/work/quotes/23596).
-
-
-**2019/7/8**
-
-I could be bounded in a nutshell and count myself a king of infinite space.
-
-From [Hamlet: Act 2 Scene 2 Page 11](https://www.sparknotes.com/nofear/shakespeare/hamlet/page_106/).
 
 **2019/6/16**
 

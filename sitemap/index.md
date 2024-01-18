@@ -11,9 +11,9 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(61)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(40)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(45)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
-- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(11)</font>
+- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(12)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(23)</font>
@@ -37,11 +37,13 @@ mathjax: true
 
 <details><summary><b>Recent updates</b></summary>
 <ul>
-<li>2023-05-09 <a href="https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc">ChatDoc 系列简要</a> <font color="lightgrey">(2023-08-03 updated)</font></li>
+<li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2023-12-25 updated)</font></li>
+<li>2023-09-19 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune">GPT 微调指南要点</a> <font color="lightgrey">(2023-12-20 updated)</font></li>
+<li>2023-10-03 <a href="https://shiina18.github.io/games/2023/10/03/xcom">Heavily modded XCOM2</a> <font color="lightgrey">(2023-12-01 updated)</font></li>
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(197)</font>
+## Posts <font color="lightgrey">(203)</font>
 
 ### Algorithms
 
@@ -75,7 +77,7 @@ mathjax: true
 
 ### Games
 
-- 2023-10-03 [Heavily modded XCOM2](https://shiina18.github.io/games/2023/10/03/xcom)
+- 2023-10-03 [Heavily modded XCOM2](https://shiina18.github.io/games/2023/10/03/xcom) <font color="lightgrey">(2023-12-01 updated)</font>
 - 2023-09-30 [PTCG 卡组类型](https://shiina18.github.io/games/2023/09/30/ptcg)
 - 2023-09-13 [Radical Red 4.0 Hardcore Nuzlocke](https://shiina18.github.io/games/2023/09/13/nuzlocke)
 - 2023-09-11 `YGO` [回到 2011 年玩游戏王 (公众号)](https://mp.weixin.qq.com/s/4KqI0rGumkadEAgvO8karQ)
@@ -153,8 +155,13 @@ mathjax: true
 
 ### Machine Learning
 
+- 2024-01-10 [读文章: Understanding Pins through keyword extraction](https://shiina18.github.io/machine%20learning/2024/01/10/pin-keyword)
+- 2023-12-25 `NLP` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
+- 2023-12-04 `NLP` [读论文: Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://shiina18.github.io/machine%20learning/2023/12/04/kg)
+- 2023-11-25 [Notes on Introduction to Deep Reinforcement Learning](https://shiina18.github.io/machine%20learning/2023/11/25/rl-intro)
 - 2023-09-25 [简介 HiTIN: Hierarchy-aware Tree Isomorphism Network forHierarchical Text Classification](https://shiina18.github.io/machine%20learning/2023/09/25/hitin)
-- 2023-09-19 `NLP` [GPT 微调指南要点](https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune)
+- 2023-09-19 `NLP` [GPT 微调指南要点](https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune) <font color="lightgrey">(2023-12-20 updated)</font>
+- 2023-09-01 [神经网络可解释性几则, 以 TrustAI 为例](https://shiina18.github.io/machine%20learning/2023/09/01/explain)
 - 2023-07-19 [基于神经网络的棋类 AI 简介: 以 AlphaGo Zero 和 Stockfish NNUE 为例 (公众号)](https://mp.weixin.qq.com/s/beI13muMO9uzUyhNs1ooig)
 - 2023-05-28 [Stockfish NNUE 的网络简介](https://shiina18.github.io/machine%20learning/2023/05/28/nnue)
 - 2023-05-12 `NLP` [读文章: InstructUIE 和 Flan collection](https://shiina18.github.io/machine%20learning/2023/05/12/ins-ft)
@@ -216,6 +223,7 @@ mathjax: true
 
 ### Miscellanea
 
+- 2023-12-03 [膝盖和肩膀如何工作](https://shiina18.github.io/miscellanea/2023/12/03/knee)
 - 2022-08-14 [租房 checklist](https://shiina18.github.io/miscellanea/2022/08/14/rent)
 - 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free) <font color="lightgrey">(2023-02-03 updated)</font>
 - 2022-02-07 [吞食润滑剂是否安全?](https://shiina18.github.io/miscellanea/2022/02/07/lube-safe)
@@ -258,7 +266,7 @@ mathjax: true
 - 2022-10-03 [Python 自动化杂录: Makefile 等](https://shiina18.github.io/tech/2022/10/03/makefile) <font color="lightgrey">(2022-10-18 updated)</font>
 - 2022-10-02 [Python setuptools 简要](https://shiina18.github.io/tech/2022/10/02/setuptools)
 - 2022-09-11 [Python 装饰器杂录](https://shiina18.github.io/tech/2022/09/11/decorators)
-- 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web) <font color="lightgrey">(2022-11-25 updated)</font>
+- 2022-09-04 [Python 的 web 相关库杂录](https://shiina18.github.io/tech/2022/09/04/python-web) <font color="lightgrey">(2023-12-25 updated)</font>
 - 2022-08-29 [Triton Inference Server 简要](https://shiina18.github.io/tech/2022/08/29/triton)
 - 2022-08-19 [Docker 简要: 部署 Python 应用简例](https://shiina18.github.io/tech/2022/08/19/docker) <font color="lightgrey">(2022-10-19 updated)</font>
 - 2022-07-06 [Notes on the art of readable code](https://shiina18.github.io/tech/2022/07/06/readable-code)

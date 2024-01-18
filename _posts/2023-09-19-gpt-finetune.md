@@ -3,12 +3,12 @@ title: "GPT 微调指南要点"
 categories: 
 - Machine Learning
 tags: NLP
-updated: 
+updated: 2023-12-20
 comments: true
 mathjax: false
 ---
 
-[Fine-tuning - OpenAI API](https://platform.openai.com/docs/guides/fine-tuning)
+主要参考 [Fine-tuning - OpenAI API](https://platform.openai.com/docs/guides/fine-tuning), 其他补充放在文末.
 
 这个指南大概也能当成其他 LLM 的微调指南.
 
@@ -180,3 +180,19 @@ base cost per 1k tokens * number of tokens in the input file * number of epochs 
 > I submitted it to the fine-tuning process at OpenAI. I used two models as a basis: first Curie and then Ada. Then, using the new models generated, I asked questions like: “Write a text in the style of author\_207”. With both the results were **terrible**.
 
 任务设置不合适.
+
+### Prompt engineering
+
+- [吴恩达短课概括](https://www.bilibili.com/video/BV1Js4y137C9/)
+- [Prompt Creator](https://www.zhihu.com/question/584402332/answer/2956335225)
+
+### 其他
+
+- kaggle LLM science大模型比赛金牌方案总结 - 包包大人的文章 - 知乎
+https://zhuanlan.zhihu.com/p/660666269
+- [Spider: Yale Semantic Parsing and Text-to-SQL Challenge](https://yale-lily.github.io/spider)
+- [We Fine-Tuned GPT-4 to Beat the Industry Standard for Text2SQL](https://scale.com/blog/text2sql-fine-tuning)
+
+Fine-tuning is an effective way to improve the specificity of a certain skill that the model is capable of performing but has not yet mastered. It can be used to teach a model highly specific terms and instructions and improve its capabilities. A good way to figure out if fine-tuning is going to work is by experimenting with prompt engineering. As a rule of thumb, if prompt engineering shows promising results, then fine-tuning will likely be effective for the given task. If prompt engineering isn't helping, fine-tuning likely isn't right for your use-case.
+
+Conversely, fine-tuning is not a good way to add new data or knowledge, such as the database schema or even detailed explanations of columns and their relationships to the model. Instead, this type of context information is best infused into a model using Retrieval Augmented Generation or RAG (see this [recent blog post](https://scale.com/blog/retrieval-augmented-generation-to-enhance-llms) for a deep dive on RAG). Hence, a real-world solution will likely have to include both fine-tuning and RAG to achieve acceptable results.

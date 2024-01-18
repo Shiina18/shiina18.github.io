@@ -242,6 +242,8 @@ class JsonMessageFormatter(logging.Formatter):
 
 此外还有一个专门的库 [python-json-logger](https://github.com/madzak/python-json-logger), 不过这次用不到.
 
+多进程 logging 可以参考 [Logging Cookbook - Logging to a single file from multiple processes](https://docs.python.org/3/howto/logging-cookbook.html#logging-to-a-single-file-from-multiple-processes)
+
 ## pytest and assert
 
 2022/3/15

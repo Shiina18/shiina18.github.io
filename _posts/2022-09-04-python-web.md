@@ -1,7 +1,7 @@
 ---
 title: "Python 的 web 相关库杂录"
 categories: Tech
-updated: 2022-11-25
+updated: 2023-12-25
 comments: true
 mathjax: false
 ---
@@ -63,6 +63,10 @@ uWSGI 很多功能与 Nginx 等部件重复, 文档也很杂乱 (开发者承认
 - [Flask - Full Stack Python](https://www.fullstackpython.com/flask.html)
 - [python - What is an 'endpoint' in Flask? - Stack Overflow](https://stackoverflow.com/questions/19261833/what-is-an-endpoint-in-flask)
 
+## FastAPI
+
+- [Flask 已死, FastAPI 是未来](https://zhuanlan.zhihu.com/p/672806587)
+
 ## Celery
 
 > [Celery](https://www.fullstackpython.com/celery.html) is a task queue implementation for Python web applications used to asynchronously execute work outside the HTTP request-response cycle. 
@@ -77,6 +81,7 @@ uWSGI 很多功能与 Nginx 等部件重复, 文档也很杂乱 (开发者承认
 <li><a href="https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html">How to Use Celery and RabbitMQ with Django</a> is a great tutorial that shows how to both install and set up a basic task with Django.</li>
 <li><a href="https://denibertovic.com/posts/celery-best-practices/">Celery - Best Practices</a> explains things you should not do with Celery and shows some underused features for making task queues easier to work with.</li>
 <li><a href="https://blog.balthazar-rouberol.com/celery-best-practices">Celery Best Practices</a> is a different author's follow up to the above best practices post that builds upon some of his own learnings from 3+ years using Celery.</li>
+<li>备用: <a href="https://zhuanlan.zhihu.com/p/351328752">Python 分布式调度框架 Celery 踩坑日记</a></li>
 </ul>
 <p>其他看到的</p>
 <ul>
