@@ -47,7 +47,7 @@ mathjax: false
 
 - McKinsey. (2015). [THE POWER OF PARITY: HOW ADVANCING WOMEN'S EQUALITY CAN ADD $12 TRILLION TO GLOBAL GROWTH](https://www.mckinsey.com/~/media/mckinsey/industries/public%20and%20social%20sector/our%20insights/how%20advancing%20womens%20equality%20can%20add%2012%20trillion%20to%20global%20growth/mgi%20power%20of%20parity_full%20report_september%202015.pdf)
 
-全球范围内, 75% 的无偿照护工作由妇女承担, 女性每天花 3~6 小时做无偿工作, 男性 0.5~2 小时. 
+全球范围内, 75% 的无偿照护工作由妇女承担, 女性每天花 3~6 小时做无偿工作, 男性 0.5~2 小时. [全球75％的无偿工作由女性完成？真话说一半能有多离谱](https://www.bilibili.com/video/BV1B4421F7cj)
 
 - 这种不平衡从小时候就开始了
 - 情况没有好转. 个人层面上有些男人做的事情更多了, 人口层面上却惊人地稳定
