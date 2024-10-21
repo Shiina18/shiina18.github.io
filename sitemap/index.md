@@ -9,11 +9,11 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(61)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(70)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(45)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
-- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(12)</font>
+- [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
 - [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(23)</font>
@@ -36,14 +36,10 @@ mathjax: true
 </details>
 
 <details><summary><b>Recent updates</b></summary>
-<ul>
-<li>2022-09-04 <a href="https://shiina18.github.io/tech/2022/09/04/python-web">Python 的 web 相关库杂录</a> <font color="lightgrey">(2023-12-25 updated)</font></li>
-<li>2023-09-19 <code>NLP</code> <a href="https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune">GPT 微调指南要点</a> <font color="lightgrey">(2023-12-20 updated)</font></li>
-<li>2023-10-03 <a href="https://shiina18.github.io/games/2023/10/03/xcom">Heavily modded XCOM2</a> <font color="lightgrey">(2023-12-01 updated)</font></li>
-</ul>
+
 </details>
 
-## Posts <font color="lightgrey">(203)</font>
+## Posts <font color="lightgrey">(213)</font>
 
 ### Algorithms
 
@@ -77,6 +73,15 @@ mathjax: true
 
 ### Games
 
+- 2024-08-14 `MTG` [译文 | MTG | 标准 | 日本公开赛四强 阿布赞 Ramp 卡组解说 (公众号)](https://mp.weixin.qq.com/s/Vru30dBxGsMVwAYcKRGTcQ)
+- 2024-08-09 `MTG` [译文 | MTG | 标准 | 苍红杯冠军 ryuumei 纯红中速卡组解说 (公众号)](https://mp.weixin.qq.com/s/6thISaZM-GeiTPrAr7iojg)
+- 2024-07-30 [杀戮尖塔的蛇眼到底有多强? (公众号)](https://mp.weixin.qq.com/s/pKaCjo9HHkxTk9-pmg0HZQ)
+- 2024-07-25 [近期杀戮尖塔简要心得 (战士 A20 NOSL) (公众号)](https://mp.weixin.qq.com/s/C7b0ZPKGlx1xEo0IqeIvpA)
+- 2024-06-04 [翻译 | TCG 大赛选手被认为不当决定比赛结果而最终遭 DQ 的故事 (公众号)](https://mp.weixin.qq.com/s/qFzFidQNowjUOVEeO7Zt8w)
+- 2024-05-22 `YGO` [游戏王 YDK2DECKLIST 上线卡组打印功能 (公众号)](https://mp.weixin.qq.com/s/5GiinEC4tCr1sqgB7hIQ1A)
+- 2024-05-13 [大模型在小众垂直领域的机器翻译尝试: 以游戏王、万智牌和五子棋为例 (公众号)](https://mp.weixin.qq.com/s/Rqwe6l3DNs5zeRY9wHufxQ)
+- 2024-05-09 `MTG` [译文 | MTG | 标准 | PT 冠军 井川良彦 Domain Ramp 卡组解说 (公众号)](https://mp.weixin.qq.com/s/ambcBvYsUskBDlqM4BmqfA)
+- 2024-01-12 [办小型 TCG 比赛时瑞士轮定几轮? (瑞士轮几胜出线 威力加强版) (公众号)](https://mp.weixin.qq.com/s/CfnlMWtBAUEOnrWC5oG72Q)
 - 2023-10-03 [Heavily modded XCOM2](https://shiina18.github.io/games/2023/10/03/xcom) <font color="lightgrey">(2023-12-01 updated)</font>
 - 2023-09-30 [PTCG 卡组类型](https://shiina18.github.io/games/2023/09/30/ptcg)
 - 2023-09-13 [Radical Red 4.0 Hardcore Nuzlocke](https://shiina18.github.io/games/2023/09/13/nuzlocke)
@@ -228,6 +233,7 @@ mathjax: true
 - 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free) <font color="lightgrey">(2023-02-03 updated)</font>
 - 2022-02-07 [吞食润滑剂是否安全?](https://shiina18.github.io/miscellanea/2022/02/07/lube-safe)
 - 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself) <font color="lightgrey">(2022-01-05 updated)</font>
+- 2021-08-10 [TFCC 损伤 | 保守治疗篇 (公众号)](https://mp.weixin.qq.com/s/CAWkmJDvOr_InQf83CAtpg)
 - 2021-06-24 [上海动物园游记 (公众号)](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)
 - 2021-05-27 [Verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)

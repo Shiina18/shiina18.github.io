@@ -52,6 +52,15 @@ EXTERNAL_POSTS = {
         ),
     ],
     'Games': [
+		Post('2024-08-14', '译文 | MTG | 标准 | 日本公开赛四强 阿布赞 Ramp 卡组解说 (公众号)', 'https://mp.weixin.qq.com/s/Vru30dBxGsMVwAYcKRGTcQ', tags='MTG'),
+		Post('2024-08-09', '译文 | MTG | 标准 | 苍红杯冠军 ryuumei 纯红中速卡组解说 (公众号)', 'https://mp.weixin.qq.com/s/6thISaZM-GeiTPrAr7iojg', tags='MTG'),
+		Post('2024-07-30', '杀戮尖塔的蛇眼到底有多强? (公众号)', 'https://mp.weixin.qq.com/s/pKaCjo9HHkxTk9-pmg0HZQ'),
+		Post('2024-07-25', '近期杀戮尖塔简要心得 (战士 A20 NOSL) (公众号)', 'https://mp.weixin.qq.com/s/C7b0ZPKGlx1xEo0IqeIvpA'),
+		Post('2024-06-04', '翻译 | TCG 大赛选手被认为不当决定比赛结果而最终遭 DQ 的故事 (公众号)', 'https://mp.weixin.qq.com/s/qFzFidQNowjUOVEeO7Zt8w'),
+		Post('2024-05-22', '游戏王 YDK2DECKLIST 上线卡组打印功能 (公众号)', 'https://mp.weixin.qq.com/s/5GiinEC4tCr1sqgB7hIQ1A', tags='YGO'),
+		Post('2024-05-13', '大模型在小众垂直领域的机器翻译尝试: 以游戏王、万智牌和五子棋为例 (公众号)', 'https://mp.weixin.qq.com/s/Rqwe6l3DNs5zeRY9wHufxQ'),
+		Post('2024-05-09', '译文 | MTG | 标准 | PT 冠军 井川良彦 Domain Ramp 卡组解说 (公众号)', 'https://mp.weixin.qq.com/s/ambcBvYsUskBDlqM4BmqfA', tags='MTG'),
+		Post('2024-01-12', '办小型 TCG 比赛时瑞士轮定几轮? (瑞士轮几胜出线 威力加强版) (公众号)', 'https://mp.weixin.qq.com/s/CfnlMWtBAUEOnrWC5oG72Q'),
 		Post('2023-09-11', '回到 2011 年玩游戏王 (公众号)', 'https://mp.weixin.qq.com/s/4KqI0rGumkadEAgvO8karQ', tags='YGO'),
 		Post('2023-06-29', '游戏王 cube 轮抽交流 (公众号)', 'https://mp.weixin.qq.com/s/jBs3DKJyPeUwP76NK1RCTg', tags='YGO'),
 		Post('2023-04-29', '五子棋完全入门指南 (公众号)', 'https://mp.weixin.qq.com/s/BVt_cFO_IltuTt4ORDJYZQ', tags='Renju'),
@@ -79,6 +88,7 @@ EXTERNAL_POSTS = {
         Post('2021-02-10', '「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)', 'https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg'),
     ],
     'Miscellanea': [
+		Post('2021-08-10', 'TFCC 损伤 | 保守治疗篇 (公众号)', 'https://mp.weixin.qq.com/s/CAWkmJDvOr_InQf83CAtpg'),
         Post('2021-06-24', '上海动物园游记 (公众号)', 'https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw'),
     ],
     'Machine Learning': [

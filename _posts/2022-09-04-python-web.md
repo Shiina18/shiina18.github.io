@@ -66,6 +66,7 @@ uWSGI 很多功能与 Nginx 等部件重复, 文档也很杂乱 (开发者承认
 ## FastAPI
 
 - [Flask 已死, FastAPI 是未来](https://zhuanlan.zhihu.com/p/672806587)
+- 2022 [Moving from Flask to FastAPI](https://testdriven.io/blog/moving-from-flask-to-fastapi/)
 
 ## Celery
 

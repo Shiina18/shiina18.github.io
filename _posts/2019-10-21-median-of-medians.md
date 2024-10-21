@@ -57,6 +57,8 @@ $$
 
 之后易证 (由 substitution method) $\mathbb ET(n) = O(n)$. 不过 worst-case 是 $O(n^2)$.
 
+另外可以参考 [Optimal algorithm for returning top k values from an array of length N](https://stackoverflow.com/questions/4956593/optimal-algorithm-for-returning-top-k-values-from-an-array-of-length-n). 简单地说是建小根堆, pop k 次, worst case $n + (k-1)\log n$ 次比较, 在这个基础上再稍微加点优化.mod
+
 ## In Worst-Case Linear Time
 
 不妨约定, 当偶数个元素时, 中位数取中间两个数中较小的那个.
