@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(70)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(45)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(46)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -39,7 +39,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(213)</font>
+## Posts <font color="lightgrey">(214)</font>
 
 ### Algorithms
 
@@ -160,6 +160,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2025-01-21 `NLP` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
 - 2024-01-10 [读文章: Understanding Pins through keyword extraction](https://shiina18.github.io/machine%20learning/2024/01/10/pin-keyword)
 - 2023-12-25 `NLP` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
 - 2023-12-04 `NLP` [读论文: Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://shiina18.github.io/machine%20learning/2023/12/04/kg)
@@ -228,12 +229,12 @@ mathjax: true
 
 ### Miscellanea
 
+- 2024-08-10 [TFCC 损伤 保守治疗篇 (公众号)](https://mp.weixin.qq.com/s/CAWkmJDvOr_InQf83CAtpg)
 - 2023-12-03 [膝盖和肩膀如何工作](https://shiina18.github.io/miscellanea/2023/12/03/knee)
 - 2022-08-14 [租房 checklist](https://shiina18.github.io/miscellanea/2022/08/14/rent)
 - 2022-05-15 [免费的启蒙](https://shiina18.github.io/miscellanea/2022/05/15/free) <font color="lightgrey">(2023-02-03 updated)</font>
 - 2022-02-07 [吞食润滑剂是否安全?](https://shiina18.github.io/miscellanea/2022/02/07/lube-safe)
 - 2021-08-16 [KnowYourself 亲密关系文章杂录](https://shiina18.github.io/miscellanea/2021/08/16/knowyourself) <font color="lightgrey">(2022-01-05 updated)</font>
-- 2021-08-10 [TFCC 损伤 保守治疗篇 (公众号)](https://mp.weixin.qq.com/s/CAWkmJDvOr_InQf83CAtpg)
 - 2021-06-24 [上海动物园游记 (公众号)](https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw)
 - 2021-05-27 [Verywellmind 文章杂录](https://shiina18.github.io/miscellanea/2021/05/27/verywellmind)
 - 2021-04-07 [手机摄影基础知识简要](https://shiina18.github.io/miscellanea/2021/04/07/photography)

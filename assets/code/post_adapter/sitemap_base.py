@@ -88,7 +88,7 @@ EXTERNAL_POSTS = {
         Post('2021-02-10', '「おかしいです」现代日语中一个 "奇怪" 的用法 (公众号)', 'https://mp.weixin.qq.com/s/8XRHmV6mt3deIWM1oRYZdg'),
     ],
     'Miscellanea': [
-		Post('2021-08-10', 'TFCC 损伤 保守治疗篇 (公众号)', 'https://mp.weixin.qq.com/s/CAWkmJDvOr_InQf83CAtpg'),
+		Post('2024-08-10', 'TFCC 损伤 保守治疗篇 (公众号)', 'https://mp.weixin.qq.com/s/CAWkmJDvOr_InQf83CAtpg'),
         Post('2021-06-24', '上海动物园游记 (公众号)', 'https://mp.weixin.qq.com/s/fJO61Rlpa48yWe1nb_l3Fw'),
     ],
     'Machine Learning': [
