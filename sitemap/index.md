@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(70)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(46)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(47)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -39,7 +39,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(214)</font>
+## Posts <font color="lightgrey">(215)</font>
 
 ### Algorithms
 
@@ -161,6 +161,7 @@ mathjax: true
 ### Machine Learning
 
 - 2025-01-21 `NLP` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
+- 2024-12-24 `NLP` [ModernBERT](https://shiina18.github.io/machine%20learning/2024/12/24/modernbert)
 - 2024-01-10 [读文章: Understanding Pins through keyword extraction](https://shiina18.github.io/machine%20learning/2024/01/10/pin-keyword)
 - 2023-12-25 `NLP` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
 - 2023-12-04 `NLP` [读论文: Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://shiina18.github.io/machine%20learning/2023/12/04/kg)
