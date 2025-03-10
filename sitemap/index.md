@@ -9,9 +9,9 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(70)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(63)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(47)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(48)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -39,7 +39,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(215)</font>
+## Posts <font color="lightgrey">(209)</font>
 
 ### Algorithms
 
@@ -73,14 +73,7 @@ mathjax: true
 
 ### Games
 
-- 2024-08-14 `MTG` [译文 MTG 标准 日本公开赛四强 阿布赞 Ramp 卡组解说 (公众号)](https://mp.weixin.qq.com/s/Vru30dBxGsMVwAYcKRGTcQ)
-- 2024-08-09 `MTG` [译文 MTG 标准 苍红杯冠军 ryuumei 纯红中速卡组解说 (公众号)](https://mp.weixin.qq.com/s/6thISaZM-GeiTPrAr7iojg)
-- 2024-07-30 [杀戮尖塔的蛇眼到底有多强? (公众号)](https://mp.weixin.qq.com/s/pKaCjo9HHkxTk9-pmg0HZQ)
-- 2024-07-25 [近期杀戮尖塔简要心得 (战士 A20 NOSL) (公众号)](https://mp.weixin.qq.com/s/C7b0ZPKGlx1xEo0IqeIvpA)
-- 2024-06-04 [翻译 TCG 大赛选手被认为不当决定比赛结果而最终遭 DQ 的故事 (公众号)](https://mp.weixin.qq.com/s/qFzFidQNowjUOVEeO7Zt8w)
-- 2024-05-22 `YGO` [游戏王 YDK2DECKLIST 上线卡组打印功能 (公众号)](https://mp.weixin.qq.com/s/5GiinEC4tCr1sqgB7hIQ1A)
 - 2024-05-13 [大模型在小众垂直领域的机器翻译尝试: 以游戏王、万智牌和五子棋为例 (公众号)](https://mp.weixin.qq.com/s/Rqwe6l3DNs5zeRY9wHufxQ)
-- 2024-05-09 `MTG` [译文 MTG 标准 PT 冠军 井川良彦 Domain Ramp 卡组解说 (公众号)](https://mp.weixin.qq.com/s/ambcBvYsUskBDlqM4BmqfA)
 - 2024-01-12 [办小型 TCG 比赛时瑞士轮定几轮? (瑞士轮几胜出线 威力加强版) (公众号)](https://mp.weixin.qq.com/s/CfnlMWtBAUEOnrWC5oG72Q)
 - 2023-10-03 [Heavily modded XCOM2](https://shiina18.github.io/games/2023/10/03/xcom) <font color="lightgrey">(2023-12-01 updated)</font>
 - 2023-09-30 [PTCG 卡组类型](https://shiina18.github.io/games/2023/09/30/ptcg)
@@ -162,6 +155,7 @@ mathjax: true
 
 - 2025-01-21 `NLP` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
 - 2024-12-24 `NLP` [ModernBERT](https://shiina18.github.io/machine%20learning/2024/12/24/modernbert)
+- 2024-08-18 `NLP` [LoRA 变体](https://shiina18.github.io/machine%20learning/2024/08/18/lora)
 - 2024-01-10 [读文章: Understanding Pins through keyword extraction](https://shiina18.github.io/machine%20learning/2024/01/10/pin-keyword)
 - 2023-12-25 `NLP` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
 - 2023-12-04 `NLP` [读论文: Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://shiina18.github.io/machine%20learning/2023/12/04/kg)
