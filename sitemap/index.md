@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(71)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(49)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(50)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -39,7 +39,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(219)</font>
+## Posts <font color="lightgrey">(220)</font>
 
 ### Algorithms
 
@@ -161,6 +161,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2025-09-30 `LLM` [读代码: Cherry Studio 联网搜](https://shiina18.github.io/machine%20learning/2025/09/30/web-search)
 - 2025-09-14 `LLM` [用 Pydantic 自动生成 LLM Tool Schema](https://shiina18.github.io/machine%20learning/2025/09/14/tool-desc)
 - 2025-01-21 `NLP` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
 - 2024-12-24 `NLP` [ModernBERT](https://shiina18.github.io/machine%20learning/2024/12/24/modernbert)
