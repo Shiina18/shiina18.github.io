@@ -8,8 +8,6 @@ comments: true
 mathjax: false
 ---
 
-Cherry Studio 联网搜
-
 非常粗糙.
 
 如果同时开启知识库和联网搜 (`searchOrchestrationPlugin.ts`), 则用 `SEARCH_SUMMARY_PROMPT`  做意图分析和 query 改写. 简单地把两种搜索的结果拼接起来 (不会混起来重排), index 加上偏移量避免重叠. 如果设置了召回 memory 也会拼在后面.

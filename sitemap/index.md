@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(71)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(50)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(52)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -39,7 +39,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(220)</font>
+## Posts <font color="lightgrey">(222)</font>
 
 ### Algorithms
 
@@ -161,13 +161,15 @@ mathjax: true
 
 ### Machine Learning
 
+- 2025-10-17 `LLM` [Agent 实践杂录](https://shiina18.github.io/machine%20learning/2025/10/17/agent)
+- 2025-10-07 `LLM` [RAG 简要回顾](https://shiina18.github.io/machine%20learning/2025/10/07/rag)
 - 2025-09-30 `LLM` [读代码: Cherry Studio 联网搜](https://shiina18.github.io/machine%20learning/2025/09/30/web-search)
 - 2025-09-14 `LLM` [用 Pydantic 自动生成 LLM Tool Schema](https://shiina18.github.io/machine%20learning/2025/09/14/tool-desc)
-- 2025-01-21 `NLP` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
+- 2025-01-21 `LLM` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
 - 2024-12-24 `NLP` [ModernBERT](https://shiina18.github.io/machine%20learning/2024/12/24/modernbert)
-- 2024-08-18 `NLP` [LoRA 变体](https://shiina18.github.io/machine%20learning/2024/08/18/lora)
+- 2024-08-18 `LLM` [LoRA 变体](https://shiina18.github.io/machine%20learning/2024/08/18/lora)
 - 2024-01-10 [读文章: Understanding Pins through keyword extraction](https://shiina18.github.io/machine%20learning/2024/01/10/pin-keyword)
-- 2023-12-25 `NLP` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
+- 2023-12-25 `LLM` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
 - 2023-12-04 `NLP` [读论文: Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://shiina18.github.io/machine%20learning/2023/12/04/kg)
 - 2023-11-25 [Notes on Introduction to Deep Reinforcement Learning](https://shiina18.github.io/machine%20learning/2023/11/25/rl-intro)
 - 2023-09-25 [简介 HiTIN: Hierarchy-aware Tree Isomorphism Network forHierarchical Text Classification](https://shiina18.github.io/machine%20learning/2023/09/25/hitin)
