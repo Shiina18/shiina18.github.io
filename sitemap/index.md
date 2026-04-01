@@ -11,7 +11,7 @@ mathjax: true
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(66)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(52)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(53)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -39,7 +39,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(217)</font>
+## Posts <font color="lightgrey">(218)</font>
 
 ### Algorithms
 
@@ -156,6 +156,7 @@ mathjax: true
 
 ### Machine Learning
 
+- 2026-04-01 `LLM` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/machine%20learning/2026/04/01/cc-compact)
 - 2025-10-17 `LLM` [Agent 实践杂录](https://shiina18.github.io/machine%20learning/2025/10/17/agent)
 - 2025-10-07 `LLM` [RAG 简要回顾](https://shiina18.github.io/machine%20learning/2025/10/07/rag)
 - 2025-09-30 `LLM` [读代码: Cherry Studio 联网搜](https://shiina18.github.io/machine%20learning/2025/09/30/web-search)
