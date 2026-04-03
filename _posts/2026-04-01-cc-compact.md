@@ -177,7 +177,20 @@ const COMPACTABLE_TOOLS = new Set<string>([
 
 ## Auto-compact
 
-如果上下文大于阈值, 会先 `trySessionMemoryCompaction` (TODO: 还没看), 如果失败或不适用再构造 prompt 专门调一次 llm 总结. 连续失败 3 次则不再同个 session 尝试 autocompact.
+如果上下文大于阈值, 会先 `trySessionMemoryCompaction` (TODO: 还没看), 如果失败或不适用再构造 prompt 专门调一次 llm 总结 (会先尝试 fork agent 以吃到现有的 prompt cache). 连续失败 3 次则不再同个 session 尝试 autocompact.
+
+```ts
+  // When prompt cache sharing is enabled, use forked agent to reuse the
+  // main conversation's cached prefix (system prompt, tools, context messages).
+  // Falls back to regular streaming path on failure.
+```
+
+```ts
+export async function runForkedAgent(...):{
+...
+  const initialMessages: Message[] = [...forkContextMessages, ...promptMessages]
+...
+```
 
 ```ts
 // Reserve this many tokens for output during compaction
