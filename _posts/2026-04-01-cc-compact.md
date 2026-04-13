@@ -1,8 +1,8 @@
 ---
 title: "读 Claude Code 源码 - 上下文压缩策略"
 categories: 
-- Machine Learning
-tags: LLM
+- LLM
+tags: agent
 updated: 
 comments: true
 mathjax: false

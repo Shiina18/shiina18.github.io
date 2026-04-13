@@ -1,8 +1,7 @@
 ---
 title: "读代码: Cherry Studio 联网搜"
 categories: 
-- Machine Learning
-tags: LLM
+- LLM
 updated: 
 comments: true
 mathjax: false

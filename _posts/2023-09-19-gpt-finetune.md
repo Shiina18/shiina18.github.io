@@ -1,8 +1,7 @@
 ---
 title: "GPT 微调指南要点"
 categories: 
-- Machine Learning
-tags: NLP
+- LLM
 updated: 2023-12-20
 comments: true
 mathjax: false

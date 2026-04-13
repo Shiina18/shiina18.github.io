@@ -4,14 +4,15 @@ layout: page
 mathjax: true
 ---
 
-## Categories <font color="lightgrey">(11)</font>
+## Categories <font color="lightgrey">(12)</font>
 
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(66)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(14)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(55)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(41)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -140,6 +141,23 @@ mathjax: true
 - 2018-08-02 `YGO` [Tracker 与 KTS 的瑞士轮算分机制 (公众号)](https://mp.weixin.qq.com/s/cSdJ78-maUl1m0w1lJUbmQ)
 - 2016-10-07 `YGO` [上海决斗都市战报 (公众号)](https://mp.weixin.qq.com/s/6s2fHirOwLGPozwh1Xsa4g)
 
+### LLM
+
+- 2026-04-05 `agent` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/llm/2026/04/05/cc-web-search)
+- 2026-04-03 `agent` [读 Claude Code 源码 - memory 机制](https://shiina18.github.io/llm/2026/04/03/cc-memory)
+- 2026-04-01 `agent` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/llm/2026/04/01/cc-compact)
+- 2025-10-17 `agent` [Agent 实践杂录](https://shiina18.github.io/llm/2025/10/17/agent)
+- 2025-10-07 [RAG 简要回顾](https://shiina18.github.io/llm/2025/10/07/rag)
+- 2025-09-30 [读代码: Cherry Studio 联网搜](https://shiina18.github.io/llm/2025/09/30/web-search)
+- 2025-09-14 [用 Pydantic 自动生成 LLM Tool Schema](https://shiina18.github.io/llm/2025/09/14/tool-desc)
+- 2025-01-21 [LightRAG 源码简要分享](https://shiina18.github.io/llm/2025/01/21/lightrag)
+- 2024-08-18 [LoRA 变体](https://shiina18.github.io/llm/2024/08/18/lora)
+- 2023-12-25 [LLM-based Text2SQL](https://shiina18.github.io/llm/2023/12/25/text2sql)
+- 2023-09-19 [GPT 微调指南要点](https://shiina18.github.io/llm/2023/09/19/gpt-finetune) <font color="lightgrey">(2023-12-20 updated)</font>
+- 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/llm/2023/05/09/chatdoc)
+- 2023-04-24 [Stanford Alpaca 简要](https://shiina18.github.io/llm/2023/04/24/alpaca) <font color="lightgrey">(2023-04-26 updated)</font>
+- 2022-12-24 [GPT-1 到 ChatGPT 简介](https://shiina18.github.io/llm/2022/12/24/gpt)
+
 ### Language
 
 - 2022-12-18 [Atypical: Season 4 Episode 1 Transcript](https://shiina18.github.io/language/2022/12/18/atypicals4e1)
@@ -156,32 +174,18 @@ mathjax: true
 
 ### Machine Learning
 
-- 2026-04-05 `LLM` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/machine%20learning/2026/04/05/cc-web-search)
-- 2026-04-03 `LLM` [读 Claude Code 源码 - memory 机制](https://shiina18.github.io/machine%20learning/2026/04/03/cc-memory)
-- 2026-04-01 `LLM` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/machine%20learning/2026/04/01/cc-compact)
-- 2025-10-17 `LLM` [Agent 实践杂录](https://shiina18.github.io/machine%20learning/2025/10/17/agent)
-- 2025-10-07 `LLM` [RAG 简要回顾](https://shiina18.github.io/machine%20learning/2025/10/07/rag)
-- 2025-09-30 `LLM` [读代码: Cherry Studio 联网搜](https://shiina18.github.io/machine%20learning/2025/09/30/web-search)
-- 2025-09-14 `LLM` [用 Pydantic 自动生成 LLM Tool Schema](https://shiina18.github.io/machine%20learning/2025/09/14/tool-desc)
-- 2025-01-21 `LLM` [LightRAG 源码简要分享](https://shiina18.github.io/machine%20learning/2025/01/21/lightrag)
 - 2024-12-24 `NLP` [ModernBERT](https://shiina18.github.io/machine%20learning/2024/12/24/modernbert)
-- 2024-08-18 `LLM` [LoRA 变体](https://shiina18.github.io/machine%20learning/2024/08/18/lora)
 - 2024-01-10 [读文章: Understanding Pins through keyword extraction](https://shiina18.github.io/machine%20learning/2024/01/10/pin-keyword)
-- 2023-12-25 `LLM` [LLM-based Text2SQL](https://shiina18.github.io/machine%20learning/2023/12/25/text2sql)
 - 2023-12-04 `NLP` [读论文: Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://shiina18.github.io/machine%20learning/2023/12/04/kg)
 - 2023-11-25 [Notes on Introduction to Deep Reinforcement Learning](https://shiina18.github.io/machine%20learning/2023/11/25/rl-intro)
 - 2023-09-25 [简介 HiTIN: Hierarchy-aware Tree Isomorphism Network forHierarchical Text Classification](https://shiina18.github.io/machine%20learning/2023/09/25/hitin)
-- 2023-09-19 `NLP` [GPT 微调指南要点](https://shiina18.github.io/machine%20learning/2023/09/19/gpt-finetune) <font color="lightgrey">(2023-12-20 updated)</font>
 - 2023-09-01 [神经网络可解释性几则, 以 TrustAI 为例](https://shiina18.github.io/machine%20learning/2023/09/01/explain)
 - 2023-07-19 [基于神经网络的棋类 AI 简介: 以 AlphaGo Zero 和 Stockfish NNUE 为例 (公众号)](https://mp.weixin.qq.com/s/beI13muMO9uzUyhNs1ooig)
 - 2023-05-28 [Stockfish NNUE 的网络简介](https://shiina18.github.io/machine%20learning/2023/05/28/nnue)
 - 2023-05-12 `NLP` [读文章: InstructUIE 和 Flan collection](https://shiina18.github.io/machine%20learning/2023/05/12/ins-ft)
-- 2023-05-09 [ChatDoc 系列简要](https://shiina18.github.io/machine%20learning/2023/05/09/chatdoc) <font color="lightgrey">(2023-08-03 updated)</font>
-- 2023-04-24 `NLP` [Stanford Alpaca 简要](https://shiina18.github.io/machine%20learning/2023/04/24/alpaca) <font color="lightgrey">(2023-04-26 updated)</font>
 - 2023-01-14 [Minimum cut 的一个应用](https://shiina18.github.io/machine%20learning/2023/01/14/min-cut)
 - 2023-01-06 [MLFlow 简介](https://shiina18.github.io/machine%20learning/2023/01/06/mlflow)
 - 2023-01-04 [Huggingface Transformers Trainer as a general PyTorch trainer](https://shiina18.github.io/machine%20learning/2023/01/04/trainer)
-- 2022-12-24 `NLP` [GPT-1 到 ChatGPT 简介](https://shiina18.github.io/machine%20learning/2022/12/24/gpt)
 - 2022-11-09 `NLP` [轻量级篇章事件抽取: PTPCG](https://shiina18.github.io/machine%20learning/2022/11/09/docee) <font color="lightgrey">(2023-01-14 updated)</font>
 - 2022-10-16 [深度学习性能瓶颈往往是内存带宽](https://shiina18.github.io/machine%20learning/2022/10/16/gpu)
 - 2022-08-01 `NLP` [工业界 NLP 实践杂录](https://shiina18.github.io/machine%20learning/2022/08/01/industry-nlp)
