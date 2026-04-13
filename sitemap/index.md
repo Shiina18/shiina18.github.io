@@ -143,10 +143,10 @@ mathjax: true
 
 ### LLM
 
-- 2026-04-05 `agent` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/llm/2026/04/05/cc-web-search)
-- 2026-04-03 `agent` [读 Claude Code 源码 - memory 机制](https://shiina18.github.io/llm/2026/04/03/cc-memory)
-- 2026-04-01 `agent` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/llm/2026/04/01/cc-compact)
-- 2025-10-17 `agent` [Agent 实践杂录](https://shiina18.github.io/llm/2025/10/17/agent)
+- 2026-04-05 `Agent` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/llm/2026/04/05/cc-web-search)
+- 2026-04-03 `Agent` [读 Claude Code 源码 - memory 机制](https://shiina18.github.io/llm/2026/04/03/cc-memory)
+- 2026-04-01 `Agent` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/llm/2026/04/01/cc-compact)
+- 2025-10-17 `Agent` [Agent 实践杂录](https://shiina18.github.io/llm/2025/10/17/agent)
 - 2025-10-07 [RAG 简要回顾](https://shiina18.github.io/llm/2025/10/07/rag)
 - 2025-09-30 [读代码: Cherry Studio 联网搜](https://shiina18.github.io/llm/2025/09/30/web-search)
 - 2025-09-14 [用 Pydantic 自动生成 LLM Tool Schema](https://shiina18.github.io/llm/2025/09/14/tool-desc)
