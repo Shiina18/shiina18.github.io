@@ -10,7 +10,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(66)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(15)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(16)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(41)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(221)</font>
+## Posts <font color="lightgrey">(222)</font>
 
 ### Algorithms
 
@@ -144,6 +144,7 @@ mathjax: true
 ### LLM
 
 - 2026-04-13 `Agent` [读 Claude Code 源码 - memory 机制续篇](https://shiina18.github.io/llm/2026/04/13/cc-memory-2)
+- 2026-04-13 `Agent` [Harness Cheatsheet](https://shiina18.github.io/llm/2026/04/13/harness)
 - 2026-04-05 `Agent` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/llm/2026/04/05/cc-web-search)
 - 2026-04-03 `Agent` [读 Claude Code 源码 - memory 机制](https://shiina18.github.io/llm/2026/04/03/cc-memory)
 - 2026-04-01 `Agent` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/llm/2026/04/01/cc-compact)
