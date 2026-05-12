@@ -17,7 +17,7 @@ mathjax: true
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
 - [Statistics](https://shiina18.github.io/sitemap/#statistics) <font color="lightgrey">(6)</font>
-- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(24)</font>
+- [Tech](https://shiina18.github.io/sitemap/#tech) <font color="lightgrey">(25)</font>
 
 <details><summary><b>分类说明</b></summary>
 <ul>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(222)</font>
+## Posts <font color="lightgrey">(223)</font>
 
 ### Algorithms
 
@@ -275,6 +275,7 @@ mathjax: true
 
 ### Tech
 
+- 2026-05-03 [去年遇到的一个正则的坑](https://shiina18.github.io/tech/2026/05/03/regex)
 - 2025-05-05 [难倒各路大模型的两道简单 SQLite 问题](https://shiina18.github.io/tech/2025/05/05/sqlite)
 - 2023-01-01 [Notes on Distributed Data](https://shiina18.github.io/tech/2023/01/01/distributed)
 - 2022-12-19 [[Walkthrough] Install and set up Redis](https://shiina18.github.io/tech/2022/12/19/redis) <font color="lightgrey">(2023-01-04 updated)</font>
