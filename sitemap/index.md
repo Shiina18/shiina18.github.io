@@ -9,10 +9,10 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(66)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(16)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(65)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(19)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
-- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(41)</font>
+- [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
 - [Miscellanea](https://shiina18.github.io/sitemap/#miscellanea) <font color="lightgrey">(13)</font>
 - [Reading](https://shiina18.github.io/sitemap/#reading) <font color="lightgrey">(7)</font>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(223)</font>
+## Posts <font color="lightgrey">(226)</font>
 
 ### Algorithms
 
@@ -79,7 +79,6 @@ mathjax: true
 - 2024-05-09 `MTG` [译文 MTG 标准 PT 冠军 井川良彦 Domain Ramp 卡组解说 (公众号)](https://mp.weixin.qq.com/s/ambcBvYsUskBDlqM4BmqfA)
 - 2024-01-12 [办小型 TCG 比赛时瑞士轮定几轮? (瑞士轮几胜出线 威力加强版) (公众号)](https://mp.weixin.qq.com/s/CfnlMWtBAUEOnrWC5oG72Q)
 - 2023-12-08 [A Guide for Customizing Difficulty in Tactics Ogre One Vision Mod](https://shiina18.github.io/games/2023/12/08/to-cheat) <font color="lightgrey">(2025-06-01 updated)</font>
-- 2023-10-03 [Heavily modded XCOM2](https://shiina18.github.io/games/2023/10/03/xcom) <font color="lightgrey">(2023-12-01 updated)</font>
 - 2023-09-30 [PTCG 卡组类型](https://shiina18.github.io/games/2023/09/30/ptcg)
 - 2023-09-13 [Radical Red 4.0 Hardcore Nuzlocke](https://shiina18.github.io/games/2023/09/13/nuzlocke)
 - 2023-09-11 `YGO` [回到 2011 年玩游戏王 (公众号)](https://mp.weixin.qq.com/s/4KqI0rGumkadEAgvO8karQ)
@@ -143,6 +142,8 @@ mathjax: true
 
 ### LLM
 
+- 2026-05-01 `Agent` [如何评估 skill](https://shiina18.github.io/llm/2026/05/01/eval-skill)
+- 2026-04-28 `Agent` [Langchain 团队如何评估与优化 agent harness](https://shiina18.github.io/llm/2026/04/28/deepagent-eval)
 - 2026-04-13 `Agent` [读 Claude Code 源码 - memory 机制续篇](https://shiina18.github.io/llm/2026/04/13/cc-memory-2)
 - 2026-04-13 `Agent` [Harness Cheatsheet](https://shiina18.github.io/llm/2026/04/13/harness)
 - 2026-04-05 `Agent` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/llm/2026/04/05/cc-web-search)
@@ -152,6 +153,7 @@ mathjax: true
 - 2025-10-07 [RAG 简要回顾](https://shiina18.github.io/llm/2025/10/07/rag)
 - 2025-09-30 [读代码: Cherry Studio 联网搜](https://shiina18.github.io/llm/2025/09/30/web-search)
 - 2025-09-14 [用 Pydantic 自动生成 LLM Tool Schema](https://shiina18.github.io/llm/2025/09/14/tool-desc)
+- 2025-02-13 [读论文: DeepSeek V3](https://shiina18.github.io/llm/2025/02/13/deepseek-v3)
 - 2025-01-21 [LightRAG 源码简要分享](https://shiina18.github.io/llm/2025/01/21/lightrag)
 - 2024-08-18 [LoRA 变体](https://shiina18.github.io/llm/2024/08/18/lora)
 - 2023-12-25 [LLM-based Text2SQL](https://shiina18.github.io/llm/2023/12/25/text2sql)
@@ -195,6 +197,7 @@ mathjax: true
 - 2022-05-10 [复习: 反向传播与参数初始化](https://shiina18.github.io/machine%20learning/2022/05/10/bp-init) <font color="lightgrey">(2022-12-15 updated)</font>
 - 2022-03-29 `NLP` [词权重求和背后的假设](https://shiina18.github.io/machine%20learning/2022/03/29/term-weight)
 - 2022-03-25 [深度学习吐槽杂录](https://shiina18.github.io/machine%20learning/2022/03/25/dl-tsukkomi) <font color="lightgrey">(2022-08-06 updated)</font>
+- 2022-03-15 `NLP` [TextCNN 和 fastText 复习](https://shiina18.github.io/machine%20learning/2022/03/15/textcnn)
 - 2022-03-03 [到达时间预测两则: Uber 和美团](https://shiina18.github.io/machine%20learning/2022/03/03/predict-eta)
 - 2022-02-25 `NLP` [SimCSE: simple contrastive sentence embedding](https://shiina18.github.io/machine%20learning/2022/02/25/simcse) <font color="lightgrey">(2022-07-12 updated)</font>
 - 2022-02-06 [逻辑回归复习: 为什么不用 OLS](https://shiina18.github.io/machine%20learning/2022/02/06/logreg)
