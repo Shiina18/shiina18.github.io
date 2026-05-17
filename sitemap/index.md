@@ -9,7 +9,7 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(65)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(58)</font>
 - [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(19)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(226)</font>
+## Posts <font color="lightgrey">(219)</font>
 
 ### Algorithms
 
@@ -74,13 +74,8 @@ mathjax: true
 
 ### Games
 
-- 2024-05-22 `YGO` [游戏王 YDK2DECKLIST 上线卡组打印功能 (公众号)](https://mp.weixin.qq.com/s/5GiinEC4tCr1sqgB7hIQ1A)
-- 2024-05-13 [大模型在小众垂直领域的机器翻译尝试: 以游戏王、万智牌和五子棋为例 (公众号)](https://mp.weixin.qq.com/s/Rqwe6l3DNs5zeRY9wHufxQ)
-- 2024-05-09 `MTG` [译文 MTG 标准 PT 冠军 井川良彦 Domain Ramp 卡组解说 (公众号)](https://mp.weixin.qq.com/s/ambcBvYsUskBDlqM4BmqfA)
 - 2024-01-12 [办小型 TCG 比赛时瑞士轮定几轮? (瑞士轮几胜出线 威力加强版) (公众号)](https://mp.weixin.qq.com/s/CfnlMWtBAUEOnrWC5oG72Q)
 - 2023-12-08 [A Guide for Customizing Difficulty in Tactics Ogre One Vision Mod](https://shiina18.github.io/games/2023/12/08/to-cheat) <font color="lightgrey">(2025-06-01 updated)</font>
-- 2023-09-30 [PTCG 卡组类型](https://shiina18.github.io/games/2023/09/30/ptcg)
-- 2023-09-13 [Radical Red 4.0 Hardcore Nuzlocke](https://shiina18.github.io/games/2023/09/13/nuzlocke)
 - 2023-09-11 `YGO` [回到 2011 年玩游戏王 (公众号)](https://mp.weixin.qq.com/s/4KqI0rGumkadEAgvO8karQ)
 - 2023-06-29 `YGO` [游戏王 cube 轮抽交流 (公众号)](https://mp.weixin.qq.com/s/jBs3DKJyPeUwP76NK1RCTg)
 - 2023-06-11 [万智牌轮抽简要](https://shiina18.github.io/games/2023/06/11/draft)
@@ -91,8 +86,6 @@ mathjax: true
 - 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
 - 2023-02-19 [国际象棋入门札记 (公众号)](https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ)
 - 2023-01-20 `YGO` [YDK 到 PDF 卡表转换器 1.0 (公众号)](https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ)
-- 2023-01-18 `YGO` [YGOPRO YDK 文件直接生成 PDF 卡表 (公众号)](https://mp.weixin.qq.com/s/L7FaZdx4mZd5EpTubUlvMw)
-- 2022-12-30 `YGO` [译文: サイヤCS夺冠的忍者卡组解说 (公众号)](https://mp.weixin.qq.com/s/b9_Png1joIM10-5xamfSNA)
 - 2022-06-23 `Renju` [浦月必胜法 (中篇)](https://shiina18.github.io/games/2022/06/23/hogetsu2)
 - 2022-06-12 `YGO` [组织线上赛的经验 (公众号)](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
 - 2022-06-03 `Renju` [浦月必胜法 (上篇)](https://shiina18.github.io/games/2022/06/03/hogetsu) <font color="lightgrey">(2022-06-18 updated)</font>

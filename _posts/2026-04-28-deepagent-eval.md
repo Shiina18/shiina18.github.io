@@ -70,6 +70,8 @@ We can also run a subset of eval using tags save costs and measure targeted expe
 
 ![用 skill 分析 trace](https://shiina18.github.io/assets/posts/images/197863114278977.png "用 skill 分析 trace")
 
+(看起来有点类似 Langfuse 的 [Using Agent Skills to Automatically Improve your Prompts](https://langfuse.com/blog/2026-02-16-prompt-improvement-claude-skills))
+
 ### Build & Self-Verify
 
 Self-verification allows agents to self-improve via feedback within a run. However, they don’t have a natural tendency to enter this build-verify loop.
