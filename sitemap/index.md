@@ -136,7 +136,7 @@ mathjax: true
 ### LLM
 
 - 2026-05-17 `Agent` [读 Claude Code 源码 - 若干小功能 (recap, suggestion, insights)](https://shiina18.github.io/llm/2026/05/17/claude-code-small-features)
-- 2026-05-17 `Agent` [机翻 | 大多数 AI 产品不应该推出记忆功能](https://shiina18.github.io/llm/2026/05/17/no-memory)
+- 2026-05-17 `Agent` [【机翻】大多数 AI 产品不应该推出记忆功能](https://shiina18.github.io/llm/2026/05/17/no-memory)
 - 2026-05-01 `Agent` [如何评估 skill](https://shiina18.github.io/llm/2026/05/01/eval-skill)
 - 2026-04-28 `Agent` [Langchain 团队如何评估与优化 agent harness](https://shiina18.github.io/llm/2026/04/28/deepagent-eval)
 - 2026-04-13 `Agent` [读 Claude Code 源码 - memory 机制续篇](https://shiina18.github.io/llm/2026/04/13/cc-memory-2)
