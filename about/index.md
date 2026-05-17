@@ -20,8 +20,10 @@ Last updated on 2022-09-26
 
 ## Toys
 
-- [YGOPRO ydk to decklist PDF](https://ydk2decklist.streamlit.app/): 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
+- [YGOPRO ydk to decklist PDF](https://github.com/Shiina18/ydk2pdf): 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
+- [YGO Proxy Generator](https://github.com/Shiina18/ygo-proxy-generator): 拖拽上传 YDK 文件, 生成打印清晰的多语种 PDF
 - [Renju Puzzles](https://renju-puzzles.rtfd.io/): 真实比赛对局棋谱库生成的连珠习题
+- [Minimalist Time Tracker](https://github.com/Shiina18/minimalist-time-tracker): 自己练琴用的计时 app. 主要 feature 是去掉常规计时 app 所有我不要的功能, 用最少操作完成计时.
 
 ## Blogroll
 
@@ -61,6 +63,7 @@ Last updated on 2022-09-26
     - 2013-01-10 [Weak Convergence and the Portmanteau Lemma](https://eventuallyalmosteverywhere.wordpress.com/2013/01/10/weak-convergence-and-the-portmanteau-lemma/)
 - [Full Stack Python](https://www.fullstackpython.com/). `Python`
 - [Matrix67: The Aha Moments](http://www.matrix67.com/blog). `数学` 时隔多年回归
+- [Manthan Gupta](https://manthanguptaa.in/). `Agent`
 - [Possibly Wrong](https://possiblywrong.wordpress.com/): On science, mathematics, and computing.
     - 2020-04-21 [Seven riffle shuffles is not enough– except when it is](https://possiblywrong.wordpress.com/2020/04/21/seven-riffle-shuffles-is-not-enough-except-when-it-is/)
 - [pybites](https://pybit.es/). `Python`

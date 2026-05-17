@@ -10,7 +10,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(58)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(19)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(21)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(219)</font>
+## Posts <font color="lightgrey">(221)</font>
 
 ### Algorithms
 
@@ -135,6 +135,8 @@ mathjax: true
 
 ### LLM
 
+- 2026-05-17 `Agent` [读 Claude Code 源码 - 若干小功能 (recap, suggestion, insights)](https://shiina18.github.io/llm/2026/05/17/claude-code-small-features)
+- 2026-05-17 `Agent` [机翻 | 大多数 AI 产品不应该推出记忆功能](https://shiina18.github.io/llm/2026/05/17/no-memory)
 - 2026-05-01 `Agent` [如何评估 skill](https://shiina18.github.io/llm/2026/05/01/eval-skill)
 - 2026-04-28 `Agent` [Langchain 团队如何评估与优化 agent harness](https://shiina18.github.io/llm/2026/04/28/deepagent-eval)
 - 2026-04-13 `Agent` [读 Claude Code 源码 - memory 机制续篇](https://shiina18.github.io/llm/2026/04/13/cc-memory-2)
