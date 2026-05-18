@@ -36,7 +36,7 @@ for path in SRC_ROOT.iterdir():
 # images
 # no images for pages currently
 for path in IMG_SRC_DIR.iterdir():
-    if path.suffix in {'.png', '.jpg', '.gif'}:
+    if path.suffix in {'.png', '.jpg', '.jpeg', '.gif'}:
         target_path = IMG_DST_DIR / path.name
         if OVERWRITE_ALL or should_update(path, target_path):
             logger.info(path.relative_to(path.parents[1]))

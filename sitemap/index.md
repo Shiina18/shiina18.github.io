@@ -9,8 +9,8 @@ mathjax: true
 - [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
-- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(58)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(21)</font>
+- [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(23)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(221)</font>
+## Posts <font color="lightgrey">(216)</font>
 
 ### Algorithms
 
@@ -85,9 +85,7 @@ mathjax: true
 - 2023-03-18 `Renju` [苏州邀请赛 B 组战报](https://shiina18.github.io/games/2023/03/18/renju-suzhou)
 - 2023-02-19 `Renju` [俄罗斯连珠快棋赛战报](https://shiina18.github.io/games/2023/02/19/renju-blitz)
 - 2023-02-19 [国际象棋入门札记 (公众号)](https://mp.weixin.qq.com/s/KO9Vjhr2Iz0CqGsaBvoawQ)
-- 2023-01-20 `YGO` [YDK 到 PDF 卡表转换器 1.0 (公众号)](https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ)
 - 2022-06-23 `Renju` [浦月必胜法 (中篇)](https://shiina18.github.io/games/2022/06/23/hogetsu2)
-- 2022-06-12 `YGO` [组织线上赛的经验 (公众号)](https://mp.weixin.qq.com/s/MABW63qZN0vkjPCpI7L6Yw)
 - 2022-06-03 `Renju` [浦月必胜法 (上篇)](https://shiina18.github.io/games/2022/06/03/hogetsu) <font color="lightgrey">(2022-06-18 updated)</font>
 - 2022-05-30 [日麻牌效率基础](https://shiina18.github.io/games/2022/05/30/pairi)
 - 2022-05-24 [从零开始的日麻](https://shiina18.github.io/games/2022/05/24/mj)
@@ -95,11 +93,6 @@ mathjax: true
 - 2022-05-05 `Renju` [五子棋/连珠入门指南](https://shiina18.github.io/games/2022/05/05/renju-guide)
 - 2022-05-02 `Renju` [2022 年贵州省五子棋网络公开赛战报](https://shiina18.github.io/games/2022/05/02/guio2022)
 - 2022-04-03 `Renju` [2020 年第一届 \"智圣\" 智力运动会线上连珠冠军 Epifanov Dmitry 自战棋评](https://shiina18.github.io/games/2022/04/03/mind-tour-comment)
-- 2022-03-30 `Renju` [【中村名局】第 41 局, 瑞星, 对西川厚 (知乎)](https://zhuanlan.zhihu.com/p/487873516)
-- 2022-03-22 `Renju` [【中村名局】第 40 局, 斜月, 对 Aldis Reims (知乎)](https://zhuanlan.zhihu.com/p/485666026)
-- 2022-03-21 `Renju` [【中村名局】第 39 局, 岚月, 对 Ingvar Sundling (知乎)](https://zhuanlan.zhihu.com/p/484993455)
-- 2022-03-20 `Renju` [【中村名局】第 38 局, 明星, 对长谷川一人 (知乎)](https://zhuanlan.zhihu.com/p/484040607)
-- 2022-03-09 `YGO` [游戏王 Master Duel 比赛试办: 公开卡组双盘制 (公众号)](https://mp.weixin.qq.com/s/tWCjb1TBSYF__EKyfutZhQ)
 - 2021-10-17 `Renju` [五子棋复盘: 初心者](https://shiina18.github.io/games/2021/10/17/renju-retro) <font color="lightgrey">(2021-10-21 updated)</font>
 - 2021-10-15 `Renju` [疏星简要](https://shiina18.github.io/games/2021/10/15/sosei) <font color="lightgrey">(2022-02-21 updated)</font>
 - 2021-05-08 [桌游店与桌游杂录](https://shiina18.github.io/games/2021/05/08/boardgames) <font color="lightgrey">(2022-01-04 updated)</font>
@@ -135,6 +128,8 @@ mathjax: true
 
 ### LLM
 
+- 2026-05-18 `Agent` [【机翻】语音智能体基础 101：能够与人对答的 AI 背后的架构](https://shiina18.github.io/llm/2026/05/18/voice-agent)
+- 2026-05-18 `Agent` [【机翻】语音智能体中的记忆问题比你想象的更难](https://shiina18.github.io/llm/2026/05/18/voice-memory)
 - 2026-05-17 `Agent` [读 Claude Code 源码 - 若干小功能 (recap, suggestion, insights)](https://shiina18.github.io/llm/2026/05/17/claude-code-small-features)
 - 2026-05-17 `Agent` [【机翻】大多数 AI 产品不应该推出记忆功能](https://shiina18.github.io/llm/2026/05/17/no-memory)
 - 2026-05-01 `Agent` [如何评估 skill](https://shiina18.github.io/llm/2026/05/01/eval-skill)
