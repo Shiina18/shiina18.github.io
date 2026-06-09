@@ -53,6 +53,8 @@ Last updated on 2022-09-26
 - [宇宙的心弦](https://www.physixfan.com/). by physixfan. `投资`
     - 2020-02-21 [我的人生追求](https://www.physixfan.com/woderenshengzhuiqiu/)
 - [朝花夕拾](https://neozhaoliang-github-io.vercel.app/) ([旧网址](http://pywonderland.com/)). by 赵亮. `数学`
+- [Answer.AI - Practical AI R&D](https://www.answer.ai/)
+    - 2024-06-27 [A little pooling goes a long way for multi-vector representations](https://www.answer.ai/posts/colbert-pooling.html)
 - [argmin](http://www.argmin.net/). by Ben Recht. `统计` `机器学习`
 - [Arvin](http://www.arvinzyy.cn/). `搜广推`
 - [Benkuhn](https://www.benkuhn.net/). `杂谈`
@@ -69,6 +71,7 @@ Last updated on 2022-09-26
 - [pybites](https://pybit.es/). `Python`
 - [Remains of the Day](https://www.eugenewei.com/). by Eugene Wei. `产品`
     - 2020-08-03 [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat). 这个系列一共三篇, 见总结 [美国 "头学家" 是怎么看待 TikTok 的?](http://www.woshipm.com/it/4397019.html)
+- [Simon Willison’s Weblog](https://simonwillison.net/). `Agent`
 - [SinanTalk](https://sinantang.github.io/). `杂谈`
     - 2021-07-15 [推荐不自信的人都去学唱歌](https://sinantang.github.io/others/2021/07/15/singing/)
 - [Stratechery](https://stratechery.com/). by Ben Thompson. `产品`
