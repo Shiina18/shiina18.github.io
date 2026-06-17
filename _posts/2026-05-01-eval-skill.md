@@ -122,3 +122,8 @@ Finally, it’s important to run these evals against different models.
 也开源了
 
 To see all the tests we ended up writing, see our [benchmarking repo here](https://github.com/langchain-ai/skills-benchmarks/tree/main?ref=blog.langchain.com).
+
+## 微信小程序官方文档最佳实践
+
+- [best-practices.html](https://developers.weixin.qq.com/miniprogram/dev/ai/best-practices.html)
+- [evaluation-guide.html](https://developers.weixin.qq.com/miniprogram/dev/ai/evaluation-guide.html)

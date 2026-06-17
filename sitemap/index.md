@@ -6,11 +6,11 @@ mathjax: true
 
 ## Categories <font color="lightgrey">(12)</font>
 
-- [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(8)</font>
+- [Algorithms](https://shiina18.github.io/sitemap/#algorithms) <font color="lightgrey">(9)</font>
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(25)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(27)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -40,10 +40,11 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(218)</font>
+## Posts <font color="lightgrey">(221)</font>
 
 ### Algorithms
 
+- 2026-02-04 [如何实现瑞士轮匹配算法](https://shiina18.github.io/algorithms/2026/02/04/swiss)
 - 2021-02-05 [最小化「集换社」税收 (公众号)](https://mp.weixin.qq.com/s/TKUS6IEiE-a1-kYuz1t1sw)
 - 2020-10-03 [Bellman-Ford Algorithm](https://shiina18.github.io/algorithms/2020/10/03/bellman-ford)
 - 2020-06-08 [编程题杂录](https://shiina18.github.io/algorithms/2020/06/08/coding-problems-misc) <font color="lightgrey">(2020-07-19 updated)</font>
@@ -138,6 +139,8 @@ mathjax: true
 - 2026-04-28 `Agent` [Langchain 团队如何评估与优化 agent harness](https://shiina18.github.io/llm/2026/04/28/deepagent-eval)
 - 2026-04-13 `Agent` [读 Claude Code 源码 - memory 机制续篇](https://shiina18.github.io/llm/2026/04/13/cc-memory-2)
 - 2026-04-13 `Agent` [Harness Cheatsheet](https://shiina18.github.io/llm/2026/04/13/harness)
+- 2026-04-05 `Agent` [读 Claude Code 源码 - Read tool 与 @ 提及附件机制](https://shiina18.github.io/llm/2026/04/05/cc-read)
+- 2026-04-05 `Agent` [读 Claude Code 源码 - ToolSearch 与 Skill Discovery](https://shiina18.github.io/llm/2026/04/05/cc-tool-search)
 - 2026-04-05 `Agent` [读 Claude Code 源码 - Web Search & Web Fetch](https://shiina18.github.io/llm/2026/04/05/cc-web-search)
 - 2026-04-03 `Agent` [读 Claude Code 源码 - memory 机制](https://shiina18.github.io/llm/2026/04/03/cc-memory)
 - 2026-04-01 `Agent` [读 Claude Code 源码 - 上下文压缩策略](https://shiina18.github.io/llm/2026/04/01/cc-compact)
