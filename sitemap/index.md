@@ -10,7 +10,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(27)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(28)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -40,7 +40,7 @@ mathjax: true
 
 </details>
 
-## Posts <font color="lightgrey">(221)</font>
+## Posts <font color="lightgrey">(222)</font>
 
 ### Algorithms
 
@@ -129,6 +129,7 @@ mathjax: true
 
 ### LLM
 
+- 2026-06-19 `Agent` [读 Agent 新趋势 - goal, loop 和 loop engineering](https://shiina18.github.io/llm/2026/06/19/agent-loops)
 - 2026-06-04 `Agent` [读 Codex 源码 - memory 机制](https://shiina18.github.io/llm/2026/06/04/codex-memory)
 - 2026-06-04 `Agent` [读论文 - EnterpriseRAG-Bench](https://shiina18.github.io/llm/2026/06/04/enterprise-rag)
 - 2026-05-18 `Agent` [【机翻】语音智能体基础 101：能够与人对答的 AI 背后的架构](https://shiina18.github.io/llm/2026/05/18/voice-agent)
