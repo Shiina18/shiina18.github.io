@@ -10,7 +10,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(28)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(30)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -37,10 +37,12 @@ mathjax: true
 </details>
 
 <details><summary><b>Recent updates</b></summary>
-
+<ul>
+<li>2026-08-09 <code>Agent</code> <a href="https://shiina18.github.io/llm/2026/08/09/car-bench">CAR Bench Challenge 技术方案</a> <font color="lightgrey">(2026-08-09 updated)</font></li>
+</ul>
 </details>
 
-## Posts <font color="lightgrey">(222)</font>
+## Posts <font color="lightgrey">(224)</font>
 
 ### Algorithms
 
@@ -129,6 +131,8 @@ mathjax: true
 
 ### LLM
 
+- 2026-08-09 `Agent` [CAR Bench Challenge 技术方案](https://shiina18.github.io/llm/2026/08/09/car-bench) <font color="lightgrey">(2026-08-09 updated)</font>
+- 2026-08-05 `RAG` [读论文 - BM25 Wins at Scale](https://shiina18.github.io/llm/2026/08/05/bm25-wins-at-scale)
 - 2026-06-19 `Agent` [读 Agent 新趋势 - goal, loop 和 loop engineering](https://shiina18.github.io/llm/2026/06/19/agent-loops)
 - 2026-06-04 `Agent` [读 Codex 源码 - memory 机制](https://shiina18.github.io/llm/2026/06/04/codex-memory)
 - 2026-06-04 `Agent` [读论文 - EnterpriseRAG-Bench](https://shiina18.github.io/llm/2026/06/04/enterprise-rag)
