@@ -131,7 +131,7 @@ mathjax: true
 
 ### LLM
 
-- 2026-10-11 `LLM` `Security` [读论文: 偷走大模型的思考链](https://shiina18.github.io/llm/2026/10/11/stealing-reasoning-traces)
+- 2026-10-11 `Security` [读论文: 偷走大模型的思考链](https://shiina18.github.io/llm/2026/10/11/stealing-reasoning-traces)
 - 2026-08-09 `Agent` [CAR Bench Challenge 技术方案](https://shiina18.github.io/llm/2026/08/09/car-bench) <font color="lightgrey">(2026-08-09 updated)</font>
 - 2026-08-05 `RAG` [读论文 - BM25 Wins at Scale](https://shiina18.github.io/llm/2026/08/05/bm25-wins-at-scale)
 - 2026-06-19 `Agent` [读 Agent 新趋势 - goal, loop 和 loop engineering](https://shiina18.github.io/llm/2026/06/19/agent-loops)

@@ -2,7 +2,7 @@
 title: "读论文: 偷走大模型的思考链"
 categories:
 - LLM
-tags: LLM Security
+tags: Security
 updated:
 comments: true
 mathjax: false
