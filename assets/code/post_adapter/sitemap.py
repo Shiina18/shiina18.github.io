@@ -34,7 +34,10 @@ def get_meta(path) -> Dict[str, str]:
                 elif k_buffer is not None:
                     match = re.match(r'- (.*)', line)
                     if match:
-                        meta_dict[k_buffer] = match.group(1).strip()
+                        item = match.group(1).strip()
+                        cur = meta_dict.get(k_buffer)
+                        prev = cur if isinstance(cur, list) else ([cur] if cur else [])
+                        meta_dict[k_buffer] = prev + [item]
                     k_buffer = None
     return meta_dict
 
@@ -45,9 +48,15 @@ def get_cat2posts():
         filename = path.stem  # yyyy-mm-dd-slug
         datefmt = 'yyyy-mm-dd'
         meta = get_meta(path)
-        if meta.get('tags'):
-            raw = meta['tags']
-            # comma is the escape hatch for tags containing spaces,
+        # single category by convention; keep str (Post uses it for URLs)
+        if isinstance(meta.get('categories'), list):
+            meta['categories'] = meta['categories'][-1]
+        raw = meta.get('tags')
+        if isinstance(raw, list):
+            # list items are tags verbatim (the way to write tags with spaces)
+            meta['tags'] = [t for t in (x.strip() for x in raw) if t]
+        elif raw:
+            # single-line form: comma is the escape hatch for tags with spaces,
             # otherwise space-separated is the convention
             meta['tags'] = [t.strip() for t in raw.split(',')] if ',' in raw else raw.split()
         post = Post.from_kwargs(
