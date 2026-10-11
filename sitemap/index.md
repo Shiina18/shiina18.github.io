@@ -10,7 +10,7 @@ mathjax: true
 - [Anime](https://shiina18.github.io/sitemap/#anime) <font color="lightgrey">(9)</font>
 - [Food and Cooking](https://shiina18.github.io/sitemap/#food-and-cooking) <font color="lightgrey">(4)</font>
 - [Games](https://shiina18.github.io/sitemap/#games) <font color="lightgrey">(51)</font>
-- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(30)</font>
+- [LLM](https://shiina18.github.io/sitemap/#llm) <font color="lightgrey">(31)</font>
 - [Language](https://shiina18.github.io/sitemap/#language) <font color="lightgrey">(11)</font>
 - [Machine Learning](https://shiina18.github.io/sitemap/#machine-learning) <font color="lightgrey">(42)</font>
 - [Mathematics](https://shiina18.github.io/sitemap/#mathematics) <font color="lightgrey">(17)</font>
@@ -42,7 +42,7 @@ mathjax: true
 </ul>
 </details>
 
-## Posts <font color="lightgrey">(224)</font>
+## Posts <font color="lightgrey">(225)</font>
 
 ### Algorithms
 
@@ -131,6 +131,7 @@ mathjax: true
 
 ### LLM
 
+- 2026-10-11 `LLM` `Security` [读论文: 偷走大模型的思考链](https://shiina18.github.io/llm/2026/10/11/stealing-reasoning-traces)
 - 2026-08-09 `Agent` [CAR Bench Challenge 技术方案](https://shiina18.github.io/llm/2026/08/09/car-bench) <font color="lightgrey">(2026-08-09 updated)</font>
 - 2026-08-05 `RAG` [读论文 - BM25 Wins at Scale](https://shiina18.github.io/llm/2026/08/05/bm25-wins-at-scale)
 - 2026-06-19 `Agent` [读 Agent 新趋势 - goal, loop 和 loop engineering](https://shiina18.github.io/llm/2026/06/19/agent-loops)
@@ -214,10 +215,10 @@ mathjax: true
 - 2021-07-29 `NLP` [TPLinker 实体关系抽取以及 NER 变种](https://shiina18.github.io/machine%20learning/2021/07/29/tplinker) <font color="lightgrey">(2022-01-30 updated)</font>
 - 2021-05-19 `NLP` [Word2Vec 简短回顾](https://shiina18.github.io/machine%20learning/2021/05/19/w2v)
 - 2020-12-24 [机器学习杂录](https://shiina18.github.io/machine%20learning/2020/12/24/ml-misc) <font color="lightgrey">(2022-10-31 updated)</font>
-- 2020-09-03 `Time Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
-- 2020-08-15 `Time Series` [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
+- 2020-09-03 `Time` `Series` [Deep Learning for Time Series Probabilistic Forecasting](https://shiina18.github.io/machine%20learning/2020/09/03/dl-ts)
+- 2020-08-15 `Time` `Series` [Some Evaluations for Time Series Forecasting](https://shiina18.github.io/machine%20learning/2020/08/15/ts-evaluations)
 - 2020-08-12 `Time Series` [关于 Facebook Prophet 中 future changepoints 的一个脚注 (知乎)](https://zhuanlan.zhihu.com/p/181708348)
-- 2020-08-09 `Time Series` [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
+- 2020-08-09 `Time` `Series` [Intro to Facebook Prophet](https://shiina18.github.io/machine%20learning/2020/08/09/facebook-prophet) <font color="lightgrey">(2020-08-17 updated)</font>
 - 2019-12-12 [A Wrong Way to Do Cross-Validation](https://shiina18.github.io/machine%20learning/2019/12/12/wrong-cv)
 - 2019-06-15 [从提升树到 XGBoost, 原理简介](https://shiina18.github.io/machine%20learning/2019/06/15/xgb) <font color="lightgrey">(2020-10-14 updated)</font>
 

@@ -13,7 +13,7 @@ class Post:
     title: str
     slug: str  # full url for external posts
     updated: str = None
-    tags: str = None  # only single tag for now
+    tags: list = None  # site posts: list of tags; external posts: single str (may contain spaces)
     categories: str = None  # only single category for now
 
     @classmethod

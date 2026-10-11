@@ -44,10 +44,16 @@ def get_cat2posts():
     for path in POST_DST_DIR.glob('*.md'):
         filename = path.stem  # yyyy-mm-dd-slug
         datefmt = 'yyyy-mm-dd'
+        meta = get_meta(path)
+        if meta.get('tags'):
+            raw = meta['tags']
+            # comma is the escape hatch for tags containing spaces,
+            # otherwise space-separated is the convention
+            meta['tags'] = [t.strip() for t in raw.split(',')] if ',' in raw else raw.split()
         post = Post.from_kwargs(
             slug=filename[len(datefmt) + 1:],
             created=filename[:len(datefmt)],
-            **get_meta(path)
+            **meta
         )
         cat2posts[post.categories].append(post)
     for cat, posts in EXTERNAL_POSTS.items():
@@ -73,7 +79,11 @@ def get_cat_lines(cat2posts):
 
 
 def get_post_item(post):
-    tag_part = f' `{post.tags}`' if post.tags else ''
+    if post.tags:
+        tags = post.tags if isinstance(post.tags, list) else [post.tags]
+        tag_part = ' ' + ' '.join(f'`{t}`' for t in tags)
+    else:
+        tag_part = ''
     updated_part = f' {Tag.grey(f"({post.updated} updated)")}' if post.updated else ''
     return f'- {post.created}{tag_part} [{post.title}]({post.url}){updated_part}\n'
 
